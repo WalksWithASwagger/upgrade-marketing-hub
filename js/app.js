@@ -1,0 +1,427 @@
+/**
+ * The Upgrade AI - Marketing Hub
+ * Main application logic
+ */
+
+class MarketingHub {
+    constructor() {
+        this.currentProgram = 'creative-pros';
+        this.currentType = 'linkedin';
+        this.searchTerm = '';
+        this.selectedCategory = '';
+        
+        this.init();
+    }
+
+    init() {
+        this.renderPrograms();
+        this.renderContent();
+        this.bindEvents();
+        this.updateStats();
+    }
+
+    // ==========================================
+    // Rendering
+    // ==========================================
+
+    renderPrograms() {
+        const container = document.getElementById('programList');
+        container.innerHTML = '';
+
+        Object.entries(PROGRAMS).forEach(([key, program]) => {
+            const item = document.createElement('div');
+            item.className = `program-item ${key === this.currentProgram ? 'active' : ''}`;
+            item.dataset.program = key;
+            
+            const contentCount = this.getContentCount(key);
+            
+            item.innerHTML = `
+                <div class="program-icon ${program.color}">
+                    <i class="${program.icon}"></i>
+                </div>
+                <div class="program-info">
+                    <div class="program-name">${program.name}</div>
+                    <div class="program-count">${contentCount} items</div>
+                </div>
+            `;
+            
+            container.appendChild(item);
+        });
+    }
+
+    renderContent() {
+        const container = document.getElementById('contentGrid');
+        const content = this.getFilteredContent();
+        
+        if (content.length === 0) {
+            container.innerHTML = `
+                <div class="empty-state">
+                    <i class="fas fa-inbox"></i>
+                    <h3>No content found</h3>
+                    <p>Try adjusting your search or filters</p>
+                </div>
+            `;
+            return;
+        }
+
+        container.innerHTML = '';
+        
+        content.forEach((item, index) => {
+            const card = document.createElement('div');
+            card.className = 'content-card';
+            card.dataset.index = index;
+            
+            card.innerHTML = `
+                <div class="card-header">
+                    <span class="card-category">${item.category || this.currentType}</span>
+                    <span class="card-number">#${item.number || index + 1}</span>
+                </div>
+                <div class="card-body">
+                    <h3 class="card-title">${this.escapeHtml(item.title)}</h3>
+                    <p class="card-preview">${this.escapeHtml(item.preview)}</p>
+                </div>
+                <div class="card-footer">
+                    <div class="card-meta">
+                        <i class="fas fa-text-height"></i>
+                        <span>${item.wordCount || 0} words</span>
+                    </div>
+                    <div class="card-actions">
+                        <button class="card-action copy-btn" data-index="${index}" title="Copy">
+                            <i class="fas fa-copy"></i>
+                        </button>
+                    </div>
+                </div>
+            `;
+            
+            container.appendChild(card);
+        });
+
+        // Update category filter options
+        this.updateCategoryFilter(content);
+    }
+
+    updateCategoryFilter(content) {
+        const filter = document.getElementById('categoryFilter');
+        const categories = [...new Set(content.map(item => item.category).filter(Boolean))];
+        
+        filter.innerHTML = '<option value="">All Categories</option>';
+        categories.forEach(cat => {
+            filter.innerHTML += `<option value="${cat}">${cat}</option>`;
+        });
+    }
+
+    updateStats() {
+        // Stats are static for now, could be dynamic if needed
+    }
+
+    // ==========================================
+    // Data Helpers
+    // ==========================================
+
+    getContentCount(program) {
+        const data = CONTENT_DATA[program];
+        if (!data) return 0;
+        
+        let count = 0;
+        Object.values(data).forEach(typeContent => {
+            if (Array.isArray(typeContent)) {
+                count += typeContent.length;
+            }
+        });
+        return count;
+    }
+
+    getFilteredContent() {
+        const data = CONTENT_DATA[this.currentProgram];
+        if (!data) return [];
+
+        let content = data[this.currentType] || [];
+        
+        // Apply search filter
+        if (this.searchTerm) {
+            const term = this.searchTerm.toLowerCase();
+            content = content.filter(item => 
+                (item.title && item.title.toLowerCase().includes(term)) ||
+                (item.content && item.content.toLowerCase().includes(term)) ||
+                (item.preview && item.preview.toLowerCase().includes(term))
+            );
+        }
+
+        // Apply category filter
+        if (this.selectedCategory) {
+            content = content.filter(item => item.category === this.selectedCategory);
+        }
+
+        return content;
+    }
+
+    getCurrentContent() {
+        return this.getFilteredContent();
+    }
+
+    // ==========================================
+    // Event Handlers
+    // ==========================================
+
+    bindEvents() {
+        // Program selection
+        document.getElementById('programList').addEventListener('click', (e) => {
+            const item = e.target.closest('.program-item');
+            if (item) {
+                this.currentProgram = item.dataset.program;
+                this.renderPrograms();
+                this.renderContent();
+            }
+        });
+
+        // Tab selection
+        document.querySelectorAll('.tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+                tab.classList.add('active');
+                this.currentType = tab.dataset.type;
+                this.renderContent();
+            });
+        });
+
+        // Search
+        document.getElementById('searchInput').addEventListener('input', (e) => {
+            this.searchTerm = e.target.value;
+            this.debounce(() => this.renderContent(), 300);
+        });
+
+        // Category filter
+        document.getElementById('categoryFilter').addEventListener('change', (e) => {
+            this.selectedCategory = e.target.value;
+            this.renderContent();
+        });
+
+        // Stats toggle
+        document.getElementById('statsBtn').addEventListener('click', () => {
+            document.getElementById('statsPanel').classList.toggle('visible');
+        });
+
+        // Card click - preview
+        document.getElementById('contentGrid').addEventListener('click', (e) => {
+            // Handle copy button
+            const copyBtn = e.target.closest('.copy-btn');
+            if (copyBtn) {
+                e.stopPropagation();
+                const index = parseInt(copyBtn.dataset.index);
+                this.copyContent(index);
+                return;
+            }
+
+            // Handle card click - show preview
+            const card = e.target.closest('.content-card');
+            if (card) {
+                const index = parseInt(card.dataset.index);
+                this.showPreview(index);
+            }
+        });
+
+        // Copy all button
+        document.getElementById('copyAllBtn').addEventListener('click', () => {
+            this.copyAllContent();
+        });
+
+        // Modal close
+        document.getElementById('modalClose').addEventListener('click', () => {
+            this.closeModal('previewModal');
+        });
+
+        document.getElementById('exportModalClose').addEventListener('click', () => {
+            this.closeModal('exportModal');
+        });
+
+        // Modal backdrop click
+        document.querySelectorAll('.modal-backdrop').forEach(backdrop => {
+            backdrop.addEventListener('click', () => {
+                this.closeModal('previewModal');
+                this.closeModal('exportModal');
+            });
+        });
+
+        // Modal copy button
+        document.getElementById('modalCopy').addEventListener('click', () => {
+            const content = this.currentPreviewContent;
+            if (content) {
+                this.copyToClipboard(content);
+            }
+        });
+
+        // Modal export button
+        document.getElementById('modalExport').addEventListener('click', () => {
+            this.closeModal('previewModal');
+            this.showExportModal();
+        });
+
+        // Export options
+        document.querySelectorAll('.export-option').forEach(option => {
+            option.addEventListener('click', () => {
+                const format = option.dataset.format;
+                this.exportContent(format);
+                this.closeModal('exportModal');
+            });
+        });
+
+        // Keyboard shortcuts
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                this.closeModal('previewModal');
+                this.closeModal('exportModal');
+            }
+        });
+    }
+
+    // ==========================================
+    // Actions
+    // ==========================================
+
+    showPreview(index) {
+        const content = this.getCurrentContent()[index];
+        if (!content) return;
+
+        const modal = document.getElementById('previewModal');
+        document.getElementById('modalTitle').textContent = content.title || 'Content Preview';
+        document.getElementById('modalBody').innerHTML = `<pre>${this.escapeHtml(content.content || content.preview)}</pre>`;
+        
+        this.currentPreviewContent = content.content || content.preview;
+        modal.classList.add('visible');
+    }
+
+    closeModal(modalId) {
+        document.getElementById(modalId).classList.remove('visible');
+    }
+
+    showExportModal() {
+        document.getElementById('exportModal').classList.add('visible');
+    }
+
+    copyContent(index) {
+        const content = this.getCurrentContent()[index];
+        if (content) {
+            this.copyToClipboard(content.content || content.preview);
+        }
+    }
+
+    copyAllContent() {
+        const content = this.getCurrentContent();
+        const allText = content.map((item, i) => 
+            `--- ${i + 1}. ${item.title || 'Untitled'} ---\n\n${item.content || item.preview}`
+        ).join('\n\n');
+        
+        this.copyToClipboard(allText);
+    }
+
+    copyToClipboard(text) {
+        navigator.clipboard.writeText(text).then(() => {
+            this.showToast('Copied to clipboard!');
+        }).catch(err => {
+            console.error('Failed to copy:', err);
+            this.showToast('Failed to copy', 'error');
+        });
+    }
+
+    showToast(message, type = 'success') {
+        const toast = document.getElementById('toast');
+        document.getElementById('toastMessage').textContent = message;
+        toast.classList.add('visible');
+        
+        setTimeout(() => {
+            toast.classList.remove('visible');
+        }, 2500);
+    }
+
+    exportContent(format) {
+        const content = this.getCurrentContent();
+        const program = PROGRAMS[this.currentProgram];
+        let data, filename, mimeType;
+
+        switch (format) {
+            case 'buffer':
+                data = this.toBufferCSV(content);
+                filename = `${this.currentProgram}-${this.currentType}-buffer.csv`;
+                mimeType = 'text/csv';
+                break;
+            case 'beehiiv':
+                data = this.toBeehiivJSON(content);
+                filename = `${this.currentProgram}-${this.currentType}-beehiiv.json`;
+                mimeType = 'application/json';
+                break;
+            case 'markdown':
+                data = this.toMarkdown(content, program);
+                filename = `${this.currentProgram}-${this.currentType}.md`;
+                mimeType = 'text/markdown';
+                break;
+            case 'json':
+            default:
+                data = JSON.stringify(content, null, 2);
+                filename = `${this.currentProgram}-${this.currentType}.json`;
+                mimeType = 'application/json';
+        }
+
+        this.downloadFile(data, filename, mimeType);
+        this.showToast(`Exported as ${format.toUpperCase()}`);
+    }
+
+    toBufferCSV(content) {
+        const headers = ['Text', 'Category'];
+        const rows = content.map(item => [
+            `"${(item.content || item.preview || '').replace(/"/g, '""')}"`,
+            `"${item.category || this.currentType}"`
+        ]);
+        return [headers.join(','), ...rows.map(r => r.join(','))].join('\n');
+    }
+
+    toBeehiivJSON(content) {
+        return JSON.stringify(content.map((item, i) => ({
+            emailNumber: i + 1,
+            subject: item.title || `Email ${i + 1}`,
+            timing: item.timing || '+1 day',
+            bodyHtml: `<p>${(item.content || item.preview || '').replace(/\n/g, '</p><p>')}</p>`,
+            bodyPlainText: item.content || item.preview || ''
+        })), null, 2);
+    }
+
+    toMarkdown(content, program) {
+        const header = `# ${program.name} - ${this.currentType.charAt(0).toUpperCase() + this.currentType.slice(1)}\n\n`;
+        const body = content.map((item, i) => 
+            `## ${i + 1}. ${item.title || 'Untitled'}\n\n${item.content || item.preview}\n\n---\n`
+        ).join('\n');
+        return header + body;
+    }
+
+    downloadFile(data, filename, mimeType) {
+        const blob = new Blob([data], { type: mimeType });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = filename;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+    }
+
+    // ==========================================
+    // Utilities
+    // ==========================================
+
+    escapeHtml(text) {
+        if (!text) return '';
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+    }
+
+    debounce(fn, delay) {
+        clearTimeout(this.debounceTimer);
+        this.debounceTimer = setTimeout(fn, delay);
+    }
+}
+
+// Initialize on DOM ready
+document.addEventListener('DOMContentLoaded', () => {
+    window.marketingHub = new MarketingHub();
+});
