@@ -29,7 +29,12 @@
                 <a href="#export" class="nav-link">Export</a>
             </nav>
             <div class="header-actions">
-                <button class="btn btn-ghost" id="statsBtn">
+                <button class="btn btn-ghost" id="contractorBtn">
+                    <i class="fas fa-pen-ruler"></i>
+                    <span>Contractor</span>
+                </button>
+
+<button class="btn btn-ghost" id="statsBtn">
                     <i class="fas fa-chart-bar"></i>
                     <span>Stats</span>
                 </button>
@@ -72,6 +77,12 @@
         <!-- Sidebar: Programs -->
         <aside class="sidebar" id="programs">
             <h2 class="sidebar-title">Programs</h2>
+<div class="sidebar-controls">
+                <label class="toggle">
+                    <input type="checkbox" id="showInDev" />
+                    <span>Show in-development</span>
+                </label>
+            </div>
             <div class="program-list" id="programList">
                 <!-- Programs populated by JS -->
             </div>
@@ -198,7 +209,53 @@
         </div>
     </div>
 
-    <!-- Toast Notification -->
+    
+    <!-- Contractor / Graphics Brief Modal -->
+    <div class="modal" id="contractorModal">
+        <div class="modal-backdrop"></div>
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Contractor / Graphics Brief</h3>
+                <button class="modal-close" id="contractorClose">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="modal-note">
+                    Focus programs: Creative Pros • Journalists • PR & Communications • Sales Leaders.
+                    Healthcare/HR/Legal are in development (not active cohorts).
+                    For latest dates/pricing: <a href="https://theupgrade.ai/store" target="_blank" rel="noreferrer">theupgrade.ai/store</a>
+                </div>
+                <pre class="modal-pre" id="contractorBrief">Goal (next few weeks): drive attention + registrations for the 6-week certification cohorts.
+
+Deliverables (graphics-first):
+- Social post graphics (LinkedIn primary) + repurpose to IG
+- Blog/newsletter companion images (use 1200×628 as default)
+- YouTube thumbnails (retro pass to iterate style)
+- Optional: 1 Instagram carousel template (8–10 slides)
+
+Formats:
+- LinkedIn: 1200×628 (landscape) + 1080×1080 (square)
+- IG Story/Reel cover: 1080×1920
+- YouTube thumbnail: 1280×720
+
+Naming:
+{program}_{type}_{slug}_{size}.png
+Examples:
+pr-comms_promo_enrollment_1200x628.png
+journalists_quote_newsroom-divide_1080x1080.png
+sales-leaders_proof_six-figures-ai-inbound_1200x628.png</pre>
+            </div>
+            <div class="modal-footer">
+                <button class="btn btn-secondary" id="contractorCopy">
+                    <i class="fas fa-copy"></i>
+                    Copy brief
+                </button>
+            </div>
+        </div>
+    </div>
+
+<!-- Toast Notification -->
     <div class="toast" id="toast">
         <i class="fas fa-check-circle"></i>
         <span id="toastMessage">Copied to clipboard!</span>

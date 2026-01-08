@@ -896,3 +896,12 @@ body::before {
         display: none;
     }
 }
+
+
+/* Added by publish script: sidebar toggle + contractor modal helpers */
+.sidebar-controls { margin: 10px 0 14px; }
+.toggle { display: flex; gap: 10px; align-items: center; color: rgba(255,255,255,0.75); font-size: 13px; }
+.toggle input { accent-color: #00d9ff; }
+.modal-note { color: rgba(255,255,255,0.7); font-size: 13px; margin-bottom: 12px; line-height: 1.4; }
+.modal-note a { color: #00d9ff; }
+.modal-pre { white-space: pre-wrap; background: rgba(0,0,0,0.25); border: 1px solid rgba(255,255,255,0.08); border-radius: 12px; padding: 12px; color: rgba(255,255,255,0.9); font-size: 13px; line-height: 1.4; }

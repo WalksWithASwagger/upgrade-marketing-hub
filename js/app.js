@@ -9,6 +9,7 @@ class MarketingHub {
         this.currentType = 'linkedin';
         this.searchTerm = '';
         this.selectedCategory = '';
+        this.showInDev = false;
         
         this.init();
     }
@@ -28,7 +29,14 @@ class MarketingHub {
         const container = document.getElementById('programList');
         container.innerHTML = '';
 
-        Object.entries(PROGRAMS).forEach(([key, program]) => {
+        const visiblePrograms = Object.entries(PROGRAMS).filter(([key, program]) => this.showInDev || program.status !== 'in-development');
+
+        // Ensure current program is visible
+        if (!visiblePrograms.some(([k]) => k === this.currentProgram)) {
+            this.currentProgram = visiblePrograms[0]?.[0] || this.currentProgram;
+        }
+
+        visiblePrograms.forEach(([key, program]) => {
             const item = document.createElement('div');
             item.className = `program-item ${key === this.currentProgram ? 'active' : ''}`;
             item.dataset.program = key;
@@ -196,7 +204,33 @@ class MarketingHub {
             this.renderContent();
         });
 
-        // Stats toggle
+        // In-development toggle
+        const showInDevEl = document.getElementById('showInDev');
+        if (showInDevEl) {
+            showInDevEl.addEventListener('change', (e) => {
+                this.showInDev = e.target.checked;
+                this.renderPrograms();
+                this.renderContent();
+            });
+        }
+
+// Stats toggle
+        document.getElementById('contractorBtn')?.addEventListener('click', () => {
+            document.getElementById('contractorModal')?.classList.add('visible');
+        });
+        document.getElementById('contractorClose')?.addEventListener('click', () => {
+            document.getElementById('contractorModal')?.classList.remove('visible');
+        });
+        document.querySelector('#contractorModal .modal-backdrop')?.addEventListener('click', () => {
+            document.getElementById('contractorModal')?.classList.remove('visible');
+        });
+        document.getElementById('contractorCopy')?.addEventListener('click', async () => {
+            const text = document.getElementById('contractorBrief')?.innerText || '';
+            if (!text) return;
+            await navigator.clipboard.writeText(text);
+            this.showToast('Copied to clipboard!');
+        });
+
         document.getElementById('statsBtn').addEventListener('click', () => {
             document.getElementById('statsPanel').classList.toggle('visible');
         });
