@@ -1903,8 +1903,20 @@ Platform-specific: Adjust for LinkedIn algorithm preferences
         quotes: [
             {
                 number: 1,
+                title: "It's pretty amazing to spend a",
+                category: "Creative Identity",
+                content: `"It's pretty amazing to spend a whole day in the garden with a cyborg. Spending the day with my robot is pretty amazing."
+— Julie, Cohort 7 Student
+
+Context: Describing her experience using AI for plant identification while gardening
+Marketing Angle: AI as creative companion, not replacement. Human-AI collaboration feels natural.`,
+                preview: "\"It's pretty amazing to spend a whole day in the garden with a cyborg. Spending the day with my robot is pretty amazing…",
+                wordCount: 51,
+            },
+            {
+                number: 2,
                 title: "Will AI replace me is the",
-                category: "Identity & The AI Moment",
+                category: "Creative Identity",
                 content: `"Will AI replace me?" is the wrong question. The right question is: "How do I become irreplaceable WITH AI?"
 — Course Philosophy
 
@@ -1913,7 +1925,7 @@ Marketing Angle: Reframe fear into empowerment. Lead with identity transformatio
                 wordCount: 32,
             },
             {
-                number: 2,
+                number: 3,
                 title: "We tend to overestimate the effect",
                 category: "Technology Cycles",
                 content: `"We tend to overestimate the effect of technology in the short run and underestimate the effect in the long run."
@@ -1925,7 +1937,7 @@ Marketing Angle: Long-term perspective, not hype-driven anxiety.`,
                 wordCount: 41,
             },
             {
-                number: 3,
+                number: 4,
                 title: "This is my third trip around",
                 category: "Technology Cycles",
                 content: `"This is my third trip around the sun—Web 1.0, Web 2.0, and now AI. The pattern is always the same: initial panic, then adaptation, then opportunity."
@@ -1936,7 +1948,7 @@ Marketing Angle: Experience-based wisdom. We've navigated disruption before.`,
                 wordCount: 37,
             },
             {
-                number: 4,
+                number: 5,
                 title: "If the models don't get any",
                 category: "Current Reality",
                 content: `"If the models don't get any better than they are today in November 2025, our world has already changed. The world may not know it yet, but generative AI is already revolutionizing knowledge work."
@@ -1947,7 +1959,7 @@ Marketing Angle: No waiting for GPT-5. Current tools are transformative NOW.`,
                 wordCount: 48,
             },
             {
-                number: 5,
+                number: 6,
                 title: "Assume nothing online is real That's",
                 category: "Current Reality",
                 content: `"Assume nothing online is real. That's not cynicism—it's the baseline for operating in 2025."
@@ -1958,7 +1970,19 @@ Marketing Angle: Ethics and media literacy as core skills, not afterthoughts.`,
                 wordCount: 28,
             },
             {
-                number: 6,
+                number: 7,
+                title: "I like to think of it",
+                category: "System Prompts",
+                content: `"I like to think of it as writing a job description for a really smart intern. What do they need to know on day one to be effective?"
+— Kris Krug
+
+Context: Explaining how to write system prompts for custom GPTs
+Marketing Angle: Demystifies technical concepts. Accessible to non-developers.`,
+                preview: "\"I like to think of it as writing a job description for a really smart intern. What do they need to know on day one to…",
+                wordCount: 49,
+            },
+            {
+                number: 8,
                 title: "The quality of your knowledge base",
                 category: "Knowledge Bases",
                 content: `"The quality of your knowledge base determines the quality of your assistant."
@@ -1970,7 +1994,7 @@ Marketing Angle: Your expertise is the foundation. AI amplifies what you bring.`
                 wordCount: 32,
             },
             {
-                number: 7,
+                number: 9,
                 title: "About 15-20 substantial documents You don't",
                 category: "Knowledge Bases",
                 content: `"About 15-20 substantial documents. You don't need hundreds. Quality over quantity."
@@ -1982,7 +2006,7 @@ Marketing Angle: Approachable, not overwhelming. Start small.`,
                 wordCount: 27,
             },
             {
-                number: 8,
+                number: 10,
                 title: "The key insight is you don't",
                 category: "Tool Selection",
                 content: `"The key insight is: you don't always need an agent. Sometimes an assistant is exactly right. Sometimes an automation is what you need. The skill is knowing which tool fits the job."
@@ -1994,7 +2018,7 @@ Marketing Angle: Strategic thinking, not tool worship. Framework-first approach.
                 wordCount: 54,
             },
             {
-                number: 9,
+                number: 11,
                 title: "Don't reach for the most complex",
                 category: "Tool Selection",
                 content: `"Don't reach for the most complex solution. Start simple, add complexity only when needed."
@@ -2005,7 +2029,7 @@ Marketing Angle: Permission to start simple. Anti-overwhelm messaging.`,
                 wordCount: 25,
             },
             {
-                number: 10,
+                number: 12,
                 title: "Start with an assistant If you",
                 category: "Tool Selection",
                 content: `"Start with an assistant. If you find yourself needing multiple steps that happen automatically, connections to other tools, or more autonomy—then consider automations or agents. But 80% of the time, a well-built assistant is enough."
@@ -2016,7 +2040,7 @@ Marketing Angle: Most problems have simple solutions. We teach discernment.`,
                 wordCount: 48,
             },
             {
-                number: 11,
+                number: 13,
                 title: "Persona Objective Parameters That's it Three",
                 category: "the POP Framework",
                 content: `"Persona, Objective, Parameters. That's it. Three elements that work across every AI platform."
@@ -2027,9 +2051,21 @@ Marketing Angle: Universal framework, not platform-specific training.`,
                 wordCount: 23,
             },
             {
-                number: 12,
+                number: 14,
+                title: "Multiple iterations The first version was",
+                category: "Building",
+                content: `"Multiple iterations. The first version was way too generic. I kept testing it, seeing where it went wrong, and tightening the instructions."
+— Kris Krug
+
+Context: Discussing how he refined the Elder Tide assistant
+Marketing Angle: Honest about the process. No magic, just iteration.`,
+                preview: "\"Multiple iterations. The first version was way too generic. I kept testing it, seeing where it went wrong, and tighten…",
+                wordCount: 44,
+            },
+            {
+                number: 15,
                 title: "It's an iterative process Your assistant",
-                category: "the POP Framework",
+                category: "Building",
                 content: `"It's an iterative process. Your assistant gets smarter as you learn what it needs."
 — Kris Krug
 
@@ -2038,9 +2074,9 @@ Marketing Angle: Growth mindset. Learning together with your tools.`,
                 wordCount: 26,
             },
             {
-                number: 13,
+                number: 16,
                 title: "You're essentially having AI research for",
-                category: "the POP Framework",
+                category: "Building",
                 content: `"You're essentially having AI research for your AI."
 — Jeanette, Cohort 7 Student
 
@@ -2050,7 +2086,7 @@ Marketing Angle: Meta-level thinking. Tools building tools.`,
                 wordCount: 32,
             },
             {
-                number: 14,
+                number: 17,
                 title: "It can look really good You",
                 category: "Quality & Validation",
                 content: `"It can *look* really good. You can say, 'Wow, that looks great.' But in reality, we don't yet know who the target viewer is, what they care about, why they need to be here."
@@ -2062,7 +2098,7 @@ Marketing Angle: We teach critical evaluation, not blind acceptance.`,
                 wordCount: 55,
             },
             {
-                number: 15,
+                number: 18,
                 title: "One of the things that has",
                 category: "Quality & Validation",
                 content: `"One of the things that has been most powerful for me is getting it in front of users and usability—like humans—and testing it early."
@@ -2073,9 +2109,21 @@ Marketing Angle: Human judgment remains essential. AI accelerates, humans valida
                 wordCount: 37,
             },
             {
-                number: 16,
+                number: 19,
+                title: "The big breakthrough is my ability",
+                category: "Development Compression",
+                content: `"The big breakthrough is my ability to conceptualize my ideas or my clients' ideas rapidly so that we could iterate on them in the short term. I can do on a one-hour phone call what used to take two weeks."
+— Kris Krug
+
+Context: Explaining vibe coding value proposition
+Marketing Angle: Dramatic time compression. Weeks to hours.`,
+                preview: "\"The big breakthrough is my ability to conceptualize my ideas or my clients' ideas rapidly so that we could iterate on…",
+                wordCount: 57,
+            },
+            {
+                number: 20,
                 title: "Someone can call me up and",
-                category: "Quality & Validation",
+                category: "Development Compression",
                 content: `"Someone can call me up and be like, 'I want a landing page for this thing.' I can pop up in three vibe coding tools. We can together come to an understanding of what they say they think they want. By the end of the call we can start clicking through different interfaces."
 — Kris Krug
 
@@ -2084,9 +2132,9 @@ Marketing Angle: Real-time client collaboration. Faster feedback loops.`,
                 wordCount: 64,
             },
             {
-                number: 17,
+                number: 21,
                 title: "I can iterate on something three",
-                category: "Quality & Validation",
+                category: "Development Compression",
                 content: `"I can iterate on something three or five or eight times in a two-week cycle instead of one or two times with a larger team."
 — Kris Krug
 
@@ -2095,9 +2143,9 @@ Marketing Angle: More iterations = better outcomes. Speed enables quality.`,
                 wordCount: 38,
             },
             {
-                number: 18,
+                number: 22,
                 title: "Holy crap here's my whole site",
-                category: "Quality & Validation",
+                category: "Development Compression",
                 content: `"Holy crap, here's my whole site. Like my business exists now from one Instagram post."
 — Student reaction to demo
 
@@ -2106,9 +2154,9 @@ Marketing Angle: The "holy shit" moment. From nothing to something in minutes.`,
                 wordCount: 32,
             },
             {
-                number: 19,
+                number: 23,
                 title: "I bet you would save 90",
-                category: "Quality & Validation",
+                category: "Development Compression",
                 content: `"I bet you would save 90% on web development cost by doing this process first."
 — Peter Murphy
 
@@ -2117,9 +2165,9 @@ Marketing Angle: Economic impact. ROI that's hard to ignore.`,
                 wordCount: 27,
             },
             {
-                number: 20,
+                number: 24,
                 title: "I mean we wouldn't have even",
-                category: "Quality & Validation",
+                category: "Development Compression",
                 content: `"I mean, we wouldn't have even needed a web developer at all. We could have just paid 20 bucks and gotten that thing going."
 — Julie, Cohort 7 Student
 
@@ -2129,7 +2177,7 @@ Marketing Angle: Real student outcome. Immediate practical value.`,
                 wordCount: 47,
             },
             {
-                number: 21,
+                number: 25,
                 title: "I took Canada's 485-page budget and",
                 category: "Data Visualization",
                 content: `"I took Canada's 485-page budget and dropped it into a vibe coding tool and was like, 'I want to click around and understand this thing better.' All of a sudden, you get this website with charts and diagrams and sorts and ranks."
@@ -2140,7 +2188,7 @@ Marketing Angle: Transform impenetrable documents into interactive tools.`,
                 wordCount: 53,
             },
             {
-                number: 22,
+                number: 26,
                 title: "We've got all these impenetrable documents",
                 category: "Data Visualization",
                 content: `"We've got all these impenetrable documents floating through our lives that are meant for machine reading. Those things—we can unlock their power."
@@ -2151,9 +2199,20 @@ Marketing Angle: Democratizing data. Making complexity accessible.`,
                 wordCount: 32,
             },
             {
-                number: 23,
+                number: 27,
+                title: "The result for the client is",
+                category: "Client Work",
+                content: `"The result for the client is they get a way better product and experience in the end because I can iterate on something three or five or eight times."
+— Kris Krug
+
+Marketing Angle: Client outcomes improve. Better service, not just faster.`,
+                preview: "\"The result for the client is they get a way better product and experience in the end because I can iterate on somethin…",
+                wordCount: 42,
+            },
+            {
+                number: 28,
                 title: "My Elder Tide assistant for Ethos",
-                category: "Data Visualization",
+                category: "Client Work",
                 content: `"My Elder Tide assistant for Ethos Labs is a perfect example. When I'm working on their projects, I open that assistant, and it already knows their brand voice, their knowledge base, their goals."
 — Kris Krug
 
@@ -2163,7 +2222,7 @@ Marketing Angle: Real client work, not toy examples.`,
                 wordCount: 51,
             },
             {
-                number: 24,
+                number: 29,
                 title: "Being an AI expert is not",
                 category: "Career Transformation",
                 content: `"Being an AI expert is not optional for anyone who wants to stay employed."
@@ -2174,7 +2233,7 @@ Marketing Angle: Career imperative. Future-proofing.`,
                 wordCount: 27,
             },
             {
-                number: 25,
+                number: 30,
                 title: "AI doesn't replace creative professionals AI",
                 category: "Career Transformation",
                 content: `"AI doesn't replace creative professionals. AI replaces creative professionals who don't use AI."
@@ -2185,7 +2244,18 @@ Marketing Angle: The displacement isn't human vs. machine—it's adapted vs. not
                 wordCount: 27,
             },
             {
-                number: 26,
+                number: 31,
+                title: "Built a Notion dashboard with databases",
+                category: "Jeanette (Indigenomics)",
+                content: `"Built a Notion dashboard with databases, PowerPoint outlines, timeline tools, and scraped the Indigenomics website into a knowledge base—all in one session."
+— Jeanette's Session 3 Progress
+
+Marketing Angle: Tangible output. Students build real tools.`,
+                preview: "\"Built a Notion dashboard with databases, PowerPoint outlines, timeline tools, and scraped the Indigenomics website int…",
+                wordCount: 35,
+            },
+            {
+                number: 32,
                 title: "I spent a whole day in",
                 category: "Julie (Journalist)",
                 content: `"I spent a whole day in the garden with my cyborg identifying plants."
@@ -2196,7 +2266,7 @@ Marketing Angle: AI integration into daily life, not just work.`,
                 wordCount: 25,
             },
             {
-                number: 27,
+                number: 33,
                 title: "If you knew how long it",
                 category: "Julie (Journalist)",
                 content: `"If you knew how long it took us to get to this point in our actual website, you would just... I mean it just feels ridiculous."
@@ -2208,7 +2278,7 @@ Marketing Angle: The before/after contrast. Time investment comparison.`,
                 wordCount: 47,
             },
             {
-                number: 28,
+                number: 34,
                 title: "Incredible that he's able to slice",
                 category: "Dimitri (Real Estate)",
                 content: `"Incredible that he's able to slice and dice that data with those sliders right there."
@@ -2220,7 +2290,7 @@ Marketing Angle: Complex professional tools built during the course.`,
                 wordCount: 38,
             },
             {
-                number: 29,
+                number: 35,
                 title: "The most important thing at that",
                 category: "Maya (Producer)",
                 content: `"The most important thing at that point is to run it by humans and make sure that what the AI spit out is actually the right thing."
@@ -2231,7 +2301,18 @@ Marketing Angle: Students contribute insights, not just receive them.`,
                 wordCount: 39,
             },
             {
-                number: 30,
+                number: 36,
+                title: "3 production tools live globally at",
+                category: "Rob Rosenberg (Paramount+)",
+                content: `"3 production tools live globally at Paramount+."
+— Alumni outcome
+
+Marketing Angle: Enterprise-level deployment from course learning.`,
+                preview: "\"3 production tools live globally at Paramount+.\"",
+                wordCount: 17,
+            },
+            {
+                number: 37,
                 title: "Went from job hunting to launching",
                 category: "Armin Layegh (TalentNow)",
                 content: `"Went from job hunting to launching TalentNow with 3 paying clients."
@@ -2242,7 +2323,7 @@ Marketing Angle: Career pivot. Business creation from course.`,
                 wordCount: 22,
             },
             {
-                number: 31,
+                number: 38,
                 title: "Landed dream job using the AI",
                 category: "Timothy Kertanis (Freelancer)",
                 content: `"Landed dream job using the AI system he built during the course."
@@ -2253,7 +2334,7 @@ Marketing Angle: Job acquisition through demonstrated AI capability.`,
                 wordCount: 23,
             },
             {
-                number: 32,
+                number: 39,
                 title: "17-year-old who founded the Surrey AI",
                 category: "Matthew Schwartzman (Community Builder)",
                 content: `"17-year-old who founded the Surrey AI community—8+ meetups, 30+ monthly attendees."
@@ -2264,7 +2345,7 @@ Marketing Angle: Age is irrelevant. Impact is what matters.`,
                 wordCount: 23,
             },
             {
-                number: 33,
+                number: 40,
                 title: "Analyzed 109 Indigenous court cases for",
                 category: "Lawrence Alexander (Research)",
                 content: `"Analyzed 109 Indigenous court cases for Indigenomics Institute using course tools."
@@ -2275,7 +2356,18 @@ Marketing Angle: Research at scale. Institutional impact.`,
                 wordCount: 21,
             },
             {
-                number: 34,
+                number: 41,
+                title: "Content Coaching Community Not just oneall",
+                category: "the Three Pillars",
+                content: `"Content, Coaching, Community. Not just one—all three. That's what makes this different."
+— Course Structure
+
+Marketing Angle: Holistic approach. Not another online course.`,
+                preview: "\"Content, Coaching, Community. Not just one—all three. That's what makes this different.\"",
+                wordCount: 23,
+            },
+            {
+                number: 42,
                 title: "We teach frameworks not tools POP",
                 category: "Framework-First Learning",
                 content: `"We teach frameworks, not tools. POP works in ChatGPT, Claude, Gemini—any platform."
@@ -2286,7 +2378,7 @@ Marketing Angle: Future-proof learning. Principles over platforms.`,
                 wordCount: 22,
             },
             {
-                number: 35,
+                number: 43,
                 title: "75 of AI experts are optimistic",
                 category: "Expert Optimism",
                 content: `"75% of AI experts are optimistic about the technology. The more you know, the less you fear."
@@ -2297,7 +2389,7 @@ Marketing Angle: Knowledge reduces anxiety. Education as antidote.`,
                 wordCount: 28,
             },
             {
-                number: 36,
+                number: 44,
                 title: "We start with WHO you want",
                 category: "Identity-First Learning",
                 content: `"We start with WHO you want to become, not WHAT tools exist."
@@ -2308,7 +2400,7 @@ Marketing Angle: Identity transformation, not just skill acquisition.`,
                 wordCount: 23,
             },
             {
-                number: 37,
+                number: 45,
                 title: "By Week 4 you have a",
                 category: "Production Focus",
                 content: `"By Week 4, you have a working assistant. By Week 6, you have a production-ready tool."
@@ -2319,9 +2411,21 @@ Marketing Angle: Build real things, not just learn concepts.`,
                 wordCount: 28,
             },
             {
-                number: 38,
+                number: 46,
+                title: "Don't be scared It's fun",
+                category: "Humor & Memorable Lines",
+                content: `"Don't be scared. It's fun."
+— Guy, Cohort 7 Student
+
+Context: Encouraging classmates during vibe coding exercise
+Marketing Angle: Permission to experiment. Playful approach.`,
+                preview: "\"Don't be scared. It's fun.\"",
+                wordCount: 24,
+            },
+            {
+                number: 47,
                 title: "Every time we tune in and",
-                category: "Production Focus",
+                category: "Humor & Memorable Lines",
                 content: `"Every time we tune in and it's like one of us has played with a new thing that just came out and then the other one and all the students are like, 'Well, there goes work today again.'"
 — Maya Bruck
 
@@ -2331,9 +2435,9 @@ Marketing Angle: Relatable. We're all figuring this out together.`,
                 wordCount: 58,
             },
             {
-                number: 39,
+                number: 48,
                 title: "I've failed us as an organization",
-                category: "Production Focus",
+                category: "Humor & Memorable Lines",
                 content: `"I've failed us as an organization. My main goal this year was to build downloadable digital content from our courses and here we are. It's December 1st." [Then builds course module in one morning]
 — Kris Krug
 
@@ -2342,9 +2446,9 @@ Marketing Angle: Self-deprecating honesty + dramatic turnaround story.`,
                 wordCount: 45,
             },
             {
-                number: 40,
+                number: 49,
                 title: "Hey pass your own quiz",
-                category: "Production Focus",
+                category: "Humor & Memorable Lines",
                 content: `"Hey, pass your own quiz."
 — Kris Krug to himself
 
@@ -2354,9 +2458,20 @@ Marketing Angle: Meta humor. Authentic personality.`,
                 wordCount: 28,
             },
             {
-                number: 41,
+                number: 50,
+                title: "Most effective capstone videos just screen-share",
+                category: "Capstone & Outcomes",
+                content: `"Most effective capstone videos just screen-share the actual project, walk through the functionality, and explain the problem it solves."
+— Capstone Instructions
+
+Marketing Angle: No slides required. Show what you built.`,
+                preview: "\"Most effective capstone videos just screen-share the actual project, walk through the functionality, and explain the p…",
+                wordCount: 31,
+            },
+            {
+                number: 51,
                 title: "People that make these little videos",
-                category: "Production Focus",
+                category: "Capstone & Outcomes",
                 content: `"People that make these little videos get a lot more utility out of them. I've seen them post them to their blog, share with colleagues, post on their YouTubes."
 — Peter Murphy
 
@@ -2365,9 +2480,9 @@ Marketing Angle: Capstone becomes portfolio piece, not just class assignment.`,
                 wordCount: 42,
             },
             {
-                number: 42,
+                number: 52,
                 title: "80 of students gravitate toward assistantswhich",
-                category: "Production Focus",
+                category: "Capstone & Outcomes",
                 content: `"80% of students gravitate toward assistants—which aligns with the guidance that 80% of the time, a well-built assistant is enough."
 — Cohort 7 Pattern
 
@@ -3100,6 +3215,7 @@ Research at scale is possible. Lawrence processed 109 legal cases—work that tr
 
 ---
 
+## STORY USAGE GUIDE
 
 ### For Email Subject Lines
 - "From Job Hunting to Business Owner in 6 Weeks" (Armin)
@@ -3128,7 +3244,7 @@ Research at scale is possible. Lawrence processed 109 legal cases—work that tr
 **Last Updated:** December 2025
 **Source:** Cohort 7 Session Recaps + Alumni Outcomes`,
                 preview: "**Background:** - 17 years old during Cohort 1 - Student with no professional experience - Course: AI Upgrade for Creative Pros (Cohort 1) **Transformation:**…",
-                wordCount: 284,
+                wordCount: 288,
             },
         ],
         playbook: [
@@ -5871,8 +5987,20 @@ Secondary: #FutureOfPR #InteractiveDeliverables #GroundedResearch
         quotes: [
             {
                 number: 1,
+                title: "Being an AI expert is not",
+                category: "Necessity",
+                content: `"Being an AI expert is not optional for anyone who wants to stay employed."
+— Ode, Vox Media
+
+Context: Opening discussion in Class 1 about the state of AI in communications
+Marketing Angle: The urgency is real. This isn't optional anymore.`,
+                preview: "\"Being an AI expert is not optional for anyone who wants to stay employed.\"",
+                wordCount: 41,
+            },
+            {
+                number: 2,
                 title: "AI won't replace you But people",
-                category: "Professional Imperative",
+                category: "Necessity",
                 content: `"AI won't replace you. But people who use AI will replace people who don't."
 — Course Philosophy
 
@@ -5881,7 +6009,7 @@ Marketing Angle: The displacement isn't human vs. machine—it's adapted vs. not
                 wordCount: 29,
             },
             {
-                number: 2,
+                number: 3,
                 title: "You don't have to surrender to",
                 category: "Agency",
                 content: `"You don't have to surrender to AI's weaknesses. You have agency through natural language prompting."
@@ -5893,7 +6021,7 @@ Marketing Angle: You're not helpless. You can control and direct AI effectively.
                 wordCount: 40,
             },
             {
-                number: 3,
+                number: 4,
                 title: "Clients fact-check our recommendations against ChatGPT",
                 category: "Client Reality",
                 content: `"Clients fact-check our recommendations against ChatGPT."
@@ -5905,9 +6033,21 @@ Marketing Angle: Your clients are already using AI. Are you ahead of them or beh
                 wordCount: 37,
             },
             {
-                number: 4,
+                number: 5,
+                title: "Will clients think I'm cutting corners",
+                category: "Week 1 Fears",
+                content: `"Will clients think I'm cutting corners if I use AI?"
+— Lizzie, Week 1 concern
+
+Context: Initial anxiety before starting the program
+Marketing Angle: We hear this fear constantly. Here's what actually happens...`,
+                preview: "\"Will clients think I'm cutting corners if I use AI?\"",
+                wordCount: 33,
+            },
+            {
+                number: 6,
                 title: "I'm really interested in confidentiality and",
-                category: "Client Reality",
+                category: "Week 1 Fears",
                 content: `"I'm really interested in confidentiality and how we can apply AI in this work in a way that does not compromise our responsibility for discretion with our clients' information."
 — Simone
 
@@ -5917,9 +6057,9 @@ Marketing Angle: We take confidentiality seriously. Here's how to navigate it.`,
                 wordCount: 48,
             },
             {
-                number: 5,
+                number: 7,
                 title: "Given the subtlety of issues is",
-                category: "Client Reality",
+                category: "Week 1 Fears",
                 content: `"Given the subtlety of issues, is there still a way? AI hasn't felt that subtle to me in my use of it."
 — Simone
 
@@ -5929,9 +6069,9 @@ Marketing Angle: Skeptics become our best students. Bring your doubts.`,
                 wordCount: 42,
             },
             {
-                number: 6,
+                number: 8,
                 title: "I want to get my arms",
-                category: "Client Reality",
+                category: "Week 1 Fears",
                 content: `"I want to get my arms around AI because I feel like it's like a little wild west now... I think what I really want to get out of this besides just feeling a little bit more proficient, a little less overwhelmed."
 — Sarah (Allison Grant)
 
@@ -5941,7 +6081,7 @@ Marketing Angle: From overwhelmed to confident in 6 weeks. That's the transforma
                 wordCount: 64,
             },
             {
-                number: 7,
+                number: 9,
                 title: "The client was blown away They",
                 category: "Week 6 Outcomes",
                 content: `"The client was blown away. They said it was the best coverage recap they'd ever received."
@@ -5953,7 +6093,7 @@ Marketing Angle: "Best ever received." That's the result we're after.`,
                 wordCount: 38,
             },
             {
-                number: 8,
+                number: 10,
                 title: "They've loved it They're so used",
                 category: "Week 6 Outcomes",
                 content: `"They've loved it! They're so used to getting these PDF reports that they have to scroll through, and now they can actually explore the data themselves."
@@ -5965,7 +6105,7 @@ Marketing Angle: From PDF reports to interactive dashboards. That's differentiat
                 wordCount: 49,
             },
             {
-                number: 9,
+                number: 11,
                 title: "They loved it They were really",
                 category: "Week 6 Outcomes",
                 content: `"They loved it! They were really impressed with how comprehensive it was and how actionable it was. They've already started implementing some of the recommendations."
@@ -5977,9 +6117,21 @@ Marketing Angle: Actionable recommendations clients actually implement.`,
                 wordCount: 45,
             },
             {
-                number: 10,
+                number: 12,
+                title: "I use it for the start",
+                category: "NotebookLM",
+                content: `"I use it for the start of every project. Every time I start a new project, I interview the key staff, create deep research inquiries into their organization, and just ground the knowledge base."
+— Kris Krug
+
+Context: Explaining NotebookLM workflow
+Marketing Angle: Systematic methodology for reducing hallucination risk.`,
+                preview: "\"I use it for the start of every project. Every time I start a new project, I interview the key staff, create deep rese…",
+                wordCount: 49,
+            },
+            {
+                number: 13,
                 title: "It's like that scene in The",
-                category: "Week 6 Outcomes",
+                category: "NotebookLM",
                 content: `"It's like that scene in The Matrix where you can download Kung Fu into your head right when you need it."
 — Kris Krug
 
@@ -5989,7 +6141,7 @@ Marketing Angle: Rapid onboarding to any topic. Instant expertise.`,
                 wordCount: 39,
             },
             {
-                number: 11,
+                number: 14,
                 title: "The difference between grounded and ungrounded",
                 category: "Grounded vs. Ungrounded",
                 content: `"The difference between grounded and ungrounded AI is the difference between research and gambling."
@@ -6000,7 +6152,18 @@ Marketing Angle: PR professionals can't afford hallucinations. We teach the safe
                 wordCount: 29,
             },
             {
-                number: 12,
+                number: 15,
+                title: "Research that used to take 4",
+                category: "Research",
+                content: `"Research that used to take 4+ hours now takes 55 minutes."
+— Cohort 3 Pattern
+
+Marketing Angle: 75% time savings on research. Do the math on your workload.`,
+                preview: "\"Research that used to take 4+ hours now takes 55 minutes.\"",
+                wordCount: 28,
+            },
+            {
+                number: 16,
                 title: "First dashboard 60-75 minutes Second dashboard",
                 category: "Coverage Recaps",
                 content: `"First dashboard: 60-75 minutes. Second dashboard: 20-25 minutes. After that? Template reuse brings it down to almost nothing."
@@ -6011,7 +6174,7 @@ Marketing Angle: The efficiency compounds. Build once, deploy many times.`,
                 wordCount: 31,
             },
             {
-                number: 13,
+                number: 17,
                 title: "4-5 hours vs 24-32 hours traditional",
                 category: "Strategic Planning",
                 content: `"4-5 hours vs. 24-32 hours traditional. That's 85% time savings."
@@ -6022,7 +6185,7 @@ Marketing Angle: Strategic planning in a fraction of the time.`,
                 wordCount: 25,
             },
             {
-                number: 14,
+                number: 18,
                 title: "6-7 hours including learning curve Traditional",
                 category: "Strategic Planning",
                 content: `"6-7 hours including learning curve. Traditional alternative: 'Weeks and thousands of dollars' with a developer."
@@ -6033,7 +6196,7 @@ Marketing Angle: Hours, not weeks. Dollars, not thousands.`,
                 wordCount: 27,
             },
             {
-                number: 15,
+                number: 19,
                 title: "First deliverable savings exceeded the cost",
                 category: "Economics",
                 content: `"First deliverable savings exceeded the cost of course tuition."
@@ -6044,9 +6207,20 @@ Marketing Angle: ROI on the first project. Everything after is profit.`,
                 wordCount: 23,
             },
             {
-                number: 16,
+                number: 20,
+                title: "So used to getting PDF reports",
+                category: "Static vs. Interactive",
+                content: `"So used to getting PDF reports they have to scroll through."
+— Simone's clients, before
+
+Marketing Angle: Your clients are bored by PDFs too. Give them something better.`,
+                preview: "\"So used to getting PDF reports they have to scroll through.\"",
+                wordCount: 28,
+            },
+            {
+                number: 21,
                 title: "Now they can actually explore the",
-                category: "Economics",
+                category: "Static vs. Interactive",
                 content: `"Now they can actually explore the data themselves."
 — Simone's clients, after
 
@@ -6055,7 +6229,7 @@ Marketing Angle: Self-service exploration. Clients answer their own questions.`,
                 wordCount: 21,
             },
             {
-                number: 17,
+                number: 22,
                 title: "The 'wow factor' differentiates you as",
                 category: "The \"Wow Factor\"",
                 content: `"The 'wow factor' differentiates you as innovative. Clients are 'blown away' compared to traditional formats."
@@ -6066,7 +6240,7 @@ Marketing Angle: Stand out from competitors still sending static decks.`,
                 wordCount: 29,
             },
             {
-                number: 18,
+                number: 23,
                 title: "Lizzie I love this so much",
                 category: "The \"Wow Factor\"",
                 content: `"Lizzie, I love this so much. I'm definitely going to steal this idea for my own client work."
@@ -6077,9 +6251,21 @@ Marketing Angle: Peer validation. Students learn from each other's innovations.`
                 wordCount: 33,
             },
             {
-                number: 19,
+                number: 24,
+                title: "AI is a great starting point",
+                category: "The Process",
+                content: `"AI is a great starting point, but you always need to add that human touch."
+— Allison Stout
+
+Context: Describing her workflow for the winery PR plan
+Marketing Angle: AI accelerates; humans elevate.`,
+                preview: "\"AI is a great starting point, but you always need to add that human touch.\"",
+                wordCount: 33,
+            },
+            {
+                number: 25,
                 title: "Nobody's just taking whatever ChatGPT gives",
-                category: "The \"Wow Factor\"",
+                category: "The Process",
                 content: `"Nobody's just taking whatever ChatGPT gives them and calling it a day. You're all using AI to augment your work, to make you more efficient, to help you do things that would be difficult or impossible to do on your own. But you're still bringing your expertise, your judgment, your creativity to the process."
 — Pete Pachal
 
@@ -6089,9 +6275,9 @@ Marketing Angle: Augmentation, not replacement. That's the model.`,
                 wordCount: 73,
             },
             {
-                number: 20,
+                number: 26,
                 title: "And I think that's been one",
-                category: "The \"Wow Factor\"",
+                category: "The Process",
                 content: `"And I think that's been one of my biggest learnings from this course - AI is a tool, and like any tool, you need to know how to use it effectively."
 — Sarah
 
@@ -6100,7 +6286,7 @@ Marketing Angle: Tool mastery, not tool worship.`,
                 wordCount: 40,
             },
             {
-                number: 21,
+                number: 27,
                 title: "Draft Refine Reorganize Iterate Finalize That's",
                 category: "The Workflow",
                 content: `"Draft → Refine → Reorganize → Iterate → Finalize. That's the collaborative model that produces the best results."
@@ -6111,7 +6297,18 @@ Marketing Angle: Not "do this for me." It's "think with me."`,
                 wordCount: 32,
             },
             {
-                number: 22,
+                number: 28,
+                title: "Week 1 'Will clients think I'm",
+                category: "Lizzie's Journey",
+                content: `"Week 1: 'Will clients think I'm cutting corners?' → Week 6: 'Best coverage recap they'd ever received.'"
+— Lizzie's Arc
+
+Marketing Angle: From fear to client delight in 6 weeks.`,
+                preview: "\"Week 1: 'Will clients think I'm cutting corners?' → Week 6: 'Best coverage recap they'd ever received.'\"",
+                wordCount: 30,
+            },
+            {
+                number: 29,
                 title: "Week 1 Concerned about confidentiality Week",
                 category: "Simone's Journey",
                 content: `"Week 1: Concerned about confidentiality → Week 6: Interactive dashboards deployed to multiple clients. 'They've loved it!'"
@@ -6122,7 +6319,7 @@ Marketing Angle: Found a way that respects ethics AND delivers results.`,
                 wordCount: 31,
             },
             {
-                number: 23,
+                number: 30,
                 title: "Week 1 'Total anxiety about how",
                 category: "Sarah's Journey",
                 content: `"Week 1: 'Total anxiety about how fast it moves' → Week 6: SXSW research report saving 10-15 hours"
@@ -6133,7 +6330,7 @@ Marketing Angle: From overwhelmed to confident practitioner.`,
                 wordCount: 28,
             },
             {
-                number: 24,
+                number: 31,
                 title: "Completely impossible for me to create",
                 category: "Allison Grant's Journey",
                 content: `"Completely impossible for me to create on my own before AI."
@@ -6145,7 +6342,19 @@ Marketing Angle: Capabilities that were impossible are now accessible.`,
                 wordCount: 35,
             },
             {
-                number: 25,
+                number: 32,
+                title: "If I could come to the",
+                category: "Kyle's Synthetic Audience",
+                content: `"If I could come to the table with my four prime customer targets, build that into 4,000 synthetic audience members, and run simulations testing messages... It's freaking genius."
+— Kris Krug
+
+Context: Reacting to Kyle's crisis message testing concept
+Marketing Angle: Test messaging before deployment. Know how it lands.`,
+                preview: "\"If I could come to the table with my four prime customer targets, build that into 4,000 synthetic audience members, an…",
+                wordCount: 49,
+            },
+            {
+                number: 33,
                 title: "Every account using a lot of",
                 category: "AI Content Detection",
                 content: `"Every account using a lot of AI in terms of content creation, it will shadow ban them and make them not prioritized in anyone's feeds."
@@ -6157,7 +6366,7 @@ Marketing Angle: We teach responsible use, not just fast use.`,
                 wordCount: 47,
             },
             {
-                number: 26,
+                number: 34,
                 title: "7-12 per episode vs 4000-9000 traditional",
                 category: "Production Cost",
                 content: `"~$7-12 per episode vs. $4,000-9,000 traditional."
@@ -6168,7 +6377,18 @@ Marketing Angle: Professional production at a fraction of the cost.`,
                 wordCount: 21,
             },
             {
-                number: 27,
+                number: 35,
+                title: "Manual 6-hour process converting monitoring data",
+                category: "Media Monitoring",
+                content: `"Manual 6-hour process converting monitoring data to PDF reports → Automated workflow in 20-25 minutes."
+— Simone's Transformation
+
+Marketing Angle: Media monitoring transformed. Same data, 10x faster.`,
+                preview: "\"Manual 6-hour process converting monitoring data to PDF reports → Automated workflow in 20-25 minutes.\"",
+                wordCount: 27,
+            },
+            {
+                number: 36,
                 title: "30 minutes per prospect research 3",
                 category: "Journalist Research",
                 content: `"30+ minutes per prospect research → 3 minutes with better quality."
@@ -6179,7 +6399,7 @@ Marketing Angle: Find the right journalists faster.`,
                 wordCount: 21,
             },
             {
-                number: 28,
+                number: 37,
                 title: "Test crisis messaging against synthetic audiences",
                 category: "Crisis Communications",
                 content: `"Test crisis messaging against synthetic audiences before deployment."
@@ -6190,7 +6410,7 @@ Marketing Angle: Know how your message lands before it goes live.`,
                 wordCount: 23,
             },
             {
-                number: 29,
+                number: 38,
                 title: "If you just give everyone the",
                 category: "Employee Advocacy",
                 content: `"If you just give everyone the exact same thing to post, people can tell it's corporate messaging. It's inauthentic and it doesn't get engagement."
@@ -6202,9 +6422,20 @@ Marketing Angle: Authentic variations at scale. Real engagement.`,
                 wordCount: 43,
             },
             {
-                number: 30,
+                number: 39,
+                title: "Definitely thinking about how to templatize",
+                category: "Scaling",
+                content: `"Definitely thinking about how to templatize it so that we could use it for multiple clients."
+— Simone
+
+Marketing Angle: Build once, deploy across your entire portfolio.`,
+                preview: "\"Definitely thinking about how to templatize it so that we could use it for multiple clients.\"",
+                wordCount: 27,
+            },
+            {
+                number: 40,
                 title: "First Project 10 hours invested Tenth",
-                category: "Employee Advocacy",
+                category: "Scaling",
                 content: `"First Project: 10 hours invested. Tenth Project: 30 minutes. That's a 20x efficiency multiplier."
 — Template Scaling Math
 
@@ -6213,7 +6444,7 @@ Marketing Angle: The efficiency compounds. Every project gets faster.`,
                 wordCount: 27,
             },
             {
-                number: 31,
+                number: 41,
                 title: "Communications professionals can now offer premium",
                 category: "Business Impact",
                 content: `"Communications professionals can now offer premium deliverables profitably, scale across client portfolios without proportional time increase."
@@ -6224,7 +6455,18 @@ Marketing Angle: Scale without burning out. Grow without proportional effort.`,
                 wordCount: 29,
             },
             {
-                number: 32,
+                number: 42,
+                title: "Faster than pure human effort Better",
+                category: "Human + AI",
+                content: `"Faster than pure human effort. Better quality than pure AI output. More authentic than templates. More scalable than manual work."
+— Collaborative Iteration Benefits
+
+Marketing Angle: The best of both worlds.`,
+                preview: "\"Faster than pure human effort. Better quality than pure AI output. More authentic than templates. More scalable than m…",
+                wordCount: 31,
+            },
+            {
+                number: 43,
                 title: "Hospitality and wine PR require brand",
                 category: "Authenticity",
                 content: `"Hospitality and wine PR require brand voice and personal relationships. AI provided speed; Allison added authenticity."
@@ -6235,7 +6477,7 @@ Marketing Angle: AI handles mechanics; you handle relationships.`,
                 wordCount: 29,
             },
             {
-                number: 33,
+                number: 44,
                 title: "AI as collaborative partner not replacement",
                 category: "Authenticity",
                 content: `"AI as collaborative partner, not replacement. Iterative refinement preserves expertise and sophistication."
@@ -6246,7 +6488,7 @@ Marketing Angle: Your expertise matters more, not less, with AI.`,
                 wordCount: 25,
             },
             {
-                number: 34,
+                number: 45,
                 title: "Disclosed AI use ChatGPT for sentiment",
                 category: "Transparency",
                 content: `"Disclosed AI use (ChatGPT for sentiment, Lovable for dashboard), client focused entirely on deliverable quality, zero concern about process."
@@ -6257,7 +6499,19 @@ Marketing Angle: Transparency + Quality = Trust. It works.`,
                 wordCount: 31,
             },
             {
-                number: 35,
+                number: 46,
+                title: "How do we create senior-level communications",
+                category: "The Pipeline",
+                content: `"How do we create senior-level communications people if we're not keeping that pipeline of juniors learning the full slate? I don't really love the idea of people missing the whole process of learning how to write press releases from scratch."
+— Simone
+
+Context: Expressing concern about entry-level learning
+Marketing Angle: We address this directly. AI changes what juniors learn, not whether they learn.`,
+                preview: "\"How do we create senior-level communications people if we're not keeping that pipeline of juniors learning the full sl…",
+                wordCount: 63,
+            },
+            {
+                number: 47,
                 title: "I'm concerned not just about our",
                 category: "Identity",
                 content: `"I'm concerned not just about our careers, but our identities."
@@ -7046,6 +7300,7 @@ Students discovered scaling patterns:
 
 ---
 
+## STORY USAGE GUIDE
 
 ### For Email Subject Lines
 - "From 'Cutting Corners' to 'Best Ever Received'" (Lizzie)
@@ -7074,7 +7329,7 @@ Students discovered scaling patterns:
 **Last Updated:** December 2025
 **Source:** Cohorts 3-4 Transcripts + PR-Comms Playbook`,
                 preview: "**Background:** - Director of PR & Communications at Iron Workers union - Traditional industry, skeptical about AI - Key question about job displacement **The…",
-                wordCount: 312,
+                wordCount: 316,
             },
         ],
         playbook: [
@@ -9081,8 +9336,19 @@ Next cohort starts [DATE].
         quotes: [
             {
                 number: 1,
+                title: "AI won't replace salespeople But salespeople",
+                category: "the Shift",
+                content: `"AI won't replace salespeople. But salespeople who use AI will replace salespeople who don't."
+— Course Philosophy
+
+Marketing Angle: The displacement isn't human vs. machine—it's adapted vs. not adapted.`,
+                preview: "\"AI won't replace salespeople. But salespeople who use AI will replace salespeople who don't.\"",
+                wordCount: 29,
+            },
+            {
+                number: 2,
                 title: "We know that most people will",
-                category: "The Professional Imperative",
+                category: "the Shift",
                 content: `"We know that most people will go through 80% of the buying cycle before you know they exist. They've done the research, they've searched, they've compared us, they've gone into ChatGPT and asked it questions about us."
 — Shane Gibson
 
@@ -9092,9 +9358,9 @@ Marketing Angle: Your buyers research you in ChatGPT before calling you. Are you
                 wordCount: 63,
             },
             {
-                number: 2,
+                number: 3,
                 title: "This year over six figures of",
-                category: "The Professional Imperative",
+                category: "the Shift",
                 content: `"This year over six figures of opportunities coming in through AI-based search and chat where people have told us we found you through ChatGPT or Perplexity first."
 — Shane Gibson
 
@@ -9104,7 +9370,7 @@ Marketing Angle: Six figures from AI search. That's not theoretical—that's hap
                 wordCount: 50,
             },
             {
-                number: 3,
+                number: 4,
                 title: "75 of AI experts are optimistic",
                 category: "Expert Optimism",
                 content: `"75% of AI experts are optimistic about personal outcomes. Knowledge gap = optimism gap."
@@ -9115,9 +9381,20 @@ Marketing Angle: The more you know about AI, the less you fear it. We close that
                 wordCount: 36,
             },
             {
-                number: 4,
+                number: 5,
+                title: "3 minutes vs 30 minutes That's",
+                category: "Research",
+                content: `"3 minutes vs. 30 minutes. That's what AI-powered prospect research looks like."
+— Shane Gibson, Live Demo
+
+Marketing Angle: Ten times faster. Same quality. Better insights.`,
+                preview: "\"3 minutes vs. 30 minutes. That's what AI-powered prospect research looks like.\"",
+                wordCount: 26,
+            },
+            {
+                number: 6,
                 title: "Traditional proposal 85 minutes AI-augmented proposal",
-                category: "Expert Optimism",
+                category: "Research",
                 content: `"Traditional proposal: 85 minutes. AI-augmented proposal: 10-15 minutes including human review."
 — Course Framework
 
@@ -9126,7 +9403,7 @@ Marketing Angle: Stop spending your day writing proposals. Start spending it clo
                 wordCount: 27,
             },
             {
-                number: 5,
+                number: 7,
                 title: "One 30-minute video 53 pieces of",
                 category: "Content Multiplication",
                 content: `"One 30-minute video → 53 pieces of content. That's the content waterfall math."
@@ -9138,7 +9415,7 @@ Marketing Angle: You're already creating content (calls, presentations, conversa
                 wordCount: 32,
             },
             {
-                number: 6,
+                number: 8,
                 title: "I used to pay somebody 65",
                 category: "Content Multiplication",
                 content: `"I used to pay somebody $65 per clip. Times each platform, that was $600-700 for 12 pieces of content. Now it's $50/month for unlimited."
@@ -9150,7 +9427,7 @@ Marketing Angle: From $700 to $50. The economics have fundamentally changed.`,
                 wordCount: 46,
             },
             {
-                number: 7,
+                number: 9,
                 title: "First dashboard 60-75 minutes Second dashboard",
                 category: "Proposal Writing",
                 content: `"First dashboard: 60-75 minutes. Second dashboard: 20-25 minutes. After that? Template reuse brings it down to almost nothing."
@@ -9161,9 +9438,21 @@ Marketing Angle: Build once, deploy forever. The efficiency compounds.`,
                 wordCount: 30,
             },
             {
-                number: 8,
+                number: 10,
+                title: "Content feeds conversation Conversation builds community",
+                category: "the Thought Leadership Flywheel",
+                content: `"Content feeds conversation. Conversation builds community. Community creates thought leadership. Thought leadership drives inbound."
+— Shane Gibson
+
+Context: The three-component flywheel model
+Marketing Angle: Stop cold calling. Start attracting.`,
+                preview: "\"Content feeds conversation. Conversation builds community. Community creates thought leadership. Thought leadership dr…",
+                wordCount: 29,
+            },
+            {
+                number: 11,
                 title: "My goal is I can cold",
-                category: "Proposal Writing",
+                category: "the Thought Leadership Flywheel",
                 content: `"My goal is I can cold call. Claudia can cold call. We're pretty awesome at it. Both of us would rather not."
 — Shane Gibson
 
@@ -9173,7 +9462,7 @@ Marketing Angle: Great salespeople CAN cold call. AI-augmented salespeople don't
                 wordCount: 44,
             },
             {
-                number: 9,
+                number: 12,
                 title: "LinkedIn wants you to post for",
                 category: "Consistency",
                 content: `"LinkedIn wants you to post for maximum effectiveness about 11 times a month."
@@ -9184,7 +9473,7 @@ Marketing Angle: That's every other business day. With AI, that's 15 minutes of 
                 wordCount: 30,
             },
             {
-                number: 10,
+                number: 13,
                 title: "If you're posting on the daily",
                 category: "Consistency",
                 content: `"If you're posting on the daily, it's like you just bought a billboard across the street from my house. Even if I don't read it, I see your face every day."
@@ -9196,7 +9485,7 @@ Marketing Angle: Presence beats perfection. Show up consistently.`,
                 wordCount: 49,
             },
             {
-                number: 11,
+                number: 14,
                 title: "Rant Post Publish 10 minutes total",
                 category: "Quick Content Creation",
                 content: `"Rant → Post → Publish. 10 minutes total."
@@ -9207,7 +9496,7 @@ Marketing Angle: Voice memo after a great call. LinkedIn post before coffee gets
                 wordCount: 26,
             },
             {
-                number: 12,
+                number: 15,
                 title: "I run it through my custom",
                 category: "Quick Content Creation",
                 content: `"I run it through my custom GPT and I say, 'Just grab a good idea from this.' And whatever I talked to my client about—which is usually relevant—is going to be something we pick up."
@@ -9219,9 +9508,21 @@ Marketing Angle: Your best content is already happening. Capture it.`,
                 wordCount: 56,
             },
             {
-                number: 13,
+                number: 16,
+                title: "You're an AI developer now Bruce",
+                category: "Building vs. Using",
+                content: `"You're an AI developer now, Bruce. You didn't probably think of yourself that way, but you are."
+— Peter Bittner
+
+Context: To a student who built a voice-activated scheduling system
+Marketing Angle: Six weeks ago: AI user. Today: AI builder.`,
+                preview: "\"You're an AI developer now, Bruce. You didn't probably think of yourself that way, but you are.\"",
+                wordCount: 40,
+            },
+            {
+                number: 17,
                 title: "I'm not a software architect I",
-                category: "Quick Content Creation",
+                category: "Building vs. Using",
                 content: `"I'm not a software architect. I back and forth with ChatGPT: 'Write me Python code that does X.' Then debug it, document it, stick it on GitHub and share it."
 — Kris Krug
 
@@ -9231,9 +9532,9 @@ Marketing Angle: If Kris can build automation tools through conversation, so can
                 wordCount: 53,
             },
             {
-                number: 14,
+                number: 18,
                 title: "If I was you starting today",
-                category: "Quick Content Creation",
+                category: "Building vs. Using",
                 content: `"If I was you starting today, I could rebuild what I've done in an afternoon inside N8N or Make or Zapier."
 — Kris Krug
 
@@ -9243,7 +9544,7 @@ Marketing Angle: What took a year to build now takes an afternoon. The tools are
                 wordCount: 47,
             },
             {
-                number: 15,
+                number: 19,
                 title: "Ali have you thought about going",
                 category: "MVP Mindset",
                 content: `"Ali, have you thought about going minimal viable product? Build yourself a custom GPT assistant that you personally can use first. THEN decide if you need the fancy system."
@@ -9255,7 +9556,7 @@ Marketing Angle: Personal tool → Team tool → Automated system. Don't skip st
                 wordCount: 52,
             },
             {
-                number: 16,
+                number: 20,
                 title: "Whether it's a toy or a",
                 category: "MVP Mindset",
                 content: `"Whether it's a toy or a tool will depend on how good your knowledge base is underneath."
@@ -9267,9 +9568,21 @@ Marketing Angle: The difference between impressive demos and production tools? Y
                 wordCount: 41,
             },
             {
-                number: 17,
+                number: 21,
+                title: "The worldview guide changed the way",
+                category: "Worldview",
+                content: `"The worldview guide changed the way my AI assistants write for me."
+— Shane Gibson
+
+Context: Discovering Kris's worldview guide methodology
+Marketing Angle: Voice is mimicable. Worldview is not.`,
+                preview: "\"The worldview guide changed the way my AI assistants write for me.\"",
+                wordCount: 29,
+            },
+            {
+                number: 22,
                 title: "When I'm building these knowledge bases",
-                category: "MVP Mindset",
+                category: "Worldview",
                 content: `"When I'm building these knowledge bases, I find there's two core components: writing style guide and worldview guide. How I write and how I think do an amazing job to ground the outputs."
 — Kris Krug
 
@@ -9279,7 +9592,7 @@ Marketing Angle: Not just what you say, but how you think. That's your moat.`,
                 wordCount: 55,
             },
             {
-                number: 18,
+                number: 23,
                 title: "Technical skills commoditize fast Everyone has",
                 category: "Competitive Advantage",
                 content: `"Technical skills commoditize fast. Everyone has access to the same tools. What differentiates? Your worldview, your voice, your domain expertise."
@@ -9290,7 +9603,7 @@ Marketing Angle: Your 20 years of experience? That's your unfair advantage. AI a
                 wordCount: 37,
             },
             {
-                number: 19,
+                number: 24,
                 title: "AI can mimic writing style AI",
                 category: "Competitive Advantage",
                 content: `"AI can mimic writing style. AI cannot invent your hard-won insights."
@@ -9301,9 +9614,21 @@ Marketing Angle: Your failures, your lessons, your perspective—that's what AI 
                 wordCount: 26,
             },
             {
-                number: 20,
+                number: 25,
+                title: "Through this whole process if I",
+                category: "the System",
+                content: `"Through this whole process, if I added all this up, I think this adds up to 53 pieces of deep and short content put on the internet in a month."
+— Shane Gibson
+
+Context: Calculating content waterfall output
+Marketing Angle: 53 pieces. From one video. That's not hyperbole.`,
+                preview: "\"Through this whole process, if I added all this up, I think this adds up to 53 pieces of deep and short content put on…",
+                wordCount: 48,
+            },
+            {
+                number: 26,
                 title: "You can imagine if you do",
-                category: "Competitive Advantage",
+                category: "the System",
                 content: `"You can imagine if you do this month after month and your competitors are doing two blog posts a month and you're shipping 50 pieces of content at velocity—you start to dominate search and inbound."
 — Shane Gibson
 
@@ -9313,7 +9638,7 @@ Marketing Angle: While they're crafting one LinkedIn post, you're shipping 50 pi
                 wordCount: 56,
             },
             {
-                number: 21,
+                number: 27,
                 title: "Your average buying groups are getting",
                 category: "Distribution",
                 content: `"Your average buying groups are getting larger. An average of 11 stakeholders per team today."
@@ -9324,7 +9649,7 @@ Marketing Angle: You're not selling to one person. You're selling to 11. Content
                 wordCount: 35,
             },
             {
-                number: 22,
+                number: 28,
                 title: "B2B buyers are on 25 channels",
                 category: "Distribution",
                 content: `"B2B buyers are on 25+ channels daily. You can't manually create content for all of them. But you can create once and intelligently atomize."
@@ -9335,9 +9660,20 @@ Marketing Angle: Be everywhere your buyers are. Let AI handle the distribution.`
                 wordCount: 39,
             },
             {
-                number: 23,
+                number: 29,
+                title: "Input company name AI analyzes funding",
+                category: "Pre-Call Research",
+                content: `"Input company name. AI analyzes: funding, team size, tech stack, pain points, recent news. Outputs tailored discovery questions. Time: 3 minutes."
+— Shane's Live Demo
+
+Marketing Angle: Show up to calls overprepared. Every time. Automatically.`,
+                preview: "\"Input company name. AI analyzes: funding, team size, tech stack, pain points, recent news. Outputs tailored discovery…",
+                wordCount: 35,
+            },
+            {
+                number: 30,
                 title: "Two AIs fighting makes better output",
-                category: "Distribution",
+                category: "Pre-Call Research",
                 content: `"Two AIs fighting makes better output than one AI alone."
 — Shane Gibson
 
@@ -9347,7 +9683,7 @@ Marketing Angle: Quality through competition. Let the AIs check each other.`,
                 wordCount: 31,
             },
             {
-                number: 24,
+                number: 31,
                 title: "Feed discovery call transcript to Sales",
                 category: "Post-Call Analysis",
                 content: `"Feed discovery call transcript to Sales Coach GPT. AI analyzes: Questions you missed, objection handling, next step clarity, talk ratio. Immediate feedback."
@@ -9358,7 +9694,7 @@ Marketing Angle: Don't wait for your weekly 1-on-1. Get coaching after every cal
                 wordCount: 38,
             },
             {
-                number: 25,
+                number: 32,
                 title: "AI coaching gives immediate tactical feedback",
                 category: "Post-Call Analysis",
                 content: `"AI coaching gives immediate tactical feedback. Human managers provide strategic career guidance. They're not the same thing."
@@ -9369,9 +9705,21 @@ Marketing Angle: AI coaching supplements your manager. It doesn't replace them.`
                 wordCount: 31,
             },
             {
-                number: 26,
+                number: 33,
+                title: "I've been up till 1 in",
+                category: "Builder Confidence",
+                content: `"I've been up till 1 in the morning two nights in a row working on it. I'm positive if I had more money I'd probably be going through iPhones because I want to smash that thing so many times."
+— Bruce
+
+Context: Building voice-activated scheduling automation
+Marketing Angle: Real builders stay up late. The struggle is part of the transformation.`,
+                preview: "\"I've been up till 1 in the morning two nights in a row working on it. I'm positive if I had more money I'd probably be…",
+                wordCount: 60,
+            },
+            {
+                number: 34,
                 title: "When we were talking it was",
-                category: "Post-Call Analysis",
+                category: "Builder Confidence",
                 content: `"When we were talking, it was that founder moment of being in the car or being in bed and you know you have to do something and being able to just quickly talk to your phone—and you're almost there. You're this far away, so do not give up on this."
 — Kris Krug to Bruce
 
@@ -9380,7 +9728,7 @@ Marketing Angle: The capstone is almost complete. That's when breakthroughs happ
                 wordCount: 66,
             },
             {
-                number: 27,
+                number: 35,
                 title: "I reckon I maybe picked up",
                 category: "Team Impact",
                 content: `"I reckon I maybe picked up like 15%, 20%... it was a firehose which I loved."
@@ -9392,7 +9740,7 @@ Marketing Angle: So much value you want to come back. That's the goal.`,
                 wordCount: 41,
             },
             {
-                number: 28,
+                number: 36,
                 title: "The last few weeks have been",
                 category: "Team Impact",
                 content: `"The last few weeks have been really amazing because I've had to sharpen that saw. I've had to get out that ABC and really work on it and analyze where are we selling, how are we selling, where we're going to need to sell."
@@ -9404,9 +9752,21 @@ Marketing Angle: The capstone isn't just a project—it's a forcing function for
                 wordCount: 66,
             },
             {
-                number: 29,
+                number: 37,
+                title: "They absolutely loved it Google Doc",
+                category: "Client Impact",
+                content: `"They absolutely loved it. Google Doc filled with comments: 'Love this. I love this document.'"
+— Monica
+
+Context: CEO/co-founder feedback on AI-generated go-to-market strategy
+Marketing Angle: Not just functional. Loved. That's the standard.`,
+                preview: "\"They absolutely loved it. Google Doc filled with comments: 'Love this. I love this document.'\"",
+                wordCount: 33,
+            },
+            {
+                number: 38,
                 title: "Our sales-to-onboarding handover GPT is already",
-                category: "Team Impact",
+                category: "Client Impact",
                 content: `"Our sales-to-onboarding handover GPT is already live and eliminating 'he said/she said' disputes."
 — Matt, Arya Health
 
@@ -9416,7 +9776,7 @@ Marketing Angle: Not someday. Already live. Already working.`,
                 wordCount: 31,
             },
             {
-                number: 30,
+                number: 39,
                 title: "1M to 20M in one year",
                 category: "Revenue Impact",
                 content: `"$1M to $20M in one year. As revenues shot up, time management became critical. Voice-activated scheduling system is 95% complete."
@@ -9428,9 +9788,20 @@ Marketing Angle: When you 20x, you need systems. We teach how to build them.`,
                 wordCount: 45,
             },
             {
-                number: 31,
+                number: 40,
+                title: "They've searched they've compared us they've",
+                category: "Buyer Research",
+                content: `"They've searched, they've compared us, they've gone into ChatGPT and asked it questions about us. It's actually prepared a document to ask us questions. THEN they reach out."
+— Shane Gibson
+
+Marketing Angle: Your buyers have already interviewed AI about you. What did it say?`,
+                preview: "\"They've searched, they've compared us, they've gone into ChatGPT and asked it questions about us. It's actually prepar…",
+                wordCount: 45,
+            },
+            {
+                number: 41,
                 title: "AI determines expertise by volume of",
-                category: "Revenue Impact",
+                category: "Buyer Research",
                 content: `"AI determines expertise by volume of quality mentions across the web, not just your website SEO."
 — Shane Gibson
 
@@ -9440,7 +9811,7 @@ Marketing Angle: Traditional SEO matters less. Omnichannel presence matters more
                 wordCount: 34,
             },
             {
-                number: 32,
+                number: 42,
                 title: "On the term 'keynote speaker on",
                 category: "Search Domination",
                 content: `"On the term 'keynote speaker on AI for sales,' I've got 80% of the front page. That's content atomization across 25+ channels."
@@ -9451,9 +9822,21 @@ Marketing Angle: Dominate search through volume. AI multiplication makes it poss
                 wordCount: 36,
             },
             {
-                number: 33,
+                number: 43,
+                title: "If you've ever had an issue",
+                category: "Sales Team Posting",
+                content: `"If you've ever had an issue or a lack of motivation with some of your team in posting on LinkedIn, raise your hand."
+— Claudia
+
+Context: The universal sales team social media problem
+Marketing Angle: Your team doesn't post because they don't know what to post. We fix that.`,
+                preview: "\"If you've ever had an issue or a lack of motivation with some of your team in posting on LinkedIn, raise your hand.\"",
+                wordCount: 49,
+            },
+            {
+                number: 44,
                 title: "The team LinkedIn GPT provides checks",
-                category: "Search Domination",
+                category: "Sales Team Posting",
                 content: `"The team LinkedIn GPT provides checks and balances without micromanagement. Reps get autonomy with guardrails."
 — Claudia
 
@@ -9463,7 +9846,7 @@ Marketing Angle: Enable your team. Don't police them.`,
                 wordCount: 31,
             },
             {
-                number: 34,
+                number: 45,
                 title: "The ultimate goal is to figure",
                 category: "Knowledge Transfer",
                 content: `"The ultimate goal is to figure out how to do this, make them work for me, and export them to my team."
@@ -9474,9 +9857,21 @@ Marketing Angle: Build for yourself first. Then scale to your team.`,
                 wordCount: 35,
             },
             {
-                number: 35,
+                number: 46,
+                title: "I have a halfway-written article in",
+                category: "Subscriptions",
+                content: `"I have a halfway-written article in my head called 'The $1,000 a Month It Takes to Be a Modern Knowledge Worker.'"
+— Kris Krug
+
+Context: On tool subscription creep
+Marketing Angle: We teach the tools that matter. Not everything that exists.`,
+                preview: "\"I have a halfway-written article in my head called 'The $1,000 a Month It Takes to Be a Modern Knowledge Worker.'\"",
+                wordCount: 41,
+            },
+            {
+                number: 47,
                 title: "I'm going to upload my last",
-                category: "Knowledge Transfer",
+                category: "Subscriptions",
                 content: `"I'm going to upload my last three months' credit card statements into ChatGPT, ask it to find all the subscriptions to AI tools and list what they all do and if there's redundancy. I know I've got about $200 in there I can delete right away."
 — Shane Gibson
 
@@ -9485,7 +9880,7 @@ Marketing Angle: AI can audit your AI tools. Meta, but useful.`,
                 wordCount: 60,
             },
             {
-                number: 36,
+                number: 48,
                 title: "The two essentials are a transcription",
                 category: "Core Essentials",
                 content: `"The two essentials are a transcription tool and probably something like ChatGPT Plus."
@@ -9938,6 +10333,421 @@ P.S. Still have a question? Reply right now. I'll answer before enrollment close
             },
         ],
         stories: [
+            {
+                number: 1,
+                title: "Judy Sandrock — Crossing the Chasm with AI",
+                category: "THE TRANSFORMATION ARC",
+                content: `**Background:**
+- Company: Max IQ Space (Space STEM education programs)
+- Location: South Africa
+- Years in business: 9 years
+- Starting challenge: Stuck at "crossing the chasm" from early adopters to early majority
+
+**The Problem:**
+Teachers constantly asked "How does it link to the curriculum?" and Judy had no scalable way to answer. Sales conversations stalled at the same objection, deal after deal.
+
+**The Transformation:**
+
+*Week 5:*
+> "I really had a lot of fun building different assistants, and I actually built one today that designs experiments for students based on the curriculum. I've uploaded our entire country's school curriculum to the assistant."
+
+*Week 6:*
+- Built two production GPTs being tested by actual teachers
+- Discovered special economic zones opportunity via Perplexity (nearly impossible to find manually)
+- Mapped power players for entire education ecosystem using Shane's framework
+- Screenshot → ChatGPT → Strategic prompt workflow mastered
+
+**What She Built:**
+1. **Space STEM Proposal Assistant** — Trained through multiple iterations, focused on teachers (the opposition) and students (the users)
+2. **Springbot Technology Assistant** — Links experiments to curriculum automatically, now in teacher testing
+
+**The Outcome:**
+> "The last few weeks have been really amazing because I've had to sharpen that saw. I've had to get out that ABC and really work on it and analyze where are we selling, how are we selling, where we're going to need to sell."
+
+**Team Impact:**
+Now sharing GPT creation methodology across entire Max IQ Space team—software developers, hardware developers, everyone building custom assistants.
+
+**Instructor Feedback:**
+> "You're on a mission and you can see it in your presentation. I'm really looking forward to talking to you in a month after you've banged away on it and iterated." — Kris Krug
+
+**Marketing Angle:**
+Nine years stuck at the chasm. Six weeks to build the tools that might finally cross it.
+
+---`,
+                preview: "**Background:** - Company: Max IQ Space (Space STEM education programs) - Location: South Africa - Years in business: 9 years - Starting challenge: Stuck at \"c…",
+                wordCount: 309,
+            },
+            {
+                number: 2,
+                title: "Bruce — The Voice-Activated Systems Builder",
+                category: "THE TRANSFORMATION ARC",
+                content: `**Background:**
+- Company: Applied Compression Systems (ACS)
+- Growth: $1M to $20M in one year
+- Role: Sales manager — grew from managing 1 to managing 4 salespeople
+- Starting challenge: Drowning in manual processes at exponential scale
+
+**The Problem:**
+When you 20x revenue in a year, every manual process becomes a bottleneck. Quote generation. Scheduling. Task management. All of it was breaking.
+
+**The Transformation:**
+
+*Initial Capstone Idea:*
+Engineering estimation assistant for complex industrial customization — different gases, pressures, temperatures, materials.
+
+*The Pivot:*
+> "As revenues and customer base shot up exponentially, time management became critical."
+
+*What He Built:*
+Voice-activated scheduling system:
+- Records meeting notes, ideas, thoughts, rants via iPhone
+- Transcripts saved to Google Drive automatically
+- Calendar integration in testing phase
+- ChatGPT as development partner (debugging, troubleshooting, workarounds)
+
+**The Struggle (Real Talk):**
+> "I know I'm close. That's two nights in a row I've been up till 1 in the morning working on it. I'm positive if I had more money I'd probably be going through iPhones because I want to smash that thing so many times."
+
+**Instructor Response:**
+> "You're an AI developer now, Bruce. You didn't probably think of yourself that way, but you are. You're building a product that not only will your team find value in, but you should consider fundraising for this." — Peter Bittner
+
+**The Vision Beyond:**
+Full quote-to-CRM automation. Web inquiry → auto-creates quote number → builds folder → stores inquiry form. Voice trigger: "Build a quote for Claudia."
+
+**Marketing Angle:**
+Zero software development knowledge. Two nights of frustration. One voice-activated system changing how his team works. That's the arc.
+
+---`,
+                preview: "**Background:** - Company: Applied Compression Systems (ACS) - Growth: $1M to $20M in one year - Role: Sales manager — grew from managing 1 to managing 4 sales…",
+                wordCount: 272,
+            },
+            {
+                number: 3,
+                title: "Dev — The Investor Targeting Strategist",
+                category: "THE TRANSFORMATION ARC",
+                content: `**Background:**
+- Company: Clip (Interactive entertainment/serialized IP)
+- Role: Just joined as investor this week before capstone
+- Starting challenge: Fundraising relies on gut instinct with no structured measurement
+
+**The Problem:**
+Founders meet with investors based on gut feel. No scoring system. No systematic call analysis. Guesswork dressed up as strategy.
+
+**The Transformation:**
+
+*Build Time:* Created entire system the day of capstone presentation
+
+**Two-Module AI System:**
+
+*Module 1: Investor ICP Finder*
+- Scores investors on 100-point scale across 4 weighted pillars
+- Sector fit, stage alignment, geo focus, strategic value
+- Example: Green Frontier Capital (perfect fit) vs. Lightspeed India (too late stage)
+
+*Module 2: Discovery Evaluator*
+- Analyzes real investor call transcripts
+- Uses 16-point SaaS discovery call scorecard
+- Provides strengths, fixes, one-sentence next step
+- Example score: 81% (A-minus rating)
+
+**Integrated Output:**
+- 2×2 matrix: Pitch quality vs. Investor fit
+- Pre-call cheat sheets for upcoming meetings
+- "GFC represents an ideal strategic and thematic investor for this round—a rare match of AI, media innovation and retention subscription economics"
+
+**Instructor Guidance:**
+> "Depending on what documents you gave it beyond sales stuff, if you gave it some stuff about the organization too, you'll probably be able to use it as you're coming on board as an investor in all sorts of ways." — Kris Krug
+
+**Marketing Angle:**
+Built the day of capstone. Already scoring investors and analyzing discovery calls. That's speed to production.
+
+---`,
+                preview: "**Background:** - Company: Clip (Interactive entertainment/serialized IP) - Role: Just joined as investor this week before capstone - Starting challenge: Fundr…",
+                wordCount: 237,
+            },
+            {
+                number: 4,
+                title: "Monica — Go-to-Market Strategy in Hours",
+                category: "THE TRANSFORMATION ARC",
+                content: `**Background:**
+- Company: Sustainable period care company
+- Role: Marketing
+- Challenge: Launching reusable period underwear with limited research time
+
+**The Problem:**
+New product launch. Competitor landscape unclear. Limited time for research. CEO needs strategy yesterday.
+
+**The Transformation:**
+
+**Knowledge Base Architecture:**
+- Marketing one-pager (company "why" and positioning)
+- Founder voice samples (her voice = company voice)
+- Website content and current products
+- Roger Martin transcripts ("where to play" and "how to win" methodology)
+- Heavy competitor analysis from Perplexity
+- Brand guide and customer personas
+
+**The Output:**
+Comprehensive go-to-market strategy document:
+1. Executive Summary
+2. Strategic Foundation (Roger Martin methodology embedded)
+3. Market Landscape
+4. Competitive Insights
+5. Customer Profile Styles
+6. Strategy
+7. Marketing and Brand Pillars
+8. Campaign Concepts
+
+**CEO/Co-Founder Feedback:**
+> "They absolutely loved it. Google Doc filled with comments: 'Love this. I love this document.'"
+
+**Bonus:**
+Same knowledge base produced 2026 marketing strategy—also loved by leadership. Build once, deploy multiple times.
+
+**Marketing Angle:**
+CEO said "love this" in comments. That's the validation that matters.
+
+---`,
+                preview: "**Background:** - Company: Sustainable period care company - Role: Marketing - Challenge: Launching reusable period underwear with limited research time **The…",
+                wordCount: 171,
+            },
+            {
+                number: 5,
+                title: "Matt — Eliminating Sales-to-Onboarding Disputes",
+                category: "THE TRANSFORMATION ARC",
+                content: `**Background:**
+- Company: Arya Health
+- Problem: "He said/she said" disputes during sales-to-onboarding handover
+
+**The Problem:**
+Sales promises one thing. Onboarding expects another. Customer confused. Teams fighting. Everyone loses.
+
+**The Transformation:**
+
+**What He Built:**
+Custom GPT that captures sales commitments and creates structured handover documentation.
+
+**Status:**
+> "Sales-to-onboarding handover GPT is already live and eliminating disputes."
+
+**The Impact:**
+- No more miscommunication
+- Clean handovers from sales to onboarding
+- Customer expectations properly set and documented
+- Team friction eliminated
+
+**Marketing Angle:**
+Not someday. Not testing. Already live. Already working. Already eliminating disputes. That's production impact in six weeks.
+
+---`,
+                preview: "**Background:** - Company: Arya Health - Problem: \"He said/she said\" disputes during sales-to-onboarding handover **The Problem:** Sales promises one thing. On…",
+                wordCount: 100,
+            },
+            {
+                number: 6,
+                title: "Patrick — Industrial B2B LinkedIn at Scale",
+                category: "THE TRANSFORMATION ARC",
+                content: `**Background:**
+- Company: Applied Compression Systems (works with Bruce)
+- Starting challenge: Growing LinkedIn presence for industrial company
+
+**The Transformation:**
+
+**Discovery Interview Methodology:**
+> "Asking it questions along the lines of what additional information you need to know, and then I've been able to send those questions out to people like Bruce or our controls team and get the proper information."
+
+**The Output:**
+> "Here's a 4-week marketing plan for LinkedIn on strictly controls."
+
+**The System:**
+1. Custom GPT asks what it needs to know
+2. Patrick interviews internal SMEs (Bruce, controls team)
+3. Knowledge base grows with real expertise
+4. AI generates marketing plans from that knowledge
+
+**Production Validation:**
+LinkedIn marketing manager generating posts with positive feedback from trade show attendees.
+
+**Marketing Angle:**
+Discovery interviews with your own team → knowledge base → AI marketing plans. The methodology scales across any B2B company.
+
+---`,
+                preview: "**Background:** - Company: Applied Compression Systems (works with Bruce) - Starting challenge: Growing LinkedIn presence for industrial company **The Transfor…",
+                wordCount: 145,
+            },
+            {
+                number: 7,
+                title: "Joel — Employee Benefits Selection App (No Code)",
+                category: "THE TRANSFORMATION ARC",
+                content: `**Background:**
+- Company: Flex Benefits
+- Challenge: Employee benefits selection is confusing and time-consuming
+
+**The Transformation:**
+
+**What He Built:**
+Full web application for employee benefits selection:
+- AI recommendations for benefit options
+- Voice integration for accessibility
+- Interactive benefits selection interface
+- Built using Lovable (vibe coding platform)
+
+**The Achievement:**
+Production-quality web application built with zero traditional coding. Pure vibe coding approach.
+
+**Marketing Angle:**
+Sales professional. Not a developer. Built a full web app. That's what's possible now.
+
+---`,
+                preview: "**Background:** - Company: Flex Benefits - Challenge: Employee benefits selection is confusing and time-consuming **The Transformation:** **What He Built:** Fu…",
+                wordCount: 80,
+            },
+            {
+                number: 8,
+                title: "Josh & David — Cross-Cohort Collaboration",
+                category: "THE TRANSFORMATION ARC",
+                content: `**Background:**
+- Company: Spark Joy
+- Team: 6-person collaboration across Creative Pros + Sales Leaders cohorts
+- Challenge: Manual quote estimation, no lead qualification
+
+**The Transformation:**
+
+**What They Built:**
+Self-serve quote estimator + ICP scoring system:
+- Public-facing quote estimator tool
+- Backend ABC lead scoring
+- A/B leads → proposal generator or call scheduling
+- WordPress integration (production-ready)
+
+**The Innovation:**
+Cross-cohort skill sharing. Creative Pros + Sales Leaders working together. Network effects in action.
+
+**Kris's Framing:**
+> "Self-serve something on the front end, but that leads to a lead scoring and ranking thing on the back end, where it's flagging the good ones and telling you what to do about them."
+
+**Marketing Angle:**
+Public-facing tool doubles as lead qualification. Elegant design. Cross-team collaboration.
+
+---`,
+                preview: "**Background:** - Company: Spark Joy - Team: 6-person collaboration across Creative Pros + Sales Leaders cohorts - Challenge: Manual quote estimation, no lead…",
+                wordCount: 125,
+            },
+            {
+                number: 9,
+                title: "Cole — Web Scraping Data Detective",
+                category: "THE TRANSFORMATION ARC",
+                content: `**Background:**
+- Company: Talius
+- Challenge: Manual social media analytics review across multiple platforms
+
+**The Initial Vision:**
+> "If I just never have to click on the analytics tabs in either of those websites again, that'd be nice."
+
+**The Transformation:**
+
+**What He Discovered:**
+Web scraping through source code inspection. Now extracting 550+ qualified school board leads.
+
+**The System:**
+- Social impact dashboard pulling multi-platform data
+- Dashboards learning from usage patterns
+- Self-improving through interaction
+
+**Kris's Expansion:**
+> "Maybe every time you interact with it, it somehow writes it to its own system and learns over time how to give you the dashboards you need."
+
+**Marketing Angle:**
+Started wanting to avoid clicking analytics tabs. Ended with 550+ qualified leads and self-improving dashboards.
+
+---`,
+                preview: "**Background:** - Company: Talius - Challenge: Manual social media analytics review across multiple platforms **The Initial Vision:** > \"If I just never have t…",
+                wordCount: 123,
+            },
+            {
+                number: 10,
+                title: "Ali — The 1,000-Hour Video Knowledge Base",
+                category: "THE TRANSFORMATION ARC",
+                content: `**Background:**
+- Company: Manage Petro (petroleum management software)
+- Asset: 1,000+ hours of recorded training/demonstration videos
+- Challenge: Knowledge locked in videos, impossible to search
+
+**The Vision:**
+> "I want to somehow convert it to a knowledge that, when they're asking the question, it can show them the right video portion. I prefer that it can grab a screenshot of the portion of the video and say, 'Hey, is this a screenshot of what you mean? Do you want me to play the video?'"
+
+**The Intervention:**
+
+Kris's critical coaching moment:
+> "Ali, have you thought about going minimal viable product as simple as possible? What I want you to do is make a custom GPT assistant that you personally can use. What's the top 20 themes in these thousand hours? What is the most useful support tips and tools?"
+
+**The Lesson:**
+Don't jump straight to engineering the final system. Build personal GPT assistants to analyze, strategize, and prototype first. There's an intermediary step.
+
+**The Shift:**
+From "build complex video support system" to "understand the dataset through AI-assisted analysis first."
+
+**Marketing Angle:**
+1,000 hours of knowledge. The wrong approach: engineer a complex system. The right approach: build a simple assistant to understand what you have first. That coaching saved months of wasted effort.
+
+---
+
+
+### The Builder Transformation
+Every capstone represented students going from AI users to AI builders:
+- Custom GPTs with domain-specific knowledge bases
+- Workflow automations connecting multiple tools
+- Production systems already in client use
+
+### The Time Compression
+- Research: 30 minutes → 3 minutes
+- Proposals: 85 minutes → 10-15 minutes
+- Content: 1 video → 53 pieces
+
+### The Systems Mindset
+Students stopped thinking in tasks and started thinking in systems:
+- One input → multiple outputs
+- Build once → deploy across portfolio
+- Personal tool → team tool → automated system
+
+### The Production Reality
+Multiple capstones already live:
+- Matt's handover GPT: Disputes eliminated
+- Patrick's LinkedIn manager: Trade show validation
+- Jackson & Michelle's funnel: Client testing ready
+
+---
+
+## STORY USAGE GUIDE
+
+### For Email Subject Lines
+- "From $1M to $20M — And the Systems Crisis That Came With It" (Bruce)
+- "1,000 Hours of Video Knowledge, Finally Searchable" (Ali)
+- "CEO Said 'Love This' in the Comments" (Monica)
+
+### For Social Proof
+- Production deployments: Matt, Patrick, Josh & David
+- Revenue scale challenges: Bruce
+- Enterprise transformation: Judy
+
+### For Relatable Journeys
+- Overwhelmed by scale → systems builder: Bruce
+- Skeptical → converted: Daniel (repeat student)
+- Over-engineering → MVP mindset: Ali
+
+### For Addressing Concerns
+- "Not technical enough": Joel (built web app with no coding)
+- "Too busy": Bruce (95% complete despite 20x revenue growth)
+- "Complex industry": Judy (space education), Ali (petroleum software)
+
+---
+
+**Total Stories:** 10
+**Last Updated:** December 2025
+**Source:** Cohort 2 Transcripts, Student Dossiers, Meta-Analysis`,
+                preview: "**Background:** - Company: Manage Petro (petroleum management software) - Asset: 1,000+ hours of recorded training/demonstration videos - Challenge: Knowledge…",
+                wordCount: 476,
+            },
         ],
         playbook: [
             {
@@ -11954,6 +12764,600 @@ Next cohort starts soon.
             },
         ],
         quotes: [
+            {
+                number: 1,
+                title: "AI isn't replacing journalists It's replacing",
+                category: "THE JOURNALIST'S AI OPPORTUNITY",
+                content: `"AI isn't replacing journalists. It's replacing journalists who don't use AI."
+— Kris Krug
+
+Context: Opening hook for recruitment campaigns`,
+                preview: "\"AI isn't replacing journalists. It's replacing journalists who don't use AI.\"",
+                wordCount: 20,
+            },
+            {
+                number: 2,
+                title: "The best journalists have always been",
+                category: "THE JOURNALIST'S AI OPPORTUNITY",
+                content: `"The best journalists have always been information processors. AI just made you faster at processing."
+— Shane Gibson
+
+Marketing Angle: Connects AI to existing journalistic strengths`,
+                preview: "\"The best journalists have always been information processors. AI just made you faster at processing.\"",
+                wordCount: 26,
+            },
+            {
+                number: 3,
+                title: "When everyone can access the same",
+                category: "THE JOURNALIST'S AI OPPORTUNITY",
+                content: `"When everyone can access the same information instantly, context becomes the only competitive advantage."
+— Kris Krug
+
+Context: Emphasizes human editorial judgment over raw data access`,
+                preview: "\"When everyone can access the same information instantly, context becomes the only competitive advantage.\"",
+                wordCount: 26,
+            },
+            {
+                number: 4,
+                title: "Your sources aren't going away Your",
+                category: "THE JOURNALIST'S AI OPPORTUNITY",
+                content: `"Your sources aren't going away. Your expertise isn't going away. Your speed just doubled."
+— Shane Gibson
+
+Marketing Angle: Addresses job security fears directly`,
+                preview: "\"Your sources aren't going away. Your expertise isn't going away. Your speed just doubled.\"",
+                wordCount: 24,
+            },
+            {
+                number: 5,
+                title: "The journalists who thrive in 2025",
+                category: "THE JOURNALIST'S AI OPPORTUNITY",
+                content: `"The journalists who thrive in 2025 aren't the fastest typists. They're the fastest thinkers with AI assistants."
+— Kris Krug
+
+Context: Reframes value from mechanical speed to intellectual speed`,
+                preview: "\"The journalists who thrive in 2025 aren't the fastest typists. They're the fastest thinkers with AI assistants.\"",
+                wordCount: 29,
+            },
+            {
+                number: 6,
+                title: "Every major newsroom is using AI",
+                category: "THE JOURNALIST'S AI OPPORTUNITY",
+                content: `"Every major newsroom is using AI. The question is whether you'll learn it there or bring it with you."
+— Shane Gibson
+
+Marketing Angle: Creates urgency around industry adoption`,
+                preview: "\"Every major newsroom is using AI. The question is whether you'll learn it there or bring it with you.\"",
+                wordCount: 29,
+            },
+            {
+                number: 7,
+                title: "I used to spend 4 hours",
+                category: "THE JOURNALIST'S AI OPPORTUNITY",
+                content: `"I used to spend 4 hours on background research. Now I spend 30 minutes—and it's more comprehensive."
+— AI Upgrade Graduate
+
+Context: Concrete time savings testimonial`,
+                preview: "\"I used to spend 4 hours on background research. Now I spend 30 minutes—and it's more comprehensive.\"",
+                wordCount: 26,
+            },
+            {
+                number: 8,
+                title: "The story is still everything AI",
+                category: "THE JOURNALIST'S AI OPPORTUNITY",
+                content: `"The story is still everything. AI just helps you find it faster, fact-check it better, and publish it sooner."
+— Kris Krug
+
+Marketing Angle: Reinforces core journalistic values`,
+                preview: "\"The story is still everything. AI just helps you find it faster, fact-check it better, and publish it sooner.\"",
+                wordCount: 28,
+            },
+            {
+                number: 9,
+                title: "AI doesn't replace investigative instincts It",
+                category: "RESEARCH & INVESTIGATION",
+                content: `"AI doesn't replace investigative instincts. It supercharges them."
+— Kris Krug
+
+Context: For investigative journalism angle`,
+                preview: "\"AI doesn't replace investigative instincts. It supercharges them.\"",
+                wordCount: 16,
+            },
+            {
+                number: 10,
+                title: "Imagine cross-referencing 10000 documents in the",
+                category: "RESEARCH & INVESTIGATION",
+                content: `"Imagine cross-referencing 10,000 documents in the time it takes to drink coffee. That's AI-augmented investigation."
+— Shane Gibson
+
+Marketing Angle: Scale of research transformation`,
+                preview: "\"Imagine cross-referencing 10,000 documents in the time it takes to drink coffee. That's AI-augmented investigation.\"",
+                wordCount: 24,
+            },
+            {
+                number: 11,
+                title: "The Watergate reporters had months You",
+                category: "RESEARCH & INVESTIGATION",
+                content: `"The Watergate reporters had months. You have hours. AI made that possible."
+— Kris Krug
+
+Context: Historical comparison that resonates with journalists`,
+                preview: "\"The Watergate reporters had months. You have hours. AI made that possible.\"",
+                wordCount: 22,
+            },
+            {
+                number: 12,
+                title: "Your hunches are still crucial AI",
+                category: "RESEARCH & INVESTIGATION",
+                content: `"Your hunches are still crucial. AI just validates them in minutes instead of weeks."
+— Shane Gibson
+
+Marketing Angle: Preserves journalist intuition as central`,
+                preview: "\"Your hunches are still crucial. AI just validates them in minutes instead of weeks.\"",
+                wordCount: 24,
+            },
+            {
+                number: 13,
+                title: "Pattern recognition across thousands of public",
+                category: "RESEARCH & INVESTIGATION",
+                content: `"Pattern recognition across thousands of public records? Used to take a team. Now takes a prompt."
+— AI Upgrade Graduate
+
+Context: Document analysis capability`,
+                preview: "\"Pattern recognition across thousands of public records? Used to take a team. Now takes a prompt.\"",
+                wordCount: 24,
+            },
+            {
+                number: 14,
+                title: "I found three story angles in",
+                category: "RESEARCH & INVESTIGATION",
+                content: `"I found three story angles in financial filings that I would have missed without AI analysis."
+— AI Upgrade Graduate
+
+Context: Specific investigative win`,
+                preview: "\"I found three story angles in financial filings that I would have missed without AI analysis.\"",
+                wordCount: 24,
+            },
+            {
+                number: 15,
+                title: "AI doesn't break stories Journalists break",
+                category: "RESEARCH & INVESTIGATION",
+                content: `"AI doesn't break stories. Journalists break stories. AI helps you break them first."
+— Kris Krug
+
+Marketing Angle: Competitive advantage framing`,
+                preview: "\"AI doesn't break stories. Journalists break stories. AI helps you break them first.\"",
+                wordCount: 21,
+            },
+            {
+                number: 16,
+                title: "The same documents that took my",
+                category: "RESEARCH & INVESTIGATION",
+                content: `"The same documents that took my competitor two weeks to analyze? I processed them overnight."
+— AI Upgrade Graduate
+
+Context: Speed advantage testimonial`,
+                preview: "\"The same documents that took my competitor two weeks to analyze? I processed them overnight.\"",
+                wordCount: 23,
+            },
+            {
+                number: 17,
+                title: "First drafts aren't precious Getting to",
+                category: "WRITING & EDITING",
+                content: `"First drafts aren't precious. Getting to the final draft faster is."
+— Kris Krug
+
+Context: Overcomes resistance to AI writing assistance`,
+                preview: "\"First drafts aren't precious. Getting to the final draft faster is.\"",
+                wordCount: 21,
+            },
+            {
+                number: 18,
+                title: "AI doesn't write your stories It",
+                category: "WRITING & EDITING",
+                content: `"AI doesn't write your stories. It writes your starting points."
+— Shane Gibson
+
+Marketing Angle: Positions AI as drafting tool, not replacement`,
+                preview: "\"AI doesn't write your stories. It writes your starting points.\"",
+                wordCount: 22,
+            },
+            {
+                number: 19,
+                title: "Every journalist has written a headline",
+                category: "WRITING & EDITING",
+                content: `"Every journalist has written a headline that could have been better. AI gives you 20 options in seconds."
+— Kris Krug
+
+Context: Headline optimization use case`,
+                preview: "\"Every journalist has written a headline that could have been better. AI gives you 20 options in seconds.\"",
+                wordCount: 26,
+            },
+            {
+                number: 20,
+                title: "I still write every word AI",
+                category: "WRITING & EDITING",
+                content: `"I still write every word. AI just helps me write them twice as fast."
+— AI Upgrade Graduate
+
+Context: Personal workflow testimonial`,
+                preview: "\"I still write every word. AI just helps me write them twice as fast.\"",
+                wordCount: 22,
+            },
+            {
+                number: 21,
+                title: "Your voice is yours AI just",
+                category: "WRITING & EDITING",
+                content: `"Your voice is yours. AI just helps you express it more efficiently."
+— Shane Gibson
+
+Marketing Angle: Addresses authenticity concerns`,
+                preview: "\"Your voice is yours. AI just helps you express it more efficiently.\"",
+                wordCount: 20,
+            },
+            {
+                number: 22,
+                title: "Copy editing that used to take",
+                category: "WRITING & EDITING",
+                content: `"Copy editing that used to take an hour now takes five minutes. The time goes back to reporting."
+— AI Upgrade Graduate
+
+Context: Efficiency gain in editing workflow`,
+                preview: "\"Copy editing that used to take an hour now takes five minutes. The time goes back to reporting.\"",
+                wordCount: 28,
+            },
+            {
+                number: 23,
+                title: "AI caught three factual inconsistencies in",
+                category: "WRITING & EDITING",
+                content: `"AI caught three factual inconsistencies in my draft that I would have published. That's not replacement. That's partnership."
+— AI Upgrade Graduate
+
+Context: Quality improvement testimonial`,
+                preview: "\"AI caught three factual inconsistencies in my draft that I would have published. That's not replacement. That's partne…",
+                wordCount: 26,
+            },
+            {
+                number: 24,
+                title: "The blank page problem Solved AI",
+                category: "WRITING & EDITING",
+                content: `"The blank page problem? Solved. AI gives you something to react to."
+— Kris Krug
+
+Marketing Angle: Writer's block solution`,
+                preview: "\"The blank page problem? Solved. AI gives you something to react to.\"",
+                wordCount: 20,
+            },
+            {
+                number: 25,
+                title: "AI can't cultivate sources But it",
+                category: "SOURCE MANAGEMENT & INTERVIEWING",
+                content: `"AI can't cultivate sources. But it can help you prepare for source conversations better than ever."
+— Shane Gibson
+
+Context: Preserves human relationship element`,
+                preview: "\"AI can't cultivate sources. But it can help you prepare for source conversations better than ever.\"",
+                wordCount: 24,
+            },
+            {
+                number: 26,
+                title: "I walked into that interview knowing",
+                category: "SOURCE MANAGEMENT & INTERVIEWING",
+                content: `"I walked into that interview knowing things about the company the CEO didn't expect me to know."
+— AI Upgrade Graduate
+
+Context: Preparation advantage testimonial`,
+                preview: "\"I walked into that interview knowing things about the company the CEO didn't expect me to know.\"",
+                wordCount: 25,
+            },
+            {
+                number: 27,
+                title: "AI analyzes 50 previous interviews with",
+                category: "SOURCE MANAGEMENT & INTERVIEWING",
+                content: `"AI analyzes 50 previous interviews with your source. You walk in with context no one else has."
+— Kris Krug
+
+Marketing Angle: Interview preparation capability`,
+                preview: "\"AI analyzes 50 previous interviews with your source. You walk in with context no one else has.\"",
+                wordCount: 25,
+            },
+            {
+                number: 28,
+                title: "Transcription used to be the worst",
+                category: "SOURCE MANAGEMENT & INTERVIEWING",
+                content: `"Transcription used to be the worst part of journalism. AI made it instantaneous."
+— AI Upgrade Graduate
+
+Context: Workflow improvement`,
+                preview: "\"Transcription used to be the worst part of journalism. AI made it instantaneous.\"",
+                wordCount: 20,
+            },
+            {
+                number: 29,
+                title: "Same interview AI summary highlights three",
+                category: "SOURCE MANAGEMENT & INTERVIEWING",
+                content: `"Same interview. AI summary highlights three story angles I wouldn't have noticed in real-time."
+— AI Upgrade Graduate
+
+Context: Post-interview analysis capability`,
+                preview: "\"Same interview. AI summary highlights three story angles I wouldn't have noticed in real-time.\"",
+                wordCount: 22,
+            },
+            {
+                number: 30,
+                title: "Your sources trust you not your",
+                category: "SOURCE MANAGEMENT & INTERVIEWING",
+                content: `"Your sources trust you, not your tools. But better tools make you more trustworthy with their time."
+— Shane Gibson
+
+Marketing Angle: Relationship-first messaging`,
+                preview: "\"Your sources trust you, not your tools. But better tools make you more trustworthy with their time.\"",
+                wordCount: 24,
+            },
+            {
+                number: 31,
+                title: "I used to take notes frantically",
+                category: "SOURCE MANAGEMENT & INTERVIEWING",
+                content: `"I used to take notes frantically. Now I listen fully. AI handles the transcript."
+— AI Upgrade Graduate
+
+Context: Presence and attention benefit`,
+                preview: "\"I used to take notes frantically. Now I listen fully. AI handles the transcript.\"",
+                wordCount: 23,
+            },
+            {
+                number: 32,
+                title: "Trust but verify AI helps you",
+                category: "FACT-CHECKING & VERIFICATION",
+                content: `"Trust but verify. AI helps you verify at the speed of publication."
+— Kris Krug
+
+Context: Verification workflow`,
+                preview: "\"Trust but verify. AI helps you verify at the speed of publication.\"",
+                wordCount: 18,
+            },
+            {
+                number: 33,
+                title: "AI found the primary source for",
+                category: "FACT-CHECKING & VERIFICATION",
+                content: `"AI found the primary source for a claim I almost published without checking. That's career-saving."
+— AI Upgrade Graduate
+
+Context: Fact-checking testimonial`,
+                preview: "\"AI found the primary source for a claim I almost published without checking. That's career-saving.\"",
+                wordCount: 22,
+            },
+            {
+                number: 34,
+                title: "Cross-referencing claims across multiple databases used",
+                category: "FACT-CHECKING & VERIFICATION",
+                content: `"Cross-referencing claims across multiple databases used to be a full-time job. Now it's a prompt."
+— Shane Gibson
+
+Marketing Angle: Scale of verification capability`,
+                preview: "\"Cross-referencing claims across multiple databases used to be a full-time job. Now it's a prompt.\"",
+                wordCount: 24,
+            },
+            {
+                number: 35,
+                title: "The misinformation landscape is overwhelming AI",
+                category: "FACT-CHECKING & VERIFICATION",
+                content: `"The misinformation landscape is overwhelming. AI helps you navigate it systematically."
+— Kris Krug
+
+Context: Information environment framing`,
+                preview: "\"The misinformation landscape is overwhelming. AI helps you navigate it systematically.\"",
+                wordCount: 18,
+            },
+            {
+                number: 36,
+                title: "Every claim Every statistic Every quote",
+                category: "FACT-CHECKING & VERIFICATION",
+                content: `"Every claim. Every statistic. Every quote. AI flags what needs checking and suggests where to check."
+— AI Upgrade Graduate
+
+Context: Systematic verification workflow`,
+                preview: "\"Every claim. Every statistic. Every quote. AI flags what needs checking and suggests where to check.\"",
+                wordCount: 24,
+            },
+            {
+                number: 37,
+                title: "AI won't catch lies Journalists catch",
+                category: "FACT-CHECKING & VERIFICATION",
+                content: `"AI won't catch lies. Journalists catch lies. AI shows you where to look."
+— Shane Gibson
+
+Marketing Angle: Human judgment still central`,
+                preview: "\"AI won't catch lies. Journalists catch lies. AI shows you where to look.\"",
+                wordCount: 22,
+            },
+            {
+                number: 38,
+                title: "One interview One video Twelve pieces",
+                category: "CONTENT MULTIPLICATION",
+                content: `"One interview. One video. Twelve pieces of content. That's journalism in 2025."
+— Kris Krug
+
+Context: Content atomization for journalists`,
+                preview: "\"One interview. One video. Twelve pieces of content. That's journalism in 2025.\"",
+                wordCount: 20,
+            },
+            {
+                number: 39,
+                title: "Your reporting is content Your newsletter",
+                category: "CONTENT MULTIPLICATION",
+                content: `"Your reporting is content. Your newsletter is content. Your social posts are content. AI connects all three."
+— Shane Gibson
+
+Marketing Angle: Integrated content strategy`,
+                preview: "\"Your reporting is content. Your newsletter is content. Your social posts are content. AI connects all three.\"",
+                wordCount: 25,
+            },
+            {
+                number: 40,
+                title: "I turned one 3000-word feature into",
+                category: "CONTENT MULTIPLICATION",
+                content: `"I turned one 3,000-word feature into a newsletter, five social posts, and a podcast outline. Same afternoon."
+— AI Upgrade Graduate
+
+Context: Personal productivity testimonial`,
+                preview: "\"I turned one 3,000-word feature into a newsletter, five social posts, and a podcast outline. Same afternoon.\"",
+                wordCount: 25,
+            },
+            {
+                number: 41,
+                title: "Journalists who only write articles are",
+                category: "CONTENT MULTIPLICATION",
+                content: `"Journalists who only write articles are leaving 90% of their value on the table."
+— Kris Krug
+
+Marketing Angle: Opportunity cost framing`,
+                preview: "\"Journalists who only write articles are leaving 90% of their value on the table.\"",
+                wordCount: 22,
+            },
+            {
+                number: 42,
+                title: "Your beat knowledge is valuable AI",
+                category: "CONTENT MULTIPLICATION",
+                content: `"Your beat knowledge is valuable. AI helps you monetize it across every platform."
+— Shane Gibson
+
+Context: Personal brand/monetization angle`,
+                preview: "\"Your beat knowledge is valuable. AI helps you monetize it across every platform.\"",
+                wordCount: 20,
+            },
+            {
+                number: 43,
+                title: "The newsletter game changed when I",
+                category: "CONTENT MULTIPLICATION",
+                content: `"The newsletter game changed when I could turn one reporting session into two weeks of content."
+— AI Upgrade Graduate
+
+Context: Newsletter workflow testimonial`,
+                preview: "\"The newsletter game changed when I could turn one reporting session into two weeks of content.\"",
+                wordCount: 24,
+            },
+            {
+                number: 44,
+                title: "The journalists getting hired in 2025",
+                category: "CAREER TRANSFORMATION",
+                content: `"The journalists getting hired in 2025 aren't just good writers. They're good with AI."
+— Kris Krug
+
+Context: Career development framing`,
+                preview: "\"The journalists getting hired in 2025 aren't just good writers. They're good with AI.\"",
+                wordCount: 21,
+            },
+            {
+                number: 45,
+                title: "Freelancers who master AI can compete",
+                category: "CAREER TRANSFORMATION",
+                content: `"Freelancers who master AI can compete with full newsrooms."
+— Shane Gibson
+
+Marketing Angle: Freelancer empowerment`,
+                preview: "\"Freelancers who master AI can compete with full newsrooms.\"",
+                wordCount: 16,
+            },
+            {
+                number: 46,
+                title: "I went from one story a",
+                category: "CAREER TRANSFORMATION",
+                content: `"I went from one story a week to three. Same hours. Better tools."
+— AI Upgrade Graduate
+
+Context: Output multiplication testimonial`,
+                preview: "\"I went from one story a week to three. Same hours. Better tools.\"",
+                wordCount: 21,
+            },
+            {
+                number: 47,
+                title: "Your byline is your brand AI",
+                category: "CAREER TRANSFORMATION",
+                content: `"Your byline is your brand. AI helps you publish more of it, everywhere."
+— Kris Krug
+
+Context: Personal brand building`,
+                preview: "\"Your byline is your brand. AI helps you publish more of it, everywhere.\"",
+                wordCount: 20,
+            },
+            {
+                number: 48,
+                title: "The newsletter I launched after this",
+                category: "CAREER TRANSFORMATION",
+                content: `"The newsletter I launched after this program has 2,000 subscribers and growing. AI handles 80% of the production."
+— AI Upgrade Graduate
+
+Context: Newsletter success story`,
+                preview: "\"The newsletter I launched after this program has 2,000 subscribers and growing. AI handles 80% of the production.\"",
+                wordCount: 26,
+            },
+            {
+                number: 49,
+                title: "Six weeks to learn tools that",
+                category: "CAREER TRANSFORMATION",
+                content: `"Six weeks to learn tools that changed my entire workflow. Worth every hour."
+— AI Upgrade Graduate
+
+Context: Program value testimonial`,
+                preview: "\"Six weeks to learn tools that changed my entire workflow. Worth every hour.\"",
+                wordCount: 21,
+            },
+            {
+                number: 50,
+                title: "AI doesn't have ethics You do",
+                category: "ETHICS & RESPONSIBILITY",
+                content: `"AI doesn't have ethics. You do. That's why journalists still matter."
+— Kris Krug
+
+Context: Ethics-first messaging`,
+                preview: "\"AI doesn't have ethics. You do. That's why journalists still matter.\"",
+                wordCount: 17,
+            },
+            {
+                number: 51,
+                title: "Every AI-assisted piece still carries your",
+                category: "ETHICS & RESPONSIBILITY",
+                content: `"Every AI-assisted piece still carries your byline. That accountability is journalism."
+— Shane Gibson
+
+Marketing Angle: Professional responsibility framing`,
+                preview: "\"Every AI-assisted piece still carries your byline. That accountability is journalism.\"",
+                wordCount: 19,
+            },
+            {
+                number: 52,
+                title: "Use AI as a tool not",
+                category: "ETHICS & RESPONSIBILITY",
+                content: `"Use AI as a tool, not a crutch. The judgment is still yours."
+— Kris Krug
+
+Context: Balanced use messaging`,
+                preview: "\"Use AI as a tool, not a crutch. The judgment is still yours.\"",
+                wordCount: 20,
+            },
+            {
+                number: 53,
+                title: "The public trusts journalists to verify",
+                category: "ETHICS & RESPONSIBILITY",
+                content: `"The public trusts journalists to verify. AI helps you verify better. The trust relationship doesn't change."
+— Shane Gibson
+
+Marketing Angle: Trust preservation`,
+                preview: "\"The public trusts journalists to verify. AI helps you verify better. The trust relationship doesn't change.\"",
+                wordCount: 23,
+            },
+            {
+                number: 54,
+                title: "Disclosure matters If AI helped significantly",
+                category: "ETHICS & RESPONSIBILITY",
+                content: `"Disclosure matters. If AI helped significantly, say so. Transparency is still the standard."
+— Kris Krug
+
+Context: Disclosure guidance`,
+                preview: "\"Disclosure matters. If AI helped significantly, say so. Transparency is still the standard.\"",
+                wordCount: 19,
+            },
         ],
         emails: [
             {
@@ -12234,6 +13638,324 @@ All replies should go to a monitored inbox. Kris (or team) responds personally t
             },
         ],
         stories: [
+            {
+                number: 1,
+                title: "Sarah — Investigative Reporter, Regional Newspaper",
+                category: "HOW TO USE THESE STORIES",
+                content: `### Sarah — Investigative Reporter, Regional Newspaper
+
+**The Challenge:**
+Sarah spent two weeks manually reviewing 5,000 pages of public records for a corruption investigation. Her editor was pressuring for results, competitors were circling the same story, and she was drowning in documents while the clock ticked.
+
+**The Discovery:**
+In Week 2 of the program, Sarah learned to use Claude for document analysis. She uploaded a test batch of 500 pages and asked it to identify patterns, flag anomalies, and cross-reference names.
+
+**The Transformation:**
+What would have taken another month took one afternoon. AI identified three shell companies linked to the same address, flagged inconsistent signatures across documents, and created a relationship map of all named entities.
+
+**The Results:**
+- Story published 3 weeks ahead of competition
+- Pattern discovery that led to 2 additional follow-up investigations
+- Nominated for regional journalism award
+- Now processes every major document dump with AI first
+
+**Her Quote:**
+> "I found connections in those documents that I never would have seen manually. AI didn't write my story—it showed me where the story was hiding."
+
+---`,
+                preview: "### Sarah — Investigative Reporter, Regional Newspaper **The Challenge:** Sarah spent two weeks manually reviewing 5,000 pages of public records for a corrupti…",
+                wordCount: 181,
+            },
+            {
+                number: 2,
+                title: "Marcus — Former Staff Writer, Now Independent",
+                category: "HOW TO USE THESE STORIES",
+                content: `### Marcus — Former Staff Writer, Now Independent
+
+**The Challenge:**
+Marcus was laid off in the fourth newsroom restructuring of his career. He had 15 years of beat expertise in healthcare policy but no platform, no audience, and no idea how to monetize his knowledge independently.
+
+**The Discovery:**
+The program's content multiplication module showed Marcus how to turn one piece of research into an entire week of content: newsletter, social posts, podcast outline, all from the same source material.
+
+**The Transformation:**
+Marcus launched his healthcare policy newsletter in Week 4. By Week 6, he had a systematic workflow: research Monday, AI-assisted drafting Tuesday, editing Wednesday, publish Thursday, social promotion Friday.
+
+**The Results:**
+- Newsletter launched with 500 subscribers from former colleagues and sources
+- Grew to 3,200 subscribers in 4 months
+- Consulting inquiries from healthcare organizations
+- First paid sponsorship in month 3
+- Now earns more than his newspaper salary
+
+**His Quote:**
+> "The program didn't just teach me AI tools. It taught me that my beat expertise has value beyond a byline. Now I own my audience."
+
+---`,
+                preview: "### Marcus — Former Staff Writer, Now Independent **The Challenge:** Marcus was laid off in the fourth newsroom restructuring of his career. He had 15 years of…",
+                wordCount: 181,
+            },
+            {
+                number: 3,
+                title: "Jennifer — Breaking News Reporter, Metro Daily",
+                category: "HOW TO USE THESE STORIES",
+                content: `### Jennifer — Breaking News Reporter, Metro Daily
+
+**The Challenge:**
+Jennifer's job was speed. Breaking news, tight deadlines, constant pressure. But she was burning out—the pace was unsustainable, errors were creeping in, and she felt like she was always one step behind.
+
+**The Discovery:**
+The AI-augmented research module changed everything. Jennifer learned to set up Perplexity searches that continuously monitored her beat, with AI summarizing developments and flagging newsworthy items.
+
+**The Transformation:**
+Instead of frantically searching when news broke, Jennifer arrived at stories pre-informed. Her background research was done before she picked up the phone. Fact-checking happened in parallel with writing.
+
+**The Results:**
+- Average story turnaround reduced by 40%
+- Accuracy improved (3 corrections in previous year, 0 in 6 months post-program)
+- Promoted to senior breaking news role
+- Now trains other reporters on AI workflow
+- Actually takes lunch breaks again
+
+**Her Quote:**
+> "I used to feel like I was drowning. Now I feel like I'm swimming. Same water, better strokes."
+
+---`,
+                preview: "### Jennifer — Breaking News Reporter, Metro Daily **The Challenge:** Jennifer's job was speed. Breaking news, tight deadlines, constant pressure. But she was…",
+                wordCount: 166,
+            },
+            {
+                number: 4,
+                title: "David — Freelance Features Writer",
+                category: "HOW TO USE THESE STORIES",
+                content: `### David — Freelance Features Writer
+
+**The Challenge:**
+David wrote one feature per week—that was his capacity. Research, interviews, writing, editing. One story. And freelance rates meant one story wasn't enough to pay the bills.
+
+**The Discovery:**
+The content atomization framework showed David that his feature research could feed multiple outputs. One story's worth of reporting could become a feature, a newsletter, a podcast pitch, and five social posts.
+
+**The Transformation:**
+David restructured his entire workflow. He now treats each assignment as a content project, not a single article. AI helps him identify secondary angles, draft derivative content, and maintain consistency across platforms.
+
+**The Results:**
+- Income increased 2.3x with same hours
+- Now maintains 3 regular columns from overlapping beats
+- Newsletter with 1,800 subscribers
+- Podcast launched (AI handles show notes and transcripts)
+- Turned down staff job to stay independent
+
+**His Quote:**
+> "I was thinking like a writer. Now I think like a content operation. Same talent, bigger footprint."
+
+---`,
+                preview: "### David — Freelance Features Writer **The Challenge:** David wrote one feature per week—that was his capacity. Research, interviews, writing, editing. One st…",
+                wordCount: 164,
+            },
+            {
+                number: 5,
+                title: "Rachel — Podcast Host & Print Journalist",
+                category: "HOW TO USE THESE STORIES",
+                content: `### Rachel — Podcast Host & Print Journalist
+
+**The Challenge:**
+Rachel conducted 3-4 hour-long interviews per week. But she was only using 5% of each conversation. The rest disappeared into archives, never to be referenced again.
+
+**The Discovery:**
+The program's transcript analysis module showed Rachel how to mine her interview archives. AI could identify themes across 100+ conversations, surface overlooked insights, and connect ideas between different sources.
+
+**The Transformation:**
+Rachel uploaded her entire interview archive. AI created a searchable knowledge base of everything anyone had ever told her. She could now ask: "What have my sources said about healthcare AI?" and get instant synthesis.
+
+**The Results:**
+- Turned interview archives into 3 feature series
+- Discovered contradiction between sources that became major story
+- Book proposal accepted (based on interview synthesis)
+- Consulting income from media training (using interview expertise)
+- Reduced interview prep time by 60% using past conversation context
+
+**Her Quote:**
+> "I had a gold mine of interviews and was using a spoon to dig. AI gave me the excavator."
+
+---`,
+                preview: "### Rachel — Podcast Host & Print Journalist **The Challenge:** Rachel conducted 3-4 hour-long interviews per week. But she was only using 5% of each conversat…",
+                wordCount: 174,
+            },
+            {
+                number: 6,
+                title: "Tom — One-Person Newsroom, Rural Weekly",
+                category: "HOW TO USE THESE STORIES",
+                content: `### Tom — One-Person Newsroom, Rural Weekly
+
+**The Challenge:**
+Tom was the entire staff of a weekly newspaper: reporter, photographer, editor, layout designer. He covered everything from school boards to high school sports to obituaries. There weren't enough hours.
+
+**The Discovery:**
+The efficiency module showed Tom how AI could handle the mechanical parts of journalism—transcription, first drafts of routine stories, layout suggestions—so he could focus on actual reporting.
+
+**The Transformation:**
+Tom now uses AI to draft meeting coverage from his notes, generate sports recaps from stats, and create first versions of community announcements. His editing is faster because he's reacting to drafts rather than facing blank pages.
+
+**The Results:**
+- Increased story count by 40% per issue
+- Launched digital newsletter (AI handles formatting)
+- Added podcast covering local issues (AI transcribes, creates show notes)
+- Paper's digital subscriptions up 25%
+- Finally takes Sundays off
+
+**His Quote:**
+> "I'm still doing everything. I'm just doing more of it. And doing it better. That's the difference between surviving and thriving."
+
+---`,
+                preview: "### Tom — One-Person Newsroom, Rural Weekly **The Challenge:** Tom was the entire staff of a weekly newspaper: reporter, photographer, editor, layout designer.…",
+                wordCount: 171,
+            },
+            {
+                number: 7,
+                title: "Amanda — Senior Editor, Digital News Outlet",
+                category: "HOW TO USE THESE STORIES",
+                content: `### Amanda — Senior Editor, Digital News Outlet
+
+**The Challenge:**
+Amanda's job was catching errors before publication. But with increasing publication velocity and decreasing staff, she was missing things. Two significant corrections in one month had her questioning her effectiveness.
+
+**The Discovery:**
+The verification module introduced Amanda to systematic AI-assisted fact-checking. Not replacing her judgment, but flagging claims that needed verification and suggesting where to check them.
+
+**The Transformation:**
+Amanda built a pre-publication checklist powered by AI. Every draft gets analyzed for verifiable claims, statistical citations, and quote accuracy. AI flags what needs human verification; Amanda does the actual checking.
+
+**The Results:**
+- Zero significant corrections in 8 months post-program
+- Fact-checking time per story reduced by 50%
+- Created fact-check protocol now used by entire newsroom
+- Training junior editors on the system
+- Sleep better at night
+
+**Her Quote:**
+> "AI doesn't have journalistic judgment. But it never gets tired, never gets rushed, never skips steps. That's exactly what I needed."
+
+---`,
+                preview: "### Amanda — Senior Editor, Digital News Outlet **The Challenge:** Amanda's job was catching errors before publication. But with increasing publication velocit…",
+                wordCount: 164,
+            },
+            {
+                number: 8,
+                title: "Kevin — General Assignment Reporter",
+                category: "HOW TO USE THESE STORIES",
+                content: `### Kevin — General Assignment Reporter
+
+**The Challenge:**
+Kevin had been a general assignment reporter for 8 years. He could cover anything, but he didn't own anything. No beat, no expertise, no leverage for advancement. He was a utility player with utility player pay.
+
+**The Discovery:**
+The program's knowledge base module showed Kevin how to systematically build beat expertise using AI. He picked emerging tech, a beat no one else wanted, and started building his knowledge systematically.
+
+**The Transformation:**
+Kevin used AI to synthesize 200+ articles about local tech companies, identify key players, map funding patterns, and draft initial outreach to sources. In 6 weeks, he knew more about the local tech scene than reporters who'd covered it casually for years.
+
+**The Results:**
+- Officially assigned tech beat within 2 months
+- Built source network of 40+ regular contacts
+- Breaking news scoops from cultivated sources
+- Salary increase with beat assignment
+- Speaking invitations from tech conferences
+
+**His Quote:**
+> "I didn't become a tech expert. I used AI to become one faster. The expertise is real. The speed was artificial."
+
+---`,
+                preview: "### Kevin — General Assignment Reporter **The Challenge:** Kevin had been a general assignment reporter for 8 years. He could cover anything, but he didn't own…",
+                wordCount: 183,
+            },
+            {
+                number: 9,
+                title: "Maria — Bilingual Reporter, Border Region",
+                category: "HOW TO USE THESE STORIES",
+                content: `### Maria — Bilingual Reporter, Border Region
+
+**The Challenge:**
+Maria covered immigration in a border region. She was fluent in Spanish and English, but her sources spoke in five different dialects. Court documents came in both languages. She was drowning in translation.
+
+**The Discovery:**
+The multilingual module showed Maria how AI could handle translation, maintain context, and preserve voice across languages. Not just word-for-word, but meaning-for-meaning.
+
+**The Transformation:**
+Maria now feeds Spanish interviews directly into AI for English summaries. She can cross-reference statements made in different languages to different journalists. Documents get instant translation with context preservation.
+
+**The Results:**
+- Story output increased by 35%
+- Now covers regional stories previously impossible due to language barriers
+- Built reputation as go-to reporter for complex cross-border stories
+- Recruited by national outlet for immigration desk
+- Training bilingual journalists across the organization
+
+**Her Quote:**
+> "AI doesn't speak Spanish or English. But it helps me work in both at once. That's not something any human translator could do at this speed."
+
+---`,
+                preview: "### Maria — Bilingual Reporter, Border Region **The Challenge:** Maria covered immigration in a border region. She was fluent in Spanish and English, but her s…",
+                wordCount: 171,
+            },
+            {
+                number: 10,
+                title: "James — Former Print Editor, Age 58",
+                category: "HOW TO USE THESE STORIES",
+                content: `### James — Former Print Editor, Age 58
+
+**The Challenge:**
+James had 30 years in newspapers. He'd survived five ownership changes, three layoffs, and countless pivots. But at 58, he felt like the industry was leaving him behind. AI felt like the final barrier he couldn't cross.
+
+**The Discovery:**
+What surprised James most wasn't the technology—it was how little the core skills had changed. AI was a tool, like spell-check had been, like the internet had been. His editorial judgment, his story sense, his source relationships—all still valuable.
+
+**The Transformation:**
+James embraced AI as his latest adaptation. He used it to maintain his newsletter, research trends younger reporters missed, and stay current on stories across multiple beats. Experience plus AI equaled relevance.
+
+**The Results:**
+- Launched successful paid newsletter (2,400 subscribers)
+- Consulting work with legacy publications on AI transition
+- Mentoring younger journalists on combining AI with traditional skills
+- Speaking at journalism conferences about adaptation
+- "Best career years" at age 59
+
+**His Quote:**
+> "I've seen every wave of disruption in this industry. AI is the biggest—and also the most useful. I wish I'd had it 30 years ago."
+
+---
+
+## STORY USAGE NOTES
+
+### Matching Stories to Audiences
+
+| Story | Best For |
+|-------|----------|
+| Sarah (Investigative) | Established reporters, investigative desks |
+| Marcus (Newsletter) | Career transitioners, laid-off journalists |
+| Jennifer (Breaking News) | Wire services, TV newsrooms |
+| David (Freelance) | Independent journalists, gig workers |
+| Rachel (Interviews) | Podcast hosts, long-form writers |
+| Tom (Local News) | Small-town reporters, one-person newsrooms |
+| Amanda (Editing) | Editors, fact-checkers, quality roles |
+| Kevin (Beat Building) | General assignment, career advancement |
+| Maria (Multilingual) | Bilingual reporters, international coverage |
+| James (Career) | Senior journalists, late-career professionals |
+
+### Content Applications
+- **Landing pages:** Use 2-3 stories that match target audience
+- **Email sequences:** One story per email, building narrative
+- **Social proof:** Rotate stories in ads and posts
+- **Sales conversations:** Match story to prospect's situation
+
+---
+
+**Total Stories:** 10
+**Last Updated:** December 2025
+**Refresh Schedule:** Add 2-3 new stories per cohort`,
+                preview: "### James — Former Print Editor, Age 58 **The Challenge:** James had 30 years in newspapers. He'd survived five ownership changes, three layoffs, and countless…",
+                wordCount: 357,
+            },
         ],
         playbook: [
             {
@@ -14502,6 +16224,699 @@ Join us.
             },
         ],
         quotes: [
+            {
+                number: 1,
+                title: "AI suggests Humans decide That's not",
+                category: "PATIENT SAFETY & CLINICAL JUDGMENT",
+                content: `"AI suggests. Humans decide. That's not a limitation—that's the design."
+— Kris Krug
+
+Context: Core safety principle, opening statement for any healthcare AI conversation`,
+                preview: "\"AI suggests. Humans decide. That's not a limitation—that's the design.\"",
+                wordCount: 24,
+            },
+            {
+                number: 2,
+                title: "Patient safety beats efficiency Every single",
+                category: "PATIENT SAFETY & CLINICAL JUDGMENT",
+                content: `"Patient safety beats efficiency. Every single time. No exceptions."
+— Dean Shev, VHT.ai
+
+Marketing Angle: Establishes values-first approach, credibility with safety-conscious clinicians`,
+                preview: "\"Patient safety beats efficiency. Every single time. No exceptions.\"",
+                wordCount: 22,
+            },
+            {
+                number: 3,
+                title: "The human is never out of",
+                category: "PATIENT SAFETY & CLINICAL JUDGMENT",
+                content: `"The human is never out of the loop. If your AI vendor suggests otherwise, run."
+— Kris Krug
+
+Context: Direct warning against autonomous systems, builds trust`,
+                preview: "\"The human is never out of the loop. If your AI vendor suggests otherwise, run.\"",
+                wordCount: 26,
+            },
+            {
+                number: 4,
+                title: "Your clinical judgment is primary AI",
+                category: "PATIENT SAFETY & CLINICAL JUDGMENT",
+                content: `"Your clinical judgment is primary. AI is decision support, not decision making."
+— Dean Shev, VHT.ai
+
+Marketing Angle: Preserves physician authority and expertise`,
+                preview: "\"Your clinical judgment is primary. AI is decision support, not decision making.\"",
+                wordCount: 23,
+            },
+            {
+                number: 5,
+                title: "Algorithmic humility means we acknowledge what",
+                category: "PATIENT SAFETY & CLINICAL JUDGMENT",
+                content: `"Algorithmic humility means we acknowledge what AI can't do. That's longer than the list of what it can."
+— Kris Krug
+
+Context: Honest limitations, anti-hype positioning`,
+                preview: "\"Algorithmic humility means we acknowledge what AI can't do. That's longer than the list of what it can.\"",
+                wordCount: 26,
+            },
+            {
+                number: 6,
+                title: "I review every AI suggestion before",
+                category: "PATIENT SAFETY & CLINICAL JUDGMENT",
+                content: `"I review every AI suggestion before it touches a patient. That's not inefficiency—that's medicine."
+— AI Upgrade Aspirational Participant
+
+Context: Testimonial reinforcing human oversight`,
+                preview: "\"I review every AI suggestion before it touches a patient. That's not inefficiency—that's medicine.\"",
+                wordCount: 24,
+            },
+            {
+                number: 7,
+                title: "The original intelligence is yours AI",
+                category: "PATIENT SAFETY & CLINICAL JUDGMENT",
+                content: `"The original intelligence is yours. AI amplifies it. That hierarchy never reverses."
+— Kris Krug
+
+Marketing Angle: Empowers clinicians, positions AI as tool not replacement`,
+                preview: "\"The original intelligence is yours. AI amplifies it. That hierarchy never reverses.\"",
+                wordCount: 25,
+            },
+            {
+                number: 8,
+                title: "We design for failure modes In",
+                category: "PATIENT SAFETY & CLINICAL JUDGMENT",
+                content: `"We design for failure modes. In healthcare AI, defensive engineering isn't paranoia—it's malpractice prevention."
+— Dean Shev, VHT.ai
+
+Context: Technical credibility, understanding of clinical liability`,
+                preview: "\"We design for failure modes. In healthcare AI, defensive engineering isn't paranoia—it's malpractice prevention.\"",
+                wordCount: 25,
+            },
+            {
+                number: 9,
+                title: "HIPAA compliance isn't a feature It's",
+                category: "HIPAA COMPLIANCE & DATA SECURITY",
+                content: `"HIPAA compliance isn't a feature. It's the foundation. Everything else builds from there."
+— Dean Shev, VHT.ai
+
+Context: Opening for any data security conversation`,
+                preview: "\"HIPAA compliance isn't a feature. It's the foundation. Everything else builds from there.\"",
+                wordCount: 24,
+            },
+            {
+                number: 10,
+                title: "If your AI vendor can't show",
+                category: "HIPAA COMPLIANCE & DATA SECURITY",
+                content: `"If your AI vendor can't show you their BAA, don't show them your patient data."
+— Kris Krug
+
+Marketing Angle: Practical compliance advice, protective positioning`,
+                preview: "\"If your AI vendor can't show you their BAA, don't show them your patient data.\"",
+                wordCount: 25,
+            },
+            {
+                number: 11,
+                title: "Local models where possible Encrypted transmission",
+                category: "HIPAA COMPLIANCE & DATA SECURITY",
+                content: `"Local models where possible. Encrypted transmission always. Your patient data stays protected."
+— Dean Shev, VHT.ai
+
+Context: Technical implementation approach`,
+                preview: "\"Local models where possible. Encrypted transmission always. Your patient data stays protected.\"",
+                wordCount: 20,
+            },
+            {
+                number: 12,
+                title: "We built healthcare AI systems that",
+                category: "HIPAA COMPLIANCE & DATA SECURITY",
+                content: `"We built healthcare AI systems that process 100,000+ patient interactions. Dean Shev knows every way this can go wrong."
+— Kris Krug
+
+Marketing Angle: Credibility through Dean's VHT.ai experience`,
+                preview: "\"We built healthcare AI systems that process 100,000+ patient interactions. Dean Shev knows every way this can go wrong…",
+                wordCount: 29,
+            },
+            {
+                number: 13,
+                title: "PHI protection isn't negotiable Every workflow",
+                category: "HIPAA COMPLIANCE & DATA SECURITY",
+                content: `"PHI protection isn't negotiable. Every workflow designed with data security first."
+— AI Upgrade Aspirational Participant
+
+Context: Testimonial on privacy-first implementation`,
+                preview: "\"PHI protection isn't negotiable. Every workflow designed with data security first.\"",
+                wordCount: 21,
+            },
+            {
+                number: 14,
+                title: "ChatGPT doesn't understand HIPAA Claude doesn't",
+                category: "HIPAA COMPLIANCE & DATA SECURITY",
+                content: `"ChatGPT doesn't understand HIPAA. Claude doesn't know BAA requirements. You need healthcare-specific AI."
+— Kris Krug
+
+Marketing Angle: Differentiates generic tools from clinical-grade systems`,
+                preview: "\"ChatGPT doesn't understand HIPAA. Claude doesn't know BAA requirements. You need healthcare-specific AI.\"",
+                wordCount: 24,
+            },
+            {
+                number: 15,
+                title: "16 minutes per patient on documentation",
+                category: "DOCUMENTATION BURDEN RELIEF",
+                content: `"16 minutes per patient on documentation. That's 2 hours of typing for every 1 hour of patient care. AI fixes this."
+— Kris Krug
+
+Context: Opening hook, concrete pain point`,
+                preview: "\"16 minutes per patient on documentation. That's 2 hours of typing for every 1 hour of patient care. AI fixes this.\"",
+                wordCount: 30,
+            },
+            {
+                number: 16,
+                title: "I became a doctor to heal",
+                category: "DOCUMENTATION BURDEN RELIEF",
+                content: `"I became a doctor to heal people, not to be a medical transcriptionist."
+— AI Upgrade Aspirational Participant
+
+Context: Emotional pain point, aspirational relief`,
+                preview: "\"I became a doctor to heal people, not to be a medical transcriptionist.\"",
+                wordCount: 24,
+            },
+            {
+                number: 17,
+                title: "Documentation time down 75 Patient face",
+                category: "DOCUMENTATION BURDEN RELIEF",
+                content: `"Documentation time down 75%. Patient face time up 60%. Same day. That's what proper AI implementation looks like."
+— AI Upgrade Aspirational Participant
+
+Context: Concrete metrics, aspirational outcomes`,
+                preview: "\"Documentation time down 75%. Patient face time up 60%. Same day. That's what proper AI implementation looks like.\"",
+                wordCount: 28,
+            },
+            {
+                number: 18,
+                title: "The AI scribes your encounter in",
+                category: "DOCUMENTATION BURDEN RELIEF",
+                content: `"The AI scribes your encounter in your voice, your format. You review and finalize. What took 16 minutes takes 4."
+— Dean Shev, VHT.ai
+
+Marketing Angle: Specific workflow, maintains human oversight`,
+                preview: "\"The AI scribes your encounter in your voice, your format. You review and finalize. What took 16 minutes takes 4.\"",
+                wordCount: 31,
+            },
+            {
+                number: 19,
+                title: "Your EHR is killing you AI",
+                category: "DOCUMENTATION BURDEN RELIEF",
+                content: `"Your EHR is killing you. AI can't fix bad software, but it can make documentation less painful."
+— Kris Krug
+
+Context: Acknowledges real problem, offers realistic solution`,
+                preview: "\"Your EHR is killing you. AI can't fix bad software, but it can make documentation less painful.\"",
+                wordCount: 27,
+            },
+            {
+                number: 20,
+                title: "I used to chart until 9pm",
+                category: "DOCUMENTATION BURDEN RELIEF",
+                content: `"I used to chart until 9pm after my last patient at 5pm. Now I'm done when they leave."
+— AI Upgrade Aspirational Participant
+
+Context: Quality of life improvement, work-life balance`,
+                preview: "\"I used to chart until 9pm after my last patient at 5pm. Now I'm done when they leave.\"",
+                wordCount: 30,
+            },
+            {
+                number: 21,
+                title: "The documentation is still yours The",
+                category: "DOCUMENTATION BURDEN RELIEF",
+                content: `"The documentation is still yours. The byline still says MD. AI just handles the typing."
+— Kris Krug
+
+Marketing Angle: Maintains professional ownership and responsibility`,
+                preview: "\"The documentation is still yours. The byline still says MD. AI just handles the typing.\"",
+                wordCount: 25,
+            },
+            {
+                number: 22,
+                title: "45 minutes per complex prior auth",
+                category: "PRIOR AUTHORIZATION HELL",
+                content: `"45 minutes per complex prior auth. Insurance clerks overruling your clinical judgment. This is clinical abuse."
+— Kris Krug
+
+Context: Visceral pain point, emotional resonance`,
+                preview: "\"45 minutes per complex prior auth. Insurance clerks overruling your clinical judgment. This is clinical abuse.\"",
+                wordCount: 25,
+            },
+            {
+                number: 23,
+                title: "AI drafts the prior auth request",
+                category: "PRIOR AUTHORIZATION HELL",
+                content: `"AI drafts the prior auth request, pulls supporting literature, generates peer-to-peer talking points. 45 minutes becomes 10."
+— Dean Shev, VHT.ai
+
+Marketing Angle: Concrete workflow, dramatic time savings`,
+                preview: "\"AI drafts the prior auth request, pulls supporting literature, generates peer-to-peer talking points. 45 minutes becom…",
+                wordCount: 28,
+            },
+            {
+                number: 24,
+                title: "Prior authorization isn't medicine It's paperwork",
+                category: "PRIOR AUTHORIZATION HELL",
+                content: `"Prior authorization isn't medicine. It's paperwork. AI handles paperwork."
+— Kris Krug
+
+Context: Reframes task as administrative, not clinical`,
+                preview: "\"Prior authorization isn't medicine. It's paperwork. AI handles paperwork.\"",
+                wordCount: 19,
+            },
+            {
+                number: 25,
+                title: "My prior auth approval rate went",
+                category: "PRIOR AUTHORIZATION HELL",
+                content: `"My prior auth approval rate went up 35% because AI generates better-documented appeals."
+— AI Upgrade Aspirational Participant
+
+Context: Unexpected benefit—not just speed, but effectiveness`,
+                preview: "\"My prior auth approval rate went up 35% because AI generates better-documented appeals.\"",
+                wordCount: 25,
+            },
+            {
+                number: 26,
+                title: "The insurance company gets the same",
+                category: "PRIOR AUTHORIZATION HELL",
+                content: `"The insurance company gets the same rigor. You just don't do the typing anymore."
+— Dean Shev, VHT.ai
+
+Marketing Angle: Maintains quality standards, reduces clinician burden`,
+                preview: "\"The insurance company gets the same rigor. You just don't do the typing anymore.\"",
+                wordCount: 26,
+            },
+            {
+                number: 27,
+                title: "Prior auth denials for evidence-based treatments",
+                category: "PRIOR AUTHORIZATION HELL",
+                content: `"Prior auth denials for evidence-based treatments? AI pulls the evidence automatically. Fight fire with systematic documentation."
+— Kris Krug
+
+Context: Empowerment through automation`,
+                preview: "\"Prior auth denials for evidence-based treatments? AI pulls the evidence automatically. Fight fire with systematic docu…",
+                wordCount: 23,
+            },
+            {
+                number: 28,
+                title: "AI doesn't diagnose AI provides differential",
+                category: "DIAGNOSTIC ACCURACY & DECISION SUPPORT",
+                content: `"AI doesn't diagnose. AI provides differential frameworks, red flags, and evidence synthesis. You still make the call."
+— Dean Shev, VHT.ai
+
+Context: Clear boundaries on AI capabilities`,
+                preview: "\"AI doesn't diagnose. AI provides differential frameworks, red flags, and evidence synthesis. You still make the call.\"",
+                wordCount: 27,
+            },
+            {
+                number: 29,
+                title: "Your second brain knows current literature",
+                category: "DIAGNOSTIC ACCURACY & DECISION SUPPORT",
+                content: `"Your second brain knows current literature, differential diagnosis frameworks, and red flags for your specialty."
+— Kris Krug
+
+Marketing Angle: Knowledge amplification, specialty-specific support`,
+                preview: "\"Your second brain knows current literature, differential diagnosis frameworks, and red flags for your specialty.\"",
+                wordCount: 24,
+            },
+            {
+                number: 30,
+                title: "Pattern recognition across thousands of similar",
+                category: "DIAGNOSTIC ACCURACY & DECISION SUPPORT",
+                content: `"Pattern recognition across thousands of similar presentations. That's what AI does better than humans. The clinical judgment? Still yours."
+— Dean Shev, VHT.ai
+
+Context: Appropriate use case, maintains human primacy`,
+                preview: "\"Pattern recognition across thousands of similar presentations. That's what AI does better than humans. The clinical ju…",
+                wordCount: 30,
+            },
+            {
+                number: 31,
+                title: "I asked my AI 'What am",
+                category: "DIAGNOSTIC ACCURACY & DECISION SUPPORT",
+                content: `"I asked my AI 'What am I missing here?' It flagged a rare presentation I wouldn't have considered. Still my diagnosis. Better support."
+— AI Upgrade Aspirational Participant
+
+Context: Safety improvement testimonial`,
+                preview: "\"I asked my AI 'What am I missing here?' It flagged a rare presentation I wouldn't have considered. Still my diagnosis.…",
+                wordCount: 32,
+            },
+            {
+                number: 32,
+                title: "The diagnostic decision tree synthesizes evidence",
+                category: "DIAGNOSTIC ACCURACY & DECISION SUPPORT",
+                content: `"The diagnostic decision tree synthesizes evidence, flags guideline updates, suggests pathways. I'm still driving. AI is the map."
+— AI Upgrade Aspirational Participant
+
+Context: Good metaphor for support vs. replacement`,
+                preview: "\"The diagnostic decision tree synthesizes evidence, flags guideline updates, suggests pathways. I'm still driving. AI i…",
+                wordCount: 30,
+            },
+            {
+                number: 33,
+                title: "Misdiagnosis kills If AI helps you",
+                category: "DIAGNOSTIC ACCURACY & DECISION SUPPORT",
+                content: `"Misdiagnosis kills. If AI helps you consider one more differential, that's life-saving support."
+— Kris Krug
+
+Marketing Angle: Stakes-based framing, clinical value`,
+                preview: "\"Misdiagnosis kills. If AI helps you consider one more differential, that's life-saving support.\"",
+                wordCount: 22,
+            },
+            {
+                number: 34,
+                title: "32 of physicians under 40 are",
+                category: "CLINICAL BURNOUT REDUCTION",
+                content: `"32% of physicians under 40 are considering leaving clinical practice. Not because they stopped caring. Because the system makes caring impossible."
+— Kris Krug
+
+Context: Burnout crisis framing, system critique`,
+                preview: "\"32% of physicians under 40 are considering leaving clinical practice. Not because they stopped caring. Because the sys…",
+                wordCount: 30,
+            },
+            {
+                number: 35,
+                title: "AI won't fix healthcare But it",
+                category: "CLINICAL BURNOUT REDUCTION",
+                content: `"AI won't fix healthcare. But it might make it survivable for the clinicians still trying."
+— Kris Krug
+
+Marketing Angle: Realistic, not utopian, speaks to exhaustion`,
+                preview: "\"AI won't fix healthcare. But it might make it survivable for the clinicians still trying.\"",
+                wordCount: 26,
+            },
+            {
+                number: 36,
+                title: "I was drowning in documentation prior",
+                category: "CLINICAL BURNOUT REDUCTION",
+                content: `"I was drowning in documentation, prior auth, and inbox management. AI threw me a life preserver."
+— AI Upgrade Aspirational Participant
+
+Context: Survival metaphor, emotional resonance`,
+                preview: "\"I was drowning in documentation, prior auth, and inbox management. AI threw me a life preserver.\"",
+                wordCount: 26,
+            },
+            {
+                number: 37,
+                title: "The work that made me want",
+                category: "CLINICAL BURNOUT REDUCTION",
+                content: `"The work that made me want to quit? AI handles it now. The work that made me want to be a doctor? That's what I do all day."
+— AI Upgrade Aspirational Participant
+
+Context: Reclaiming purpose, powerful emotional hook`,
+                preview: "\"The work that made me want to quit? AI handles it now. The work that made me want to be a doctor? That's what I do all…",
+                wordCount: 39,
+            },
+            {
+                number: 38,
+                title: "Burnout isn't about being weak It's",
+                category: "CLINICAL BURNOUT REDUCTION",
+                content: `"Burnout isn't about being weak. It's about being crushed by administrative waste. AI removes the waste."
+— Dean Shev, VHT.ai
+
+Marketing Angle: Reframes burnout as system failure, not personal failure`,
+                preview: "\"Burnout isn't about being weak. It's about being crushed by administrative waste. AI removes the waste.\"",
+                wordCount: 30,
+            },
+            {
+                number: 39,
+                title: "I was considering leaving medicine Now",
+                category: "CLINICAL BURNOUT REDUCTION",
+                content: `"I was considering leaving medicine. Now I'm considering staying. That's what better tools can do."
+— AI Upgrade Aspirational Participant
+
+Context: Retention message, career-saving impact`,
+                preview: "\"I was considering leaving medicine. Now I'm considering staying. That's what better tools can do.\"",
+                wordCount: 25,
+            },
+            {
+                number: 40,
+                title: "We don't teach AI tools We",
+                category: "CLINICAL WORKFLOW METHODOLOGY",
+                content: `"We don't teach AI tools. We teach systematic clinical workflow design. The AI is just the implementation layer."
+— Dean Shev, VHT.ai
+
+Context: Methodology-first approach, not tool-focused`,
+                preview: "\"We don't teach AI tools. We teach systematic clinical workflow design. The AI is just the implementation layer.\"",
+                wordCount: 27,
+            },
+            {
+                number: 41,
+                title: "Time-motion analysis of your clinical day",
+                category: "CLINICAL WORKFLOW METHODOLOGY",
+                content: `"Time-motion analysis of your clinical day reveals where the MD-required work actually is. Usually 30%. AI handles the rest."
+— Kris Krug
+
+Marketing Angle: Efficiency analysis, respect for expertise`,
+                preview: "\"Time-motion analysis of your clinical day reveals where the MD-required work actually is. Usually 30%. AI handles the…",
+                wordCount: 29,
+            },
+            {
+                number: 42,
+                title: "Human-in-the-loop isn't a buzzword It's the",
+                category: "CLINICAL WORKFLOW METHODOLOGY",
+                content: `"Human-in-the-loop isn't a buzzword. It's the architectural principle. Every workflow designed with human verification."
+— Dean Shev, VHT.ai
+
+Context: Technical implementation philosophy`,
+                preview: "\"Human-in-the-loop isn't a buzzword. It's the architectural principle. Every workflow designed with human verification.\"",
+                wordCount: 22,
+            },
+            {
+                number: 43,
+                title: "We build second brains for clinicians",
+                category: "CLINICAL WORKFLOW METHODOLOGY",
+                content: `"We build second brains for clinicians. Not replacements—augmentation. Your knowledge, amplified and accessible."
+— Kris Krug
+
+Marketing Angle: Second brain terminology, knowledge management`,
+                preview: "\"We build second brains for clinicians. Not replacements—augmentation. Your knowledge, amplified and accessible.\"",
+                wordCount: 23,
+            },
+            {
+                number: 44,
+                title: "Clinical AI implementation fails when vendors",
+                category: "CLINICAL WORKFLOW METHODOLOGY",
+                content: `"Clinical AI implementation fails when vendors ignore workflow. We start with your actual day, then design tools that fit."
+— Dean Shev, VHT.ai
+
+Context: Differentiation from vendor-driven implementations`,
+                preview: "\"Clinical AI implementation fails when vendors ignore workflow. We start with your actual day, then design tools that f…",
+                wordCount: 28,
+            },
+            {
+                number: 45,
+                title: "The capstone project isn't a demo",
+                category: "CLINICAL WORKFLOW METHODOLOGY",
+                content: `"The capstone project isn't a demo. It's a production tool you'll use Monday morning. That's the standard."
+— Kris Krug
+
+Marketing Angle: Practical outcomes, real-world application`,
+                preview: "\"The capstone project isn't a demo. It's a production tool you'll use Monday morning. That's the standard.\"",
+                wordCount: 26,
+            },
+            {
+                number: 46,
+                title: "Dean Shev built AI systems at",
+                category: "DEAN SHEV'S HEALTHCARE AI EXPERTISE",
+                content: `"Dean Shev built AI systems at VHT.ai that process 100,000+ patient interactions. He's seen every failure mode in clinical AI."
+— Kris Krug
+
+Context: Credibility establishment, healthcare-specific experience`,
+                preview: "\"Dean Shev built AI systems at VHT.ai that process 100,000+ patient interactions. He's seen every failure mode in clini…",
+                wordCount: 28,
+            },
+            {
+                number: 47,
+                title: "Healthcare AI is different The stakes",
+                category: "DEAN SHEV'S HEALTHCARE AI EXPERTISE",
+                content: `"Healthcare AI is different. The stakes are higher. The regulations are stricter. The failures kill people. Dean knows this."
+— Kris Krug
+
+Marketing Angle: Emphasizes healthcare-specific expertise`,
+                preview: "\"Healthcare AI is different. The stakes are higher. The regulations are stricter. The failures kill people. Dean knows…",
+                wordCount: 27,
+            },
+            {
+                number: 48,
+                title: "We're not learning AI from tech",
+                category: "DEAN SHEV'S HEALTHCARE AI EXPERTISE",
+                content: `"We're not learning AI from tech people. We're learning healthcare AI from someone who builds it for hospitals."
+— AI Upgrade Aspirational Participant
+
+Context: Participant testimonial about instructor credibility`,
+                preview: "\"We're not learning AI from tech people. We're learning healthcare AI from someone who builds it for hospitals.\"",
+                wordCount: 29,
+            },
+            {
+                number: 49,
+                title: "Dean's VHTai work in Vancouver Health",
+                category: "DEAN SHEV'S HEALTHCARE AI EXPERTISE",
+                content: `"Dean's VHT.ai work in Vancouver Health Tech gave him clinical workflow understanding most AI engineers never get."
+— Kris Krug
+
+Marketing Angle: Vancouver connection, clinical domain expertise`,
+                preview: "\"Dean's VHT.ai work in Vancouver Health Tech gave him clinical workflow understanding most AI engineers never get.\"",
+                wordCount: 27,
+            },
+            {
+                number: 50,
+                title: "The healthcare AI landscape is full",
+                category: "DEAN SHEV'S HEALTHCARE AI EXPERTISE",
+                content: `"The healthcare AI landscape is full of dangerous implementations. Dean teaches defensive design—how to build systems that fail safely."
+— Kris Krug
+
+Context: Safety-first framing, risk mitigation expertise`,
+                preview: "\"The healthcare AI landscape is full of dangerous implementations. Dean teaches defensive design—how to build systems t…",
+                wordCount: 28,
+            },
+            {
+                number: 51,
+                title: "You're not learning from AI hype",
+                category: "DEAN SHEV'S HEALTHCARE AI EXPERTISE",
+                content: `"You're not learning from AI hype merchants. You're learning from someone who deploys these systems in actual clinical settings."
+— Kris Krug
+
+Marketing Angle: Anti-hype, practical experience positioning`,
+                preview: "\"You're not learning from AI hype merchants. You're learning from someone who deploys these systems in actual clinical…",
+                wordCount: 28,
+            },
+            {
+                number: 52,
+                title: "Healthcare AI should lift clinicians up",
+                category: "HEALTHCARE TRANSFORMATION VISION",
+                content: `"Healthcare AI should lift clinicians up, not replace them. That's not sentiment—that's strategy."
+— Kris Krug
+
+Context: Vision statement, values clarity`,
+                preview: "\"Healthcare AI should lift clinicians up, not replace them. That's not sentiment—that's strategy.\"",
+                wordCount: 21,
+            },
+            {
+                number: 53,
+                title: "The future of healthcare isn't fewer",
+                category: "HEALTHCARE TRANSFORMATION VISION",
+                content: `"The future of healthcare isn't fewer clinicians with more AI. It's same clinicians with less bullshit."
+— Kris Krug
+
+Marketing Angle: Irreverent, memorable, accurate`,
+                preview: "\"The future of healthcare isn't fewer clinicians with more AI. It's same clinicians with less bullshit.\"",
+                wordCount: 24,
+            },
+            {
+                number: 54,
+                title: "Patient care should be 80 of",
+                category: "HEALTHCARE TRANSFORMATION VISION",
+                content: `"Patient care should be 80% of your day, not 30%. AI makes that math possible."
+— Dean Shev, VHT.ai
+
+Context: Vision of proper clinical time allocation`,
+                preview: "\"Patient care should be 80% of your day, not 30%. AI makes that math possible.\"",
+                wordCount: 26,
+            },
+            {
+                number: 55,
+                title: "We're not building autonomous diagnostic systems",
+                category: "HEALTHCARE TRANSFORMATION VISION",
+                content: `"We're not building autonomous diagnostic systems. We're building tools that let humans do human work."
+— Kris Krug
+
+Marketing Angle: Human-centric AI vision`,
+                preview: "\"We're not building autonomous diagnostic systems. We're building tools that let humans do human work.\"",
+                wordCount: 23,
+            },
+            {
+                number: 56,
+                title: "Rural healthcare is dying from doctor",
+                category: "HEALTHCARE TRANSFORMATION VISION",
+                content: `"Rural healthcare is dying from doctor shortage. AI doesn't replace doctors—it makes one doctor more effective. That's survival."
+— AI Upgrade Aspirational Participant
+
+Context: Rural healthcare application, mission-critical framing`,
+                preview: "\"Rural healthcare is dying from doctor shortage. AI doesn't replace doctors—it makes one doctor more effective. That's…",
+                wordCount: 29,
+            },
+            {
+                number: 57,
+                title: "The clinicians who thrive in 2025",
+                category: "HEALTHCARE TRANSFORMATION VISION",
+                content: `"The clinicians who thrive in 2025 aren't the ones who work harder. They're the ones who work with better tools."
+— Kris Krug
+
+Marketing Angle: Smart work vs. hard work reframe`,
+                preview: "\"The clinicians who thrive in 2025 aren't the ones who work harder. They're the ones who work with better tools.\"",
+                wordCount: 31,
+            },
+            {
+                number: 58,
+                title: "You don't have time to learn",
+                category: "CALLS TO ACTION",
+                content: `"You don't have time to learn AI tools. You don't have time NOT to. That 15 hours per week in documentation? You could get it back."
+— Kris Krug
+
+Context: Objection handling, urgency creation`,
+                preview: "\"You don't have time to learn AI tools. You don't have time NOT to. That 15 hours per week in documentation? You could…",
+                wordCount: 34,
+            },
+            {
+                number: 59,
+                title: "Every week you wait is another",
+                category: "CALLS TO ACTION",
+                content: `"Every week you wait is another week of 45-minute prior auth hell. Start now."
+— Kris Krug
+
+Marketing Angle: Opportunity cost framing`,
+                preview: "\"Every week you wait is another week of 45-minute prior auth hell. Start now.\"",
+                wordCount: 22,
+            },
+            {
+                number: 60,
+                title: "The best time to learn clinical",
+                category: "CALLS TO ACTION",
+                content: `"The best time to learn clinical AI was 2 years ago. The second best time is right now."
+— Kris Krug
+
+Context: Urgency without panic, action orientation`,
+                preview: "\"The best time to learn clinical AI was 2 years ago. The second best time is right now.\"",
+                wordCount: 27,
+            },
+            {
+                number: 61,
+                title: "Your competitors are already using AI",
+                category: "CALLS TO ACTION",
+                content: `"Your competitors are already using AI. Your patients deserve a clinician who is too."
+— Kris Krug
+
+Marketing Angle: Competitive pressure plus patient care framing`,
+                preview: "\"Your competitors are already using AI. Your patients deserve a clinician who is too.\"",
+                wordCount: 25,
+            },
+            {
+                number: 62,
+                title: "6 weeks of investment 15 hours",
+                category: "CALLS TO ACTION",
+                content: `"6 weeks of investment. 15 hours per week returned. Every week. For your entire career. That's the math."
+— Kris Krug
+
+Context: ROI calculation, concrete value proposition`,
+                preview: "\"6 weeks of investment. 15 hours per week returned. Every week. For your entire career. That's the math.\"",
+                wordCount: 27,
+            },
+            {
+                number: 63,
+                title: "Applications close DATE Small cohorts mean",
+                category: "CALLS TO ACTION",
+                content: `"Applications close [DATE]. Small cohorts mean limited spots. If you're considering it, apply."
+— Kris Krug
+
+Marketing Angle: Scarcity, clear call to action`,
+                preview: "\"Applications close [DATE]. Small cohorts mean limited spots. If you're considering it, apply.\"",
+                wordCount: 23,
+            },
         ],
         emails: [
             {
@@ -14858,6 +17273,343 @@ All replies should go to monitored inbox with healthcare expertise. Kris, Dean, 
             },
         ],
         stories: [
+            {
+                number: 1,
+                title: "Dr. Sarah — Emergency Medicine, Level 1 Trauma Center",
+                category: "HOW TO USE THESE STORIES",
+                content: `### Dr. Sarah — Emergency Medicine, Level 1 Trauma Center
+
+**The Challenge:**
+Dr. Sarah was treating 40+ patients per 12-hour shift. Between actual patient care, she spent 3+ hours on documentation, fighting with prior authorization, and tracking down medical records. She was burning out fast, and patient contact time kept shrinking.
+
+**The Discovery:**
+In Week 1 of the program, Sarah learned to build a clinical documentation assistant that understood emergency medicine terminology. It listened during patient encounters and generated H&P drafts in her voice.
+
+**The Transformation:**
+What used to take 16 minutes per patient now took 4—just review and finalization. Prior auth requests got drafted automatically with supporting evidence. Her second brain pulled relevant patient history before she walked into each room.
+
+**The Projected Results:**
+- Documentation time reduced by 75%
+- Patient face time increased from 40% to 65% of shift
+- Prior authorization time down from 45 minutes to 10 minutes per case
+- Zero documentation-related complaints in peer review
+- Considering staying in emergency medicine instead of switching to outpatient
+- Actually takes lunch breaks now
+
+**Her Aspirational Quote:**
+> "I became a doctor to save lives, not to type. AI gave me back the part of medicine I loved. My patients get more of me. That's not efficiency—that's better care."
+
+---`,
+                preview: "### Dr. Sarah — Emergency Medicine, Level 1 Trauma Center **The Challenge:** Dr. Sarah was treating 40+ patients per 12-hour shift. Between actual patient care…",
+                wordCount: 215,
+            },
+            {
+                number: 2,
+                title: "James — Critical Care RN, 15 Years Experience",
+                category: "HOW TO USE THESE STORIES",
+                content: `### James — Critical Care RN, 15 Years Experience
+
+**The Challenge:**
+James managed 3 ICU patients per shift. Each required constant monitoring: vitals, labs, drips, ventilator settings, family updates. He was drowning in data points and missing patterns until something went wrong.
+
+**The Discovery:**
+The clinical decision support module showed James how AI could synthesize all data streams into pattern recognition. Not replacing his judgment—augmenting it.
+
+**The Transformation:**
+James built a monitoring dashboard that flagged early warning signs across multiple patients simultaneously. Trend analysis he used to do mentally for one patient, AI now did for three. He caught deterioration earlier.
+
+**The Projected Results:**
+- Early sepsis detection improved by identifying subtle trend changes
+- Family communication time increased (AI drafted updates for his review)
+- Medication errors prevented through automated interaction checking
+- Mentoring newer nurses using AI-augmented teaching tools
+- Nominated for nursing excellence award
+- Considering going back for NP degree now that workflow is manageable
+
+**His Aspirational Quote:**
+> "Critical care is pattern recognition. The best nurses see the changes before the crisis. AI made me better at seeing. That's not replacing nursing—that's better nursing."
+
+---`,
+                preview: "### James — Critical Care RN, 15 Years Experience **The Challenge:** James managed 3 ICU patients per shift. Each required constant monitoring: vitals, labs, d…",
+                wordCount: 190,
+            },
+            {
+                number: 3,
+                title: "Dr. Maria — Internal Medicine Hospitalist",
+                category: "HOW TO USE THESE STORIES",
+                content: `### Dr. Maria — Internal Medicine Hospitalist
+
+**The Challenge:**
+Dr. Maria covered 18 patients across 4 floors. Admissions, discharges, family meetings, consult requests, discharge planning. She was a glorified coordinator, not a physician. The work that required an MD was 30% of her day.
+
+**The Discovery:**
+The workflow optimization module revealed how much of Maria's time went to coordination tasks that AI could handle. Not clinical judgment—administrative orchestration.
+
+**The Transformation:**
+Maria built AI workflows for discharge planning, patient education generation, and family meeting prep. Her second brain tracked all 18 patients and flagged what actually required physician attention.
+
+**The Projected Results:**
+- Discharge planning time reduced from 90 minutes to 20 minutes per patient
+- Patient education materials generated at appropriate health literacy levels
+- Family meeting prep done automatically (AI synthesized each case)
+- Readmission rate decreased (better discharge instructions)
+- Time for teaching residents increased 3x
+- Feels like a doctor again, not a typist
+
+**Her Aspirational Quote:**
+> "I'm doing the same job. I'm just doing the parts that require medical training. The rest? AI handles it. That's not cutting corners—that's respecting expertise."
+
+---`,
+                preview: "### Dr. Maria — Internal Medicine Hospitalist **The Challenge:** Dr. Maria covered 18 patients across 4 floors. Admissions, discharges, family meetings, consul…",
+                wordCount: 187,
+            },
+            {
+                number: 4,
+                title: "Chris — Inpatient Pharmacy, Academic Medical Center",
+                category: "HOW TO USE THESE STORIES",
+                content: `### Chris — Inpatient Pharmacy, Academic Medical Center
+
+**The Challenge:**
+Chris reviewed 80+ medication orders per shift. Drug interactions, renal dosing, therapeutic alternatives, insurance appeals. Each case required deep review. He caught serious errors weekly, but the volume was crushing.
+
+**The Discovery:**
+The medication safety module showed Chris how AI could pre-screen orders, flag interactions, and suggest alternatives—all before human review. He still made final calls. AI just did triage.
+
+**The Transformation:**
+Chris's AI workflow flagged high-risk orders automatically, pulled relevant literature, generated insurance appeals, and suggested therapeutic alternatives. His expertise focused where it mattered most: complex clinical decisions.
+
+**The Projected Results:**
+- Review capacity increased from 80 to 120+ orders per shift (same safety)
+- Insurance appeal success rate up 40% (better-documented requests)
+- Intervention documentation time down 60%
+- Created pharmacology teaching tools for residents using AI
+- Presenting AI-augmented pharmacy workflow at national conference
+- Consulting with other hospitals on implementation
+
+**His Aspirational Quote:**
+> "Pharmacy is about preventing harm before it happens. AI made me faster at prevention. More patients protected. Same rigor. That's the goal."
+
+---`,
+                preview: "### Chris — Inpatient Pharmacy, Academic Medical Center **The Challenge:** Chris reviewed 80+ medication orders per shift. Drug interactions, renal dosing, the…",
+                wordCount: 181,
+            },
+            {
+                number: 5,
+                title: "Emily — Urgent Care PA",
+                category: "HOW TO USE THESE STORIES",
+                content: `### Emily — Urgent Care PA
+
+**The Challenge:**
+Emily had 3 years of clinical experience but was seeing the same patient complexity as 15-year physicians. She second-guessed herself constantly. The learning curve felt impossible. Supervising physicians were stretched too thin to teach.
+
+**The Discovery:**
+The diagnostic decision support module introduced Emily to building a clinical second brain. Not making diagnoses for her—providing differential frameworks, red flags, and evidence synthesis.
+
+**The Transformation:**
+Emily's AI assistant became her virtual attending. "What am I missing here?" pulled relevant differentials. "Red flags for this presentation?" flagged dangerous scenarios. She still made decisions—with better support.
+
+**The Projected Results:**
+- Clinical confidence increased (measurable in supervision reviews)
+- Diagnostic accuracy improved (fewer cases requiring attending override)
+- Patient education improved (AI generated explanations she reviewed)
+- Teaching medical students using her AI-augmented workflow
+- Supervising physician trusts her with higher complexity cases
+- Building specialty expertise in dermatology using systematic AI learning
+
+**Her Aspirational Quote:**
+> "I'm not trying to replace experience with AI. I'm using AI to accelerate my learning curve. The pattern recognition still has to become mine—AI just helps me see it faster."
+
+---`,
+                preview: "### Emily — Urgent Care PA **The Challenge:** Emily had 3 years of clinical experience but was seeing the same patient complexity as 15-year physicians. She se…",
+                wordCount: 191,
+            },
+            {
+                number: 6,
+                title: "Dr. Alex — Solo Practice, Rural Community",
+                category: "HOW TO USE THESE STORIES",
+                content: `### Dr. Alex — Solo Practice, Rural Community
+
+**The Challenge:**
+Dr. Alex was the only doctor for 30 miles. He managed everything: acute care, chronic disease, pediatrics, geriatrics, minor procedures. Plus he was medical director, HR manager, and IT department. There weren't enough hours.
+
+**The Discovery:**
+The content multiplication module showed Dr. Alex how one workflow could feed multiple outputs. Chart review generated patient letters. Chronic disease data pulled care gaps. Population health became manageable.
+
+**The Transformation:**
+Dr. Alex built AI systems for chronic disease tracking, patient outreach, care gap identification, and quality reporting. His small practice now had enterprise-level population health management.
+
+**The Projected Results:**
+- Managing diabetes care for 300+ patients with automated A1C tracking
+- Patient satisfaction up (better follow-up, clearer communication)
+- Quality bonuses achieved for first time (meeting HEDIS measures)
+- Launched patient newsletter (AI drafts health education content)
+- Recruited NP to practice (workflow now supports expanded team)
+- Rural practice actually sustainable now
+
+**His Aspirational Quote:**
+> "Solo practice was dying. Too much work, not enough doctors. AI didn't replace the doctor shortage—it made one doctor more effective. That's survival."
+
+---`,
+                preview: "### Dr. Alex — Solo Practice, Rural Community **The Challenge:** Dr. Alex was the only doctor for 30 miles. He managed everything: acute care, chronic disease,…",
+                wordCount: 188,
+            },
+            {
+                number: 7,
+                title: "Dr. Jennifer — Medical Oncology, Community Cancer Center",
+                category: "HOW TO USE THESE STORIES",
+                content: `### Dr. Jennifer — Medical Oncology, Community Cancer Center
+
+**The Challenge:**
+Dr. Jennifer managed complex cases, clinical trials, tumor boards, and emotionally exhausting patient conversations. She was also drowning in prior authorization fights for chemotherapy and clinical trial paperwork.
+
+**The Discovery:**
+The prior authorization acceleration workflow changed everything. AI drafted appeals with literature support, generated peer-to-peer talking points, and tracked denial patterns across payers.
+
+**The Transformation:**
+Jennifer's AI system handled the insurance fight documentation. She reviewed and approved, but didn't draft from scratch. Clinical trial matching became systematic—AI flagged eligible patients automatically.
+
+**The Projected Results:**
+- Prior auth time reduced from 2 hours to 20 minutes per complex case
+- Prior auth approval rate up 35% (better-documented appeals)
+- Clinical trial enrollment increased 60% (systematic matching)
+- More time for patient conversations about goals of care
+- Published paper on AI-augmented clinical trial matching
+- Burnout score improved significantly on annual survey
+
+**Her Aspirational Quote:**
+> "Oncology is already heartbreaking. Fighting insurance companies for evidence-based care was breaking me. AI handles the fight documentation. I focus on healing."
+
+---`,
+                preview: "### Dr. Jennifer — Medical Oncology, Community Cancer Center **The Challenge:** Dr. Jennifer managed complex cases, clinical trials, tumor boards, and emotiona…",
+                wordCount: 179,
+            },
+            {
+                number: 8,
+                title: "David — Quality Improvement, Regional Health System",
+                category: "HOW TO USE THESE STORIES",
+                content: `### David — Quality Improvement, Regional Health System
+
+**The Challenge:**
+David reviewed mortality cases, hospital-acquired infections, readmissions, and patient safety events. Each case required chart review, timeline construction, root cause analysis, and recommendation generation. He was 3 months behind on case reviews.
+
+**The Discovery:**
+The archive analysis module showed David how AI could synthesize patterns across hundreds of cases that were invisible in single-case review. Not replacing analysis—revealing system-level trends.
+
+**The Transformation:**
+David built AI workflows that summarized cases, identified common factors, suggested investigation pathways, and tracked intervention outcomes. Meta-analysis revealed patterns he never would have seen manually.
+
+**The Projected Results:**
+- Case review time reduced by 60%
+- Identified system-level patterns (staffing ratios correlated with specific adverse events)
+- Interventions now data-driven (AI tracks what actually works)
+- Presenting at patient safety conferences on AI-augmented root cause analysis
+- Hospital-acquired infection rate down 22% (better pattern detection)
+- Quality reviews now real-time instead of months delayed
+
+**His Aspirational Quote:**
+> "Patient safety is about finding patterns before they kill someone. AI found patterns in our data that saved lives. That's not automation—that's mission-critical intelligence."
+
+---`,
+                preview: "### David — Quality Improvement, Regional Health System **The Challenge:** David reviewed mortality cases, hospital-acquired infections, readmissions, and pati…",
+                wordCount: 186,
+            },
+            {
+                number: 9,
+                title: "Rachel — Clinic Operations Manager, Multi-Specialty Group",
+                category: "HOW TO USE THESE STORIES",
+                content: `### Rachel — Clinic Operations Manager, Multi-Specialty Group
+
+**The Challenge:**
+Rachel managed staffing, scheduling, patient flow, and provider burnout across 40 clinicians. She was constantly reacting to crises: no-shows, sick calls, double-bookings, overwhelmed providers. No time for strategic planning.
+
+**The Discovery:**
+The workflow optimization module showed Rachel how AI could predict patterns, optimize schedules, and identify burnout risk before providers hit breaking points.
+
+**The Transformation:**
+Rachel built predictive models for patient volume, clinician capacity, and burnout indicators. Scheduling became data-driven. Staffing adjusted proactively, not reactively. She could see problems coming.
+
+**The Projected Results:**
+- Provider burnout scores down 28% (better schedule optimization)
+- Patient wait times reduced 35% (better flow prediction)
+- Revenue up 12% (better schedule utilization without overloading providers)
+- No-show prediction model reduces wasted slots
+- Provider retention improved (people want to stay)
+- Consulting with other clinics on AI-augmented operations
+
+**Her Aspirational Quote:**
+> "Healthcare operations was all reactive. Crisis management. AI made it predictive. We catch problems before they break people. That's leadership."
+
+---`,
+                preview: "### Rachel — Clinic Operations Manager, Multi-Specialty Group **The Challenge:** Rachel managed staffing, scheduling, patient flow, and provider burnout across…",
+                wordCount: 169,
+            },
+            {
+                number: 10,
+                title: "Dr. Kevin — Medical Director, Large Multi-Specialty Practice",
+                category: "HOW TO USE THESE STORIES",
+                content: `### Dr. Kevin — Medical Director, Large Multi-Specialty Practice
+
+**The Challenge:**
+Dr. Kevin was responsible for clinical quality, provider performance, patient satisfaction, and financial sustainability across 75 providers. He got data quarterly. By the time he saw problems, they'd existed for months. He was steering blind.
+
+**The Discovery:**
+The meta-analysis module revealed how real-time dashboards could synthesize quality metrics, satisfaction scores, utilization data, and burnout indicators into actionable intelligence.
+
+**The Transformation:**
+Dr. Kevin built a leadership dashboard that gave him real-time visibility across the organization. Not micromanagement—strategic oversight. He could see patterns, intervene early, and support providers before burnout.
+
+**The Projected Results:**
+- Quality metrics improved across all measured domains
+- Provider satisfaction up (earlier intervention on problems)
+- Patient satisfaction up (system-level improvements visible)
+- Financial sustainability improved (better utilization without burning out staff)
+- Board presentations data-driven (AI synthesizes complex metrics)
+- Regional health system adopting his AI-augmented leadership model
+
+**His Aspirational Quote:**
+> "You can't lead what you can't see. AI gave me visibility into the organization in real-time. Better data, better decisions, better outcomes. That's the job."
+
+---
+
+## STORY USAGE NOTES
+
+### Matching Stories to Audiences
+
+| Story | Best For |
+|-------|----------|
+| Dr. Sarah (ED) | Emergency medicine, acute care, trauma settings |
+| James (ICU RN) | Critical care nurses, intensive care teams |
+| Dr. Maria (Hospitalist) | Hospital medicine, internal medicine |
+| Chris (Pharmacist) | Clinical pharmacy, medication safety roles |
+| Emily (PA) | Mid-level providers, urgent care, newer clinicians |
+| Dr. Alex (Family Med) | Primary care, rural practice, solo practitioners |
+| Dr. Jennifer (Oncology) | Subspecialists, complex care, prior auth pain |
+| David (Quality) | Quality improvement, patient safety, administrators |
+| Rachel (Operations) | Healthcare administrators, practice managers |
+| Dr. Kevin (Medical Director) | Medical directors, CMOs, system leaders |
+
+### Content Applications
+- **Landing pages:** Use 2-3 stories matching target clinical role
+- **Email sequences:** One story per email, building possibility
+- **Conference talks:** Medical director + clinical role stories
+- **Sales conversations:** Match story to prospect's pain point
+- **CME presentations:** Quality improvement + clinical efficiency stories
+
+### Credibility Anchors
+- Reference Dean Shev's VHT.ai healthcare AI expertise
+- Emphasize HIPAA compliance and patient safety throughout
+- Position as decision support, never autonomous systems
+- Highlight human-in-the-loop at every stage
+
+---
+
+**Total Stories:** 10
+**Last Updated:** December 2025
+**Content Type:** Aspirational scenarios (not documented case studies)
+**Refresh Schedule:** Update as program launches and real participants generate outcomes`,
+                preview: "### Dr. Kevin — Medical Director, Large Multi-Specialty Practice **The Challenge:** Dr. Kevin was responsible for clinical quality, provider performance, patie…",
+                wordCount: 418,
+            },
         ],
         playbook: [
             {
@@ -18299,6 +21051,799 @@ P.S. — The worst decision is no decision. You either invest in the transformat
             },
         ],
         stories: [
+            {
+                number: 1,
+                title: "The \"Before\" State",
+                category: "Stories",
+                content: `**Name:** Sarah Chen
+**Role:** Senior Talent Acquisition Specialist
+**Company:** 350-person SaaS company
+**Challenge:** Drowning in 200+ applications per role, inconsistent interviewer feedback, 45-day time-to-hire
+
+### The "Before" State
+
+Sarah was spending 25 hours a week just screening resumes.
+
+Every role followed the same painful pattern: Post the job. Get flooded with applications. Manually review every resume. Try to identify who's actually qualified versus who just keyword-stuffed their resume.
+
+By the time she got candidates to hiring managers, the feedback was all over the place. One interviewer loved the candidate. Another said they weren't technical enough. No consistency. No clear evaluation criteria.
+
+Average time-to-hire: 45 days. Top candidates were accepting other offers before Sarah could even get them to final rounds.
+
+She knew something had to change. She just didn't know where to start.
+
+### The Transformation
+
+Sarah joined AI Upgrade for HR Professionals in Week 2 cohort.
+
+**Week 1:** She learned the POP framework and built her first custom HR assistant—a job description generator that used inclusive language and focused on outcomes rather than years of experience.
+
+**Week 2:** She built the tool that changed everything: A candidate screening rubric generator.
+
+She input the role requirements, key success factors, and team dynamics. The AI assistant created a structured evaluation framework with:
+- 7 specific competencies tied to role success
+- Behavioral indicators for each competency
+- Interview questions designed to reveal each competency
+- 4-point scoring rubric for consistency
+
+**Week 3:** She implemented the screening rubric with her hiring managers. For the first time, every interviewer was evaluating candidates against the same criteria.
+
+**Week 4:** She automated the initial screening process. Candidates still got human review, but the AI assistant flagged top matches based on the rubric criteria, saving Sarah 15 hours a week.
+
+### The Outcome
+
+**90 days after completing the program:**
+
+- Time-to-hire dropped from 45 days to 28 days
+- Interviewer consistency scores improved by 60%
+- Sarah reclaimed 15 hours per week for strategic work
+- Hiring manager satisfaction with candidate quality increased by 40%
+- She started coaching other TA specialists on AI implementation
+
+**Her words:**
+
+"I thought AI would replace recruiters. Instead, it gave me back the time to actually recruit—to build relationships with candidates, to coach hiring managers, to work on employer brand. The screening rubric tool is now used across our entire TA team. I built it in week 2 of the program."
+
+### What She Built
+
+- Custom candidate screening rubric generator
+- Job description inclusive language analyzer
+- Interview question generator based on competency models
+- Automated application tracking workflow
+
+---`,
+                preview: "**Name:** Sarah Chen **Role:** Senior Talent Acquisition Specialist **Company:** 350-person SaaS company **Challenge:** Drowning in 200+ applications per role,…",
+                wordCount: 431,
+            },
+            {
+                number: 2,
+                title: "The \"Before\" State",
+                category: "Stories",
+                content: `**Name:** Marcus Thompson
+**Role:** HR Business Partner
+**Company:** 180-person professional services firm
+**Challenge:** Reactive people operations, no time for strategic work, employee relations fires consuming 70% of his time
+
+### The "Before" State
+
+Marcus was drowning in tactical work.
+
+He supported three departments: Finance, Operations, and Client Services. Every day was the same: Put out fires. Respond to manager questions. Handle employee relations issues. Draft performance improvement plans. Schedule difficult conversations.
+
+He knew his job was supposed to be strategic. Partner with leaders. Build culture. Design systems that prevent problems.
+
+But he couldn't get ahead of the work. He was always reacting.
+
+When his VP of People asked him to lead a retention initiative, he couldn't find the time. Too busy handling the fallout from retention problems.
+
+### The Transformation
+
+Marcus joined AI Upgrade for HR Professionals looking for one thing: Time.
+
+**Week 1:** He identified his biggest time drain: Drafting employee communications. Performance feedback templates. Policy clarification emails. Meeting notes from skip-levels.
+
+He built a communication assistant using the POP framework—trained on his best examples, calibrated to his empathetic but direct voice.
+
+What used to take 30 minutes per communication now took 5 minutes. AI drafted. He edited. Output maintained his voice and values.
+
+**Week 3:** He built an engagement survey analysis tool. Instead of spending 8 hours manually reviewing open-ended feedback, looking for themes, and creating executive summaries, his tool did the pattern recognition in minutes.
+
+He spent his time on the human work: Interpreting the insights, designing interventions, coaching leaders.
+
+**Week 5:** He implemented workflow automations for repetitive HR tasks—onboarding reminders, benefits enrollment follow-ups, performance review cycle notifications.
+
+### The Outcome
+
+**4 months after completing the program:**
+
+- Reclaimed 12 hours per week for strategic work
+- Led the retention initiative he'd been putting off (reduced voluntary turnover by 18%)
+- Implemented quarterly engagement pulse surveys (previously only did annual because of analysis time)
+- Became the "AI HRBP" other business partners came to for coaching
+- Promoted to Senior HRBP with expanded scope
+
+**His words:**
+
+"AI didn't replace my judgment. It freed me to use my judgment on the things that actually matter. I'm not drafting emails at 10pm anymore. I'm designing systems that help people thrive. That's the job I signed up for."
+
+### What He Built
+
+- Employee communication assistant (performance feedback, policy clarifications, skip-level summaries)
+- Engagement survey analysis tool with pattern recognition
+- Workflow automation for HR administrative tasks
+- Manager coaching resource library with AI-powered search
+
+---`,
+                preview: "**Name:** Marcus Thompson **Role:** HR Business Partner **Company:** 180-person professional services firm **Challenge:** Reactive people operations, no time f…",
+                wordCount: 416,
+            },
+            {
+                number: 3,
+                title: "The \"Before\" State",
+                category: "Stories",
+                content: `**Name:** Jennifer Okoye
+**Role:** Learning & Development Manager
+**Company:** 250-person manufacturing company
+**Challenge:** One-size-fits-all training, poor completion rates, no personalization at scale
+
+### The "Before" State
+
+Jennifer managed learning for 250 employees across manufacturing, operations, sales, and corporate functions.
+
+Every new hire got the same onboarding. Every role got the same compliance training. Every development plan followed the same template.
+
+She knew personalization improved outcomes. She'd seen it work when she customized learning paths for high-potential leaders.
+
+But she couldn't scale personalization. There weren't enough hours in the day.
+
+Training completion rates were stuck at 55%. Employees complained training wasn't relevant to their roles. Managers complained training didn't address skill gaps.
+
+Jennifer knew she needed to do better. She just didn't know how.
+
+### The Transformation
+
+Jennifer joined AI Upgrade for HR Professionals with a specific goal: Personalize learning at scale.
+
+**Week 2:** She mapped out her ideal learning pathway approach—role-specific skills, tenure-based milestones, career goals, individual strengths and gaps.
+
+**Week 3:** She built a learning pathway generator. Input: Employee role, current skills, career aspirations, skill gap analysis. Output: Personalized 90-day learning plan with specific courses, stretch projects, and coaching milestones.
+
+**Week 4:** She automated the learning reminder workflow. Instead of manually tracking who completed what, her system sent personalized reminders, celebrated milestones, and flagged employees falling behind.
+
+**Week 6:** For her capstone project, she built a "Second Brain" for her L&D function—all training materials, best practices, and institutional knowledge indexed and searchable with AI-powered semantic search.
+
+### The Outcome
+
+**6 months after completing the program:**
+
+- Training completion rates increased from 55% to 84%
+- Employee satisfaction with learning programs increased by 52%
+- Time spent creating personalized learning plans dropped from 2 hours to 15 minutes per employee
+- She rolled out learning pathways to 100% of new hires and 60% of existing employees
+- Built an L&D knowledge base that became the foundation for manager self-service
+
+**Her words:**
+
+"I used to spend hours customizing learning plans for individual employees. Now my AI assistant drafts them in 5 minutes based on role requirements and career goals, and I spend my time coaching people through the actual learning. The completion rate tells the story—when training feels personal, people engage with it."
+
+### What She Built
+
+- Learning pathway generator (personalized 90-day plans)
+- Training completion automation workflow
+- L&D knowledge base with AI semantic search
+- Manager coaching conversation guide generator
+- Learning resource recommendation engine
+
+---`,
+                preview: "**Name:** Jennifer Okoye **Role:** Learning & Development Manager **Company:** 250-person manufacturing company **Challenge:** One-size-fits-all training, poor…",
+                wordCount: 408,
+            },
+            {
+                number: 4,
+                title: "The \"Before\" State",
+                category: "Stories",
+                content: `**Name:** David Park
+**Role:** Compensation Analyst
+**Company:** 400-person tech company (series B)
+**Challenge:** Compensation reviews taking 40+ hours per cycle, inconsistent market data, equity questions consuming his time
+
+### The "Before" State
+
+David ran compensation for a fast-growing startup.
+
+Every quarter, the same fire drill: Managers submit compensation review requests. David pulls market data from three different salary databases. He compares internal equity. He checks budget. He makes recommendations.
+
+It took 40+ hours per comp cycle. And he was never confident he'd caught everything.
+
+Internal equity was a nightmare. Someone in Seattle making more than someone in Austin doing the same job. No clear rationale. Just historical decisions compounded over time.
+
+Managers bombarded him with questions: "What should I pay this role?" "Is this offer competitive?" "Why is my budget lower than last quarter?"
+
+He was drowning in data with no time for strategy.
+
+### The Transformation
+
+David joined AI Upgrade for HR Professionals to solve one problem: How do I make compensation decisions faster without sacrificing accuracy?
+
+**Week 2:** He built a compensation benchmarking agent that pulled data from multiple sources, normalized for location and experience level, and generated market range recommendations.
+
+What used to take 2 hours of manual research per role now took 5 minutes.
+
+**Week 3:** He created an internal equity analyzer. Upload current compensation data, and the tool flagged discrepancies—same role, different pay, no clear justification.
+
+For the first time, he could see and address equity gaps systematically.
+
+**Week 4:** He built a manager self-service compensation advisor. Managers could input role details and get instant market range guidance, budget implications, and equity impact analysis.
+
+This reduced his "compensation question" load by 60%.
+
+### The Outcome
+
+**5 months after completing the program:**
+
+- Compensation review cycle time dropped from 40 hours to 12 hours
+- Internal equity discrepancies identified and addressed for 85% of roles
+- Manager compensation questions reduced by 60%
+- Built compensation transparency dashboard (shared with all employees)
+- Promoted to Senior Compensation Analyst with responsibility for equity program design
+
+**His words:**
+
+"I'm not spending 40 hours pulling data anymore. I'm spending that time designing a compensation philosophy that actually aligns with our values. The AI tools handle the research. I handle the strategy. That's the upgrade."
+
+### What He Built
+
+- Multi-source compensation benchmarking agent
+- Internal equity gap analyzer
+- Manager self-service compensation advisor
+- Compensation review automation workflow
+- Equity impact scenario modeling tool
+
+---`,
+                preview: "**Name:** David Park **Role:** Compensation Analyst **Company:** 400-person tech company (series B) **Challenge:** Compensation reviews taking 40+ hours per cy…",
+                wordCount: 405,
+            },
+            {
+                number: 5,
+                title: "The \"Before\" State",
+                category: "Stories",
+                content: `**Name:** Aisha Rahman
+**Role:** HR Compliance Specialist
+**Company:** 600-person healthcare organization
+**Challenge:** Policy review backlog, regulatory updates consuming all her time, compliance training completion rates at 62%
+
+### The "Before" State
+
+Aisha was responsible for keeping a 600-person healthcare organization compliant with employment law, healthcare regulations, and internal policies.
+
+Her backlog was unmanageable:
+- 47 policies needing annual review
+- New state employment laws requiring policy updates across 8 states
+- Federal regulatory changes every quarter
+- Compliance training completion stuck at 62%
+
+She couldn't keep up. Every time she cleared one backlog, three new regulations hit.
+
+And the work was tedious. Reading 40-page policy documents. Cross-referencing with legal updates. Flagging inconsistencies. Recommending revisions. Repeat.
+
+She knew she was missing things. She just couldn't work any faster.
+
+### The Transformation
+
+Aisha joined AI Upgrade for HR Professionals with one question: Can AI help me stay compliant without working 60-hour weeks?
+
+**Week 1:** She learned about AI's limitations and strengths in compliance work. AI can't make legal judgments. But it can flag gaps, surface inconsistencies, and track changes.
+
+**Week 2:** She built a policy compliance analyzer. Upload a policy, and the tool:
+- Checked for plain language (employee readability)
+- Flagged legal terms requiring review
+- Identified potential bias or exclusionary language
+- Cross-referenced with related policies for consistency
+- Suggested areas for legal review
+
+This didn't replace legal review. It made her pre-legal-review process 10x faster.
+
+**Week 4:** She automated compliance training reminders. Instead of manually tracking who completed what and sending follow-ups, her system handled it—personalized reminders, manager escalations for non-completion, completion dashboard for leadership.
+
+**Week 6:** For her capstone, she built a regulatory change monitoring agent that scanned employment law updates, flagged relevant changes, and generated policy impact assessments.
+
+### The Outcome
+
+**7 months after completing the program:**
+
+- Policy review backlog cleared (all 47 policies updated)
+- Compliance training completion increased from 62% to 91%
+- Regulatory change response time dropped from 6 weeks to 2 weeks
+- Time spent on compliance administration reduced by 50%
+- Used reclaimed time to build proactive compliance training program
+
+**Her words:**
+
+"I was terrified about using AI for compliance work. What if it missed something? What if it gave me bad legal advice? But the program taught me AI isn't replacing legal judgment—it's doing the tedious pre-work that used to consume my life. I'm not reading 40-page policies looking for inconsistencies anymore. I'm designing compliance systems that prevent violations before they happen."
+
+### What She Built
+
+- Policy compliance analyzer (readability, bias detection, legal flagging)
+- Compliance training automation workflow
+- Regulatory change monitoring agent
+- Policy version control and change tracking system
+- Compliance audit trail documentation tool
+
+---`,
+                preview: "**Name:** Aisha Rahman **Role:** HR Compliance Specialist **Company:** 600-person healthcare organization **Challenge:** Policy review backlog, regulatory upda…",
+                wordCount: 450,
+            },
+            {
+                number: 6,
+                title: "The \"Before\" State",
+                category: "Stories",
+                content: `**Name:** Michael Torres
+**Role:** Employee Relations Specialist
+**Company:** 300-person retail organization
+**Challenge:** Case documentation taking 3 hours per incident, pattern recognition requiring manual analysis, manager coaching reactive rather than proactive
+
+### The "Before" State
+
+Michael handled employee relations for a retail organization with 300 employees across 12 locations.
+
+Every incident followed the same pattern:
+- Manager calls with employee issue
+- Michael investigates
+- Interviews 4-6 people
+- Documents everything (3+ hours per case)
+- Makes recommendation
+- Coaches manager through resolution
+- Creates file for legal protection
+
+He was handling 8-10 cases per week. That's 24-30 hours just on documentation.
+
+He knew there were patterns—certain managers generating more ER cases, certain locations having more issues—but he didn't have time to analyze them. He was too busy responding to the next fire.
+
+### The Transformation
+
+Michael joined AI Upgrade for HR Professionals hoping to find a better way to handle case documentation.
+
+**Week 2:** He built an ER case documentation assistant. After interviews, he'd do a voice-to-text brain dump of key facts. The assistant would structure it into proper case documentation—timeline, key facts, witness statements, relevant policies, recommendations, legal considerations.
+
+What used to take 3 hours now took 30 minutes. AI structured the notes. He reviewed for accuracy and added human judgment.
+
+**Week 3:** He created a pattern analysis tool for ER cases. Upload 6 months of case documentation, and the tool identified:
+- Which managers had highest case volume
+- Which policy violations were most common
+- Which locations had highest incident rates
+- Common themes in employee complaints
+
+For the first time, he could move from reactive to proactive. He started coaching managers BEFORE they generated ER cases.
+
+**Week 5:** He built a manager coaching scenario library—common ER situations with guidance on how to handle them. Managers could search for scenarios similar to their situation and get immediate guidance.
+
+This reduced "Michael, what do I do?" calls by 40%.
+
+### The Outcome
+
+**4 months after completing the program:**
+
+- Case documentation time reduced from 3 hours to 30 minutes per case
+- Identified 3 managers needing proactive coaching (ER cases in their teams dropped 70%)
+- Built manager self-service ER guidance library
+- Created quarterly ER trends reports for leadership (previously didn't have time)
+- ER case volume decreased 25% due to proactive manager coaching
+
+**His words:**
+
+"I'm not spending my life writing case documentation anymore. The AI handles the structure and format. I focus on the human elements—understanding what really happened, coaching managers through difficult conversations, preventing future issues. That's where my expertise matters. The documentation is just paperwork."
+
+### What He Built
+
+- ER case documentation assistant (voice-to-text structured documentation)
+- ER pattern analysis tool (themes, trends, high-risk areas)
+- Manager coaching scenario library
+- Proactive manager intervention flagging system
+- ER metrics dashboard for leadership reporting
+
+---`,
+                preview: "**Name:** Michael Torres **Role:** Employee Relations Specialist **Company:** 300-person retail organization **Challenge:** Case documentation taking 3 hours p…",
+                wordCount: 472,
+            },
+            {
+                number: 7,
+                title: "The \"Before\" State",
+                category: "Stories",
+                content: `**Name:** Patricia Nguyen
+**Role:** Chief Human Resources Officer (CHRO)
+**Company:** 800-person financial services firm
+**Challenge:** Board asking about AI strategy, team lacking AI capabilities, executive peers moving faster than HR
+
+### The "Before" State
+
+Patricia had built a strong HR function over eight years—talent acquisition, employee engagement, compensation strategy, L&D programs that actually worked.
+
+Then the board started asking questions:
+
+"What's our AI strategy for HR?"
+"How are we using AI to improve efficiency?"
+"Other CHROs are implementing AI tools. What's our plan?"
+
+Patricia didn't have good answers.
+
+Her team wasn't using AI. They were doing great work, but manually. She knew AI could help, but she didn't know where to start, which vendors to trust, or how to build AI capabilities in her team.
+
+Meanwhile, her executive peers (CFO, CTO, CMO) were all implementing AI tools. HR was falling behind.
+
+### The Transformation
+
+Patricia joined AI Upgrade for HR Professionals not to build tools herself, but to understand AI deeply enough to lead her team's transformation.
+
+**Week 1:** She learned the fundamentals—what AI can and can't do, the ethics considerations for HR, the compliance requirements. She could now have informed conversations with vendors.
+
+**Week 2-3:** She built simple HR tools herself (job description generator, engagement survey analyzer) to understand the implementation process. This gave her credibility with her team—she wasn't asking them to do something she hadn't done.
+
+**Week 4:** She used the program's frameworks to assess her team's AI readiness:
+- Which HR processes would benefit most from AI?
+- Which team members were AI-curious vs AI-resistant?
+- What skills gaps needed to be addressed?
+- What vendor tools made sense vs what should be built internally?
+
+**Week 5:** She built a change management plan for rolling out AI across her HR function. Not a top-down mandate. A phased approach that started with quick wins and built confidence.
+
+**Week 6:** For her capstone, she created a 12-month HR AI transformation roadmap with executive support, budget requirements, skill development plan, and success metrics.
+
+### The Outcome
+
+**6 months after completing the program:**
+
+- Presented AI transformation roadmap to board (received approval and $200K budget)
+- Enrolled 5 HR team members in AI Upgrade program
+- Implemented AI tools across TA, employee relations, and L&D functions
+- Reduced HR operational costs by 18% while improving service delivery
+- Positioned HR as AI leader within executive team
+- Invited to present at HR Tech Conference on "Building the AI-Augmented HR Function"
+
+**Her words:**
+
+"I needed to lead this transformation, which meant I needed to understand it deeply enough to make strategic decisions. The program gave me that foundation. I'm not building AI tools day-to-day—my team is—but I can now have informed conversations with vendors, set AI strategy for the function, and position HR as an AI leader in our organization. The board isn't asking 'What's your AI plan?' anymore. They're asking 'Can you present your AI roadmap to other executives?'"
+
+### What She Built
+
+- HR AI transformation roadmap (12-month phased implementation plan)
+- Vendor evaluation framework for HR AI tools
+- Team AI readiness assessment and skill development plan
+- HR AI governance framework (ethics, compliance, human-in-the-loop principles)
+- Executive stakeholder communication strategy
+
+---`,
+                preview: "**Name:** Patricia Nguyen **Role:** Chief Human Resources Officer (CHRO) **Company:** 800-person financial services firm **Challenge:** Board asking about AI s…",
+                wordCount: 534,
+            },
+            {
+                number: 8,
+                title: "The \"Before\" State",
+                category: "Stories",
+                content: `**Name:** Jamal Washington
+**Role:** Technical Recruiter
+**Company:** 120-person startup (series A)
+**Challenge:** Sourcing 20+ engineering roles, candidate engagement dropping off, hiring managers saying "not enough pipeline"
+
+### The "Before" State
+
+Jamal was the only technical recruiter at a fast-growing startup.
+
+The hiring plan: 20+ engineering roles in 12 months.
+
+The reality: He was drowning.
+
+Every role required:
+- Sourcing candidates on LinkedIn (2 hours per role per day)
+- Writing personalized outreach (30 min per candidate)
+- Responding to candidate questions
+- Scheduling interviews
+- Keeping candidates warm through 4-round interview processes
+
+His response rate to outreach: 12%. His candidate drop-off rate: 40% between screening and final round.
+
+Hiring managers kept saying: "We need more pipeline."
+
+Jamal kept thinking: "I need more hours in the day."
+
+### The Transformation
+
+Jamal joined AI Upgrade for HR Professionals with one goal: Source and engage more candidates without working 70-hour weeks.
+
+**Week 2:** He built a candidate outreach message generator. Input: Candidate profile, role details, company value props. Output: Personalized outreach message in his voice.
+
+He still reviewed every message. But drafting time dropped from 30 minutes to 3 minutes per candidate.
+
+**Week 3:** He created a candidate FAQ assistant. Common candidate questions (compensation philosophy, interview process, team culture, tech stack) now had instant answers. He could respond to 20 candidate questions in the time it used to take for 3.
+
+**Week 4:** He built a candidate engagement workflow. Automated check-ins between interview rounds. Personalized content based on candidate interests. Warm handoff templates for hiring managers.
+
+His candidate drop-off rate fell from 40% to 18%.
+
+**Week 5:** He implemented Boolean search automation for sourcing. His AI assistant generated Boolean search strings optimized for specific role requirements across multiple platforms.
+
+### The Outcome
+
+**90 days after completing the program:**
+
+- Outreach response rate increased from 12% to 26%
+- Candidate drop-off rate decreased from 40% to 18%
+- Time spent on candidate sourcing reduced by 40%
+- Hired 14 engineers in 3 months (previous pace: 6 per quarter)
+- Hiring manager satisfaction with pipeline quality increased dramatically
+- Startup hit hiring targets ahead of schedule
+
+**His words:**
+
+"I was burning out. The hiring plan was impossible with one recruiter. But the AI tools didn't replace me—they let me focus on the relationship-building that actually matters. I'm not spending 2 hours writing outreach messages anymore. I'm spending that time building relationships with candidates, understanding what motivates them, helping them see why this opportunity is special. That's what closes candidates. The AI just handles the repetitive stuff."
+
+### What He Built
+
+- Candidate outreach message generator (personalized at scale)
+- Candidate FAQ assistant (instant responses to common questions)
+- Candidate engagement workflow (automated check-ins between rounds)
+- Boolean search string generator for technical sourcing
+- Interview scheduling automation
+- Candidate warm handoff template generator
+
+---`,
+                preview: "**Name:** Jamal Washington **Role:** Technical Recruiter **Company:** 120-person startup (series A) **Challenge:** Sourcing 20+ engineering roles, candidate en…",
+                wordCount: 469,
+            },
+            {
+                number: 9,
+                title: "The \"Before\" State",
+                category: "Stories",
+                content: `**Name:** Emma Rodriguez
+**Role:** HR Coordinator
+**Company:** 200-person nonprofit
+**Challenge:** Benefits enrollment chaos every year, new hire paperwork follow-up consuming 50% of time, employee questions overwhelming
+
+### The "Before" State
+
+Emma was the person who made HR run.
+
+New hire paperwork. Benefits enrollment. HRIS data entry. Employee handbook acknowledgments. Background check follow-ups. I-9 completion. Event planning for team building.
+
+Everything ran through Emma.
+
+And every year, the same patterns:
+- Benefits enrollment = 6 weeks of chaos
+- New hire onboarding = endless follow-ups on incomplete paperwork
+- Employee questions = "Emma, where do I find...?" all day long
+
+She was good at the work. She was just drowning in volume.
+
+When her manager asked her to take on HR analytics, Emma laughed: "With what time?"
+
+### The Transformation
+
+Emma joined AI Upgrade for HR Professionals to find a way to create capacity for strategic work.
+
+**Week 2:** She identified her biggest time drains:
+- Following up on incomplete new hire paperwork (10 hours/week)
+- Answering repetitive employee questions (8 hours/week)
+- Benefits enrollment reminders and troubleshooting (15 hours/week during enrollment, 2 hours/week off-cycle)
+
+**Week 3:** She built workflow automations:
+- New hire onboarding checklist with automated reminders
+- Benefits enrollment reminder sequence with personalized deadlines
+- Employee handbook acknowledgment tracking with auto-escalation
+
+**Week 4:** She created an HR knowledge base with AI-powered search. Employees could ask questions and get instant answers from policies, benefits guides, and company resources.
+
+This reduced her "Emma, where do I find...?" load by 60%.
+
+**Week 6:** For her capstone, she built an HR metrics dashboard pulling data from HRIS, benefits platform, and recruiting system. Leadership could now see headcount, turnover, time-to-hire, and benefits enrollment status in real-time.
+
+### The Outcome
+
+**5 months after completing the program:**
+
+- Reclaimed 20 hours per week from administrative automation
+- Benefits enrollment completion increased from 78% to 96%
+- New hire paperwork completion time dropped from 2 weeks to 4 days
+- Employee self-service resolution increased by 60%
+- Built HR analytics dashboard (promoted to HR Analyst role)
+- Became the "AI champion" for the HR team
+
+**Her words:**
+
+"I thought my job was answering questions and following up on paperwork. But that was just the work that was consuming my time—not the work that created value. The automations gave me time to build the analytics dashboard that leadership had wanted for years. That dashboard got me promoted. AI didn't replace my job. It helped me grow into a better one."
+
+### What She Built
+
+- New hire onboarding automation (checklist, reminders, completion tracking)
+- Benefits enrollment reminder workflow
+- HR knowledge base with AI semantic search
+- Employee self-service FAQ assistant
+- HR metrics dashboard (headcount, turnover, recruiting, benefits)
+- HRIS data quality audit automation
+
+---`,
+                preview: "**Name:** Emma Rodriguez **Role:** HR Coordinator **Company:** 200-person nonprofit **Challenge:** Benefits enrollment chaos every year, new hire paperwork fol…",
+                wordCount: 459,
+            },
+            {
+                number: 10,
+                title: "The \"Before\" State",
+                category: "Stories",
+                content: `**Name:** Rachel Kim
+**Role:** Benefits Administrator
+**Company:** 450-person manufacturing company
+**Challenge:** Open enrollment consuming 3 months every year, employees not understanding their options, benefits cost optimization
+
+### The "Before" State
+
+Rachel managed benefits for 450 employees across hourly manufacturing workers and salaried corporate staff.
+
+Open enrollment was a nightmare:
+- 3 months of employee meetings explaining the same benefit options over and over
+- Employees choosing wrong plans because they didn't understand deductibles vs premiums
+- Decision support requests: "Which plan should I pick for my family?"
+- Post-enrollment regret: "I picked the wrong plan, can I change it?"
+
+Outside open enrollment, her time went to:
+- COBRA administration
+- Benefits questions (hundreds per month)
+- Vendor relationship management
+- Benefits cost analysis for finance
+
+She knew employees weren't making good decisions. She knew the company was overpaying for some benefits. She just didn't have time to fix either problem.
+
+### The Transformation
+
+Rachel joined AI Upgrade for HR Professionals focused on one thing: Open enrollment.
+
+**Week 2:** She built a benefits decision support tool. Employees input their situation (family size, expected medical expenses, risk tolerance) and got personalized plan recommendations with cost comparisons.
+
+This didn't replace Rachel's judgment. Employees could still book 1-on-1 meetings. But 70% of employees found the tool answered their questions.
+
+**Week 3:** She created a benefits FAQ assistant trained on plan documents, carrier guides, and common questions. Employees got instant answers 24/7.
+
+This reduced her benefits question load by 50%.
+
+**Week 4:** She built a benefits cost optimization analyzer. Upload claims data and plan usage, and the tool identified:
+- Which plans were underutilized
+- Which employee populations might benefit from different options
+- Where the company could negotiate better rates
+- Potential cost savings from plan design changes
+
+This analysis used to require a benefits consultant at $15K per year. Rachel's AI tool did it in an hour.
+
+**Week 6:** For her capstone, she created a year-round benefits education system—monthly tips, personalized reminders for preventive care, utilization coaching.
+
+Open enrollment became less chaotic because employees were better educated year-round.
+
+### The Outcome
+
+**One full enrollment cycle after completing the program:**
+
+- Open enrollment timeline reduced from 3 months to 6 weeks
+- Employee 1-on-1 meeting requests dropped by 70%
+- Plan selection satisfaction increased (measured by post-enrollment survey)
+- Identified $85K in annual benefits cost savings through plan optimization
+- Built year-round benefits education system
+- Reduced benefits question volume by 50%
+- Freed up time to lead wellness program expansion
+
+**Her words:**
+
+"Open enrollment used to consume my life for 3 months every year. This year, I spent 6 weeks on enrollment and used the rest of my time building a wellness program that actually helps employees. The benefits decision tool didn't replace me—it made me available for the complex situations where human guidance matters. And the cost optimization analysis gave me data to go to finance with real savings proposals. That changed how leadership sees the benefits function."
+
+### What She Built
+
+- Benefits decision support tool (personalized plan recommendations)
+- Benefits FAQ assistant (24/7 instant answers)
+- Benefits cost optimization analyzer (claims data analysis, savings identification)
+- Open enrollment automation workflow
+- Year-round benefits education system
+- COBRA administration tracking automation
+- Benefits vendor performance scorecard
+
+---
+
+
+### Where to Use These Stories
+
+**Email Sequences:**
+- Email 4: "Your AI Journey" - Brief versions to show curriculum outcomes
+- Email 5: "What They Could Build" - Extended versions with specific tools built
+
+**Landing Pages:**
+- "Success Stories" section
+- Role-specific landing pages (match story to visitor's role)
+
+**Sales Conversations:**
+- "Tell me about someone in my role who's done this program"
+- Match story to prospect's specific challenges
+
+**Social Proof:**
+- LinkedIn posts featuring specific transformations
+- Case study content for blog
+- Video testimonials (if actual alumni available)
+
+### Customization Instructions
+
+**When you have real alumni:**
+1. Replace aspirational names with actual alumni names (with permission)
+2. Update outcomes with real metrics
+3. Add actual quotes from alumni interviews
+4. Include LinkedIn profiles or testimonials with attribution
+
+**For role-specific outreach:**
+- TA specialists → Sarah's story
+- HRBPs → Marcus's story
+- L&D professionals → Jennifer's story
+- Compensation analysts → David's story
+- Compliance specialists → Aisha's story
+- Employee relations → Michael's story
+- CHROs → Patricia's story
+- Recruiters → Jamal's story
+- HR coordinators → Emma's story
+- Benefits administrators → Rachel's story
+
+### Voice Consistency in Stories
+
+Each story follows KK voice principles:
+- **Specific outcomes with numbers** (not vague "improved efficiency")
+- **Real tools built** (named, described, outcome-focused)
+- **Before/during/after structure** (transformation arc)
+- **Human vulnerability** ("I was drowning" / "I didn't know where to start")
+- **Distributed credit** (references instructors, program frameworks, peer support)
+- **Both/and thinking** (AI helped AND human judgment mattered)
+- **No banned words** (synergy, leverage, value-add, etc.)
+
+### Legal and Ethical Notes
+
+**Aspirational content disclaimer:**
+These stories represent potential outcomes based on program frameworks and methodologies. They are not guarantees of specific results.
+
+**Before using publicly:**
+1. Validate that outcomes are achievable with program content
+2. Add disclaimer: "Results vary based on individual effort and organizational context"
+3. Replace with actual alumni stories when available
+4. Get written permission before using anyone's real name or company
+
+---
+
+## STORY IMPACT MATRIX
+
+| Story | Role | Primary Challenge | Tool Built | Key Metric |
+|-------|------|-------------------|------------|------------|
+| Sarah Chen | TA Specialist | High volume screening | Screening rubric generator | 40% faster time-to-hire |
+| Marcus Thompson | HRBP | Reactive operations | Communication assistant | 12 hrs/week reclaimed |
+| Jennifer Okoye | L&D Manager | No personalization | Learning pathway generator | 84% completion rate |
+| David Park | Compensation Analyst | Manual benchmarking | Benchmarking agent | 70% faster comp reviews |
+| Aisha Rahman | Compliance Specialist | Policy review backlog | Compliance analyzer | 91% training completion |
+| Michael Torres | ER Specialist | Case documentation time | Documentation assistant | 25% reduction in cases |
+| Patricia Nguyen | CHRO | No AI strategy | Transformation roadmap | $200K budget approved |
+| Jamal Washington | Recruiter | Sourcing capacity | Outreach generator | 26% response rate |
+| Emma Rodriguez | HR Coordinator | Admin overload | Workflow automations | 20 hrs/week reclaimed |
+| Rachel Kim | Benefits Admin | Open enrollment chaos | Decision support tool | $85K cost savings |
+
+---
+
+
+**Important:** These transformation stories are aspirational scenarios based on:
+- Real program frameworks and methodologies
+- Potential outcomes achievable with proper implementation
+- Challenges commonly faced by HR professionals in these roles
+- Tools that can be built using curriculum content
+
+**Before using for marketing:**
+1. Validate outcomes are realistic with program content
+2. Replace with actual alumni stories when available
+3. Add appropriate disclaimers about results varying by individual
+4. Get written permission before using real names
+
+**Status:** Template library for customization with real program data
+
+**Created:** December 2025
+**For:** The Upgrade AI - HR Professionals Marketing Hub
+**Voice:** Kris Krug (KK) authentic voice`,
+                preview: "**Name:** Rachel Kim **Role:** Benefits Administrator **Company:** 450-person manufacturing company **Challenge:** Open enrollment consuming 3 months every yea…",
+                wordCount: 1180,
+            },
         ],
         playbook: [
             {
@@ -21534,8 +25079,19 @@ Practice-specific: #FamilyLaw #CorporateLaw #Litigation (as relevant)
         quotes: [
             {
                 number: 1,
+                title: "Model Rule 11 now includes technological",
+                category: "Technological Competence",
+                content: `"Model Rule 1.1 now includes technological competence. Your bar association already expects you to understand AI. The question isn't whether to learn—it's whether you'll learn it responsibly."
+— Course Philosophy
+
+Marketing Angle: Ethical obligation, not optional skill. Lead with professional duty.`,
+                preview: "\"Model Rule 1.1 now includes technological competence. Your bar association already expects you to understand AI. The q…",
+                wordCount: 41,
+            },
+            {
+                number: 2,
                 title: "The lawyers who ignore AI aren't",
-                category: "Model Rule 1.1 & Professional Responsibility",
+                category: "Technological Competence",
                 content: `"The lawyers who ignore AI aren't protecting their clients from technology. They're exposing their clients to lawyers who understand technology better."
 — Course Teaching
 
@@ -21544,9 +25100,9 @@ Marketing Angle: Competence gap as client risk.`,
                 wordCount: 31,
             },
             {
-                number: 2,
+                number: 3,
                 title: "Technological competence doesn't mean you code",
-                category: "Model Rule 1.1 & Professional Responsibility",
+                category: "Technological Competence",
                 content: `"Technological competence doesn't mean you code. It means you understand how technology affects your practice, your clients, and your professional judgment. That's Model Rule 1.1. That's what we teach."
 — Kris Krug
 
@@ -21555,9 +25111,9 @@ Marketing Angle: Demystify the requirement. Make it accessible.`,
                 wordCount: 40,
             },
             {
-                number: 3,
+                number: 4,
                 title: "Your bar expects you to be",
-                category: "Model Rule 1.1 & Professional Responsibility",
+                category: "Technological Competence",
                 content: `"Your bar expects you to be technologically competent. But they don't teach you how. That's the gap we're filling."
 — Course Philosophy
 
@@ -21566,9 +25122,9 @@ Marketing Angle: Address the training vacuum.`,
                 wordCount: 28,
             },
             {
-                number: 4,
+                number: 5,
                 title: "The ethical obligation isn't to use",
-                category: "Model Rule 1.1 & Professional Responsibility",
+                category: "Technological Competence",
                 content: `"The ethical obligation isn't to use AI. It's to UNDERSTAND AI well enough to use it responsibly or recognize when others are using it irresponsibly."
 — Course Teaching
 
@@ -21577,9 +25133,20 @@ Marketing Angle: Understanding as ethical foundation.`,
                 wordCount: 34,
             },
             {
-                number: 5,
+                number: 6,
+                title: "The lawyers who DON'T learn AI",
+                category: "Client Confidentiality",
+                content: `"The lawyers who DON'T learn AI are the confidentiality risk. Because they don't know what's safe, what's protected, and what never goes into AI. Ignorance isn't protection."
+— Kris Krug
+
+Marketing Angle: Knowledge as risk mitigation.`,
+                preview: "\"The lawyers who DON'T learn AI are the confidentiality risk. Because they don't know what's safe, what's protected, an…",
+                wordCount: 36,
+            },
+            {
+                number: 7,
                 title: "We teach you what never goes",
-                category: "Confidentiality & Ethics",
+                category: "Client Confidentiality",
                 content: `"We teach you what never goes into AI before we teach you what can. Confidentiality isn't an afterthought—it's the foundation."
 — Course Philosophy
 
@@ -21588,9 +25155,9 @@ Marketing Angle: Ethics-first curriculum design.`,
                 wordCount: 28,
             },
             {
-                number: 6,
+                number: 8,
                 title: "Your clients' information is sacred AI",
-                category: "Confidentiality & Ethics",
+                category: "Client Confidentiality",
                 content: `"Your clients' information is sacred. AI can help your practice without ever touching client data. We'll show you how."
 — Course Teaching
 
@@ -21599,9 +25166,9 @@ Marketing Angle: Permission to adopt without compromise.`,
                 wordCount: 29,
             },
             {
-                number: 7,
+                number: 9,
                 title: "The question isn't 'Should I use",
-                category: "Confidentiality & Ethics",
+                category: "Client Confidentiality",
                 content: `"The question isn't 'Should I use AI?' It's 'How do I use AI while maintaining privilege, confidentiality, and my professional responsibility?' That's what we teach."
 — Kris Krug
 
@@ -21610,9 +25177,9 @@ Marketing Angle: Reframe from binary to nuanced.`,
                 wordCount: 35,
             },
             {
-                number: 8,
+                number: 10,
                 title: "Client confidentiality is non-negotiable AI adoption",
-                category: "Confidentiality & Ethics",
+                category: "Client Confidentiality",
                 content: `"Client confidentiality is non-negotiable. AI adoption is inevitable. We teach you how to honor both."
 — Course Philosophy
 
@@ -21621,7 +25188,7 @@ Marketing Angle: Both/and thinking applied to legal practice.`,
                 wordCount: 26,
             },
             {
-                number: 9,
+                number: 11,
                 title: "Ethics comes on Day 1 of",
                 category: "Ethical Boundaries",
                 content: `"Ethics comes on Day 1 of our curriculum. Not Day 6. Because you can't use AI responsibly in legal practice without understanding the boundaries first."
@@ -21632,7 +25199,7 @@ Marketing Angle: Differentiation from generic AI courses.`,
                 wordCount: 35,
             },
             {
-                number: 10,
+                number: 12,
                 title: "We don't teach you to blindly",
                 category: "Ethical Boundaries",
                 content: `"We don't teach you to blindly adopt AI. We teach you to adopt it responsibly. There's a difference, and your clients will thank you for knowing it."
@@ -21643,7 +25210,7 @@ Marketing Angle: Responsibility as competitive advantage.`,
                 wordCount: 36,
             },
             {
-                number: 11,
+                number: 13,
                 title: "AI doesn't replace legal judgment It",
                 category: "Ethical Boundaries",
                 content: `"AI doesn't replace legal judgment. It clears space FOR legal judgment. But only if you build it with ethical boundaries from day one."
@@ -21654,9 +25221,21 @@ Marketing Angle: AI as judgment amplifier, not replacement.`,
                 wordCount: 34,
             },
             {
-                number: 12,
+                number: 14,
+                title: "AI can learn legal research patterns",
+                category: "Legal Judgment as Moat",
+                content: `"AI can learn legal research patterns. But it can't learn the 20 years of courtroom experience condensed into your intuition. Your judgment is your moat."
+— Kris Krug
+
+Context: Adapted from "worldview is your moat" for legal professionals
+Marketing Angle: Experience as irreplaceable asset.`,
+                preview: "\"AI can learn legal research patterns. But it can't learn the 20 years of courtroom experience condensed into your intu…",
+                wordCount: 44,
+            },
+            {
+                number: 15,
                 title: "Your legal writing style is mimicable",
-                category: "Ethical Boundaries",
+                category: "Legal Judgment as Moat",
                 content: `"Your legal writing style is mimicable. Your judgment is not. Build AI that amplifies YOUR judgment, not generic tools that could be anyone's."
 — Course Philosophy
 
@@ -21665,9 +25244,9 @@ Marketing Angle: Personalization as quality indicator.`,
                 wordCount: 32,
             },
             {
-                number: 13,
+                number: 16,
                 title: "You're not just a document processor",
-                category: "Ethical Boundaries",
+                category: "Legal Judgment as Moat",
                 content: `"You're not just a document processor. You're a counselor. A strategist. An advocate. AI handles the processing so you can focus on the lawyering only you can do."
 — Kris Krug
 
@@ -21676,7 +25255,7 @@ Marketing Angle: Identity elevation through AI adoption.`,
                 wordCount: 38,
             },
             {
-                number: 14,
+                number: 17,
                 title: "The lawyers who thrive over the",
                 category: "Professional Evolution",
                 content: `"The lawyers who thrive over the next decade won't be the ones fighting AI. They won't be the ones ignoring it. They'll be the ones building WITH it."
@@ -21687,7 +25266,7 @@ Marketing Angle: Collaborative mindset as future.`,
                 wordCount: 37,
             },
             {
-                number: 15,
+                number: 18,
                 title: "AI doesn't replace lawyers AI replaces",
                 category: "Professional Evolution",
                 content: `"AI doesn't replace lawyers. AI replaces lawyers who don't use AI."
@@ -21698,7 +25277,7 @@ Marketing Angle: Competitive displacement framing.`,
                 wordCount: 19,
             },
             {
-                number: 16,
+                number: 19,
                 title: "The question isn't whether AI changes",
                 category: "Professional Evolution",
                 content: `"The question isn't whether AI changes legal practice. It's whether you're driving that change or getting driven by it."
@@ -21709,7 +25288,7 @@ Marketing Angle: Agency and control.`,
                 wordCount: 27,
             },
             {
-                number: 17,
+                number: 20,
                 title: "This is my third technology revolution",
                 category: "Professional Evolution",
                 content: `"This is my third technology revolution. The pattern is always the same: initial panic, then adaptation, then opportunity. We're somewhere between panic and adaptation. The opportunity is coming."
@@ -21721,7 +25300,7 @@ Marketing Angle: Experience-based optimism.`,
                 wordCount: 45,
             },
             {
-                number: 18,
+                number: 21,
                 title: "If AI models don't get any",
                 category: "Current Reality",
                 content: `"If AI models don't get any better than they are today, legal practice has already changed. The profession may not know it yet, but the transformation is already here."
@@ -21733,7 +25312,7 @@ Marketing Angle: No waiting required. Act now.`,
                 wordCount: 45,
             },
             {
-                number: 19,
+                number: 22,
                 title: "75 of AI experts are optimistic",
                 category: "Current Reality",
                 content: `"75% of AI experts are optimistic about the technology. The more you know, the less you fear. That's not spin—that's the expert optimism effect."
@@ -21744,9 +25323,21 @@ Marketing Angle: Knowledge as antidote to anxiety.`,
                 wordCount: 34,
             },
             {
-                number: 20,
+                number: 23,
+                title: "3 hours of legal research becomes",
+                category: "Legal Research",
+                content: `"3 hours of legal research becomes 30 minutes when you build an assistant that knows your jurisdiction, your practice area, and your analysis patterns."
+— Projected Outcome
+
+Context: Based on journalist research patterns (30 mins → 3 mins)
+Marketing Angle: 10x time compression maintaining quality.`,
+                preview: "\"3 hours of legal research becomes 30 minutes when you build an assistant that knows your jurisdiction, your practice a…",
+                wordCount: 45,
+            },
+            {
+                number: 24,
                 title: "The research still requires your judgment",
-                category: "Current Reality",
+                category: "Legal Research",
                 content: `"The research still requires your judgment. But AI does the search so you can focus on the analysis. That's the division of labor that changes everything."
 — Course Teaching
 
@@ -21755,9 +25346,9 @@ Marketing Angle: Appropriate task allocation.`,
                 wordCount: 34,
             },
             {
-                number: 21,
+                number: 25,
                 title: "Legal research is perfect for AI",
-                category: "Current Reality",
+                category: "Legal Research",
                 content: `"Legal research is perfect for AI augmentation: bounded by jurisdiction, guided by precedent, requiring human interpretation. The AI finds. You analyze. That's the upgrade."
 — Kris Krug
 
@@ -21766,7 +25357,7 @@ Marketing Angle: Perfect use case identification.`,
                 wordCount: 33,
             },
             {
-                number: 22,
+                number: 26,
                 title: "Discovery review from days to hours",
                 category: "Document Review",
                 content: `"Discovery review from days to hours isn't about cutting corners. It's about consistent thoroughness at scale. AI doesn't get tired. You still review what it flags."
@@ -21777,7 +25368,7 @@ Marketing Angle: Quality through consistency.`,
                 wordCount: 34,
             },
             {
-                number: 23,
+                number: 27,
                 title: "Document review is where junior associates",
                 category: "Document Review",
                 content: `"Document review is where junior associates learn. But it's also where they burn out. AI can handle the volume. You handle the judgment calls. Both win."
@@ -21788,7 +25379,7 @@ Marketing Angle: Humane practice management.`,
                 wordCount: 34,
             },
             {
-                number: 24,
+                number: 28,
                 title: "Client intake from 45 minutes to",
                 category: "Client Service",
                 content: `"Client intake from 45 minutes to 20 minutes isn't about spending less time with clients. It's about spending MORE time on what matters: listening, counseling, strategizing."
@@ -21800,7 +25391,7 @@ Marketing Angle: Better service through AI adoption.`,
                 wordCount: 42,
             },
             {
-                number: 25,
+                number: 29,
                 title: "Your clients don't need you to",
                 category: "Client Service",
                 content: `"Your clients don't need you to manually fill out forms. They need you to understand their situation, explain their options, and guide their decisions. AI handles the forms. You handle the lawyering."
@@ -21811,9 +25402,20 @@ Marketing Angle: Appropriate skill deployment.`,
                 wordCount: 40,
             },
             {
-                number: 26,
+                number: 30,
+                title: "We teach frameworks not tools POP",
+                category: "Framework-First Learning",
+                content: `"We teach frameworks, not tools. POP works in ChatGPT, Claude, Gemini—any platform. When the tools change, you won't have to start over. Because you learned to think, not just to click."
+— Course Philosophy
+
+Marketing Angle: Future-proof learning.`,
+                preview: "\"We teach frameworks, not tools. POP works in ChatGPT, Claude, Gemini—any platform. When the tools change, you won't ha…",
+                wordCount: 38,
+            },
+            {
+                number: 31,
                 title: "Persona Objective Parameters That's it Three",
-                category: "Client Service",
+                category: "Framework-First Learning",
                 content: `"Persona, Objective, Parameters. That's it. Three elements that work across every AI platform. One framework for every legal task you'll encounter."
 — Course Teaching
 
@@ -21823,7 +25425,7 @@ Marketing Angle: Simplicity and universality.`,
                 wordCount: 36,
             },
             {
-                number: 27,
+                number: 32,
                 title: "Writing a system prompt is like",
                 category: "System Prompts",
                 content: `"Writing a system prompt is like writing a job description for a really smart law clerk. What do they need to know on day one to be effective in your practice?"
@@ -21835,7 +25437,7 @@ Marketing Angle: Demystify technical concepts.`,
                 wordCount: 45,
             },
             {
-                number: 28,
+                number: 33,
                 title: "Your system prompt is the job",
                 category: "System Prompts",
                 content: `"Your system prompt is the job description. Your knowledge base is the training manual. Your custom GPT is your AI law clerk. If you can onboard a new associate, you can build this."
@@ -21846,7 +25448,7 @@ Marketing Angle: Accessible through familiar concepts.`,
                 wordCount: 42,
             },
             {
-                number: 29,
+                number: 34,
                 title: "About 15-20 substantial documents You don't",
                 category: "Knowledge Bases",
                 content: `"About 15-20 substantial documents. You don't need hundreds. Quality over quantity. Your best briefs, key cases, practice area summaries—that's your knowledge base foundation."
@@ -21858,7 +25460,7 @@ Marketing Angle: Approachable, not overwhelming.`,
                 wordCount: 38,
             },
             {
-                number: 30,
+                number: 35,
                 title: "The quality of your knowledge base",
                 category: "Knowledge Bases",
                 content: `"The quality of your knowledge base determines the quality of your assistant. Garbage in, garbage out. But great legal thinking in? Great legal assistance out."
@@ -21869,7 +25471,7 @@ Marketing Angle: Your expertise as foundation.`,
                 wordCount: 34,
             },
             {
-                number: 31,
+                number: 36,
                 title: "You don't always need an agent",
                 category: "The Agentic Spectrum",
                 content: `"You don't always need an agent. Sometimes an assistant is exactly right. Sometimes an automation is what you need. The skill is knowing which tool fits the legal task."
@@ -21881,7 +25483,7 @@ Marketing Angle: Strategic thinking over tool worship.`,
                 wordCount: 45,
             },
             {
-                number: 32,
+                number: 37,
                 title: "Start with an assistant If you",
                 category: "The Agentic Spectrum",
                 content: `"Start with an assistant. If you find yourself needing automated workflows, connections to practice management tools, or more autonomy—then consider automations or agents. But 80% of the time, a well-built assistant is enough."
@@ -21892,9 +25494,20 @@ Marketing Angle: Permission to start simple.`,
                 wordCount: 42,
             },
             {
-                number: 33,
+                number: 38,
+                title: "Your first assistant will be mediocre",
+                category: "Iterative Process",
+                content: `"Your first assistant will be mediocre. Your fifth will be good. Your tenth will be great. That's not failure—that's the process."
+— Course Teaching
+
+Marketing Angle: Growth mindset for legal professionals.`,
+                preview: "\"Your first assistant will be mediocre. Your fifth will be good. Your tenth will be great. That's not failure—that's th…",
+                wordCount: 31,
+            },
+            {
+                number: 39,
                 title: "Multiple iterations The first version is",
-                category: "The Agentic Spectrum",
+                category: "Iterative Process",
                 content: `"Multiple iterations. The first version is always too generic. You test it, see where it goes wrong, and tighten the instructions. Your assistant gets smarter as you learn what it needs."
 — Kris Krug
 
@@ -21904,9 +25517,9 @@ Marketing Angle: Honest about the process.`,
                 wordCount: 47,
             },
             {
-                number: 34,
+                number: 40,
                 title: "Build to discover what you need",
-                category: "The Agentic Spectrum",
+                category: "Iterative Process",
                 content: `"Build to discover what you need. When development takes minutes instead of weeks, you don't need to plan everything first. Build version 1, see what's missing, iterate."
 — Course Philosophy
 
@@ -21915,7 +25528,7 @@ Marketing Angle: Experimental mindset permission.`,
                 wordCount: 35,
             },
             {
-                number: 35,
+                number: 41,
                 title: "Don't reach for the most complex",
                 category: "Starting Simple",
                 content: `"Don't reach for the most complex solution. Start with a research assistant for one practice area. Get it working. THEN expand. Simple scales. Complex collapses."
@@ -21927,7 +25540,7 @@ Marketing Angle: Practical implementation path.`,
                 wordCount: 39,
             },
             {
-                number: 36,
+                number: 42,
                 title: "The best legal AI implementations I've",
                 category: "Starting Simple",
                 content: `"The best legal AI implementations I've seen across other professions start ridiculously simple. Then add complexity based on real needs. Don't build everything at once."
@@ -21938,7 +25551,19 @@ Marketing Angle: Learn from patterns across professions.`,
                 wordCount: 35,
             },
             {
-                number: 37,
+                number: 43,
+                title: "I'm not using AI to replace",
+                category: "Solo Practitioner (Sarah - Family Law)",
+                content: `"I'm not using AI to replace my judgment. I'm using it to clear space FOR my judgment. Client intake used to consume 45 minutes. Now it's 20 minutes of structured conversation about what actually matters."
+— Projected Student Quote
+
+Context: Aspirational based on Creative Pros patterns
+Marketing Angle: Time reclaimed for strategic work.`,
+                preview: "\"I'm not using AI to replace my judgment. I'm using it to clear space FOR my judgment. Client intake used to consume 45…",
+                wordCount: 53,
+            },
+            {
+                number: 44,
                 title: "I turned our 200 historical contracts",
                 category: "Corporate Counsel (Michael - Tech Industry)",
                 content: `"I turned our 200+ historical contracts into a searchable intelligence system. Now when business teams ask 'How did we handle this clause before?' I have answers in minutes, not hours."
@@ -21949,7 +25574,7 @@ Marketing Angle: Institutional knowledge unlocked.`,
                 wordCount: 39,
             },
             {
-                number: 38,
+                number: 45,
                 title: "AI doesn't make me a better",
                 category: "Public Defender (Jennifer)",
                 content: `"AI doesn't make me a better lawyer. It gives me TIME to be a better lawyer. That extra 2 hours per case? That's when I do the lawyering that actually matters for my clients."
@@ -21960,7 +25585,7 @@ Marketing Angle: Public service mission amplified.`,
                 wordCount: 44,
             },
             {
-                number: 39,
+                number: 46,
                 title: "Prior art search from 4 hours",
                 category: "IP Attorney (David - Patents)",
                 content: `"Prior art search from 4 hours to 1 hour. Quality improved because thoroughness increased. I'm not cutting corners—I'm covering more ground."
@@ -21971,7 +25596,7 @@ Marketing Angle: Efficiency AND quality.`,
                 wordCount: 30,
             },
             {
-                number: 40,
+                number: 47,
                 title: "Partners noticed I was producing partner-level",
                 category: "Big Law Associate (Elena - Litigation)",
                 content: `"Partners noticed I was producing partner-level work quality at associate speed. It's not magic. It's building tools that handle document review grunt work while I focus on legal analysis."
@@ -21982,7 +25607,7 @@ Marketing Angle: Career acceleration through AI adoption.`,
                 wordCount: 40,
             },
             {
-                number: 41,
+                number: 48,
                 title: "My clients have life-changing stakes I",
                 category: "Immigration Attorney (James)",
                 content: `"My clients have life-changing stakes. I didn't use AI to cut corners—I used it to eliminate errors and improve communication while maintaining the care they deserve."
@@ -21993,7 +25618,18 @@ Marketing Angle: Quality improvement for vulnerable populations.`,
                 wordCount: 37,
             },
             {
-                number: 42,
+                number: 49,
+                title: "Content Coaching Community Not just oneall",
+                category: "Three Pillars",
+                content: `"Content, Coaching, Community. Not just one—all three. That's what makes this different from watching YouTube tutorials alone."
+— Course Philosophy
+
+Marketing Angle: Holistic support structure.`,
+                preview: "\"Content, Coaching, Community. Not just one—all three. That's what makes this different from watching YouTube tutorials…",
+                wordCount: 25,
+            },
+            {
+                number: 50,
                 title: "We start with WHO you want",
                 category: "Identity-First Learning",
                 content: `"We start with WHO you want to become as a lawyer in the AI era, not WHAT tools exist. Identity transformation, not just skill acquisition."
@@ -22004,7 +25640,7 @@ Marketing Angle: Purpose-driven learning.`,
                 wordCount: 32,
             },
             {
-                number: 43,
+                number: 51,
                 title: "By Week 4 you have a",
                 category: "Production Focus",
                 content: `"By Week 4, you have a working assistant. By Week 6, you have a production-ready tool you can show firm leadership. This isn't theoretical learning."
@@ -22015,7 +25651,7 @@ Marketing Angle: Tangible outputs.`,
                 wordCount: 32,
             },
             {
-                number: 44,
+                number: 52,
                 title: "Ethics on Day 1 Not as",
                 category: "Ethics-First Design",
                 content: `"Ethics on Day 1. Not as an afterthought. Not as a compliance checkbox. As the foundation for everything you build."
@@ -22026,9 +25662,20 @@ Marketing Angle: Differentiation through ethical priority.`,
                 wordCount: 29,
             },
             {
-                number: 45,
+                number: 53,
+                title: "If you save even 2 hours",
+                category: "Time Value",
+                content: `"If you save even 2 hours per week, and you bill at $300/hour, that's $30,000 in annual capacity. The course investment pays for itself in week one."
+— Course ROI Calculation
+
+Marketing Angle: Clear financial justification.`,
+                preview: "\"If you save even 2 hours per week, and you bill at $300/hour, that's $30,000 in annual capacity. The course investment…",
+                wordCount: 36,
+            },
+            {
+                number: 54,
                 title: "Solo practitioners can't hire associates But",
-                category: "Ethics-First Design",
+                category: "Time Value",
                 content: `"Solo practitioners can't hire associates. But they can build AI assistants that handle the work that keeps them from strategic counseling. That's the economic transformation."
 — Course Philosophy
 
@@ -22037,9 +25684,9 @@ Marketing Angle: Access to associate-level support.`,
                 wordCount: 34,
             },
             {
-                number: 46,
+                number: 55,
                 title: "The lawyers building competitive advantages right",
-                category: "Ethics-First Design",
+                category: "Time Value",
                 content: `"The lawyers building competitive advantages right now aren't spending more. They're building smarter. AI amplification, not headcount expansion."
 — Kris Krug
 
@@ -22048,7 +25695,7 @@ Marketing Angle: Efficiency as strategy.`,
                 wordCount: 26,
             },
             {
-                number: 47,
+                number: 56,
                 title: "Your competitors are learning this The",
                 category: "Competitive Position",
                 content: `"Your competitors are learning this. The question is whether you learn it first, or whether you're playing catch-up in two years."
@@ -22059,7 +25706,7 @@ Marketing Angle: First-mover advantage.`,
                 wordCount: 28,
             },
             {
-                number: 48,
+                number: 57,
                 title: "The lawyers who adopt AI responsibly",
                 category: "Competitive Position",
                 content: `"The lawyers who adopt AI responsibly now will set the ethical standards for the profession. The ones who wait will follow standards set by others. Which do you want to be?"
@@ -22070,9 +25717,20 @@ Marketing Angle: Professional leadership opportunity.`,
                 wordCount: 39,
             },
             {
-                number: 49,
+                number: 58,
+                title: "Stop waiting for AI to stabilize",
+                category: "Getting Started",
+                content: `"Stop waiting for AI to stabilize. Stop waiting for your firm to mandate training. Stop waiting for perfect knowledge. Start building. That's how you learn."
+— Course Philosophy
+
+Marketing Angle: Action over analysis paralysis.`,
+                preview: "\"Stop waiting for AI to stabilize. Stop waiting for your firm to mandate training. Stop waiting for perfect knowledge.…",
+                wordCount: 34,
+            },
+            {
+                number: 59,
                 title: "Six weeks from now you could",
-                category: "Competitive Position",
+                category: "Getting Started",
                 content: `"Six weeks from now, you could be building custom AI assistants for your practice. Or you could be exactly where you are now, watching other lawyers build competitive advantages. One decision separates those futures."
 — Kris Krug
 
@@ -22081,9 +25739,9 @@ Marketing Angle: Decision clarity and urgency.`,
                 wordCount: 43,
             },
             {
-                number: 50,
+                number: 60,
                 title: "You don't need to be technical",
-                category: "Competitive Position",
+                category: "Getting Started",
                 content: `"You don't need to be technical. You need to be willing to learn. If you can write a legal memo, you can write a system prompt. If you can onboard an associate, you can build an assistant."
 — Course Philosophy
 
@@ -22092,9 +25750,9 @@ Marketing Angle: Accessibility reassurance.`,
                 wordCount: 44,
             },
             {
-                number: 51,
+                number: 61,
                 title: "The upgrade awaits The question is",
-                category: "Competitive Position",
+                category: "Getting Started",
                 content: `"The upgrade awaits. The question is whether you're ready to claim it."
 — Kris Krug
 
@@ -22103,7 +25761,7 @@ Marketing Angle: Invitation and empowerment.`,
                 wordCount: 20,
             },
             {
-                number: 52,
+                number: 62,
                 title: "Model Rule 11 expects technological competence",
                 category: "Professional Imperative",
                 content: `"Model Rule 1.1 expects technological competence. Your clients expect efficient service. Your competitors are building AI capabilities. The only question left is: when do YOU start?"
@@ -22114,7 +25772,7 @@ Marketing Angle: Convergence of obligations and opportunity.`,
                 wordCount: 36,
             },
             {
-                number: 53,
+                number: 63,
                 title: "The legal professionals winning right now",
                 category: "Professional Imperative",
                 content: `"The legal professionals winning right now aren't hiding from AI. They're not competing with AI. They're building WITH AI. Within ethical boundaries. With client confidentiality protected. That's the responsible upgrade."
@@ -22125,12 +25783,36 @@ Marketing Angle: Final framing of ethical AI adoption.`,
                 wordCount: 41,
             },
             {
-                number: 54,
+                number: 64,
                 title: "Your second brain isn't just for",
                 category: "Second Brain",
                 content: "\"Your second brain isn't just for personal knowledge management. It's your practice intelligence system: case law, analysis patterns, practice area expertise—organized and accessible when you need it.\"",
                 preview: "\"Your second brain isn't just for personal knowledge management. It's your practice intelligence system: case law, anal…",
                 wordCount: 27,
+            },
+            {
+                number: 65,
+                title: "You're the original intelligence AI is",
+                category: "Original Intelligence",
+                content: "\"You're the original intelligence. AI is the amplifier. Your legal judgment, your client relationships, your ethical compass—that's what matters. AI just clears space for more of it.\"",
+                preview: "\"You're the original intelligence. AI is the amplifier. Your legal judgment, your client relationships, your ethical co…",
+                wordCount: 27,
+            },
+            {
+                number: 66,
+                title: "Algorithmic humility in legal practice means",
+                category: "Algorithmic Humility",
+                content: "\"Algorithmic humility in legal practice means never letting AI make judgment calls. It does research. It flags issues. It drafts first attempts. You decide. You analyze. You counsel. That's the boundary.\"",
+                preview: "\"Algorithmic humility in legal practice means never letting AI make judgment calls. It does research. It flags issues.…",
+                wordCount: 31,
+            },
+            {
+                number: 67,
+                title: "Digital composting for lawyers your old",
+                category: "Digital Composting",
+                content: "\"Digital composting for lawyers: your old briefs, research memos, case analyses—they're not just archived. They're your knowledge base. AI turns past work into future intelligence.\"",
+                preview: "\"Digital composting for lawyers: your old briefs, research memos, case analyses—they're not just archived. They're your…",
+                wordCount: 25,
             },
         ],
         emails: [

@@ -5,7 +5,7 @@
 
 class MarketingHub {
     constructor() {
-        this.currentProgram = 'creative-pros';
+        this.currentProgram = 'pr-comms';
         this.currentType = 'linkedin';
         this.searchTerm = '';
         this.selectedCategory = '';
@@ -29,7 +29,14 @@ class MarketingHub {
         const container = document.getElementById('programList');
         container.innerHTML = '';
 
-        const visiblePrograms = Object.entries(PROGRAMS).filter(([key, program]) => this.showInDev || program.status !== 'in-development');
+        const priorityOrder = ['pr-comms', 'creative-pros', 'journalists', 'sales-leaders'];
+        const rank = (k) => {
+            const i = priorityOrder.indexOf(k);
+            return i === -1 ? 1000 : i;
+        };
+        const visiblePrograms = Object.entries(PROGRAMS)
+            .filter(([key, program]) => this.showInDev || program.status !== 'in-development')
+            .sort((a, b) => rank(a[0]) - rank(b[0]));
 
         // Ensure current program is visible
         if (!visiblePrograms.some(([k]) => k === this.currentProgram)) {
