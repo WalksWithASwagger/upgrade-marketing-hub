@@ -4,6 +4,13 @@
  */
 
 const PROGRAMS = {
+    "all-programs": {
+        "name": "All Programs (Cohort Roundup)",
+        "description": "Cross-program cohort marketing in Kris voice (no hype): one-post roundups, pick-your-track, proof, CTAs",
+        "color": "cyan",
+        "icon": "fa fa-layer-group",
+        "status": "ready"
+    },
     "creative-pros": {
         "name": "Creative Professionals",
         "description": "AI training for designers, photographers, videographers, and creative directors",
@@ -56,6 +63,641 @@ const PROGRAMS = {
 };
 
 const CONTENT_DATA = {
+    "all-programs": {
+        linkedin: [
+            {
+                number: 1,
+                title: "Pick your track",
+                category: "Cohorts Starting Soon (Roundups)",
+                content: `If you’re a working professional trying to get your head around AI (without turning your brain into mush), here’s the cleanest way I know to do it:
+
+Pick the track that matches your day job:
+- PR & Communications
+- Creative Professionals
+- Journalists
+- Sales Leaders
+
+Same philosophy across all of them:
+Use AI to ship better work, faster, with fewer unforced errors.
+
+No hype. No “AI as magic.” Just applied skill.
+
+Cohorts run throughout the year. Dates + pricing live here:
+https://theupgrade.ai/store`,
+                preview: "If you’re a working professional trying to get your head around AI (without turning your brain into mush), here’s the cleanest way I know to do it: Pick the tr…",
+                wordCount: 84,
+            },
+            {
+                number: 2,
+                title: "Four cohorts, one question",
+                category: "Cohorts Starting Soon (Roundups)",
+                content: `Every cohort starts with the same question:
+
+“How do I use AI without lowering the quality of my work?”
+
+If that’s your question too, we’ve got four tracks running:
+- PR & Communications
+- Creative Professionals
+- Journalists
+- Sales Leaders
+
+You don’t need to become a prompt poet.
+You need a repeatable workflow that makes you faster *and* sharper.
+
+Details + next cohort dates:
+https://theupgrade.ai/store`,
+                preview: "Every cohort starts with the same question: “How do I use AI without lowering the quality of my work?” If that’s your question too, we’ve got four tracks runni…",
+                wordCount: 66,
+            },
+            {
+                number: 3,
+                title: "For the people doing the work",
+                category: "Cohorts Starting Soon (Roundups)",
+                content: `This is for the working bees:
+designers, comms people, writers, editors, sales teams.
+
+Not the “AI thought leadership” crowd.
+
+We’re running cohorts across four programs:
+- PR & Communications
+- Creative Professionals
+- Journalists
+- Sales Leaders
+
+Six weeks. Applied skill. Real workflows. Better outputs.
+
+If you want to stop dabbling and start operating:
+https://theupgrade.ai/store`,
+                preview: "This is for the working bees: designers, comms people, writers, editors, sales teams. Not the “AI thought leadership” crowd. We’re running cohorts across four…",
+                wordCount: 55,
+            },
+            {
+                number: 4,
+                title: "Choose your constraint",
+                category: "Cohorts Starting Soon (Roundups)",
+                content: `Pick your constraint:
+- You don’t have enough time.
+- You’re shipping work that’s “fine” but not sharp.
+- You’re stuck in rewrite loops.
+- You’re nervous about hallucinations / confidentiality / accuracy.
+
+We built The Upgrade to solve those constraints with real workflows.
+
+Four tracks running:
+PR & Communications • Creative Pros • Journalists • Sales Leaders
+
+Dates + pricing:
+https://theupgrade.ai/store`,
+                preview: "Pick your constraint: - You don’t have enough time. - You’re shipping work that’s “fine” but not sharp. - You’re stuck in rewrite loops. - You’re nervous about…",
+                wordCount: 62,
+            },
+            {
+                number: 5,
+                title: "The “not optional” post (clean version)",
+                category: "Cohorts Starting Soon (Roundups)",
+                content: `AI isn’t optional anymore.
+
+Not because “the future is coming.”
+Because your clients, your boss, your peers… are already using it.
+
+The new split is simple:
+People who can use AI with taste + judgment
+vs.
+People who can’t.
+
+We run cohorts across:
+PR & Communications • Creative Pros • Journalists • Sales Leaders
+
+If you want to get ahead of the curve with receipts (not vibes):
+https://theupgrade.ai/store
+
+---`,
+                preview: "AI isn’t optional anymore. Not because “the future is coming.” Because your clients, your boss, your peers… are already using it. The new split is simple: Peop…",
+                wordCount: 69,
+            },
+            {
+                number: 6,
+                title: "PR & Comms lane (who it’s for)",
+                category: "Pick Your Track (Self-selection)",
+                content: `If your job is to protect (and grow) reputation, clarity, trust:
+PR & Communications is your lane.
+
+You’ll learn workflows for:
+grounded research, briefing, drafts, QA, coverage recaps, internal comms.
+
+See upcoming cohorts:
+https://theupgrade.ai/store`,
+                preview: "If your job is to protect (and grow) reputation, clarity, trust: PR & Communications is your lane. You’ll learn workflows for: grounded research, briefing, dra…",
+                wordCount: 34,
+            },
+            {
+                number: 7,
+                title: "Creative lane (who it’s for)",
+                category: "Pick Your Track (Self-selection)",
+                content: `If your job is to make things that people feel:
+Creative Professionals is your lane.
+
+You’ll learn workflows for:
+concepting, moodboards, shot lists, edits, client comms, production speed.
+
+See upcoming cohorts:
+https://theupgrade.ai/store`,
+                preview: "If your job is to make things that people feel: Creative Professionals is your lane. You’ll learn workflows for: concepting, moodboards, shot lists, edits, cli…",
+                wordCount: 32,
+            },
+            {
+                number: 8,
+                title: "Journalists lane (who it’s for)",
+                category: "Pick Your Track (Self-selection)",
+                content: `If your job is to find what’s true, then explain it clearly:
+Journalists is your lane.
+
+You’ll learn workflows for:
+research, synthesis, interview prep, verification, drafting, editorial QA.
+
+See upcoming cohorts:
+https://theupgrade.ai/store`,
+                preview: "If your job is to find what’s true, then explain it clearly: Journalists is your lane. You’ll learn workflows for: research, synthesis, interview prep, verific…",
+                wordCount: 32,
+            },
+            {
+                number: 9,
+                title: "Sales lane (who it’s for)",
+                category: "Pick Your Track (Self-selection)",
+                content: `If your job is to create revenue without becoming spam:
+Sales Leaders is your lane.
+
+You’ll learn workflows for:
+account research, messaging, call prep, follow-ups, proposal support, enablement.
+
+See upcoming cohorts:
+https://theupgrade.ai/store
+
+---`,
+                preview: "If your job is to create revenue without becoming spam: Sales Leaders is your lane. You’ll learn workflows for: account research, messaging, call prep, follow-…",
+                wordCount: 33,
+            },
+            {
+                number: 10,
+                title: "Faster isn’t the goal",
+                category: "Proof + receipts (lightweight)",
+                content: `“Faster” isn’t the goal.
+Better decisions are the goal.
+
+AI is just leverage:
+it compresses the distance between “question” and “tested answer.”
+
+We teach applied workflows across four tracks:
+PR & Communications • Creative Pros • Journalists • Sales Leaders
+
+Pick yours:
+https://theupgrade.ai/store`,
+                preview: "“Faster” isn’t the goal. Better decisions are the goal. AI is just leverage: it compresses the distance between “question” and “tested answer.” We teach applie…",
+                wordCount: 43,
+            },
+            {
+                number: 11,
+                title: "Calm competence",
+                category: "Proof + receipts (lightweight)",
+                content: `The real output isn’t “AI content.”
+
+The real output is calm competence:
+you know what to ask, how to validate, what to ship, and what *not* to ship.
+
+That’s what we train in six weeks.
+Four tracks, cohorts throughout the year.
+
+Details:
+https://theupgrade.ai/store`,
+                preview: "The real output isn’t “AI content.” The real output is calm competence: you know what to ask, how to validate, what to ship, and what *not* to ship. That’s wha…",
+                wordCount: 43,
+            },
+        ],
+        quotes: [
+            {
+                number: 1,
+                title: "We dont teach AI vibes We",
+                category: "The point (no hype)",
+                content: `"We don’t teach AI vibes. We teach workflows you can use on Monday."
+— Kris Krüg
+
+Marketing Angle: Clear differentiation: applied skill, not hype.`,
+                preview: "\"We don’t teach AI vibes. We teach workflows you can use on Monday.\"",
+                wordCount: 24,
+            },
+            {
+                number: 2,
+                title: "AI isnt magic Its leverage Leverage",
+                category: "The point (no hype)",
+                content: `"AI isn’t magic. It’s leverage. Leverage still needs judgment."
+— Kris Krüg
+
+Marketing Angle: Signals taste + seriousness.`,
+                preview: "\"AI isn’t magic. It’s leverage. Leverage still needs judgment.\"",
+                wordCount: 18,
+            },
+            {
+                number: 3,
+                title: "Faster isnt the goal Better decisions",
+                category: "The point (no hype)",
+                content: `"Faster isn’t the goal. Better decisions are the goal."
+— Kris Krüg
+
+Marketing Angle: Reframes AI adoption as quality, not shortcuts.`,
+                preview: "\"Faster isn’t the goal. Better decisions are the goal.\"",
+                wordCount: 21,
+            },
+            {
+                number: 4,
+                title: "The new split isnt human vs",
+                category: "The new split",
+                content: `"The new split isn’t human vs. machine. It’s adapted vs. not adapted."
+— Course Philosophy
+
+Marketing Angle: Strong, clean framing. No fear-mongering.`,
+                preview: "\"The new split isn’t human vs. machine. It’s adapted vs. not adapted.\"",
+                wordCount: 22,
+            },
+            {
+                number: 5,
+                title: "Your clients are already using AI",
+                category: "The new split",
+                content: `"Your clients are already using AI. The question is whether you’re ahead of them or behind them."
+— Course Insight
+
+Marketing Angle: Urgency without hype.`,
+                preview: "\"Your clients are already using AI. The question is whether you’re ahead of them or behind them.\"",
+                wordCount: 25,
+            },
+            {
+                number: 6,
+                title: "Use AI like a power tool",
+                category: "Guardrails + confidence",
+                content: `"Use AI like a power tool. Keep your hands on the safety rails."
+— Kris Krüg
+
+Marketing Angle: Risk-aware, professional.`,
+                preview: "\"Use AI like a power tool. Keep your hands on the safety rails.\"",
+                wordCount: 20,
+            },
+            {
+                number: 7,
+                title: "We dont ship hallucinations We ship",
+                category: "Guardrails + confidence",
+                content: `"We don’t ship hallucinations. We ship work that can survive scrutiny."
+— Course Standard
+
+Marketing Angle: Great for journalists/comms audiences.`,
+                preview: "\"We don’t ship hallucinations. We ship work that can survive scrutiny.\"",
+                wordCount: 20,
+            },
+            {
+                number: 8,
+                title: "Pick the track that matches your",
+                category: "Choose your track",
+                content: `"Pick the track that matches your day job. That’s how you make this real."
+— Kris Krüg
+
+Marketing Angle: Makes program selection easy.`,
+                preview: "\"Pick the track that matches your day job. That’s how you make this real.\"",
+                wordCount: 23,
+            },
+        ],
+        emails: [
+            {
+                number: 1,
+                title: "Email 1: Choose your track",
+                category: "Launch Sequence",
+                content: `Subject: Pick your AI track (PR, Creative, Journalism, Sales)
+
+Hi —
+
+If you’re trying to get competent with AI (without drowning in hype), here’s the clean move:
+
+Pick the track that matches your day job:
+- PR & Communications
+- Creative Professionals
+- Journalists
+- Sales Leaders
+
+Six weeks. Applied workflows. Real constraints: speed, quality, accuracy, confidence.
+
+Dates + pricing:
+https://theupgrade.ai/store
+
+— Kris
+
+---`,
+                preview: "Hi — If you’re trying to get competent with AI (without drowning in hype), here’s the clean move: Pick the track that matches your day job: - PR & Communicatio…",
+                wordCount: 64,
+                timing: "Day 0 (announce)",
+            },
+            {
+                number: 2,
+                title: "Email 2: What this is (and isn’t)",
+                category: "Launch Sequence",
+                content: `Subject: What this is (and what it isn’t)
+
+Quick clarity:
+
+This is not a motivational seminar.
+This is not “prompt engineering as personality.”
+
+This is six weeks of applied workflows:
+research → synthesis → draft → QA → ship
+
+You’ll leave with patterns you can use immediately.
+
+Pick your track + see the next cohorts here:
+https://theupgrade.ai/store
+
+— Kris
+
+---`,
+                preview: "Quick clarity: This is not a motivational seminar. This is not “prompt engineering as personality.” This is six weeks of applied workflows: research → synthesi…",
+                wordCount: 60,
+                timing: "Day 2",
+            },
+            {
+                number: 3,
+                title: "Email 3: The new split",
+                category: "Launch Sequence",
+                content: `Subject: The new split: adapted vs. not
+
+The new split isn’t human vs. machine.
+It’s adapted vs. not adapted.
+
+Your clients / coworkers are already using AI.
+The question is whether you can use it with taste + judgment.
+
+Tracks:
+PR & Communications • Creative Pros • Journalists • Sales Leaders
+
+Details:
+https://theupgrade.ai/store
+
+— Kris
+
+---`,
+                preview: "The new split isn’t human vs. machine. It’s adapted vs. not adapted. Your clients / coworkers are already using AI. The question is whether you can use it with…",
+                wordCount: 56,
+                timing: "Day 4",
+            },
+            {
+                number: 4,
+                title: "Email 4: Risk + guardrails (how we keep it professional)",
+                category: "Launch Sequence",
+                content: `Subject: How we keep this professional (no hallucinations)
+
+If you’re worried about hallucinations, confidentiality, or accuracy:
+good. That means you’re a pro.
+
+We teach workflows that keep your hands on the safety rails:
+- grounded research
+- verification habits
+- clarity about what’s “draft” vs. “fact”
+- repeatable QA
+
+Pick the track that fits your work:
+https://theupgrade.ai/store
+
+— Kris
+
+---`,
+                preview: "If you’re worried about hallucinations, confidentiality, or accuracy: good. That means you’re a pro. We teach workflows that keep your hands on the safety rail…",
+                wordCount: 60,
+                timing: "Day 6",
+            },
+            {
+                number: 5,
+                title: "Email 5: Who this is for (self-select)",
+                category: "Launch Sequence",
+                content: `Subject: Which track fits you?
+
+Pick your lane:
+
+- PR & Communications: reputation, clarity, trust
+- Creative Pros: concepting + production speed with taste
+- Journalists: research, synthesis, verification
+- Sales Leaders: revenue without spam
+
+If you’re doing real work, you’ll fit.
+
+Dates + pricing:
+https://theupgrade.ai/store
+
+— Kris
+
+---`,
+                preview: "Pick your lane: - PR & Communications: reputation, clarity, trust - Creative Pros: concepting + production speed with taste - Journalists: research, synthesis,…",
+                wordCount: 49,
+                timing: "Day 8",
+            },
+            {
+                number: 6,
+                title: "Email 6: Clean CTA (last call)",
+                category: "Launch Sequence",
+                content: `Subject: Last call (if you want a seat)
+
+If you want to stop dabbling and start operating, pick your track.
+
+PR & Communications • Creative Pros • Journalists • Sales Leaders
+
+Dates + pricing:
+https://theupgrade.ai/store
+
+— Kris`,
+                preview: "If you want to stop dabbling and start operating, pick your track. PR & Communications • Creative Pros • Journalists • Sales Leaders Dates + pricing: https://t…",
+                wordCount: 37,
+                timing: "Day 10",
+            },
+        ],
+        stories: [
+            {
+                number: 1,
+                title: "From dabbling to operating",
+                category: "Stories",
+                content: `Before: smart professional, lots of tabs open, AI used “sometimes,” mostly for drafts.
+
+Constraint: time + quality. Everything felt like either “fast and sloppy” or “slow and careful.”
+
+Shift: learned a repeatable workflow:
+question → grounded research → synthesis → draft → QA → ship
+
+After: fewer rewrite loops. More confident outputs. Better decisions faster.`,
+                preview: "Before: smart professional, lots of tabs open, AI used “sometimes,” mostly for drafts. Constraint: time + quality. Everything felt like either “fast and sloppy…",
+                wordCount: 55,
+            },
+            {
+                number: 2,
+                title: "From anxiety to guardrails",
+                category: "Stories",
+                content: `Before: fear of hallucinations, confidentiality, and “shipping something wrong.”
+
+Constraint: professional risk. The work had to survive scrutiny.
+
+Shift: learned safety rails:
+- when to use AI vs. not
+- how to validate outputs
+- how to label drafts vs. facts
+- how to keep private info out of the model
+
+After: calm competence. AI becomes leverage, not a liability.`,
+                preview: "Before: fear of hallucinations, confidentiality, and “shipping something wrong.” Constraint: professional risk. The work had to survive scrutiny. Shift: learne…",
+                wordCount: 60,
+            },
+            {
+                number: 3,
+                title: "From “content” to outcomes",
+                category: "Stories",
+                content: `Before: using AI to make more “content.”
+
+Constraint: more output didn’t equal better outcomes.
+
+Shift: focused on outcomes:
+clarity, decision quality, speed, and usefulness to real humans.
+
+After: AI is used where it matters: research, synthesis, structure, QA, iteration.`,
+                preview: "Before: using AI to make more “content.” Constraint: more output didn’t equal better outcomes. Shift: focused on outcomes: clarity, decision quality, speed, an…",
+                wordCount: 39,
+            },
+        ],
+        playbook: [
+            {
+                number: 1,
+                title: "Lead Magnet Playbook",
+                category: "Lead Magnet",
+                content: `# The Upgrade — All Programs (Cohort Roundup): Lead Magnet Playbook
+## “Choose Your Track” — a simple lead magnet for general professionals
+
+---
+
+## What this is
+A lightweight, non-hype lead magnet that helps people pick the program that fits their job:
+- PR & Communications
+- Creative Professionals
+- Journalists
+- Sales Leaders
+
+Goal: move a general audience from “AI confusion” → “track selection” → registration.
+
+---
+
+## Landing page structure (fast)
+
+### Above the fold
+- Title: **Pick your AI track**
+- Subhead: *Six weeks. Applied workflows. No hype.*
+- CTA button: **See cohort dates + pricing** → \`https://theupgrade.ai/store\`
+
+### What you’ll get (bullets)
+- A repeatable workflow for using AI without lowering quality
+- Guardrails for accuracy + confidentiality
+- Examples you can actually adapt to your work
+
+### Choose-your-track block (4 cards)
+- PR & Communications: reputation, clarity, trust
+- Creative Pros: concepting + production speed with taste
+- Journalists: research, synthesis, verification
+- Sales Leaders: revenue without spam
+
+---
+
+## Email capture (optional)
+If you’re using a lead magnet download, the conversion step is:
+1) email capture
+2) deliver the PDF
+3) send the 6-email sequence in this lane
+
+---
+
+## PDF outline (1–2 pages)
+
+### Page 1: The point
+- AI is leverage, not magic.
+- Faster isn’t the goal. Better decisions are the goal.
+- The split is adapted vs. not adapted.
+
+### Page 2: Pick your track
+- 4 short descriptions (one paragraph each)
+- Link to cohort store page`,
+                preview: "# The Upgrade — All Programs (Cohort Roundup): Lead Magnet Playbook ## “Choose Your Track” — a simple lead magnet for general professionals --- ## What this is…",
+                wordCount: 249,
+            },
+        ],
+        images: [
+            {
+                number: 1,
+                title: "“Pick your AI track” — clean typographic card",
+                category: "Category: Roundup / Pick-your-track",
+                content: `Style: minimal, high-contrast, editorial, not flashy. Dark background, crisp type, strong hierarchy.
+
+Text (exact):
+PICK YOUR AI TRACK
+
+PR & Communications
+Creative Pros
+Journalists
+Sales Leaders
+
+Footer (small):
+theupgrade.ai/store
+
+Notes:
+- No gradients, no neon, no cliché AI imagery.
+- Use subtle texture (paper grain) if needed.`,
+                preview: "Style: minimal, high-contrast, editorial, not flashy. Dark background, crisp type, strong hierarchy. Text (exact): PICK YOUR AI TRACK PR & Communications Creat…",
+                wordCount: 47,
+            },
+            {
+                number: 2,
+                title: "“Cohorts starting soon” — roundup banner",
+                category: "Category: Roundup / Pick-your-track",
+                content: `Style: bold headline + 4 program pills (or list). Feels like a “serious” brand.
+
+Headline:
+COHORTS STARTING SOON
+
+Sub:
+Pick the track that matches your day job.
+
+Footer:
+theupgrade.ai/store
+
+---`,
+                preview: "Style: bold headline + 4 program pills (or list). Feels like a “serious” brand. Headline: COHORTS STARTING SOON Sub: Pick the track that matches your day job.…",
+                wordCount: 30,
+            },
+            {
+                number: 3,
+                title: "“Workflows, not vibes”",
+                category: "Category: Proof / Guardrails",
+                content: `Style: typographic, punchy, brutal clarity.
+
+Text:
+WORKFLOWS
+NOT VIBES
+
+Sub (small):
+Applied AI training for working professionals.`,
+                preview: "Style: typographic, punchy, brutal clarity. Text: WORKFLOWS NOT VIBES Sub (small): Applied AI training for working professionals.",
+                wordCount: 17,
+            },
+            {
+                number: 4,
+                title: "“Safety rails” card",
+                category: "Category: Proof / Guardrails",
+                content: `Text:
+KEEP YOUR HANDS
+ON THE SAFETY RAILS
+
+Sub:
+Accuracy • confidentiality • verification`,
+                preview: "Text: KEEP YOUR HANDS ON THE SAFETY RAILS Sub: Accuracy • confidentiality • verification",
+                wordCount: 14,
+            },
+        ],
+    },
     "creative-pros": {
         linkedin: [
             {

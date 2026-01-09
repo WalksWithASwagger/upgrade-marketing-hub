@@ -5,7 +5,7 @@
 
 class MarketingHub {
     constructor() {
-        this.currentProgram = 'pr-comms';
+        this.currentProgram = 'all-programs';
         this.currentType = 'linkedin';
         this.searchTerm = '';
         this.selectedCategory = '';
@@ -29,7 +29,7 @@ class MarketingHub {
         const container = document.getElementById('programList');
         container.innerHTML = '';
 
-        const priorityOrder = ['pr-comms', 'creative-pros', 'journalists', 'sales-leaders'];
+        const priorityOrder = ['all-programs', 'pr-comms', 'creative-pros', 'journalists', 'sales-leaders'];
         const rank = (k) => {
             const i = priorityOrder.indexOf(k);
             return i === -1 ? 1000 : i;
