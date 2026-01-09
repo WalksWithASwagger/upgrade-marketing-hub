@@ -2401,7 +2401,7 @@ If you’ve been sitting on an idea because “I’m not technical” or “I ca
                 wordCount: 145,
             },
             {
-                number: 33,
+                number: 35,
                 title: "Matthew's Community",
                 category: "Outcome & Proof Posts (10 posts)",
                 content: `Matthew Schwartzman was 17 when he took Cohort 1.
@@ -2430,7 +2430,7 @@ What's your excuse?
                 wordCount: 69,
             },
             {
-                number: 34,
+                number: 36,
                 title: "109 Court Cases",
                 category: "Outcome & Proof Posts (10 posts)",
                 content: `Lawrence Alexander analyzed 109 Indigenous court cases.
@@ -2456,7 +2456,7 @@ Your expertise + AI tools = exponential output.
                 wordCount: 62,
             },
             {
-                number: 35,
+                number: 37,
                 title: "Jeanette's Dashboard",
                 category: "Outcome & Proof Posts (10 posts)",
                 content: `Week 3 progress from Jeanette:
@@ -2483,7 +2483,7 @@ What could you systematize in 3 weeks?
                 wordCount: 67,
             },
             {
-                number: 36,
+                number: 38,
                 title: "Dimitri's Dashboard",
                 category: "Outcome & Proof Posts (10 posts)",
                 content: `Dimitri turned a PDF of real estate market data into an interactive intelligence tool.
@@ -2510,7 +2510,7 @@ That's the transformation available to every creative professional.
                 wordCount: 71,
             },
             {
-                number: 37,
+                number: 39,
                 title: "Timothy's Dream Job",
                 category: "Outcome & Proof Posts (10 posts)",
                 content: `Timothy Kertanis was freelancing.
@@ -2539,7 +2539,7 @@ What will yours demonstrate?
                 wordCount: 77,
             },
             {
-                number: 38,
+                number: 40,
                 title: "Julie's Website",
                 category: "Outcome & Proof Posts (10 posts)",
                 content: `Julie runs a cooking school with her husband.
@@ -2564,7 +2564,7 @@ The new way is available.
                 wordCount: 74,
             },
             {
-                number: 39,
+                number: 41,
                 title: "65-95% Time Savings",
                 category: "Outcome & Proof Posts (10 posts)",
                 content: `Across our cohorts, we see consistent patterns:
@@ -2589,7 +2589,7 @@ What would you do with 250 extra hours?
                 wordCount: 70,
             },
             {
-                number: 40,
+                number: 42,
                 title: "The Three Pillars",
                 category: "Outcome & Proof Posts (10 posts)",
                 content: `Why do our students get results?
@@ -2645,7 +2645,7 @@ If you want to become **irreplaceable WITH AI** (not as a “prompt user,” but
                 wordCount: 124,
             },
             {
-                number: 41,
+                number: 43,
                 title: "Stop Waiting",
                 category: "Call-to-Action Posts (10 posts)",
                 content: `"I'll learn AI when it stabilizes."
@@ -2682,7 +2682,7 @@ Link in comments.
                 wordCount: 100,
             },
             {
-                number: 42,
+                number: 44,
                 title: "6 Weeks",
                 category: "Call-to-Action Posts (10 posts)",
                 content: `6 weeks.
@@ -2713,7 +2713,7 @@ Comment "UPGRADE" if you want details.
                 wordCount: 100,
             },
             {
-                number: 43,
+                number: 45,
                 title: "Not Another Course",
                 category: "Call-to-Action Posts (10 posts)",
                 content: `This is not another online course.
@@ -2745,7 +2745,7 @@ DM me if you want to know more.
                 wordCount: 78,
             },
             {
-                number: 44,
+                number: 46,
                 title: "Your Industry Needs This",
                 category: "Call-to-Action Posts (10 posts)",
                 content: `Creative professionals who've taken our course:
@@ -2779,7 +2779,7 @@ I'll tell you how alumni from your field are using what they learned.
                 wordCount: 86,
             },
             {
-                number: 45,
+                number: 47,
                 title: "The Investment",
                 category: "Call-to-Action Posts (10 posts)",
                 content: `What's 6 weeks of learning worth?
@@ -2812,7 +2812,7 @@ Link to apply in comments.
                 wordCount: 105,
             },
             {
-                number: 46,
+                number: 48,
                 title: "Skeptics Welcome",
                 category: "Call-to-Action Posts (10 posts)",
                 content: `"I'm skeptical that AI can help creative work."
@@ -2845,7 +2845,7 @@ Let's find out together what's real and what's hype.
                 wordCount: 91,
             },
             {
-                number: 47,
+                number: 49,
                 title: "Limited Seats",
                 category: "Call-to-Action Posts (10 posts)",
                 content: `Our cohorts are intentionally small.
@@ -2877,7 +2877,7 @@ Reply "INFO" and I'll send you details.
                 wordCount: 90,
             },
             {
-                number: 48,
+                number: 50,
                 title: "What's Your Capstone?",
                 category: "Call-to-Action Posts (10 posts)",
                 content: `Every student presents a capstone project.
@@ -2911,7 +2911,7 @@ Comment below. Let's brainstorm.
                 wordCount: 92,
             },
             {
-                number: 49,
+                number: 51,
                 title: "DM Me \"UPGRADE\"",
                 category: "Call-to-Action Posts (10 posts)",
                 content: `I answer every question about the program.
@@ -2942,7 +2942,7 @@ DM "UPGRADE"
                 wordCount: 90,
             },
             {
-                number: 50,
+                number: 52,
                 title: "The Upgrade Awaits",
                 category: "Call-to-Action Posts (10 posts)",
                 content: `Six weeks from now, you could be:
@@ -3049,7 +3049,7 @@ You'll be amazed.
                 wordCount: 404,
             },
             {
-                number: 51,
+                number: 53,
                 title: "The moodboard revolution",
                 category: "Creative Workflow Specifics",
                 content: `Old way: 3 hours pulling reference images from Pinterest.
@@ -3067,7 +3067,7 @@ Then you curate. That's where taste lives.
                 wordCount: 45,
             },
             {
-                number: 52,
+                number: 54,
                 title: "Shot lists, accelerated",
                 category: "Creative Workflow Specifics",
                 content: `The shot list used to take half a production day.
@@ -3088,7 +3088,7 @@ Quality: better than grinding alone.
                 wordCount: 47,
             },
             {
-                number: 53,
+                number: 55,
                 title: "The edit assistant",
                 category: "Creative Workflow Specifics",
                 content: `AI doesn't edit for you.
@@ -3105,7 +3105,7 @@ You still choose. You just choose from more options.
                 wordCount: 38,
             },
             {
-                number: 54,
+                number: 56,
                 title: "Client communication, upgraded",
                 category: "Creative Workflow Specifics",
                 content: `Creative work is 50% creation, 50% communication.
@@ -3125,7 +3125,7 @@ You stay in creative mode longer.
                 wordCount: 35,
             },
             {
-                number: 55,
+                number: 57,
                 title: "Concept velocity",
                 category: "Creative Workflow Specifics",
                 content: `The bottleneck isn't execution.
@@ -3145,7 +3145,7 @@ Velocity up. Quality up. Ego down.
                 wordCount: 36,
             },
             {
-                number: 56,
+                number: 58,
                 title: "The revision trap",
                 category: "Creative Workflow Specifics",
                 content: `Revision 1. Revision 2. Revision 7. Revision 12.
@@ -3166,7 +3166,7 @@ Fewer revisions = more creative energy for what matters.
                 wordCount: 44,
             },
             {
-                number: 57,
+                number: 59,
                 title: "Reference research",
                 category: "Creative Workflow Specifics",
                 content: `"Find me visual references for a campaign about AI anxiety. Not dystopian, not utopian. Human-scale."
@@ -3184,7 +3184,7 @@ Time saved. Taste preserved.
                 wordCount: 41,
             },
             {
-                number: 58,
+                number: 60,
                 title: "The brief interpreter",
                 category: "Creative Workflow Specifics",
                 content: `Client briefs are often unclear.
@@ -3202,7 +3202,7 @@ Clarity in 3 minutes instead of 30.
                 wordCount: 40,
             },
             {
-                number: 59,
+                number: 61,
                 title: "Batch processing",
                 category: "Creative Workflow Specifics",
                 content: `20 social assets. Same campaign. Different formats.
@@ -3224,7 +3224,7 @@ Batch processing is where AI shines.
                 wordCount: 41,
             },
             {
-                number: 60,
+                number: 62,
                 title: "The style guide enforcer",
                 category: "Creative Workflow Specifics",
                 content: `Brand consistency is tedious.
@@ -3241,7 +3241,7 @@ You fix. AI catches. Everyone stays on-brand.
                 wordCount: 31,
             },
             {
-                number: 61,
+                number: 63,
                 title: "Sven's story",
                 category: "Transformation & Proof",
                 content: `Sven came in skeptical.
@@ -3260,7 +3260,7 @@ Skeptics make the best students.
                 wordCount: 43,
             },
             {
-                number: 62,
+                number: 64,
                 title: "The 10-hour shift",
                 category: "Transformation & Proof",
                 content: `One cohort graduate told me:
@@ -3277,7 +3277,7 @@ That's the upgrade.
                 wordCount: 32,
             },
             {
-                number: 63,
+                number: 65,
                 title: "Portfolio upgrade",
                 category: "Transformation & Proof",
                 content: `"My portfolio got better after the cohort."
@@ -3294,7 +3294,7 @@ More iterations. More refinement. More taste applied.
                 wordCount: 31,
             },
             {
-                number: 64,
+                number: 66,
                 title: "The confidence shift",
                 category: "Transformation & Proof",
                 content: `Week 1: "I'm nervous about using AI. Will it replace my creativity?"
@@ -3310,7 +3310,7 @@ That's the arc we see in every cohort.
                 wordCount: 36,
             },
             {
-                number: 65,
+                number: 67,
                 title: "Client reaction",
                 category: "Transformation & Proof",
                 content: `"The client said our concepting phase was the fastest they'd ever seen."
@@ -3326,7 +3326,7 @@ Speed + quality. Not speed vs. quality.
                 wordCount: 28,
             },
             {
-                number: 66,
+                number: 68,
                 title: "\"AI art is soulless\"",
                 category: "Objection Handling",
                 content: `"AI art is soulless."
@@ -3344,7 +3344,7 @@ You bring the soul. AI brings the speed.
                 wordCount: 35,
             },
             {
-                number: 67,
+                number: 69,
                 title: "\"My clients won't accept it\"",
                 category: "Objection Handling",
                 content: `"My clients won't accept AI in the process."
@@ -3365,7 +3365,7 @@ Your process is your business.
                 wordCount: 41,
             },
             {
-                number: 68,
+                number: 70,
                 title: "\"I'll lose my skills\"",
                 category: "Objection Handling",
                 content: `"If I use AI, I'll lose my skills."
@@ -3385,7 +3385,7 @@ Your skills sharpen, not atrophy.
                 wordCount: 40,
             },
             {
-                number: 69,
+                number: 71,
                 title: "\"It's cheating\"",
                 category: "Objection Handling",
                 content: `"Using AI is cheating."
@@ -3403,7 +3403,7 @@ Tools don't diminish craft. They extend it.
                 wordCount: 29,
             },
             {
-                number: 70,
+                number: 72,
                 title: "\"I'm not technical\"",
                 category: "Objection Handling",
                 content: `"I'm not technical enough for AI."
@@ -3421,7 +3421,7 @@ That's literally what creatives do.
                 wordCount: 34,
             },
             {
-                number: 71,
+                number: 73,
                 title: "Next cohort",
                 category: "CTAs (Direct)",
                 content: `Next cohort of AI Upgrade for Creative Professionals is launching soon.
@@ -3439,7 +3439,7 @@ Comment "CREATIVE" and I'll send details.
                 wordCount: 36,
             },
             {
-                number: 72,
+                number: 74,
                 title: "Limited seats",
                 category: "CTAs (Direct)",
                 content: `We keep cohorts small so everyone gets personalized feedback.
@@ -3456,7 +3456,7 @@ DM me "READY" for application details.
                 wordCount: 29,
             },
             {
-                number: 73,
+                number: 75,
                 title: "The math",
                 category: "CTAs (Direct)",
                 content: `6 weeks × a few hours per week = maybe 30 hours total.
@@ -3473,7 +3473,7 @@ Comment "NUMBERS" for enrollment info.
                 wordCount: 37,
             },
             {
-                number: 74,
+                number: 76,
                 title: "For the hesitant",
                 category: "CTAs (Direct)",
                 content: `If you're hesitant about AI, that's healthy.
@@ -3491,7 +3491,7 @@ When you're ready, the cohort will be here.
                 wordCount: 34,
             },
             {
-                number: 75,
+                number: 77,
                 title: "The invitation",
                 category: "CTAs (Direct)",
                 content: `You've read enough posts.
@@ -11624,7 +11624,7 @@ Or exactly where you are now.
 
 The gap between those futures is one decision.
 
-Next cohort starts [DATE].
+Next cohort starts soon.
 
 ---`,
                 preview: "Six weeks from now, you'll be somewhere. Either building AI-augmented sales systems that multiply your output. Or exactly where you are now. The gap between th…",
