@@ -272,6 +272,427 @@ https://theupgrade.ai/store`,
                 preview: "The real output isn’t “AI content.” The real output is calm competence: you know what to ask, how to validate, what to ship, and what *not* to ship. That’s wha…",
                 wordCount: 43,
             },
+            {
+                number: 12,
+                title: "Not another AI webinar",
+                category: "Proof + receipts (lightweight)",
+                content: `This isn't another AI webinar where someone shows you ChatGPT and says "see, it writes emails!"
+
+It's a six-week cohort where you build repeatable workflows for your actual job.
+
+Four tracks:
+- PR & Communications
+- Creative Professionals
+- Journalists
+- Sales Leaders
+
+No fluff. No hype. Just skill you can use.
+
+https://theupgrade.ai/store`,
+                preview: "This isn't another AI webinar where someone shows you ChatGPT and says \"see, it writes emails!\" It's a six-week cohort where you build repeatable workflows for…",
+                wordCount: 53,
+            },
+            {
+                number: 13,
+                title: "The real question",
+                category: "Proof + receipts (lightweight)",
+                content: `The question isn't "Will AI replace me?"
+
+The question is: "Can I use AI well enough that the answer is obviously no?"
+
+That's what we train.
+
+Four tracks, cohorts running throughout the year:
+PR & Communications • Creative Pros • Journalists • Sales Leaders
+
+https://theupgrade.ai/store
+
+---`,
+                preview: "The question isn't \"Will AI replace me?\" The question is: \"Can I use AI well enough that the answer is obviously no?\" That's what we train. Four tracks, cohort…",
+                wordCount: 46,
+            },
+            {
+                number: 14,
+                title: "\"I don't have time\"",
+                category: "Objection Handling",
+                content: `"I don't have time to learn AI."
+
+You don't have time *not* to.
+
+Every hour you spend in a rewrite loop, every research task that takes 3x longer than it should, every deliverable that's "fine but not sharp"—
+
+That's the tax you're paying for not having a system.
+
+Six weeks. One cohort. Applied skill.
+
+Pick your track:
+https://theupgrade.ai/store`,
+                preview: "\"I don't have time to learn AI.\" You don't have time *not* to. Every hour you spend in a rewrite loop, every research task that takes 3x longer than it should,…",
+                wordCount: 58,
+            },
+            {
+                number: 15,
+                title: "\"My industry is different\"",
+                category: "Objection Handling",
+                content: `"My industry is different."
+
+It's not.
+
+PR people said it. Creatives said it. Journalists said it. Sales teams said it.
+
+Then they took the cohort and realized:
+the workflows translate, the constraints are universal, and the results are measurable.
+
+Four tracks, same philosophy:
+https://theupgrade.ai/store`,
+                preview: "\"My industry is different.\" It's not. PR people said it. Creatives said it. Journalists said it. Sales teams said it. Then they took the cohort and realized: t…",
+                wordCount: 44,
+            },
+            {
+                number: 16,
+                title: "\"I'll figure it out myself\"",
+                category: "Objection Handling",
+                content: `"I'll just figure it out myself."
+
+You can.
+
+But you'll spend 6 months discovering what we teach in 6 weeks.
+And you'll probably learn some bad habits along the way.
+
+Cohorts run throughout the year:
+PR & Communications • Creative Pros • Journalists • Sales Leaders
+
+https://theupgrade.ai/store`,
+                preview: "\"I'll just figure it out myself.\" You can. But you'll spend 6 months discovering what we teach in 6 weeks. And you'll probably learn some bad habits along the…",
+                wordCount: 47,
+            },
+            {
+                number: 17,
+                title: "\"AI can't do what I do\"",
+                category: "Objection Handling",
+                content: `"AI can't do what I do."
+
+You're right. It can't.
+
+But it can do the 40% of your job that's research, synthesis, first drafts, and grunt work.
+
+Which means you can focus on the 60% that actually requires taste.
+
+That's the tradeoff. That's what we teach.
+
+https://theupgrade.ai/store`,
+                preview: "\"AI can't do what I do.\" You're right. It can't. But it can do the 40% of your job that's research, synthesis, first drafts, and grunt work. Which means you ca…",
+                wordCount: 47,
+            },
+            {
+                number: 18,
+                title: "\"I tried ChatGPT and it sucked\"",
+                category: "Objection Handling",
+                content: `"I tried ChatGPT and it sucked."
+
+Yeah, because you used it like a search engine.
+
+The tool isn't the skill. The workflow is the skill.
+
+We teach workflows that work:
+grounded research, structured prompts, verification chains, human-in-the-loop QA.
+
+Four tracks. Six weeks. Real outputs.
+
+https://theupgrade.ai/store
+
+---`,
+                preview: "\"I tried ChatGPT and it sucked.\" Yeah, because you used it like a search engine. The tool isn't the skill. The workflow is the skill. We teach workflows that w…",
+                wordCount: 46,
+            },
+            {
+                number: 19,
+                title: "The coverage recap story",
+                category: "Proof & Receipts",
+                content: `Week 1: "Will clients think I'm cutting corners?"
+
+Week 6: "The client said it was the best coverage recap they'd ever received."
+
+That's the arc we see in every cohort.
+
+Not because AI made the work cheaper.
+Because AI made the work sharper.
+
+Pick your track:
+https://theupgrade.ai/store`,
+                preview: "Week 1: \"Will clients think I'm cutting corners?\" Week 6: \"The client said it was the best coverage recap they'd ever received.\" That's the arc we see in every…",
+                wordCount: 47,
+            },
+            {
+                number: 20,
+                title: "Hours saved (real numbers)",
+                category: "Proof & Receipts",
+                content: `Real numbers from past cohorts:
+
+- 3-hour research task → 45 minutes
+- 6-draft revision cycle → 2 drafts
+- "I'll get to it tomorrow" → shipped same-day
+
+Not magic. Just better systems.
+
+Four tracks, cohorts throughout the year:
+https://theupgrade.ai/store`,
+                preview: "Real numbers from past cohorts: - 3-hour research task → 45 minutes - 6-draft revision cycle → 2 drafts - \"I'll get to it tomorrow\" → shipped same-day Not magi…",
+                wordCount: 40,
+            },
+            {
+                number: 21,
+                title: "The confidence shift",
+                category: "Proof & Receipts",
+                content: `The biggest shift isn't speed.
+
+It's confidence.
+
+Week 1: "I'm nervous about making mistakes."
+Week 6: "I know exactly what to check before I ship."
+
+That's what a good workflow gives you.
+
+https://theupgrade.ai/store`,
+                preview: "The biggest shift isn't speed. It's confidence. Week 1: \"I'm nervous about making mistakes.\" Week 6: \"I know exactly what to check before I ship.\" That's what…",
+                wordCount: 33,
+            },
+            {
+                number: 22,
+                title: "From dabbling to operating",
+                category: "Proof & Receipts",
+                content: `The difference between "dabbling with AI" and "operating with AI":
+
+Dabbling: you use it when you remember to.
+Operating: you have a system that runs every day.
+
+We build operating systems. Six weeks. Four tracks.
+
+https://theupgrade.ai/store`,
+                preview: "The difference between \"dabbling with AI\" and \"operating with AI\": Dabbling: you use it when you remember to. Operating: you have a system that runs every day.…",
+                wordCount: 36,
+            },
+            {
+                number: 23,
+                title: "The quality bar",
+                category: "Proof & Receipts",
+                content: `"AI lowers the quality bar."
+
+Only if you let it.
+
+We teach how to use AI to raise the bar:
+better research, tighter drafts, faster iteration, more time for polish.
+
+The output should be *better*, not just faster.
+
+https://theupgrade.ai/store
+
+---`,
+                preview: "\"AI lowers the quality bar.\" Only if you let it. We teach how to use AI to raise the bar: better research, tighter drafts, faster iteration, more time for poli…",
+                wordCount: 40,
+            },
+            {
+                number: 24,
+                title: "Simple CTA",
+                category: "CTAs (direct)",
+                content: `If you want to get better at using AI for your actual job:
+
+Pick your track:
+- PR & Communications
+- Creative Professionals
+- Journalists
+- Sales Leaders
+
+See dates + pricing:
+https://theupgrade.ai/store`,
+                preview: "If you want to get better at using AI for your actual job: Pick your track: - PR & Communications - Creative Professionals - Journalists - Sales Leaders See da…",
+                wordCount: 33,
+            },
+            {
+                number: 25,
+                title: "Limited seats CTA",
+                category: "CTAs (direct)",
+                content: `Cohorts are small by design. We keep them tight so everyone gets feedback.
+
+If you want a seat in the next round:
+https://theupgrade.ai/store
+
+Four tracks:
+PR & Communications • Creative Pros • Journalists • Sales Leaders`,
+                preview: "Cohorts are small by design. We keep them tight so everyone gets feedback. If you want a seat in the next round: https://theupgrade.ai/store Four tracks: PR &…",
+                wordCount: 36,
+            },
+            {
+                number: 26,
+                title: "\"Ready when you are\"",
+                category: "CTAs (direct)",
+                content: `We're not going to pressure you.
+
+But if you're ready to stop dabbling and start operating:
+https://theupgrade.ai/store
+
+Four tracks. Six weeks. Real skill.`,
+                preview: "We're not going to pressure you. But if you're ready to stop dabbling and start operating: https://theupgrade.ai/store Four tracks. Six weeks. Real skill.",
+                wordCount: 23,
+            },
+            {
+                number: 27,
+                title: "For the skeptics",
+                category: "CTAs (direct)",
+                content: `If you're skeptical about AI, good. You should be.
+
+We don't teach "AI will solve everything."
+We teach "here's how to use it without embarrassing yourself."
+
+Skeptics welcome:
+https://theupgrade.ai/store`,
+                preview: "If you're skeptical about AI, good. You should be. We don't teach \"AI will solve everything.\" We teach \"here's how to use it without embarrassing yourself.\" Sk…",
+                wordCount: 29,
+            },
+            {
+                number: 28,
+                title: "For the busy",
+                category: "CTAs (direct)",
+                content: `You're busy. I get it.
+
+The cohort is 6 weeks. A few hours a week.
+The ROI is measured in hours saved every week after that.
+
+If the math works for you:
+https://theupgrade.ai/store
+
+---`,
+                preview: "You're busy. I get it. The cohort is 6 weeks. A few hours a week. The ROI is measured in hours saved every week after that. If the math works for you: https://…",
+                wordCount: 34,
+            },
+            {
+                number: 29,
+                title: "Tools vs. skill",
+                category: "Philosophy & Positioning",
+                content: `ChatGPT is a tool.
+Perplexity is a tool.
+Claude is a tool.
+
+Knowing which one to use, when, and how to verify the output—
+that's the skill.
+
+We teach the skill.
+
+https://theupgrade.ai/store`,
+                preview: "ChatGPT is a tool. Perplexity is a tool. Claude is a tool. Knowing which one to use, when, and how to verify the output— that's the skill. We teach the skill.…",
+                wordCount: 32,
+            },
+            {
+                number: 30,
+                title: "The human in the loop",
+                category: "Philosophy & Positioning",
+                content: `"Human in the loop" isn't a safety checkbox.
+
+It's the whole point.
+
+AI does the grunt work. You make the decisions.
+That's the split. That's what we train.
+
+https://theupgrade.ai/store`,
+                preview: "\"Human in the loop\" isn't a safety checkbox. It's the whole point. AI does the grunt work. You make the decisions. That's the split. That's what we train. http…",
+                wordCount: 29,
+            },
+            {
+                number: 31,
+                title: "Not a prompt engineer",
+                category: "Philosophy & Positioning",
+                content: `You don't need to become a "prompt engineer."
+
+You need to know:
+- What questions to ask
+- How to structure the ask
+- How to verify the answer
+- When to ship and when to iterate
+
+That's it. That's the curriculum.
+
+https://theupgrade.ai/store`,
+                preview: "You don't need to become a \"prompt engineer.\" You need to know: - What questions to ask - How to structure the ask - How to verify the answer - When to ship an…",
+                wordCount: 43,
+            },
+            {
+                number: 32,
+                title: "The taste layer",
+                category: "Philosophy & Positioning",
+                content: `AI can generate.
+AI can synthesize.
+AI can iterate.
+
+AI cannot taste.
+
+That's your job. We teach you how to keep it.
+
+https://theupgrade.ai/store`,
+                preview: "AI can generate. AI can synthesize. AI can iterate. AI cannot taste. That's your job. We teach you how to keep it. https://theupgrade.ai/store",
+                wordCount: 23,
+            },
+            {
+                number: 33,
+                title: "Guardrails, not magic",
+                category: "Philosophy & Positioning",
+                content: `We don't teach AI magic.
+We teach AI guardrails.
+
+Confidentiality. Accuracy. Hallucination-checking. Brand voice.
+
+The boring stuff that keeps you employed.
+
+https://theupgrade.ai/store`,
+                preview: "We don't teach AI magic. We teach AI guardrails. Confidentiality. Accuracy. Hallucination-checking. Brand voice. The boring stuff that keeps you employed. http…",
+                wordCount: 22,
+            },
+            {
+                number: 34,
+                title: "Applied, not theoretical",
+                category: "Philosophy & Positioning",
+                content: `We don't teach "the future of AI."
+We teach "here's what works on Monday."
+
+Applied skill. Real workflows. Four tracks.
+
+https://theupgrade.ai/store`,
+                preview: "We don't teach \"the future of AI.\" We teach \"here's what works on Monday.\" Applied skill. Real workflows. Four tracks. https://theupgrade.ai/store",
+                wordCount: 21,
+            },
+            {
+                number: 35,
+                title: "The working bees",
+                category: "Philosophy & Positioning",
+                content: `This is for the people who do the work.
+
+Not the thought leaders.
+Not the conference speakers.
+Not the "AI visionaries."
+
+The working bees.
+
+https://theupgrade.ai/store`,
+                preview: "This is for the people who do the work. Not the thought leaders. Not the conference speakers. Not the \"AI visionaries.\" The working bees. https://theupgrade.ai…",
+                wordCount: 25,
+            },
+            {
+                number: 36,
+                title: "No hype, just skill",
+                category: "Philosophy & Positioning",
+                content: `No hype. No clichés. No "revolutionize your workflow."
+
+Just skill you can use.
+
+Four tracks:
+- PR & Communications
+- Creative Professionals
+- Journalists
+- Sales Leaders
+
+https://theupgrade.ai/store`,
+                preview: "No hype. No clichés. No \"revolutionize your workflow.\" Just skill you can use. Four tracks: - PR & Communications - Creative Professionals - Journalists - Sale…",
+                wordCount: 28,
+            },
         ],
         quotes: [
             {
@@ -361,6 +782,116 @@ Marketing Angle: Great for journalists/comms audiences.`,
 Marketing Angle: Makes program selection easy.`,
                 preview: "\"Pick the track that matches your day job. That’s how you make this real.\"",
                 wordCount: 23,
+            },
+            {
+                number: 9,
+                title: "Six weeks to stop dabbling start",
+                category: "Choose your track",
+                content: `"Six weeks to stop dabbling, start operating."
+— Kris Krüg
+
+Marketing Angle: Clear timeframe, clear outcome.`,
+                preview: "\"Six weeks to stop dabbling, start operating.\"",
+                wordCount: 16,
+            },
+            {
+                number: 10,
+                title: "You don't need to become a",
+                category: "Choose your track",
+                content: `"You don't need to become a prompt engineer. You need to know what to ship."
+— Course Philosophy
+
+Marketing Angle: Cuts through the noise of AI buzzwords.`,
+                preview: "\"You don't need to become a prompt engineer. You need to know what to ship.\"",
+                wordCount: 27,
+            },
+            {
+                number: 11,
+                title: "3-hour research task 45 minutes That's",
+                category: "Proof & Receipts",
+                content: `"3-hour research task → 45 minutes. That's not magic. That's workflow."
+— Cohort Result
+
+Marketing Angle: Concrete, believable proof.`,
+                preview: "\"3-hour research task → 45 minutes. That's not magic. That's workflow.\"",
+                wordCount: 19,
+            },
+            {
+                number: 12,
+                title: "Week 1 nervous Week 6 calm",
+                category: "Proof & Receipts",
+                content: `"Week 1: nervous. Week 6: calm competence. That's the arc."
+— Course Outcome
+
+Marketing Angle: Transformation story in one line.`,
+                preview: "\"Week 1: nervous. Week 6: calm competence. That's the arc.\"",
+                wordCount: 20,
+            },
+            {
+                number: 13,
+                title: "The output should be better not",
+                category: "Proof & Receipts",
+                content: `"The output should be better, not just faster."
+— Kris Krüg
+
+Marketing Angle: Quality-first positioning.`,
+                preview: "\"The output should be better, not just faster.\"",
+                wordCount: 15,
+            },
+            {
+                number: 14,
+                title: "You'll spend 6 months discovering what",
+                category: "Objection Handling",
+                content: `"You'll spend 6 months discovering what we teach in 6 weeks."
+— Course Reality
+
+Marketing Angle: DIY vs. structured learning.`,
+                preview: "\"You'll spend 6 months discovering what we teach in 6 weeks.\"",
+                wordCount: 20,
+            },
+            {
+                number: 15,
+                title: "Your industry isn't different The constraints",
+                category: "Objection Handling",
+                content: `"Your industry isn't different. The constraints are universal."
+— Kris Krüg
+
+Marketing Angle: Handles "my field is special" objection.`,
+                preview: "\"Your industry isn't different. The constraints are universal.\"",
+                wordCount: 19,
+            },
+            {
+                number: 16,
+                title: "The tool isn't the skill The",
+                category: "Objection Handling",
+                content: `"The tool isn't the skill. The workflow is the skill."
+— Course Philosophy
+
+Marketing Angle: Differentiates from tool tutorials.`,
+                preview: "\"The tool isn't the skill. The workflow is the skill.\"",
+                wordCount: 19,
+            },
+            {
+                number: 17,
+                title: "This is for the people who",
+                category: "For the Working Bees",
+                content: `"This is for the people who do the work. Not the thought leaders."
+— Kris Krüg
+
+Marketing Angle: Clear audience signal.`,
+                preview: "\"This is for the people who do the work. Not the thought leaders.\"",
+                wordCount: 21,
+            },
+            {
+                number: 18,
+                title: "Skeptics welcome Bring your doubts",
+                category: "For the Working Bees",
+                content: `"Skeptics welcome. Bring your doubts."
+— Course Invitation
+
+Marketing Angle: Disarms resistance, invites the cautious.`,
+                preview: "\"Skeptics welcome. Bring your doubts.\"",
+                wordCount: 15,
             },
         ],
         emails: [
@@ -2513,6 +3044,468 @@ Ask for an interactive dashboard.
 You'll be amazed.
 \`\`\`
 
+---`,
+                preview: "Six weeks from now, you could be: ✓ Building custom AI assistants for your workflow ✓ Vibe coding prototypes in hours instead of weeks ✓ Using frameworks that…",
+                wordCount: 404,
+            },
+            {
+                number: 51,
+                title: "The moodboard revolution",
+                category: "Creative Workflow Specifics",
+                content: `Old way: 3 hours pulling reference images from Pinterest.
+
+New way: 15 minutes with AI + your creative direction.
+
+"Generate 20 moodboard concepts for a tech brand launch. Brutalist typography, warm earth tones, human-centric."
+
+Then you curate. That's where taste lives.
+
+#Moodboards #CreativeWorkflow #AIforCreatives
+
+---`,
+                preview: "Old way: 3 hours pulling reference images from Pinterest. New way: 15 minutes with AI + your creative direction. \"Generate 20 moodboard concepts for a tech bra…",
+                wordCount: 45,
+            },
+            {
+                number: 52,
+                title: "Shot lists, accelerated",
+                category: "Creative Workflow Specifics",
+                content: `The shot list used to take half a production day.
+
+Now:
+1. Brief the AI on the concept
+2. Generate 50 shot options
+3. Curate down to 15
+4. Iterate on the best 5
+
+Total time: 45 minutes.
+Quality: better than grinding alone.
+
+#ShotList #ProductionWorkflow #CreativeEfficiency
+
+---`,
+                preview: "The shot list used to take half a production day. Now: 1. Brief the AI on the concept 2. Generate 50 shot options 3. Curate down to 15 4. Iterate on the best 5…",
+                wordCount: 47,
+            },
+            {
+                number: 53,
+                title: "The edit assistant",
+                category: "Creative Workflow Specifics",
+                content: `AI doesn't edit for you.
+AI shows you options you wouldn't have tried.
+
+"Give me 5 alternative color grades for this scene. Moody, not clichéd."
+
+You still choose. You just choose from more options.
+
+#VideoEditing #ColorGrading #CreativeOptions
+
+---`,
+                preview: "AI doesn't edit for you. AI shows you options you wouldn't have tried. \"Give me 5 alternative color grades for this scene. Moody, not clichéd.\" You still choos…",
+                wordCount: 38,
+            },
+            {
+                number: 54,
+                title: "Client communication, upgraded",
+                category: "Creative Workflow Specifics",
+                content: `Creative work is 50% creation, 50% communication.
+
+AI handles the communication grunt work:
+- Deck summaries
+- Revision explanations
+- Timeline updates
+- Scope clarifications
+
+You stay in creative mode longer.
+
+#ClientComm #CreativeProcess #ProjectManagement
+
+---`,
+                preview: "Creative work is 50% creation, 50% communication. AI handles the communication grunt work: - Deck summaries - Revision explanations - Timeline updates - Scope…",
+                wordCount: 35,
+            },
+            {
+                number: 55,
+                title: "Concept velocity",
+                category: "Creative Workflow Specifics",
+                content: `The bottleneck isn't execution.
+It's concept development.
+
+AI accelerates concepting:
+- More directions explored
+- Faster iteration on promising ideas
+- Less attachment to first drafts
+
+Velocity up. Quality up. Ego down.
+
+#Concepting #CreativeSpeed #IdeaGeneration
+
+---`,
+                preview: "The bottleneck isn't execution. It's concept development. AI accelerates concepting: - More directions explored - Faster iteration on promising ideas - Less at…",
+                wordCount: 36,
+            },
+            {
+                number: 56,
+                title: "The revision trap",
+                category: "Creative Workflow Specifics",
+                content: `Revision 1. Revision 2. Revision 7. Revision 12.
+
+The revision trap kills creative work.
+
+AI helps you get it right earlier:
+- Better first drafts
+- Clearer briefs
+- Faster alignment
+
+Fewer revisions = more creative energy for what matters.
+
+#RevisionTrap #CreativeEfficiency #BetterBriefs
+
+---`,
+                preview: "Revision 1. Revision 2. Revision 7. Revision 12. The revision trap kills creative work. AI helps you get it right earlier: - Better first drafts - Clearer brie…",
+                wordCount: 44,
+            },
+            {
+                number: 57,
+                title: "Reference research",
+                category: "Creative Workflow Specifics",
+                content: `"Find me visual references for a campaign about AI anxiety. Not dystopian, not utopian. Human-scale."
+
+AI returns 30 reference directions in 2 minutes.
+
+You would have spent 2 hours on the same search.
+
+Time saved. Taste preserved.
+
+#ReferenceResearch #VisualDirection #CreativeProcess
+
+---`,
+                preview: "\"Find me visual references for a campaign about AI anxiety. Not dystopian, not utopian. Human-scale.\" AI returns 30 reference directions in 2 minutes. You woul…",
+                wordCount: 41,
+            },
+            {
+                number: 58,
+                title: "The brief interpreter",
+                category: "Creative Workflow Specifics",
+                content: `Client briefs are often unclear.
+Your job is to interpret them into creative direction.
+
+AI helps:
+"Summarize this 15-page brief into the 5 things that actually matter for creative."
+
+Clarity in 3 minutes instead of 30.
+
+#ClientBriefs #CreativeDirection #BriefInterpretation
+
+---`,
+                preview: "Client briefs are often unclear. Your job is to interpret them into creative direction. AI helps: \"Summarize this 15-page brief into the 5 things that actually…",
+                wordCount: 40,
+            },
+            {
+                number: 59,
+                title: "Batch processing",
+                category: "Creative Workflow Specifics",
+                content: `20 social assets. Same campaign. Different formats.
+
+Old way: 2 days of grinding.
+
+New way:
+1. Create the system with AI
+2. Generate variations
+3. QA the outputs
+4. Ship same-day
+
+Batch processing is where AI shines.
+
+#BatchProcessing #SocialAssets #ContentProduction
+
+---`,
+                preview: "20 social assets. Same campaign. Different formats. Old way: 2 days of grinding. New way: 1. Create the system with AI 2. Generate variations 3. QA the outputs…",
+                wordCount: 41,
+            },
+            {
+                number: 60,
+                title: "The style guide enforcer",
+                category: "Creative Workflow Specifics",
+                content: `Brand consistency is tedious.
+AI makes it automatic.
+
+"Check these 15 assets against the brand style guide. Flag any violations."
+
+You fix. AI catches. Everyone stays on-brand.
+
+#StyleGuide #BrandConsistency #QualityControl
+
+---`,
+                preview: "Brand consistency is tedious. AI makes it automatic. \"Check these 15 assets against the brand style guide. Flag any violations.\" You fix. AI catches. Everyone…",
+                wordCount: 31,
+            },
+            {
+                number: 61,
+                title: "Sven's story",
+                category: "Transformation & Proof",
+                content: `Sven came in skeptical.
+
+"AI will make everyone's work look the same."
+
+Six weeks later:
+"AI freed up my time for the creative decisions that actually matter. My work is more distinctive, not less."
+
+Skeptics make the best students.
+
+#Transformation #CreativeDistinction #AIforCreatives
+
+---`,
+                preview: "Sven came in skeptical. \"AI will make everyone's work look the same.\" Six weeks later: \"AI freed up my time for the creative decisions that actually matter. My…",
+                wordCount: 43,
+            },
+            {
+                number: 62,
+                title: "The 10-hour shift",
+                category: "Transformation & Proof",
+                content: `One cohort graduate told me:
+
+"I used to spend 10 hours on production. Now I spend 10 hours on creative direction."
+
+Same project. Different allocation.
+That's the upgrade.
+
+#TimeShift #CreativeDirection #ProductionEfficiency
+
+---`,
+                preview: "One cohort graduate told me: \"I used to spend 10 hours on production. Now I spend 10 hours on creative direction.\" Same project. Different allocation. That's t…",
+                wordCount: 32,
+            },
+            {
+                number: 63,
+                title: "Portfolio upgrade",
+                category: "Transformation & Proof",
+                content: `"My portfolio got better after the cohort."
+
+Not because AI made the work.
+Because AI freed up time for polish.
+
+More iterations. More refinement. More taste applied.
+
+#Portfolio #CreativeGrowth #QualityUpgrade
+
+---`,
+                preview: "\"My portfolio got better after the cohort.\" Not because AI made the work. Because AI freed up time for polish. More iterations. More refinement. More taste app…",
+                wordCount: 31,
+            },
+            {
+                number: 64,
+                title: "The confidence shift",
+                category: "Transformation & Proof",
+                content: `Week 1: "I'm nervous about using AI. Will it replace my creativity?"
+
+Week 6: "AI handles the tedious stuff. I'm more creative than ever."
+
+That's the arc we see in every cohort.
+
+#Confidence #CreativeIdentity #AIAnxiety
+
+---`,
+                preview: "Week 1: \"I'm nervous about using AI. Will it replace my creativity?\" Week 6: \"AI handles the tedious stuff. I'm more creative than ever.\" That's the arc we see…",
+                wordCount: 36,
+            },
+            {
+                number: 65,
+                title: "Client reaction",
+                category: "Transformation & Proof",
+                content: `"The client said our concepting phase was the fastest they'd ever seen."
+
+Real quote. Real cohort graduate.
+
+Speed + quality. Not speed vs. quality.
+
+#ClientFeedback #FastConcepting #CreativeResults
+
+---`,
+                preview: "\"The client said our concepting phase was the fastest they'd ever seen.\" Real quote. Real cohort graduate. Speed + quality. Not speed vs. quality. #ClientFeedb…",
+                wordCount: 28,
+            },
+            {
+                number: 66,
+                title: "\"AI art is soulless\"",
+                category: "Objection Handling",
+                content: `"AI art is soulless."
+
+AI-generated art without creative direction? Yes.
+
+AI as a tool in the hands of a skilled creative? That's different.
+
+You bring the soul. AI brings the speed.
+
+#CreativeSoul #AITools #ArtDirection
+
+---`,
+                preview: "\"AI art is soulless.\" AI-generated art without creative direction? Yes. AI as a tool in the hands of a skilled creative? That's different. You bring the soul.…",
+                wordCount: 35,
+            },
+            {
+                number: 67,
+                title: "\"My clients won't accept it\"",
+                category: "Objection Handling",
+                content: `"My clients won't accept AI in the process."
+
+They won't know. And they won't care.
+
+They care about the output:
+- Is it on-brand?
+- Is it on-time?
+- Is it on-budget?
+
+Your process is your business.
+
+#ClientAcceptance #ProcessVsOutput #CreativeBusiness
+
+---`,
+                preview: "\"My clients won't accept AI in the process.\" They won't know. And they won't care. They care about the output: - Is it on-brand? - Is it on-time? - Is it on-bu…",
+                wordCount: 41,
+            },
+            {
+                number: 68,
+                title: "\"I'll lose my skills\"",
+                category: "Objection Handling",
+                content: `"If I use AI, I'll lose my skills."
+
+The opposite is true.
+
+AI handles grunt work. You practice judgment.
+AI generates options. You practice curation.
+AI accelerates iteration. You practice refinement.
+
+Your skills sharpen, not atrophy.
+
+#SkillDevelopment #CreativeGrowth #AIandCraft
+
+---`,
+                preview: "\"If I use AI, I'll lose my skills.\" The opposite is true. AI handles grunt work. You practice judgment. AI generates options. You practice curation. AI acceler…",
+                wordCount: 40,
+            },
+            {
+                number: 69,
+                title: "\"It's cheating\"",
+                category: "Objection Handling",
+                content: `"Using AI is cheating."
+
+Is using Photoshop cheating?
+Is using a camera cheating?
+Is using a computer cheating?
+
+Tools don't diminish craft. They extend it.
+
+#ToolsNotCheating #CreativeCraft #AITools
+
+---`,
+                preview: "\"Using AI is cheating.\" Is using Photoshop cheating? Is using a camera cheating? Is using a computer cheating? Tools don't diminish craft. They extend it. #Too…",
+                wordCount: 29,
+            },
+            {
+                number: 70,
+                title: "\"I'm not technical\"",
+                category: "Objection Handling",
+                content: `"I'm not technical enough for AI."
+
+If you can describe your creative vision in words, you can use AI.
+
+The skill is articulation, not coding.
+
+That's literally what creatives do.
+
+#NotTechnical #CreativeArticulation #AIforCreatives
+
+---`,
+                preview: "\"I'm not technical enough for AI.\" If you can describe your creative vision in words, you can use AI. The skill is articulation, not coding. That's literally w…",
+                wordCount: 34,
+            },
+            {
+                number: 71,
+                title: "Next cohort",
+                category: "CTAs (Direct)",
+                content: `Next cohort of AI Upgrade for Creative Professionals is launching soon.
+
+6 weeks. Applied workflows. Small group of creatives.
+
+If you're ready to upgrade your process:
+
+Comment "CREATIVE" and I'll send details.
+
+#NextCohort #CreativeUpgrade #EnrollNow
+
+---`,
+                preview: "Next cohort of AI Upgrade for Creative Professionals is launching soon. 6 weeks. Applied workflows. Small group of creatives. If you're ready to upgrade your p…",
+                wordCount: 36,
+            },
+            {
+                number: 72,
+                title: "Limited seats",
+                category: "CTAs (Direct)",
+                content: `We keep cohorts small so everyone gets personalized feedback.
+
+That means limited seats for creatives.
+
+If you've been waiting:
+DM me "READY" for application details.
+
+#LimitedSeats #SmallCohort #CreativeCommunity
+
+---`,
+                preview: "We keep cohorts small so everyone gets personalized feedback. That means limited seats for creatives. If you've been waiting: DM me \"READY\" for application det…",
+                wordCount: 29,
+            },
+            {
+                number: 73,
+                title: "The math",
+                category: "CTAs (Direct)",
+                content: `6 weeks × a few hours per week = maybe 30 hours total.
+
+ROI: 10+ hours saved per project, every project after.
+
+If the math works for you:
+Comment "NUMBERS" for enrollment info.
+
+#ROI #TimeSaved #CreativeInvestment
+
+---`,
+                preview: "6 weeks × a few hours per week = maybe 30 hours total. ROI: 10+ hours saved per project, every project after. If the math works for you: Comment \"NUMBERS\" for…",
+                wordCount: 37,
+            },
+            {
+                number: 74,
+                title: "For the hesitant",
+                category: "CTAs (Direct)",
+                content: `If you're hesitant about AI, that's healthy.
+
+Skeptics make the best students.
+They ask the hard questions.
+They push back on hype.
+
+When you're ready, the cohort will be here.
+
+#SkepticsWelcome #NoPressure #CreativeCommunity
+
+---`,
+                preview: "If you're hesitant about AI, that's healthy. Skeptics make the best students. They ask the hard questions. They push back on hype. When you're ready, the cohor…",
+                wordCount: 34,
+            },
+            {
+                number: 75,
+                title: "The invitation",
+                category: "CTAs (Direct)",
+                content: `You've read enough posts.
+
+You know what this is:
+6 weeks to build AI workflows that make your creative work faster, sharper, and more distinctive.
+
+If you're ready:
+Comment "UPGRADE" and I'll send details.
+
+See you inside.
+
+#TheInvitation #JoinUs #CreativeUpgrade
+
 ---
 
 ## USAGE NOTES
@@ -2538,8 +3531,8 @@ Platform-specific: Adjust for LinkedIn algorithm preferences
 
 **Total Posts:** 50+
 **Last Updated:** December 2025`,
-                preview: "Six weeks from now, you could be: ✓ Building custom AI assistants for your workflow ✓ Vibe coding prototypes in hours instead of weeks ✓ Using frameworks that…",
-                wordCount: 495,
+                preview: "You've read enough posts. You know what this is: 6 weeks to build AI workflows that make your creative work faster, sharper, and more distinctive. If you're re…",
+                wordCount: 132,
             },
         ],
         quotes: [
@@ -3131,6 +4124,116 @@ Marketing Angle: Capstone becomes portfolio piece, not just class assignment.`,
 Marketing Angle: We teach restraint, not complexity for its own sake.`,
                 preview: "\"80% of students gravitate toward assistants—which aligns with the guidance that 80% of the time, a well-built assistan…",
                 wordCount: 35,
+            },
+            {
+                number: 53,
+                title: "Moodboard 15 minutes with AI Then",
+                category: "Creative Workflow",
+                content: `"Moodboard: 15 minutes with AI. Then you curate. That's where taste lives."
+— Kris Krüg
+
+Marketing Angle: Shows AI + taste working together.`,
+                preview: "\"Moodboard: 15 minutes with AI. Then you curate. That's where taste lives.\"",
+                wordCount: 23,
+            },
+            {
+                number: 54,
+                title: "AI generates options You practice curation",
+                category: "Creative Workflow",
+                content: `"AI generates options. You practice curation. Your skills sharpen, not atrophy."
+— Course Philosophy
+
+Marketing Angle: Addresses skill-loss fear directly.`,
+                preview: "\"AI generates options. You practice curation. Your skills sharpen, not atrophy.\"",
+                wordCount: 20,
+            },
+            {
+                number: 55,
+                title: "I used to spend 10 hours",
+                category: "Creative Workflow",
+                content: `"I used to spend 10 hours on production. Now I spend 10 hours on creative direction."
+— Cohort Graduate
+
+Marketing Angle: Time reallocation, not replacement.`,
+                preview: "\"I used to spend 10 hours on production. Now I spend 10 hours on creative direction.\"",
+                wordCount: 25,
+            },
+            {
+                number: 56,
+                title: "Is using Photoshop cheating Is using",
+                category: "Objection Handling",
+                content: `"Is using Photoshop cheating? Is using a camera cheating? Tools extend craft."
+— Kris Krüg
+
+Marketing Angle: Reframes AI as just another tool.`,
+                preview: "\"Is using Photoshop cheating? Is using a camera cheating? Tools extend craft.\"",
+                wordCount: 23,
+            },
+            {
+                number: 57,
+                title: "AI handles grunt work You practice",
+                category: "Objection Handling",
+                content: `"AI handles grunt work. You practice judgment. AI generates options. You practice curation."
+— Course Philosophy
+
+Marketing Angle: Clear division of labor.`,
+                preview: "\"AI handles grunt work. You practice judgment. AI generates options. You practice curation.\"",
+                wordCount: 22,
+            },
+            {
+                number: 58,
+                title: "You bring the soul AI brings",
+                category: "Objection Handling",
+                content: `"You bring the soul. AI brings the speed."
+— Kris Krüg
+
+Marketing Angle: Concise, memorable, shareable.`,
+                preview: "\"You bring the soul. AI brings the speed.\"",
+                wordCount: 16,
+            },
+            {
+                number: 59,
+                title: "My portfolio got better after the",
+                category: "Results & Proof",
+                content: `"My portfolio got better after the cohort. Not because AI made the work. Because AI freed up time for polish."
+— Cohort Graduate
+
+Marketing Angle: Quality upgrade through time savings.`,
+                preview: "\"My portfolio got better after the cohort. Not because AI made the work. Because AI freed up time for polish.\"",
+                wordCount: 30,
+            },
+            {
+                number: 60,
+                title: "The client said our concepting phase",
+                category: "Results & Proof",
+                content: `"The client said our concepting phase was the fastest they'd ever seen."
+— Cohort Graduate
+
+Marketing Angle: Client-visible speed improvement.`,
+                preview: "\"The client said our concepting phase was the fastest they'd ever seen.\"",
+                wordCount: 20,
+            },
+            {
+                number: 61,
+                title: "AI freed up my time for",
+                category: "Results & Proof",
+                content: `"AI freed up my time for the creative decisions that actually matter. My work is more distinctive, not less."
+— Sven, Cohort Graduate
+
+Marketing Angle: Addresses "everything will look the same" fear.`,
+                preview: "\"AI freed up my time for the creative decisions that actually matter. My work is more distinctive, not less.\"",
+                wordCount: 32,
+            },
+            {
+                number: 62,
+                title: "If you can describe your creative",
+                category: "Results & Proof",
+                content: `"If you can describe your creative vision in words, you can use AI. The skill is articulation, not coding."
+— Kris Krüg
+
+Marketing Angle: Removes technical barrier for creatives.`,
+                preview: "\"If you can describe your creative vision in words, you can use AI. The skill is articulation, not coding.\"",
+                wordCount: 29,
             },
         ],
         emails: [
@@ -6605,6 +7708,480 @@ The upgrade awaits.
 
 #TheDecision #UpgradeAwaits #PRFuture
 
+---`,
+                preview: "6 weeks from now, you'll be somewhere. **Option A:** Building interactive dashboards for clients. Saving 10+ hours per project. Confident in your AI capabiliti…",
+                wordCount: 87,
+            },
+            {
+                number: 51,
+                title: "The research stack",
+                category: "Advanced Workflows & Proof",
+                content: `Here's the stack I teach PR professionals:
+
+1. Perplexity for grounded research (no hallucinations)
+2. NotebookLM for synthesis across long docs
+3. Claude for first-draft generation with brand voice
+4. Custom GPT for final QA pass
+
+Each tool has a job. None of them replaces your judgment.
+
+That's the workflow we build in 6 weeks.
+
+#AIforPR #ResearchStack #GroundedResearch
+
+---`,
+                preview: "Here's the stack I teach PR professionals: 1. Perplexity for grounded research (no hallucinations) 2. NotebookLM for synthesis across long docs 3. Claude for f…",
+                wordCount: 59,
+            },
+            {
+                number: 52,
+                title: "Coverage recaps, reinvented",
+                category: "Advanced Workflows & Proof",
+                content: `Old way: 3 hours compiling clips into a PDF.
+
+New way: 45 minutes building an interactive dashboard with AI.
+
+Client reaction: "This is the best coverage recap we've ever received."
+
+Real quote. Real result. Real workflow.
+
+#CoverageRecap #InteractiveDeliverables #PRResults
+
+---`,
+                preview: "Old way: 3 hours compiling clips into a PDF. New way: 45 minutes building an interactive dashboard with AI. Client reaction: \"This is the best coverage recap w…",
+                wordCount: 40,
+            },
+            {
+                number: 53,
+                title: "The verification chain",
+                category: "Advanced Workflows & Proof",
+                content: `"But what about hallucinations?"
+
+Valid question. Here's the answer:
+
+Every AI output goes through a verification chain:
+- Source check
+- Fact validation
+- Brand voice review
+- Human sign-off
+
+AI doesn't ship. You ship.
+
+#Verification #NoHallucinations #QualityControl
+
+---`,
+                preview: "\"But what about hallucinations?\" Valid question. Here's the answer: Every AI output goes through a verification chain: - Source check - Fact validation - Brand…",
+                wordCount: 39,
+            },
+            {
+                number: 54,
+                title: "Confidentiality first",
+                category: "Advanced Workflows & Proof",
+                content: `"I can't use AI—client confidentiality."
+
+You can. You just need the right setup:
+- Local models for sensitive docs
+- Redaction workflows
+- Clear data boundaries
+- Audit trails
+
+We cover all of it in week 2.
+
+#Confidentiality #DataSecurity #PRCompliance
+
+---`,
+                preview: "\"I can't use AI—client confidentiality.\" You can. You just need the right setup: - Local models for sensitive docs - Redaction workflows - Clear data boundarie…",
+                wordCount: 41,
+            },
+            {
+                number: 55,
+                title: "The briefing upgrade",
+                category: "Advanced Workflows & Proof",
+                content: `Old briefings: static docs that get outdated.
+
+New briefings: living documents that update as the situation evolves.
+
+The AI doesn't write the strategy.
+The AI keeps the briefing current so your strategy stays sharp.
+
+#MediaBriefing #DynamicDocs #PRStrategy
+
+---`,
+                preview: "Old briefings: static docs that get outdated. New briefings: living documents that update as the situation evolves. The AI doesn't write the strategy. The AI k…",
+                wordCount: 38,
+            },
+            {
+                number: 56,
+                title: "Crisis comms + AI",
+                category: "Advanced Workflows & Proof",
+                content: `Crisis moves fast. Your research has to move faster.
+
+AI use case: real-time sentiment analysis + draft response options in minutes.
+
+Human use case: judgment calls on timing, tone, and channel.
+
+The split is clear. The workflow is teachable.
+
+#CrisisComms #RealTimeResponse #PRWorkflow
+
+---`,
+                preview: "Crisis moves fast. Your research has to move faster. AI use case: real-time sentiment analysis + draft response options in minutes. Human use case: judgment ca…",
+                wordCount: 43,
+            },
+            {
+                number: 57,
+                title: "Pitch personalization at scale",
+                category: "Advanced Workflows & Proof",
+                content: `Generic pitches get ignored.
+Hyper-personalized pitches take forever.
+
+AI splits the difference:
+- Research the journalist in 3 minutes
+- Draft a personalized angle in 2 minutes
+- Ship 10 pitches in the time you used to do 3
+
+Quality up. Volume up. Time down.
+
+#MediaPitching #Personalization #PREfficiency
+
+---`,
+                preview: "Generic pitches get ignored. Hyper-personalized pitches take forever. AI splits the difference: - Research the journalist in 3 minutes - Draft a personalized a…",
+                wordCount: 49,
+            },
+            {
+                number: 58,
+                title: "The internal comms gap",
+                category: "Advanced Workflows & Proof",
+                content: `External comms gets all the attention.
+Internal comms gets left behind.
+
+AI closes the gap:
+- Faster drafts for leadership updates
+- Consistent tone across departments
+- Templates that actually get used
+
+Your internal stakeholders deserve the same quality as external.
+
+#InternalComms #EmployeeComms #ConsistentVoice
+
+---`,
+                preview: "External comms gets all the attention. Internal comms gets left behind. AI closes the gap: - Faster drafts for leadership updates - Consistent tone across depa…",
+                wordCount: 45,
+            },
+            {
+                number: 59,
+                title: "Measurement that matters",
+                category: "Advanced Workflows & Proof",
+                content: `"We need to show ROI on this campaign."
+
+AI makes it possible:
+- Automated coverage tracking
+- Sentiment analysis over time
+- Comparative benchmarking
+- Visual dashboards that executives actually read
+
+Measurement isn't optional anymore. Neither is the skill to do it.
+
+#PRMeasurement #Analytics #CampaignROI
+
+---`,
+                preview: "\"We need to show ROI on this campaign.\" AI makes it possible: - Automated coverage tracking - Sentiment analysis over time - Comparative benchmarking - Visual…",
+                wordCount: 46,
+            },
+            {
+                number: 60,
+                title: "The first draft problem",
+                category: "Advanced Workflows & Proof",
+                content: `First drafts are supposed to be rough.
+But "rough" doesn't mean "bad."
+
+AI gives you a better starting point:
+- Structured correctly
+- Research incorporated
+- Brand voice approximated
+
+You still edit. You just start further ahead.
+
+#FirstDraft #ContentCreation #PRWriting
+
+---`,
+                preview: "First drafts are supposed to be rough. But \"rough\" doesn't mean \"bad.\" AI gives you a better starting point: - Structured correctly - Research incorporated - B…",
+                wordCount: 41,
+            },
+            {
+                number: 61,
+                title: "Angela's shift",
+                category: "Transformation Stories (Short)",
+                content: `Angela, Maven Communications.
+
+Week 1: "Will clients think I'm cutting corners?"
+Week 6: "The client said it was the best coverage recap they'd ever received."
+
+That's the arc. That's what's possible.
+
+#Transformation #ClientResults #PRSuccess
+
+---`,
+                preview: "Angela, Maven Communications. Week 1: \"Will clients think I'm cutting corners?\" Week 6: \"The client said it was the best coverage recap they'd ever received.\"…",
+                wordCount: 35,
+            },
+            {
+                number: 62,
+                title: "Lizzie's confidence",
+                category: "Transformation Stories (Short)",
+                content: `Lizzie came in skeptical.
+
+"AI can't handle the nuance of what we do."
+
+Six weeks later:
+"I know exactly what to check before I ship. The anxiety is gone."
+
+Skeptics make the best students.
+
+#ConfidenceShift #SkepticWelcome #PRGrowth
+
+---`,
+                preview: "Lizzie came in skeptical. \"AI can't handle the nuance of what we do.\" Six weeks later: \"I know exactly what to check before I ship. The anxiety is gone.\" Skept…",
+                wordCount: 38,
+            },
+            {
+                number: 63,
+                title: "The overwhelm cure",
+                category: "Transformation Stories (Short)",
+                content: `Sarah said: "I feel like it's the wild west. I want to feel less overwhelmed."
+
+Six weeks later: "I have a system now. I know what to use, when, and why."
+
+From overwhelmed to operating. That's the transformation.
+
+#Overwhelm #SystemBuilding #PRWorkflow
+
+---`,
+                preview: "Sarah said: \"I feel like it's the wild west. I want to feel less overwhelmed.\" Six weeks later: \"I have a system now. I know what to use, when, and why.\" From…",
+                wordCount: 42,
+            },
+            {
+                number: 64,
+                title: "The competitive edge",
+                category: "Transformation Stories (Short)",
+                content: `One cohort graduate told me:
+
+"I'm now the AI person on my team. They come to me with questions."
+
+That's the competitive edge. Not "I replaced humans with bots."
+But "I'm the one who knows how to use these tools well."
+
+#CompetitiveEdge #AILeadership #PRCareer
+
+---`,
+                preview: "One cohort graduate told me: \"I'm now the AI person on my team. They come to me with questions.\" That's the competitive edge. Not \"I replaced humans with bots.…",
+                wordCount: 45,
+            },
+            {
+                number: 65,
+                title: "The quality surprise",
+                category: "Transformation Stories (Short)",
+                content: `Most people expect AI to make work faster.
+
+The surprise: it makes work *better*.
+
+Better research. Tighter drafts. Fewer revision cycles.
+Speed is the side effect. Quality is the goal.
+
+#QualityFirst #BetterWork #PRExcellence
+
+---`,
+                preview: "Most people expect AI to make work faster. The surprise: it makes work *better*. Better research. Tighter drafts. Fewer revision cycles. Speed is the side effe…",
+                wordCount: 34,
+            },
+            {
+                number: 66,
+                title: "\"I'm not technical\"",
+                category: "Objection Handling",
+                content: `"I'm not technical enough for this."
+
+You don't need to be.
+
+If you can write a clear email, you can prompt an AI.
+The skill is communication, not coding.
+
+We teach communicators. That's who you are.
+
+#NotTechnical #CommunicatorSkills #PRProfessionals
+
+---`,
+                preview: "\"I'm not technical enough for this.\" You don't need to be. If you can write a clear email, you can prompt an AI. The skill is communication, not coding. We tea…",
+                wordCount: 40,
+            },
+            {
+                number: 67,
+                title: "\"My firm won't let me\"",
+                category: "Objection Handling",
+                content: `"My firm has AI policies that prevent this."
+
+Good. Policies are smart.
+
+We teach workflows that work *within* compliance:
+- Approved tools only
+- Clear data boundaries
+- Audit-ready processes
+
+Responsible AI isn't optional. It's the whole point.
+
+#Compliance #ResponsibleAI #PRGovernance
+
+---`,
+                preview: "\"My firm has AI policies that prevent this.\" Good. Policies are smart. We teach workflows that work *within* compliance: - Approved tools only - Clear data bou…",
+                wordCount: 42,
+            },
+            {
+                number: 68,
+                title: "\"I'll wait until it's better\"",
+                category: "Objection Handling",
+                content: `"AI isn't good enough yet. I'll wait."
+
+The tools you're waiting for? Already here.
+
+Perplexity. NotebookLM. Claude. Custom GPTs.
+
+The only thing improving is your skill with them.
+That takes time. Start now.
+
+#StartNow #AISkills #PRFuture
+
+---`,
+                preview: "\"AI isn't good enough yet. I'll wait.\" The tools you're waiting for? Already here. Perplexity. NotebookLM. Claude. Custom GPTs. The only thing improving is you…",
+                wordCount: 37,
+            },
+            {
+                number: 69,
+                title: "\"My clients don't care\"",
+                category: "Objection Handling",
+                content: `"My clients don't care if I use AI."
+
+They don't care *that* you use AI.
+They care that your work is faster, sharper, and more grounded.
+
+AI is the how. Results are what matters.
+
+#ClientResults #BetterOutcomes #PRValue
+
+---`,
+                preview: "\"My clients don't care if I use AI.\" They don't care *that* you use AI. They care that your work is faster, sharper, and more grounded. AI is the how. Results…",
+                wordCount: 38,
+            },
+            {
+                number: 70,
+                title: "\"I tried a course, it was useless\"",
+                category: "Objection Handling",
+                content: `"I've done AI courses. They're all hype."
+
+Fair. Most are.
+
+This one is different:
+- 6 weeks of applied skill
+- Real workflows for your actual job
+- Community of PR professionals
+- No "future of AI" speculation
+
+Receipts, not vibes.
+
+#NoteAnotherCourse #AppliedSkill #PRTraining
+
+---`,
+                preview: "\"I've done AI courses. They're all hype.\" Fair. Most are. This one is different: - 6 weeks of applied skill - Real workflows for your actual job - Community of…",
+                wordCount: 45,
+            },
+            {
+                number: 71,
+                title: "Next cohort launching",
+                category: "CTAs (Direct)",
+                content: `Next cohort of AI Upgrade for PR & Communications is launching soon.
+
+6 weeks. Applied workflows. Small group.
+
+If you're ready to stop dabbling and start operating:
+
+Comment "INFO" and I'll send details.
+
+#NextCohort #PRUpgrade #EnrollNow
+
+---`,
+                preview: "Next cohort of AI Upgrade for PR & Communications is launching soon. 6 weeks. Applied workflows. Small group. If you're ready to stop dabbling and start operat…",
+                wordCount: 37,
+            },
+            {
+                number: 72,
+                title: "Limited seats",
+                category: "CTAs (Direct)",
+                content: `We keep cohorts small so everyone gets feedback.
+
+That means limited seats.
+
+If you've been waiting for the right moment:
+this is it.
+
+DM me "READY" for application details.
+
+#LimitedSeats #SmallCohort #PRCommunity
+
+---`,
+                preview: "We keep cohorts small so everyone gets feedback. That means limited seats. If you've been waiting for the right moment: this is it. DM me \"READY\" for applicati…",
+                wordCount: 33,
+            },
+            {
+                number: 73,
+                title: "The ROI math",
+                category: "CTAs (Direct)",
+                content: `6 weeks × a few hours per week = maybe 30 hours total.
+
+ROI: 10+ hours saved per week, every week after.
+
+Break-even: week 4.
+
+If the math works for you:
+Comment "NUMBERS" and I'll send enrollment info.
+
+#ROI #TimeSaved #PRInvestment
+
+---`,
+                preview: "6 weeks × a few hours per week = maybe 30 hours total. ROI: 10+ hours saved per week, every week after. Break-even: week 4. If the math works for you: Comment…",
+                wordCount: 42,
+            },
+            {
+                number: 74,
+                title: "For the hesitant",
+                category: "CTAs (Direct)",
+                content: `If you're hesitant, that's fine.
+
+This isn't for everyone.
+It's for PR professionals who are ready to upgrade their workflow.
+
+If that's you, whenever you're ready:
+The cohort will be here.
+
+#WhenYoureReady #NoPresssure #PRCommunity
+
+---`,
+                preview: "If you're hesitant, that's fine. This isn't for everyone. It's for PR professionals who are ready to upgrade their workflow. If that's you, whenever you're rea…",
+                wordCount: 35,
+            },
+            {
+                number: 75,
+                title: "The invitation",
+                category: "CTAs (Direct)",
+                content: `You've read enough posts.
+
+You know what this is:
+6 weeks to build AI workflows that make your PR work faster, sharper, and more grounded.
+
+If you're ready:
+Comment "UPGRADE" and I'll send you the details.
+
+See you inside.
+
+#TheInvitation #JoinUs #PRUpgrade
+
 ---
 
 ## USAGE NOTES
@@ -6622,8 +8199,8 @@ Secondary: #FutureOfPR #InteractiveDeliverables #GroundedResearch
 
 **Total Posts:** 50
 **Last Updated:** December 2025`,
-                preview: "6 weeks from now, you'll be somewhere. **Option A:** Building interactive dashboards for clients. Saving 10+ hours per project. Confident in your AI capabiliti…",
-                wordCount: 127,
+                preview: "You've read enough posts. You know what this is: 6 weeks to build AI workflows that make your PR work faster, sharper, and more grounded. If you're ready: Comm…",
+                wordCount: 83,
             },
         ],
         quotes: [
@@ -7162,6 +8739,116 @@ Marketing Angle: We address this directly. AI changes what juniors learn, not wh
 Marketing Angle: We take the identity question seriously. It's not just about skills.`,
                 preview: "\"I'm concerned not just about our careers, but our identities.\"",
                 wordCount: 26,
+            },
+            {
+                number: 48,
+                title: "Perplexity for research NotebookLM for synthesis",
+                category: "Research Stacks",
+                content: `"Perplexity for research. NotebookLM for synthesis. Claude for drafts. Each tool has a job."
+— Kris Krüg
+
+Marketing Angle: Shows sophistication without jargon.`,
+                preview: "\"Perplexity for research. NotebookLM for synthesis. Claude for drafts. Each tool has a job.\"",
+                wordCount: 23,
+            },
+            {
+                number: 49,
+                title: "Every AI output goes through a",
+                category: "Verification",
+                content: `"Every AI output goes through a verification chain. AI doesn't ship. You ship."
+— Course Standard
+
+Marketing Angle: Addresses hallucination concerns directly.`,
+                preview: "\"Every AI output goes through a verification chain. AI doesn't ship. You ship.\"",
+                wordCount: 22,
+            },
+            {
+                number: 50,
+                title: "You can use AI with client",
+                category: "Confidentiality",
+                content: `"You can use AI with client confidentiality. You just need the right setup."
+— Kris Krüg
+
+Marketing Angle: Handles the compliance objection.`,
+                preview: "\"You can use AI with client confidentiality. You just need the right setup.\"",
+                wordCount: 22,
+            },
+            {
+                number: 51,
+                title: "3-hour research task 45 minutes And",
+                category: "Speed + Quality",
+                content: `"3-hour research task → 45 minutes. And the output was sharper."
+— Cohort Graduate
+
+Marketing Angle: Concrete, believable proof.`,
+                preview: "\"3-hour research task → 45 minutes. And the output was sharper.\"",
+                wordCount: 19,
+            },
+            {
+                number: 52,
+                title: "The client said it was the",
+                category: "Client Reaction",
+                content: `"The client said it was the best coverage recap they'd ever received."
+— Lizzie, Week 6
+
+Marketing Angle: Direct testimonial, specific outcome.`,
+                preview: "\"The client said it was the best coverage recap they'd ever received.\"",
+                wordCount: 22,
+            },
+            {
+                number: 53,
+                title: "Week 1 nervous about mistakes Week",
+                category: "Confidence",
+                content: `"Week 1: nervous about mistakes. Week 6: I know exactly what to check before I ship."
+— Cohort Outcome
+
+Marketing Angle: Transformation arc in one line.`,
+                preview: "\"Week 1: nervous about mistakes. Week 6: I know exactly what to check before I ship.\"",
+                wordCount: 26,
+            },
+            {
+                number: 54,
+                title: "I'm now the AI person on",
+                category: "Competitive Edge",
+                content: `"I'm now the AI person on my team. They come to me with questions."
+— Cohort Graduate
+
+Marketing Angle: Career positioning benefit.`,
+                preview: "\"I'm now the AI person on my team. They come to me with questions.\"",
+                wordCount: 22,
+            },
+            {
+                number: 55,
+                title: "If you can write a clear",
+                category: "Technical Skills",
+                content: `"If you can write a clear email, you can prompt an AI. The skill is communication, not coding."
+— Kris Krüg
+
+Marketing Angle: Removes technical barrier.`,
+                preview: "\"If you can write a clear email, you can prompt an AI. The skill is communication, not coding.\"",
+                wordCount: 26,
+            },
+            {
+                number: 56,
+                title: "The tools you're waiting for Already",
+                category: "Waiting",
+                content: `"The tools you're waiting for? Already here. The only thing improving is your skill with them."
+— Course Reality
+
+Marketing Angle: Urgency without hype.`,
+                preview: "\"The tools you're waiting for? Already here. The only thing improving is your skill with them.\"",
+                wordCount: 24,
+            },
+            {
+                number: 57,
+                title: "You can figure it out yourself",
+                category: "DIY Learning",
+                content: `"You can figure it out yourself. But you'll spend 6 months discovering what we teach in 6 weeks."
+— Kris Krüg
+
+Marketing Angle: DIY vs. structured learning tradeoff.`,
+                preview: "\"You can figure it out yourself. But you'll spend 6 months discovering what we teach in 6 weeks.\"",
+                wordCount: 28,
             },
         ],
         emails: [
@@ -9939,6 +11626,468 @@ The gap between those futures is one decision.
 
 Next cohort starts [DATE].
 
+---`,
+                preview: "Six weeks from now, you'll be somewhere. Either building AI-augmented sales systems that multiply your output. Or exactly where you are now. The gap between th…",
+                wordCount: 35,
+            },
+            {
+                number: 51,
+                title: "The research stack",
+                category: "Account Research & Personalization",
+                content: `Here's how I research an account in 10 minutes:
+
+1. Perplexity: Company news, recent changes, key players
+2. LinkedIn: Org chart, mutual connections, recent posts
+3. AI synthesis: "What are the 3 biggest challenges this company is likely facing?"
+
+10 minutes. Informed call. Better conversion.
+
+That's the stack we teach.
+
+#AccountResearch #B2BSales #AIinSales
+
+---`,
+                preview: "Here's how I research an account in 10 minutes: 1. Perplexity: Company news, recent changes, key players 2. LinkedIn: Org chart, mutual connections, recent pos…",
+                wordCount: 54,
+            },
+            {
+                number: 52,
+                title: "Personalization at scale",
+                category: "Account Research & Personalization",
+                content: `Generic outreach gets ignored.
+Hyper-personalized outreach takes forever.
+
+AI splits the difference:
+- Research the account in 5 minutes
+- Generate 3 personalized angle options
+- Pick the best, refine, send
+
+10 touches in the time you used to do 3.
+Quality up. Volume up.
+
+#Personalization #SalesOutreach #ScalableSales
+
+---`,
+                preview: "Generic outreach gets ignored. Hyper-personalized outreach takes forever. AI splits the difference: - Research the account in 5 minutes - Generate 3 personaliz…",
+                wordCount: 49,
+            },
+            {
+                number: 53,
+                title: "The discovery call prep",
+                category: "Account Research & Personalization",
+                content: `Old prep: Skim the website. Hope for the best.
+
+New prep:
+1. AI synthesis of everything public about this account
+2. 10 questions tailored to their likely challenges
+3. Objection mapping based on their industry
+
+15 minutes. Dramatically better call.
+
+#DiscoveryCall #SalesPrep #BetterCalls
+
+---`,
+                preview: "Old prep: Skim the website. Hope for the best. New prep: 1. AI synthesis of everything public about this account 2. 10 questions tailored to their likely chall…",
+                wordCount: 44,
+            },
+            {
+                number: 54,
+                title: "The follow-up problem",
+                category: "Account Research & Personalization",
+                content: `Most follow-ups are garbage.
+
+"Just checking in" = delete.
+
+AI-powered follow-up:
+"Based on our call, here's a 3-point summary of how we'd address [specific challenge]. Attached: case study from [similar company]."
+
+Relevant. Specific. Gets responses.
+
+#FollowUp #SalesEmail #ValueFirst
+
+---`,
+                preview: "Most follow-ups are garbage. \"Just checking in\" = delete. AI-powered follow-up: \"Based on our call, here's a 3-point summary of how we'd address [specific chal…",
+                wordCount: 39,
+            },
+            {
+                number: 55,
+                title: "The proposal accelerator",
+                category: "Account Research & Personalization",
+                content: `Old way: 2 days building a custom proposal.
+
+New way:
+1. Template + AI customization = 2 hours
+2. More time for strategy, less for document wrestling
+
+The proposal should be the easy part.
+The conversation is the hard part.
+
+#Proposals #SalesOps #Efficiency
+
+---`,
+                preview: "Old way: 2 days building a custom proposal. New way: 1. Template + AI customization = 2 hours 2. More time for strategy, less for document wrestling The propos…",
+                wordCount: 44,
+            },
+            {
+                number: 56,
+                title: "Pipeline hygiene",
+                category: "Pipeline & Process",
+                content: `Most pipelines are full of dead deals.
+
+AI can help you clean:
+"Review these 50 deals. Flag any with no activity in 30 days and suggest re-engagement or close-out."
+
+Clean pipeline = accurate forecast = better decisions.
+
+#Pipeline #SalesOps #ForecastAccuracy
+
+---`,
+                preview: "Most pipelines are full of dead deals. AI can help you clean: \"Review these 50 deals. Flag any with no activity in 30 days and suggest re-engagement or close-o…",
+                wordCount: 41,
+            },
+            {
+                number: 57,
+                title: "The meeting prep system",
+                category: "Pipeline & Process",
+                content: `Before every meeting:
+
+1. AI pulls account context
+2. AI reviews last touchpoints
+3. AI suggests 3 conversation angles
+
+5 minutes. Every meeting. Better outcomes.
+
+Systems beat willpower.
+
+#MeetingPrep #SalesSystems #Consistency
+
+---`,
+                preview: "Before every meeting: 1. AI pulls account context 2. AI reviews last touchpoints 3. AI suggests 3 conversation angles 5 minutes. Every meeting. Better outcomes…",
+                wordCount: 32,
+            },
+            {
+                number: 58,
+                title: "Objection mapping",
+                category: "Pipeline & Process",
+                content: `"Let me think about it."
+"We're not ready."
+"The budget isn't there."
+
+AI can help you prepare for all of them:
+"Generate responses to the 10 most common objections in [industry]."
+
+Prepared reps close more.
+
+#ObjectionHandling #SalesTraining #PreparedWins
+
+---`,
+                preview: "\"Let me think about it.\" \"We're not ready.\" \"The budget isn't there.\" AI can help you prepare for all of them: \"Generate responses to the 10 most common object…",
+                wordCount: 39,
+            },
+            {
+                number: 59,
+                title: "The handoff problem",
+                category: "Pipeline & Process",
+                content: `Sales to CS handoff is where deals die.
+
+AI can document:
+- Key commitments made
+- Implementation expectations
+- Success metrics agreed
+- Risk flags
+
+Clean handoff = happy customer = renewals.
+
+#CustomerSuccess #SalesHandoff #Implementation
+
+---`,
+                preview: "Sales to CS handoff is where deals die. AI can document: - Key commitments made - Implementation expectations - Success metrics agreed - Risk flags Clean hando…",
+                wordCount: 36,
+            },
+            {
+                number: 60,
+                title: "Territory planning",
+                category: "Pipeline & Process",
+                content: `"Which accounts should I focus on this quarter?"
+
+AI can help you prioritize:
+- Fit score based on ICP criteria
+- Recent signals (hiring, funding, leadership change)
+- Historical win rates for similar accounts
+
+Strategic targeting beats spray-and-pray.
+
+#TerritoryPlanning #AccountPrioritization #StrategicSelling
+
+---`,
+                preview: "\"Which accounts should I focus on this quarter?\" AI can help you prioritize: - Fit score based on ICP criteria - Recent signals (hiring, funding, leadership ch…",
+                wordCount: 42,
+            },
+            {
+                number: 61,
+                title: "The 3x story",
+                category: "Transformation & Proof",
+                content: `A cohort graduate told me:
+
+"I'm having 3x more quality conversations per week. Not more calls. More quality conversations."
+
+AI didn't make him work harder.
+AI made his prep work smarter.
+
+#Transformation #QualityConversations #SalesResults
+
+---`,
+                preview: "A cohort graduate told me: \"I'm having 3x more quality conversations per week. Not more calls. More quality conversations.\" AI didn't make him work harder. AI…",
+                wordCount: 35,
+            },
+            {
+                number: 62,
+                title: "The time shift",
+                category: "Transformation & Proof",
+                content: `Where does your time go?
+
+Before cohort: 70% research, 30% selling.
+After cohort: 30% research, 70% selling.
+
+Same hours. Different allocation.
+That's the upgrade.
+
+#TimeManagement #SalesProductivity #HigherROI
+
+---`,
+                preview: "Where does your time go? Before cohort: 70% research, 30% selling. After cohort: 30% research, 70% selling. Same hours. Different allocation. That's the upgrad…",
+                wordCount: 28,
+            },
+            {
+                number: 63,
+                title: "The confidence shift",
+                category: "Transformation & Proof",
+                content: `Week 1: "I don't know what I don't know about AI."
+
+Week 6: "I know exactly which tools to use, when, and how to verify the output."
+
+Clarity replaces anxiety. That's the transformation.
+
+#Confidence #AIClarity #SalesSkills
+
+---`,
+                preview: "Week 1: \"I don't know what I don't know about AI.\" Week 6: \"I know exactly which tools to use, when, and how to verify the output.\" Clarity replaces anxiety. T…",
+                wordCount: 37,
+            },
+            {
+                number: 64,
+                title: "The team multiplier",
+                category: "Transformation & Proof",
+                content: `One cohort graduate trained her whole team.
+
+"I became the AI person. Now everyone's using the workflows I learned."
+
+That's the ripple effect. One person upgrades; the whole team benefits.
+
+#TeamTraining #SalesLeadership #Multiplier
+
+---`,
+                preview: "One cohort graduate trained her whole team. \"I became the AI person. Now everyone's using the workflows I learned.\" That's the ripple effect. One person upgrad…",
+                wordCount: 34,
+            },
+            {
+                number: 65,
+                title: "The quota math",
+                category: "Transformation & Proof",
+                content: `More quality conversations + better prep + faster follow-up = ?
+
+Higher close rates.
+Shorter sales cycles.
+Quota achieved earlier.
+
+The math works. We've seen it.
+
+#QuotaAttainment #SalesMath #Results
+
+---`,
+                preview: "More quality conversations + better prep + faster follow-up = ? Higher close rates. Shorter sales cycles. Quota achieved earlier. The math works. We've seen it…",
+                wordCount: 30,
+            },
+            {
+                number: 66,
+                title: "\"My CRM already has AI\"",
+                category: "Objection Handling",
+                content: `"My CRM already has AI features."
+
+Great. Are you using them well?
+
+The tool isn't the skill.
+Knowing what to ask, when, and how to verify—that's the skill.
+
+We teach the skill.
+
+#CRM #AISkills #BeyondFeatures
+
+---`,
+                preview: "\"My CRM already has AI features.\" Great. Are you using them well? The tool isn't the skill. Knowing what to ask, when, and how to verify—that's the skill. We t…",
+                wordCount: 36,
+            },
+            {
+                number: 67,
+                title: "\"Sales is about relationships\"",
+                category: "Objection Handling",
+                content: `"Sales is about relationships, not AI."
+
+Correct. AI doesn't replace relationships.
+
+AI frees up time for relationships:
+- Faster research
+- Better prep
+- Less admin
+
+More time for the human stuff.
+
+#Relationships #HumanSelling #AISupport
+
+---`,
+                preview: "\"Sales is about relationships, not AI.\" Correct. AI doesn't replace relationships. AI frees up time for relationships: - Faster research - Better prep - Less a…",
+                wordCount: 36,
+            },
+            {
+                number: 68,
+                title: "\"I'm already hitting quota\"",
+                category: "Objection Handling",
+                content: `"I'm already hitting quota. Why change?"
+
+Because quota is the floor, not the ceiling.
+
+What if you could hit it by week 8 instead of week 12?
+What would you do with that extra month?
+
+#BeyondQuota #HighPerformance #Upside
+
+---`,
+                preview: "\"I'm already hitting quota. Why change?\" Because quota is the floor, not the ceiling. What if you could hit it by week 8 instead of week 12? What would you do…",
+                wordCount: 39,
+            },
+            {
+                number: 69,
+                title: "\"My industry is different\"",
+                category: "Objection Handling",
+                content: `"AI doesn't work in my industry."
+
+Tech sales said it. Healthcare sales said it. Financial services said it.
+
+Then they took the cohort and realized:
+The workflows translate. The results are measurable.
+
+#IndustryAgnostic #UniversalWorkflows #SalesTraining
+
+---`,
+                preview: "\"AI doesn't work in my industry.\" Tech sales said it. Healthcare sales said it. Financial services said it. Then they took the cohort and realized: The workflo…",
+                wordCount: 36,
+            },
+            {
+                number: 70,
+                title: "\"I'll figure it out myself\"",
+                category: "Objection Handling",
+                content: `"I'll just learn AI on my own."
+
+You can. But you'll spend 6 months discovering what we teach in 6 weeks.
+
+And you'll probably learn some bad habits along the way.
+
+Time is money. Invest wisely.
+
+#StructuredLearning #TimeValue #ROI
+
+---`,
+                preview: "\"I'll just learn AI on my own.\" You can. But you'll spend 6 months discovering what we teach in 6 weeks. And you'll probably learn some bad habits along the wa…",
+                wordCount: 40,
+            },
+            {
+                number: 71,
+                title: "Next cohort",
+                category: "CTAs (Direct)",
+                content: `Next cohort of AI Upgrade for Sales Leaders is launching soon.
+
+6 weeks. Applied workflows. Small group of sales pros.
+
+If you're ready to upgrade your process:
+
+Comment "SALES" for details.
+
+#NextCohort #SalesUpgrade #EnrollNow
+
+---`,
+                preview: "Next cohort of AI Upgrade for Sales Leaders is launching soon. 6 weeks. Applied workflows. Small group of sales pros. If you're ready to upgrade your process:…",
+                wordCount: 35,
+            },
+            {
+                number: 72,
+                title: "Limited seats",
+                category: "CTAs (Direct)",
+                content: `We keep cohorts small so everyone gets personalized feedback.
+
+That means limited seats.
+
+If you've been waiting:
+DM me "READY" for application details.
+
+#LimitedSeats #SmallCohort #SalesCommunity
+
+---`,
+                preview: "We keep cohorts small so everyone gets personalized feedback. That means limited seats. If you've been waiting: DM me \"READY\" for application details. #Limited…",
+                wordCount: 27,
+            },
+            {
+                number: 73,
+                title: "The ROI math",
+                category: "CTAs (Direct)",
+                content: `6 weeks × a few hours per week = maybe 30 hours total.
+
+ROI: 10+ hours saved per week, higher conversion rates, faster cycles.
+
+Break-even: first month after completion.
+
+If the math works:
+Comment "NUMBERS" for enrollment info.
+
+#ROI #SalesInvestment #TimeValue
+
+---`,
+                preview: "6 weeks × a few hours per week = maybe 30 hours total. ROI: 10+ hours saved per week, higher conversion rates, faster cycles. Break-even: first month after com…",
+                wordCount: 42,
+            },
+            {
+                number: 74,
+                title: "For the skeptics",
+                category: "CTAs (Direct)",
+                content: `If you're skeptical about AI in sales, good.
+
+Skeptics ask the hard questions.
+Skeptics demand proof.
+Skeptics make the best students.
+
+When you're ready, the cohort will be here.
+
+#SkepticsWelcome #ProofDriven #SalesCommunity
+
+---`,
+                preview: "If you're skeptical about AI in sales, good. Skeptics ask the hard questions. Skeptics demand proof. Skeptics make the best students. When you're ready, the co…",
+                wordCount: 33,
+            },
+            {
+                number: 75,
+                title: "The invitation",
+                category: "CTAs (Direct)",
+                content: `You've read enough.
+
+You know what this is:
+6 weeks to build AI workflows that make your sales process faster, sharper, and more effective.
+
+If you're ready:
+Comment "UPGRADE" for details.
+
+See you inside.
+
+#TheInvitation #JoinUs #SalesUpgrade
+
 ---
 
 ## POST FORMATTING NOTES
@@ -9971,8 +12120,8 @@ Next cohort starts [DATE].
 **Total Posts:** 50
 **Last Updated:** December 2025
 **Source:** Cohort 2 Transcripts, Meta-Analysis, Instructor Frameworks`,
-                preview: "Six weeks from now, you'll be somewhere. Either building AI-augmented sales systems that multiply your output. Or exactly where you are now. The gap between th…",
-                wordCount: 142,
+                preview: "You've read enough. You know what this is: 6 weeks to build AI workflows that make your sales process faster, sharper, and more effective. If you're ready: Com…",
+                wordCount: 145,
             },
         ],
         quotes: [
@@ -10531,6 +12680,116 @@ Marketing Angle: AI can audit your AI tools. Meta, but useful.`,
 Marketing Angle: You don't need 20 tools. You need two, plus knowledge.`,
                 preview: "\"The two essentials are a transcription tool and probably something like ChatGPT Plus.\"",
                 wordCount: 28,
+            },
+            {
+                number: 49,
+                title: "10 minutes of AI-powered research informed",
+                category: "Account Research",
+                content: `"10 minutes of AI-powered research = informed call = better conversion."
+— Kris Krüg
+
+Marketing Angle: Concrete workflow, concrete outcome.`,
+                preview: "\"10 minutes of AI-powered research = informed call = better conversion.\"",
+                wordCount: 20,
+            },
+            {
+                number: 50,
+                title: "10 touches in the time you",
+                category: "Personalization",
+                content: `"10 touches in the time you used to do 3. Quality up. Volume up."
+— Course Workflow
+
+Marketing Angle: Scale without sacrifice.`,
+                preview: "\"10 touches in the time you used to do 3. Quality up. Volume up.\"",
+                wordCount: 22,
+            },
+            {
+                number: 51,
+                title: "15 minutes of AI prep Dramatically",
+                category: "Discovery Prep",
+                content: `"15 minutes of AI prep. Dramatically better call. Every time."
+— Cohort Practice
+
+Marketing Angle: Simple, repeatable, effective.`,
+                preview: "\"15 minutes of AI prep. Dramatically better call. Every time.\"",
+                wordCount: 18,
+            },
+            {
+                number: 52,
+                title: "3x more quality conversations per week",
+                category: "Quality Conversations",
+                content: `"3x more quality conversations per week. Not more calls. More quality conversations."
+— Cohort Graduate
+
+Marketing Angle: Quality over quantity message.`,
+                preview: "\"3x more quality conversations per week. Not more calls. More quality conversations.\"",
+                wordCount: 21,
+            },
+            {
+                number: 53,
+                title: "Before 70 research 30 selling After",
+                category: "Time Allocation",
+                content: `"Before: 70% research, 30% selling. After: 30% research, 70% selling."
+— Cohort Outcome
+
+Marketing Angle: Time reallocation story.`,
+                preview: "\"Before: 70% research, 30% selling. After: 30% research, 70% selling.\"",
+                wordCount: 18,
+            },
+            {
+                number: 54,
+                title: "I became the AI person Now",
+                category: "Team Multiplication",
+                content: `"I became the AI person. Now everyone's using the workflows I learned."
+— Cohort Graduate
+
+Marketing Angle: One person trains the team.`,
+                preview: "\"I became the AI person. Now everyone's using the workflows I learned.\"",
+                wordCount: 22,
+            },
+            {
+                number: 55,
+                title: "The tool isn't the skill Knowing",
+                category: "CRM AI",
+                content: `"The tool isn't the skill. Knowing what to ask, when, and how to verify—that's the skill."
+— Kris Krüg
+
+Marketing Angle: Differentiates from "my CRM has AI."`,
+                preview: "\"The tool isn't the skill. Knowing what to ask, when, and how to verify—that's the skill.\"",
+                wordCount: 27,
+            },
+            {
+                number: 56,
+                title: "AI doesn't replace relationships AI frees",
+                category: "Relationships",
+                content: `"AI doesn't replace relationships. AI frees up time for relationships."
+— Course Philosophy
+
+Marketing Angle: Addresses "sales is human" objection.`,
+                preview: "\"AI doesn't replace relationships. AI frees up time for relationships.\"",
+                wordCount: 20,
+            },
+            {
+                number: 57,
+                title: "Quota is the floor not the",
+                category: "Quota Achievers",
+                content: `"Quota is the floor, not the ceiling. What if you hit it by week 8 instead of week 12?"
+— Kris Krüg
+
+Marketing Angle: Appeals to high performers.`,
+                preview: "\"Quota is the floor, not the ceiling. What if you hit it by week 8 instead of week 12?\"",
+                wordCount: 28,
+            },
+            {
+                number: 58,
+                title: "Tech sales said it Healthcare sales",
+                category: "Industry Differences",
+                content: `"Tech sales said it. Healthcare sales said it. The workflows translate. The results are measurable."
+— Course Reality
+
+Marketing Angle: Universal applicability.`,
+                preview: "\"Tech sales said it. Healthcare sales said it. The workflows translate. The results are measurable.\"",
+                wordCount: 22,
             },
         ],
         emails: [
@@ -13370,6 +15629,428 @@ The gap between those futures is one decision.
 
 Next cohort starts soon.
 
+---`,
+                preview: "Six weeks from now, you'll be somewhere. Either building AI-augmented journalism workflows. Or exactly where you are now. The gap between those futures is one…",
+                wordCount: 31,
+            },
+            {
+                number: 51,
+                title: "The verification chain",
+                category: "Verification & Trust",
+                content: `"But AI hallucinates."
+
+Yes. That's why we don't ship AI outputs.
+We ship verified outputs.
+
+Every claim gets:
+- Source check
+- Cross-reference
+- Human sign-off
+
+The AI accelerates research. You verify before publishing.
+
+That's the workflow. That's the standard.
+
+---`,
+                preview: "\"But AI hallucinates.\" Yes. That's why we don't ship AI outputs. We ship verified outputs. Every claim gets: - Source check - Cross-reference - Human sign-off…",
+                wordCount: 41,
+            },
+            {
+                number: 52,
+                title: "Accuracy first",
+                category: "Verification & Trust",
+                content: `Speed without accuracy is worthless.
+Accuracy without speed is a luxury you can't afford.
+
+AI gives you both:
+- Faster research
+- Multiple source synthesis
+- Verification prompts built in
+
+The goal isn't "fast journalism."
+The goal is "accurate journalism, faster."
+
+---`,
+                preview: "Speed without accuracy is worthless. Accuracy without speed is a luxury you can't afford. AI gives you both: - Faster research - Multiple source synthesis - Ve…",
+                wordCount: 42,
+            },
+            {
+                number: 53,
+                title: "Source triangulation",
+                category: "Verification & Trust",
+                content: `Old way: Call three sources. Hope they're available.
+
+New way: AI synthesis of public statements + background research.
+Then: Call sources with informed questions.
+
+Better questions → better quotes → better story.
+
+AI doesn't replace sources. AI makes you better prepared.
+
+---`,
+                preview: "Old way: Call three sources. Hope they're available. New way: AI synthesis of public statements + background research. Then: Call sources with informed questio…",
+                wordCount: 42,
+            },
+            {
+                number: 54,
+                title: "The editorial QA",
+                category: "Verification & Trust",
+                content: `"Will my editor know I used AI?"
+
+Only if you tell them.
+
+And you should tell them, because:
+- Your first drafts are tighter
+- Your research is more comprehensive
+- Your verification is documented
+
+AI-augmented ≠ AI-generated.
+
+---`,
+                preview: "\"Will my editor know I used AI?\" Only if you tell them. And you should tell them, because: - Your first drafts are tighter - Your research is more comprehensiv…",
+                wordCount: 39,
+            },
+            {
+                number: 55,
+                title: "Trust and transparency",
+                category: "Verification & Trust",
+                content: `Journalism lives on trust.
+AI doesn't change that.
+
+What changes:
+- How fast you can verify
+- How much context you can synthesize
+- How many sources you can check
+
+The trust is still earned the same way: accuracy, fairness, rigor.
+
+---`,
+                preview: "Journalism lives on trust. AI doesn't change that. What changes: - How fast you can verify - How much context you can synthesize - How many sources you can che…",
+                wordCount: 42,
+            },
+            {
+                number: 56,
+                title: "Interview prep, upgraded",
+                category: "Interview & Source Work",
+                content: `Old prep: 30 minutes of Googling.
+
+New prep:
+1. AI synthesis of everything this person has said publicly
+2. AI-generated list of questions they've never been asked
+3. AI summary of the debate they're stepping into
+
+Total time: 15 minutes.
+Quality: 3x better.
+
+---`,
+                preview: "Old prep: 30 minutes of Googling. New prep: 1. AI synthesis of everything this person has said publicly 2. AI-generated list of questions they've never been as…",
+                wordCount: 44,
+            },
+            {
+                number: 57,
+                title: "The follow-up question",
+                category: "Interview & Source Work",
+                content: `The best interviews come from follow-up questions.
+
+AI helps you anticipate them:
+"Based on this transcript, what are the 5 follow-up questions I should have asked?"
+
+You can't go back. But you can prep better next time.
+
+---`,
+                preview: "The best interviews come from follow-up questions. AI helps you anticipate them: \"Based on this transcript, what are the 5 follow-up questions I should have as…",
+                wordCount: 38,
+            },
+            {
+                number: 58,
+                title: "Source research at scale",
+                category: "Interview & Source Work",
+                content: `Working a story with 20 potential sources?
+
+AI can profile all of them in an hour:
+- Public statements
+- Known positions
+- Potential conflicts
+- Question angles
+
+You pick the 5 worth calling.
+
+Scale + judgment = better journalism.
+
+---`,
+                preview: "Working a story with 20 potential sources? AI can profile all of them in an hour: - Public statements - Known positions - Potential conflicts - Question angles…",
+                wordCount: 41,
+            },
+            {
+                number: 59,
+                title: "The cold pitch",
+                category: "Interview & Source Work",
+                content: `"I want to talk to [important person] for my story."
+
+AI helps you craft a pitch that:
+- Shows you've done your homework
+- Identifies their unique value to your story
+- Respects their time
+
+Better pitches → better access → better stories.
+
+---`,
+                preview: "\"I want to talk to [important person] for my story.\" AI helps you craft a pitch that: - Shows you've done your homework - Identifies their unique value to your…",
+                wordCount: 44,
+            },
+            {
+                number: 60,
+                title: "Anonymous source management",
+                category: "Interview & Source Work",
+                content: `Sensitive source work requires care.
+
+AI can help without compromising:
+- Synthesize public context
+- Draft questions offline
+- Keep sensitive details out of cloud tools
+
+We teach the protocols. Your sources stay protected.
+
+---`,
+                preview: "Sensitive source work requires care. AI can help without compromising: - Synthesize public context - Draft questions offline - Keep sensitive details out of cl…",
+                wordCount: 35,
+            },
+            {
+                number: 61,
+                title: "The layoff math",
+                category: "Newsroom Reality",
+                content: `Newsrooms are shrinking.
+Workloads are not.
+
+The math is simple:
+Fewer people doing more work need better tools.
+
+AI isn't about replacing journalists.
+It's about journalists surviving the math.
+
+---`,
+                preview: "Newsrooms are shrinking. Workloads are not. The math is simple: Fewer people doing more work need better tools. AI isn't about replacing journalists. It's abou…",
+                wordCount: 30,
+            },
+            {
+                number: 62,
+                title: "The burnout equation",
+                category: "Newsroom Reality",
+                content: `Burnout = (Workload × Urgency) / Resources.
+
+AI shifts the equation:
+- Faster research
+- Tighter first drafts
+- Less grunt work
+
+Same output. Less time. More sustainable.
+
+---`,
+                preview: "Burnout = (Workload × Urgency) / Resources. AI shifts the equation: - Faster research - Tighter first drafts - Less grunt work Same output. Less time. More sus…",
+                wordCount: 29,
+            },
+            {
+                number: 63,
+                title: "The competitive reality",
+                category: "Newsroom Reality",
+                content: `Your competitors are using AI.
+Some badly. Some well.
+
+The question isn't whether AI will change journalism.
+It's whether you'll be ahead of the change or behind it.
+
+---`,
+                preview: "Your competitors are using AI. Some badly. Some well. The question isn't whether AI will change journalism. It's whether you'll be ahead of the change or behin…",
+                wordCount: 29,
+            },
+            {
+                number: 64,
+                title: "The indie journalist",
+                category: "Newsroom Reality",
+                content: `No newsroom? No problem.
+
+AI makes independent journalism more viable:
+- Research depth you couldn't afford
+- Production speed you couldn't achieve
+- Distribution optimization you couldn't manage
+
+One person with AI tools ≈ a small team without them.
+
+---`,
+                preview: "No newsroom? No problem. AI makes independent journalism more viable: - Research depth you couldn't afford - Production speed you couldn't achieve - Distributi…",
+                wordCount: 40,
+            },
+            {
+                number: 65,
+                title: "The beat reporter's edge",
+                category: "Newsroom Reality",
+                content: `Beat reporters need to know everything about their beat.
+
+AI helps you:
+- Track every public statement
+- Synthesize every document
+- Monitor every development
+
+You're still the expert. AI just expands your coverage.
+
+---`,
+                preview: "Beat reporters need to know everything about their beat. AI helps you: - Track every public statement - Synthesize every document - Monitor every development Y…",
+                wordCount: 35,
+            },
+            {
+                number: 66,
+                title: "The 3-hour story",
+                category: "Transformation & Proof",
+                content: `A cohort graduate told me:
+
+"A story that used to take me 3 days? I did it in 3 hours. Same quality. Better sourced."
+
+That's not a productivity hack.
+That's a career upgrade.
+
+---`,
+                preview: "A cohort graduate told me: \"A story that used to take me 3 days? I did it in 3 hours. Same quality. Better sourced.\" That's not a productivity hack. That's a c…",
+                wordCount: 34,
+            },
+            {
+                number: 67,
+                title: "The confidence shift",
+                category: "Transformation & Proof",
+                content: `Week 1: "I'm scared AI will make me obsolete."
+
+Week 6: "I'm the AI person in my newsroom. People come to me for help."
+
+From threatened to essential. That's the arc.
+
+---`,
+                preview: "Week 1: \"I'm scared AI will make me obsolete.\" Week 6: \"I'm the AI person in my newsroom. People come to me for help.\" From threatened to essential. That's the…",
+                wordCount: 32,
+            },
+            {
+                number: 68,
+                title: "The editor's reaction",
+                category: "Transformation & Proof",
+                content: `"My editor was skeptical about AI."
+
+Six weeks later:
+"My editor asked me to train the rest of the team."
+
+Good work speaks for itself.
+
+---`,
+                preview: "\"My editor was skeptical about AI.\" Six weeks later: \"My editor asked me to train the rest of the team.\" Good work speaks for itself. ---",
+                wordCount: 26,
+            },
+            {
+                number: 69,
+                title: "The investigation upgrade",
+                category: "Transformation & Proof",
+                content: `Investigative journalism is document-heavy.
+
+One cohort graduate:
+"I processed 500 pages of court documents in 2 hours. Found the story lead on page 347."
+
+AI doesn't write the investigation. AI makes it possible.
+
+---`,
+                preview: "Investigative journalism is document-heavy. One cohort graduate: \"I processed 500 pages of court documents in 2 hours. Found the story lead on page 347.\" AI do…",
+                wordCount: 34,
+            },
+            {
+                number: 70,
+                title: "Better questions",
+                category: "Transformation & Proof",
+                content: `The upgrade isn't just speed.
+
+It's asking better questions.
+
+When you've synthesized more context, faster—
+you see angles you would have missed.
+
+Better prep → better questions → better journalism.
+
+---`,
+                preview: "The upgrade isn't just speed. It's asking better questions. When you've synthesized more context, faster— you see angles you would have missed. Better prep → b…",
+                wordCount: 31,
+            },
+            {
+                number: 71,
+                title: "Next cohort",
+                category: "CTAs (Direct)",
+                content: `Next cohort of AI Upgrade for Journalists is launching soon.
+
+6 weeks. Applied workflows. Small group.
+
+If you're ready to upgrade how you report, research, and verify:
+
+Comment "JOURNALIST" for details.
+
+---`,
+                preview: "Next cohort of AI Upgrade for Journalists is launching soon. 6 weeks. Applied workflows. Small group. If you're ready to upgrade how you report, research, and…",
+                wordCount: 32,
+            },
+            {
+                number: 72,
+                title: "Limited seats",
+                category: "CTAs (Direct)",
+                content: `We keep cohorts small.
+Everyone gets feedback.
+Everyone gets attention.
+
+That means limited seats.
+
+If you've been waiting:
+DM me "READY" for application details.
+
+---`,
+                preview: "We keep cohorts small. Everyone gets feedback. Everyone gets attention. That means limited seats. If you've been waiting: DM me \"READY\" for application details…",
+                wordCount: 25,
+            },
+            {
+                number: 73,
+                title: "The ROI",
+                category: "CTAs (Direct)",
+                content: `6 weeks × a few hours per week = maybe 30 hours.
+
+ROI: Hours saved on every story, for the rest of your career.
+
+If the math works:
+Comment "NUMBERS" for enrollment info.
+
+---`,
+                preview: "6 weeks × a few hours per week = maybe 30 hours. ROI: Hours saved on every story, for the rest of your career. If the math works: Comment \"NUMBERS\" for enrollm…",
+                wordCount: 34,
+            },
+            {
+                number: 74,
+                title: "For the skeptics",
+                category: "CTAs (Direct)",
+                content: `If you're skeptical about AI in journalism, good.
+
+Skeptics ask the hard questions.
+Skeptics demand verification.
+Skeptics make the best students.
+
+When you're ready, the cohort will be here.
+
+---`,
+                preview: "If you're skeptical about AI in journalism, good. Skeptics ask the hard questions. Skeptics demand verification. Skeptics make the best students. When you're r…",
+                wordCount: 30,
+            },
+            {
+                number: 75,
+                title: "The invitation",
+                category: "CTAs (Direct)",
+                content: `You've read enough.
+
+You know what this is:
+6 weeks to build AI workflows that make your journalism faster, sharper, and better sourced.
+
+If you're ready:
+Comment "UPGRADE" for details.
+
+See you inside.
+
 ---
 
 ## POST FORMATTING NOTES
@@ -13401,8 +16082,8 @@ Next cohort starts soon.
 **Total Posts:** 50
 **Last Updated:** December 2025
 **Source:** Journalist Cohort Transcripts, Industry Research`,
-                preview: "Six weeks from now, you'll be somewhere. Either building AI-augmented journalism workflows. Or exactly where you are now. The gap between those futures is one…",
-                wordCount: 129,
+                preview: "You've read enough. You know what this is: 6 weeks to build AI workflows that make your journalism faster, sharper, and better sourced. If you're ready: Commen…",
+                wordCount: 132,
             },
         ],
         quotes: [
@@ -13999,6 +16680,116 @@ Marketing Angle: Trust preservation`,
 Context: Disclosure guidance`,
                 preview: "\"Disclosure matters. If AI helped significantly, say so. Transparency is still the standard.\"",
                 wordCount: 19,
+            },
+            {
+                number: 55,
+                title: "We don't ship AI outputs We",
+                category: "ETHICS & RESPONSIBILITY",
+                content: `"We don't ship AI outputs. We ship verified outputs. Every claim gets checked."
+— Course Standard
+
+Marketing Angle: Addresses hallucination concern head-on.`,
+                preview: "\"We don't ship AI outputs. We ship verified outputs. Every claim gets checked.\"",
+                wordCount: 22,
+            },
+            {
+                number: 56,
+                title: "Speed without accuracy is worthless Accuracy",
+                category: "ETHICS & RESPONSIBILITY",
+                content: `"Speed without accuracy is worthless. Accuracy without speed is a luxury. AI gives you both."
+— Kris Krüg
+
+Marketing Angle: Balances the speed/quality tension.`,
+                preview: "\"Speed without accuracy is worthless. Accuracy without speed is a luxury. AI gives you both.\"",
+                wordCount: 24,
+            },
+            {
+                number: 57,
+                title: "AI doesn't replace sources AI makes",
+                category: "ETHICS & RESPONSIBILITY",
+                content: `"AI doesn't replace sources. AI makes you better prepared for sources."
+— Course Philosophy
+
+Marketing Angle: Clarifies the human element remains central.`,
+                preview: "\"AI doesn't replace sources. AI makes you better prepared for sources.\"",
+                wordCount: 22,
+            },
+            {
+                number: 58,
+                title: "The math is simple fewer people",
+                category: "ETHICS & RESPONSIBILITY",
+                content: `"The math is simple: fewer people doing more work need better tools."
+— Kris Krüg
+
+Marketing Angle: Speaks to newsroom reality.`,
+                preview: "\"The math is simple: fewer people doing more work need better tools.\"",
+                wordCount: 21,
+            },
+            {
+                number: 59,
+                title: "One journalist with AI tools a",
+                category: "ETHICS & RESPONSIBILITY",
+                content: `"One journalist with AI tools ≈ a small team without them."
+— Indie Journalism Observation
+
+Marketing Angle: Appeal to freelancers and independent journalists.`,
+                preview: "\"One journalist with AI tools ≈ a small team without them.\"",
+                wordCount: 23,
+            },
+            {
+                number: 60,
+                title: "From threatened to essential That's the",
+                category: "ETHICS & RESPONSIBILITY",
+                content: `"From threatened to essential. That's the arc we see in every cohort."
+— Kris Krüg
+
+Marketing Angle: Transformation story in one line.`,
+                preview: "\"From threatened to essential. That's the arc we see in every cohort.\"",
+                wordCount: 22,
+            },
+            {
+                number: 61,
+                title: "A story that used to take",
+                category: "ETHICS & RESPONSIBILITY",
+                content: `"A story that used to take 3 days? I did it in 3 hours. Same quality. Better sourced."
+— Cohort Graduate
+
+Marketing Angle: Concrete proof of time savings.`,
+                preview: "\"A story that used to take 3 days? I did it in 3 hours. Same quality. Better sourced.\"",
+                wordCount: 28,
+            },
+            {
+                number: 62,
+                title: "I processed 500 pages of court",
+                category: "ETHICS & RESPONSIBILITY",
+                content: `"I processed 500 pages of court documents in 2 hours. Found the story lead on page 347."
+— Investigative Journalist, Cohort Graduate
+
+Marketing Angle: Dramatic, specific, believable.`,
+                preview: "\"I processed 500 pages of court documents in 2 hours. Found the story lead on page 347.\"",
+                wordCount: 27,
+            },
+            {
+                number: 63,
+                title: "My editor asked me to train",
+                category: "ETHICS & RESPONSIBILITY",
+                content: `"My editor asked me to train the rest of the team."
+— Cohort Graduate
+
+Marketing Angle: Career advancement proof.`,
+                preview: "\"My editor asked me to train the rest of the team.\"",
+                wordCount: 19,
+            },
+            {
+                number: 64,
+                title: "Better prep better questions better journalism",
+                category: "ETHICS & RESPONSIBILITY",
+                content: `"Better prep → better questions → better journalism. That's the upgrade."
+— Kris Krüg
+
+Marketing Angle: Simple, clear value prop.`,
+                preview: "\"Better prep → better questions → better journalism. That's the upgrade.\"",
+                wordCount: 20,
             },
         ],
         emails: [
