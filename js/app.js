@@ -15,10 +15,54 @@ class MarketingHub {
     }
 
     init() {
+        this.renderFeatured();
         this.renderPrograms();
         this.renderContent();
         this.bindEvents();
         this.updateStats();
+    }
+
+    // ==========================================
+    // Featured Section
+    // ==========================================
+
+    renderFeatured() {
+        if (typeof FEATURED === 'undefined') return;
+
+        const grid = document.getElementById('featuredGrid');
+        const title = document.getElementById('featuredTitle');
+        const subtitle = document.getElementById('featuredSubtitle');
+
+        if (title) title.textContent = FEATURED.title;
+        if (subtitle) subtitle.textContent = FEATURED.subtitle;
+
+        if (!grid) return;
+        grid.innerHTML = '';
+
+        FEATURED.items.forEach((item, index) => {
+            const card = document.createElement('div');
+            card.className = 'featured-card';
+            card.dataset.number = item.number;
+            card.dataset.type = item.type;
+            card.dataset.program = FEATURED.program;
+
+            card.innerHTML = `
+                <div class="featured-card-title">${this.escapeHtml(item.title)}</div>
+                <div class="featured-card-preview">${this.escapeHtml(item.preview)}</div>
+                <div class="featured-card-actions">
+                    <button class="btn btn-ghost featured-copy" title="Copy to clipboard">
+                        <i class="fas fa-copy"></i>
+                        <span>Copy</span>
+                    </button>
+                    <button class="btn btn-secondary featured-view" title="View full post">
+                        <i class="fas fa-expand"></i>
+                        <span>View</span>
+                    </button>
+                </div>
+            `;
+
+            grid.appendChild(card);
+        });
     }
 
     // ==========================================
@@ -220,6 +264,31 @@ class MarketingHub {
                 this.renderContent();
             });
         }
+
+        // Featured section events
+        document.getElementById('featuredGrid')?.addEventListener('click', (e) => {
+            const card = e.target.closest('.featured-card');
+            if (!card) return;
+
+            const copyBtn = e.target.closest('.featured-copy');
+            const viewBtn = e.target.closest('.featured-view');
+
+            if (copyBtn) {
+                this.copyFeaturedItem(card);
+            } else if (viewBtn || !e.target.closest('button')) {
+                this.viewFeaturedItem(card);
+            }
+        });
+
+        document.getElementById('viewAllFeatured')?.addEventListener('click', () => {
+            if (typeof FEATURED !== 'undefined') {
+                this.currentProgram = FEATURED.program;
+                this.currentType = 'linkedin';
+                this.renderPrograms();
+                this.renderContent();
+                document.getElementById('content')?.scrollIntoView({ behavior: 'smooth' });
+            }
+        });
 
 // Stats toggle
         document.getElementById('contractorBtn')?.addEventListener('click', () => {
@@ -443,6 +512,33 @@ class MarketingHub {
         a.click();
         document.body.removeChild(a);
         URL.revokeObjectURL(url);
+    }
+
+    // ==========================================
+    // Featured Section Helpers
+    // ==========================================
+
+    copyFeaturedItem(card) {
+        const number = parseInt(card.dataset.number);
+        const type = card.dataset.type;
+        const program = card.dataset.program;
+
+        const content = CONTENT_DATA[program]?.[type]?.find(item => item.number === number);
+        if (content) {
+            navigator.clipboard.writeText(content.content || content.preview || '');
+            this.showToast('Copied to clipboard!');
+        }
+    }
+
+    viewFeaturedItem(card) {
+        const number = parseInt(card.dataset.number);
+        const type = card.dataset.type;
+        const program = card.dataset.program;
+
+        const content = CONTENT_DATA[program]?.[type]?.find(item => item.number === number);
+        if (content) {
+            this.showPreviewModal(content);
+        }
     }
 
     // ==========================================
