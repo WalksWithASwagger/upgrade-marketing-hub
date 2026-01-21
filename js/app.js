@@ -537,7 +537,11 @@ class MarketingHub {
 
         const content = CONTENT_DATA[program]?.[type]?.find(item => item.number === number);
         if (content) {
-            this.showPreviewModal(content);
+            const modal = document.getElementById('previewModal');
+            document.getElementById('modalTitle').textContent = content.title || 'Content Preview';
+            document.getElementById('modalBody').innerHTML = `<pre>${this.escapeHtml(content.content || content.preview)}</pre>`;
+            this.currentPreviewContent = content.content || content.preview;
+            modal.classList.add('visible');
         }
     }
 
