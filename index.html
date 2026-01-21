@@ -62,11 +62,11 @@
                 <div class="stat-label">Transformation Stories</div>
             </div>
             <div class="stat-card">
-                <div class="stat-number">7</div>
+                <div class="stat-number" id="totalPrograms">7</div>
                 <div class="stat-label">Program Verticals</div>
             </div>
             <div class="stat-card">
-                <div class="stat-number">140+</div>
+                <div class="stat-number" id="totalImages">140+</div>
                 <div class="stat-label">Image Prompts</div>
             </div>
         </div>
@@ -148,6 +148,14 @@
                 <div class="filter-group">
                     <select id="categoryFilter">
                         <option value="">All Categories</option>
+                    </select>
+                    <select id="sortSelect">
+                        <option value="newest">Newest First</option>
+                        <option value="oldest">Oldest First</option>
+                        <option value="alpha">A-Z</option>
+                        <option value="alpha-desc">Z-A</option>
+                        <option value="shortest">Shortest</option>
+                        <option value="longest">Longest</option>
                     </select>
                     <button class="btn btn-secondary" id="copyAllBtn">
                         <i class="fas fa-copy"></i>

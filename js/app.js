@@ -10,7 +10,8 @@ class MarketingHub {
         this.searchTerm = '';
         this.selectedCategory = '';
         this.showInDev = false;
-        
+        this.currentSort = 'newest';
+
         this.init();
     }
 
@@ -157,6 +158,12 @@ class MarketingHub {
 
         // Update category filter options
         this.updateCategoryFilter(content);
+
+        // Update Copy All button with count
+        const copyAllBtn = document.getElementById('copyAllBtn');
+        if (copyAllBtn) {
+            copyAllBtn.querySelector('span').textContent = `Copy All (${content.length})`;
+        }
     }
 
     updateCategoryFilter(content) {
@@ -170,7 +177,26 @@ class MarketingHub {
     }
 
     updateStats() {
-        // Stats are static for now, could be dynamic if needed
+        let posts = 0, emails = 0, quotes = 0, stories = 0, images = 0;
+        const programs = Object.keys(CONTENT_DATA).filter(p => p !== 'all-programs');
+
+        programs.forEach(prog => {
+            const data = CONTENT_DATA[prog];
+            if (data) {
+                posts += data.linkedin?.length || 0;
+                emails += data.emails?.length || 0;
+                quotes += data.quotes?.length || 0;
+                stories += data.stories?.length || 0;
+                images += data.images?.length || 0;
+            }
+        });
+
+        document.getElementById('totalPosts').textContent = posts;
+        document.getElementById('totalEmails').textContent = emails;
+        document.getElementById('totalQuotes').textContent = quotes;
+        document.getElementById('totalStories').textContent = stories;
+        document.getElementById('totalImages').textContent = images;
+        document.getElementById('totalPrograms').textContent = programs.length;
     }
 
     // ==========================================
@@ -191,19 +217,36 @@ class MarketingHub {
     }
 
     getFilteredContent() {
-        const data = CONTENT_DATA[this.currentProgram];
-        if (!data) return [];
+        let content = [];
 
-        let content = data[this.currentType] || [];
-        
-        // Apply search filter
-        if (this.searchTerm) {
+        // Cross-program search when "all-programs" selected and searching
+        if (this.currentProgram === 'all-programs' && this.searchTerm) {
             const term = this.searchTerm.toLowerCase();
-            content = content.filter(item => 
-                (item.title && item.title.toLowerCase().includes(term)) ||
-                (item.content && item.content.toLowerCase().includes(term)) ||
-                (item.preview && item.preview.toLowerCase().includes(term))
-            );
+            Object.keys(CONTENT_DATA).forEach(prog => {
+                const progData = CONTENT_DATA[prog];
+                const typeContent = progData[this.currentType] || [];
+                const matches = typeContent.filter(item =>
+                    (item.title && item.title.toLowerCase().includes(term)) ||
+                    (item.content && item.content.toLowerCase().includes(term)) ||
+                    (item.preview && item.preview.toLowerCase().includes(term))
+                ).map(item => ({ ...item, _program: prog }));
+                content.push(...matches);
+            });
+        } else {
+            // Single program content
+            const data = CONTENT_DATA[this.currentProgram];
+            if (!data) return [];
+            content = [...(data[this.currentType] || [])];
+
+            // Apply search filter
+            if (this.searchTerm) {
+                const term = this.searchTerm.toLowerCase();
+                content = content.filter(item =>
+                    (item.title && item.title.toLowerCase().includes(term)) ||
+                    (item.content && item.content.toLowerCase().includes(term)) ||
+                    (item.preview && item.preview.toLowerCase().includes(term))
+                );
+            }
         }
 
         // Apply category filter
@@ -211,7 +254,29 @@ class MarketingHub {
             content = content.filter(item => item.category === this.selectedCategory);
         }
 
+        // Apply sorting
+        content = this.sortContent(content);
+
         return content;
+    }
+
+    sortContent(content) {
+        switch (this.currentSort) {
+            case 'newest':
+                return content.sort((a, b) => (b.number || 0) - (a.number || 0));
+            case 'oldest':
+                return content.sort((a, b) => (a.number || 0) - (b.number || 0));
+            case 'alpha':
+                return content.sort((a, b) => (a.title || '').localeCompare(b.title || ''));
+            case 'alpha-desc':
+                return content.sort((a, b) => (b.title || '').localeCompare(a.title || ''));
+            case 'shortest':
+                return content.sort((a, b) => (a.wordCount || 0) - (b.wordCount || 0));
+            case 'longest':
+                return content.sort((a, b) => (b.wordCount || 0) - (a.wordCount || 0));
+            default:
+                return content;
+        }
     }
 
     getCurrentContent() {
@@ -252,6 +317,12 @@ class MarketingHub {
         // Category filter
         document.getElementById('categoryFilter').addEventListener('change', (e) => {
             this.selectedCategory = e.target.value;
+            this.renderContent();
+        });
+
+        // Sort dropdown
+        document.getElementById('sortSelect').addEventListener('change', (e) => {
+            this.currentSort = e.target.value;
             this.renderContent();
         });
 
@@ -446,28 +517,29 @@ class MarketingHub {
     exportContent(format) {
         const content = this.getCurrentContent();
         const program = PROGRAMS[this.currentProgram];
+        const dateStr = new Date().toISOString().split('T')[0];
         let data, filename, mimeType;
 
         switch (format) {
             case 'buffer':
                 data = this.toBufferCSV(content);
-                filename = `${this.currentProgram}-${this.currentType}-buffer.csv`;
+                filename = `${this.currentProgram}-${this.currentType}-${dateStr}-buffer.csv`;
                 mimeType = 'text/csv';
                 break;
             case 'beehiiv':
                 data = this.toBeehiivJSON(content);
-                filename = `${this.currentProgram}-${this.currentType}-beehiiv.json`;
+                filename = `${this.currentProgram}-${this.currentType}-${dateStr}-beehiiv.json`;
                 mimeType = 'application/json';
                 break;
             case 'markdown':
                 data = this.toMarkdown(content, program);
-                filename = `${this.currentProgram}-${this.currentType}.md`;
+                filename = `${this.currentProgram}-${this.currentType}-${dateStr}.md`;
                 mimeType = 'text/markdown';
                 break;
             case 'json':
             default:
                 data = JSON.stringify(content, null, 2);
-                filename = `${this.currentProgram}-${this.currentType}.json`;
+                filename = `${this.currentProgram}-${this.currentType}-${dateStr}.json`;
                 mimeType = 'application/json';
         }
 
