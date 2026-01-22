@@ -63,6 +63,21 @@ const PROGRAMS = {
 };
 
 /**
+ * Program display order in sidebar
+ * Controls the sequence in which programs appear
+ */
+const PROGRAM_ORDER = [
+    'all-programs',
+    'pr-comms',
+    'creative-pros',
+    'journalists',
+    'sales-leaders',
+    'healthcare-pros',
+    'hr-pros',
+    'legal-pros'
+];
+
+/**
  * Featured content for the "Latest" section
  * Highlights newest cohort content for quick access
  */

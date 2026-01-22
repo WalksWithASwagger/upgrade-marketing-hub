@@ -636,6 +636,14 @@ body::before {
     color: var(--bg-primary);
 }
 
+.card-action.copy-success,
+.btn.copy-success {
+    background: var(--color-green) !important;
+    color: white !important;
+    transform: scale(1.1);
+    transition: all 0.2s ease;
+}
+
 /* ============================================
    Modal
    ============================================ */

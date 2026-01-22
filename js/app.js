@@ -74,7 +74,7 @@ class MarketingHub {
         const container = document.getElementById('programList');
         container.innerHTML = '';
 
-        const priorityOrder = ['all-programs', 'pr-comms', 'creative-pros', 'journalists', 'sales-leaders'];
+        const priorityOrder = PROGRAM_ORDER;
         const rank = (k) => {
             const i = priorityOrder.indexOf(k);
             return i === -1 ? 1000 : i;
@@ -389,7 +389,7 @@ class MarketingHub {
             if (copyBtn) {
                 e.stopPropagation();
                 const index = parseInt(copyBtn.dataset.index);
-                this.copyContent(index);
+                this.copyContent(index, copyBtn);
                 return;
             }
 
@@ -402,8 +402,8 @@ class MarketingHub {
         });
 
         // Copy all button
-        document.getElementById('copyAllBtn').addEventListener('click', () => {
-            this.copyAllContent();
+        document.getElementById('copyAllBtn').addEventListener('click', (e) => {
+            this.copyAllContent(e.currentTarget);
         });
 
         // Modal close
@@ -424,10 +424,10 @@ class MarketingHub {
         });
 
         // Modal copy button
-        document.getElementById('modalCopy').addEventListener('click', () => {
+        document.getElementById('modalCopy').addEventListener('click', (e) => {
             const content = this.currentPreviewContent;
             if (content) {
-                this.copyToClipboard(content);
+                this.copyToClipboard(content, e.currentTarget);
             }
         });
 
@@ -479,25 +479,40 @@ class MarketingHub {
         document.getElementById('exportModal').classList.add('visible');
     }
 
-    copyContent(index) {
+    copyContent(index, button = null) {
         const content = this.getCurrentContent()[index];
         if (content) {
-            this.copyToClipboard(content.content || content.preview);
+            this.copyToClipboard(content.content || content.preview, button);
         }
     }
 
-    copyAllContent() {
+    copyAllContent(button = null) {
         const content = this.getCurrentContent();
-        const allText = content.map((item, i) => 
+        const allText = content.map((item, i) =>
             `--- ${i + 1}. ${item.title || 'Untitled'} ---\n\n${item.content || item.preview}`
         ).join('\n\n');
-        
-        this.copyToClipboard(allText);
+
+        this.copyToClipboard(allText, button);
     }
 
-    copyToClipboard(text) {
+    copyToClipboard(text, button = null) {
         navigator.clipboard.writeText(text).then(() => {
             this.showToast('Copied to clipboard!');
+
+            // Visual feedback on button
+            if (button) {
+                const icon = button.querySelector('i');
+                if (icon) {
+                    const originalClass = icon.className;
+                    icon.className = 'fas fa-check';
+                    button.classList.add('copy-success');
+
+                    setTimeout(() => {
+                        icon.className = originalClass;
+                        button.classList.remove('copy-success');
+                    }, 1500);
+                }
+            }
         }).catch(() => {
             this.showToast('Failed to copy', 'error');
         });

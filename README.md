@@ -24,7 +24,7 @@ Then visit `http://localhost:8000`
 
 ## ✨ Features
 
-- **7 Program Verticals** — Creative Pros, PR & Comms, Sales Leaders, Journalists, Healthcare, HR, Legal
+- **8 Program Verticals** — All Programs, Creative Pros, PR & Comms, Sales Leaders, Journalists, Healthcare, HR, Legal
 - **5 Content Types** — LinkedIn Posts, Quotes, Email Sequences, Transformation Stories, Image Prompts
 - **Search & Filter** — Find content instantly by keyword or category
 - **One-Click Copy** — Copy any piece of content to clipboard
