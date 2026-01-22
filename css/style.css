@@ -813,6 +813,10 @@ body::before {
     opacity: 1;
 }
 
+.toast.error {
+    background: var(--color-red);
+}
+
 /* ============================================
    Empty State
    ============================================ */

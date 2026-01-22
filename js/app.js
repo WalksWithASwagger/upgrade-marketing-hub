@@ -498,8 +498,7 @@ class MarketingHub {
     copyToClipboard(text) {
         navigator.clipboard.writeText(text).then(() => {
             this.showToast('Copied to clipboard!');
-        }).catch(err => {
-            console.error('Failed to copy:', err);
+        }).catch(() => {
             this.showToast('Failed to copy', 'error');
         });
     }
@@ -507,8 +506,16 @@ class MarketingHub {
     showToast(message, type = 'success') {
         const toast = document.getElementById('toast');
         document.getElementById('toastMessage').textContent = message;
+
+        // Apply error styling if type is error
+        if (type === 'error') {
+            toast.classList.add('error');
+        } else {
+            toast.classList.remove('error');
+        }
+
         toast.classList.add('visible');
-        
+
         setTimeout(() => {
             toast.classList.remove('visible');
         }, 2500);
