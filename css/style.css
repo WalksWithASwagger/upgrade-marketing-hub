@@ -826,6 +826,33 @@ body::before {
 }
 
 /* ============================================
+   Footer
+   ============================================ */
+.site-footer {
+    margin-top: var(--space-2xl);
+    padding: var(--space-xl) var(--space-lg);
+    text-align: center;
+    color: var(--text-secondary);
+    border-top: 1px solid var(--bg-tertiary);
+    font-size: 0.875rem;
+}
+
+.footer-content p {
+    margin: var(--space-xs) 0;
+}
+
+.footer-content a {
+    color: var(--accent-primary);
+    text-decoration: none;
+    transition: var(--transition-fast);
+}
+
+.footer-content a:hover {
+    color: var(--accent-secondary);
+    text-decoration: underline;
+}
+
+/* ============================================
    Empty State
    ============================================ */
 .empty-state {

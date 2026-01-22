@@ -21,6 +21,7 @@ class MarketingHub {
         this.renderContent();
         this.bindEvents();
         this.updateStats();
+        this.displayLastUpdated();
     }
 
     // ==========================================
@@ -197,6 +198,21 @@ class MarketingHub {
         document.getElementById('totalStories').textContent = stories;
         document.getElementById('totalImages').textContent = images;
         document.getElementById('totalPrograms').textContent = programs.length;
+    }
+
+    displayLastUpdated() {
+        const el = document.getElementById('lastUpdated');
+        if (el && typeof LAST_UPDATED !== 'undefined') {
+            const date = new Date(LAST_UPDATED);
+            const formatted = date.toLocaleDateString('en-US', {
+                month: 'short',
+                day: 'numeric',
+                year: 'numeric',
+                hour: '2-digit',
+                minute: '2-digit'
+            });
+            el.textContent = formatted;
+        }
     }
 
     // ==========================================
