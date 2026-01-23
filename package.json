@@ -1,0 +1,26 @@
+{
+  "name": "upgrade-marketing-hub",
+  "version": "2.0.0",
+  "description": "Marketing content hub for The Upgrade AI certification programs",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "test:ui": "vitest --ui",
+    "test:coverage": "vitest run --coverage",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^1.2.0",
+    "happy-dom": "^13.0.0",
+    "@vitest/coverage-v8": "^1.2.0",
+    "@vitest/ui": "^1.2.0"
+  },
+  "keywords": [
+    "marketing",
+    "content-hub",
+    "ai-training",
+    "certification"
+  ],
+  "author": "Kris Krug",
+  "license": "MIT"
+}

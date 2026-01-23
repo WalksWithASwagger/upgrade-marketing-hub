@@ -692,3 +692,6 @@ window.addEventListener('dataready', () => {
     dataReady = true;
     tryInit();
 });
+
+// Export for testing
+export default MarketingHub;
