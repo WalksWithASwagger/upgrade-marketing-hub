@@ -132,6 +132,11 @@ class DataLoader {
     }
 }
 
-// Auto-initialize when script loads
-const loader = new DataLoader();
-loader.init();
+// Auto-initialize when script loads (except in tests)
+if (typeof process === 'undefined' || process.env.NODE_ENV !== 'test') {
+    const loader = new DataLoader();
+    loader.init();
+}
+
+// Export for testing
+export default DataLoader;
