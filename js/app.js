@@ -672,7 +672,23 @@ class MarketingHub {
     }
 }
 
-// Initialize on DOM ready
+// Initialize after data is loaded
+// Wait for both DOM and data to be ready
+let domReady = false;
+let dataReady = false;
+
+function tryInit() {
+    if (domReady && dataReady) {
+        window.marketingHub = new MarketingHub();
+    }
+}
+
 document.addEventListener('DOMContentLoaded', () => {
-    window.marketingHub = new MarketingHub();
+    domReady = true;
+    tryInit();
+});
+
+window.addEventListener('dataready', () => {
+    dataReady = true;
+    tryInit();
 });

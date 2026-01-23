@@ -1,0 +1,26 @@
+[
+  {
+    "number": 1,
+    "title": "From dabbling to operating",
+    "category": "Stories",
+    "content": "Before: smart professional, lots of tabs open, AI used “sometimes,” mostly for drafts.\n\nConstraint: time + quality. Everything felt like either “fast and sloppy” or “slow and careful.”\n\nShift: learned a repeatable workflow:\nquestion → grounded research → synthesis → draft → QA → ship\n\nAfter: fewer rewrite loops. More confident outputs. Better decisions faster.",
+    "preview": "Before: smart professional, lots of tabs open, AI used “sometimes,” mostly for drafts. Constraint: time + quality. Everything felt like either “fast and sloppy…",
+    "wordCount": 55
+  },
+  {
+    "number": 2,
+    "title": "From anxiety to guardrails",
+    "category": "Stories",
+    "content": "Before: fear of hallucinations, confidentiality, and “shipping something wrong.”\n\nConstraint: professional risk. The work had to survive scrutiny.\n\nShift: learned safety rails:\n- when to use AI vs. not\n- how to validate outputs\n- how to label drafts vs. facts\n- how to keep private info out of the model\n\nAfter: calm competence. AI becomes leverage, not a liability.",
+    "preview": "Before: fear of hallucinations, confidentiality, and “shipping something wrong.” Constraint: professional risk. The work had to survive scrutiny. Shift: learne…",
+    "wordCount": 60
+  },
+  {
+    "number": 3,
+    "title": "From “content” to outcomes",
+    "category": "Stories",
+    "content": "Before: using AI to make more “content.”\n\nConstraint: more output didn’t equal better outcomes.\n\nShift: focused on outcomes:\nclarity, decision quality, speed, and usefulness to real humans.\n\nAfter: AI is used where it matters: research, synthesis, structure, QA, iteration.",
+    "preview": "Before: using AI to make more “content.” Constraint: more output didn’t equal better outcomes. Shift: focused on outcomes: clarity, decision quality, speed, an…",
+    "wordCount": 39
+  }
+]

@@ -1,0 +1,458 @@
+[
+  {
+    "number": 1,
+    "title": "Being an AI expert is not",
+    "category": "Necessity",
+    "content": "\"Being an AI expert is not optional for anyone who wants to stay employed.\"\n— Ode, Vox Media\n\nContext: Opening discussion in Class 1 about the state of AI in communications\nMarketing Angle: The urgency is real. This isn't optional anymore.",
+    "preview": "\"Being an AI expert is not optional for anyone who wants to stay employed.\"",
+    "wordCount": 41
+  },
+  {
+    "number": 2,
+    "title": "AI won't replace you But people",
+    "category": "Necessity",
+    "content": "\"AI won't replace you. But people who use AI will replace people who don't.\"\n— Course Philosophy\n\nMarketing Angle: The displacement isn't human vs. machine—it's adapted vs. not adapted.",
+    "preview": "\"AI won't replace you. But people who use AI will replace people who don't.\"",
+    "wordCount": 29
+  },
+  {
+    "number": 3,
+    "title": "You don't have to surrender to",
+    "category": "Agency",
+    "content": "\"You don't have to surrender to AI's weaknesses. You have agency through natural language prompting.\"\n— Pete Pachal, Media Copilot\n\nContext: Addressing concerns about hallucinations and AI limitations\nMarketing Angle: You're not helpless. You can control and direct AI effectively.",
+    "preview": "\"You don't have to surrender to AI's weaknesses. You have agency through natural language prompting.\"",
+    "wordCount": 40
+  },
+  {
+    "number": 4,
+    "title": "Clients fact-check our recommendations against ChatGPT",
+    "category": "Client Reality",
+    "content": "\"Clients fact-check our recommendations against ChatGPT.\"\n— Angela Nibs, Maven Communications\n\nContext: Discussing the new dynamic where clients are also using AI\nMarketing Angle: Your clients are already using AI. Are you ahead of them or behind?",
+    "preview": "\"Clients fact-check our recommendations against ChatGPT.\"",
+    "wordCount": 37
+  },
+  {
+    "number": 5,
+    "title": "Will clients think I'm cutting corners",
+    "category": "Week 1 Fears",
+    "content": "\"Will clients think I'm cutting corners if I use AI?\"\n— Lizzie, Week 1 concern\n\nContext: Initial anxiety before starting the program\nMarketing Angle: We hear this fear constantly. Here's what actually happens...",
+    "preview": "\"Will clients think I'm cutting corners if I use AI?\"",
+    "wordCount": 33
+  },
+  {
+    "number": 6,
+    "title": "I'm really interested in confidentiality and",
+    "category": "Week 1 Fears",
+    "content": "\"I'm really interested in confidentiality and how we can apply AI in this work in a way that does not compromise our responsibility for discretion with our clients' information.\"\n— Simone\n\nContext: Expressing concern about data privacy\nMarketing Angle: We take confidentiality seriously. Here's how to navigate it.",
+    "preview": "\"I'm really interested in confidentiality and how we can apply AI in this work in a way that does not compromise our re…",
+    "wordCount": 48
+  },
+  {
+    "number": 7,
+    "title": "Given the subtlety of issues is",
+    "category": "Week 1 Fears",
+    "content": "\"Given the subtlety of issues, is there still a way? AI hasn't felt that subtle to me in my use of it.\"\n— Simone\n\nContext: Skepticism about AI sophistication for strategic communications\nMarketing Angle: Skeptics become our best students. Bring your doubts.",
+    "preview": "\"Given the subtlety of issues, is there still a way? AI hasn't felt that subtle to me in my use of it.\"",
+    "wordCount": 42
+  },
+  {
+    "number": 8,
+    "title": "I want to get my arms",
+    "category": "Week 1 Fears",
+    "content": "\"I want to get my arms around AI because I feel like it's like a little wild west now... I think what I really want to get out of this besides just feeling a little bit more proficient, a little less overwhelmed.\"\n— Sarah (Allison Grant)\n\nContext: Week 1 feeling of overwhelm\nMarketing Angle: From overwhelmed to confident in 6 weeks. That's the transformation.",
+    "preview": "\"I want to get my arms around AI because I feel like it's like a little wild west now... I think what I really want to…",
+    "wordCount": 64
+  },
+  {
+    "number": 9,
+    "title": "The client was blown away They",
+    "category": "Week 6 Outcomes",
+    "content": "\"The client was blown away. They said it was the best coverage recap they'd ever received.\"\n— Lizzie, Week 6 outcome\n\nContext: Client response to AI-assisted interactive deliverable\nMarketing Angle: \"Best ever received.\" That's the result we're after.",
+    "preview": "\"The client was blown away. They said it was the best coverage recap they'd ever received.\"",
+    "wordCount": 38
+  },
+  {
+    "number": 10,
+    "title": "They've loved it They're so used",
+    "category": "Week 6 Outcomes",
+    "content": "\"They've loved it! They're so used to getting these PDF reports that they have to scroll through, and now they can actually explore the data themselves.\"\n— Simone, Week 6 outcome\n\nContext: Client reaction to interactive media monitoring dashboard\nMarketing Angle: From PDF reports to interactive dashboards. That's differentiation.",
+    "preview": "\"They've loved it! They're so used to getting these PDF reports that they have to scroll through, and now they can actu…",
+    "wordCount": 49
+  },
+  {
+    "number": 11,
+    "title": "They loved it They were really",
+    "category": "Week 6 Outcomes",
+    "content": "\"They loved it! They were really impressed with how comprehensive it was and how actionable it was. They've already started implementing some of the recommendations.\"\n— Allison Stout, Week 6 outcome\n\nContext: Client response to winery PR plan\nMarketing Angle: Actionable recommendations clients actually implement.",
+    "preview": "\"They loved it! They were really impressed with how comprehensive it was and how actionable it was. They've already sta…",
+    "wordCount": 45
+  },
+  {
+    "number": 12,
+    "title": "I use it for the start",
+    "category": "NotebookLM",
+    "content": "\"I use it for the start of every project. Every time I start a new project, I interview the key staff, create deep research inquiries into their organization, and just ground the knowledge base.\"\n— Kris Krug\n\nContext: Explaining NotebookLM workflow\nMarketing Angle: Systematic methodology for reducing hallucination risk.",
+    "preview": "\"I use it for the start of every project. Every time I start a new project, I interview the key staff, create deep rese…",
+    "wordCount": 49
+  },
+  {
+    "number": 13,
+    "title": "It's like that scene in The",
+    "category": "NotebookLM",
+    "content": "\"It's like that scene in The Matrix where you can download Kung Fu into your head right when you need it.\"\n— Kris Krug\n\nContext: Describing NotebookLM's rapid learning capability\nMarketing Angle: Rapid onboarding to any topic. Instant expertise.",
+    "preview": "\"It's like that scene in The Matrix where you can download Kung Fu into your head right when you need it.\"",
+    "wordCount": 39
+  },
+  {
+    "number": 14,
+    "title": "The difference between grounded and ungrounded",
+    "category": "Grounded vs. Ungrounded",
+    "content": "\"The difference between grounded and ungrounded AI is the difference between research and gambling.\"\n— Course Teaching\n\nMarketing Angle: PR professionals can't afford hallucinations. We teach the safe path.",
+    "preview": "\"The difference between grounded and ungrounded AI is the difference between research and gambling.\"",
+    "wordCount": 29
+  },
+  {
+    "number": 15,
+    "title": "Research that used to take 4",
+    "category": "Research",
+    "content": "\"Research that used to take 4+ hours now takes 55 minutes.\"\n— Cohort 3 Pattern\n\nMarketing Angle: 75% time savings on research. Do the math on your workload.",
+    "preview": "\"Research that used to take 4+ hours now takes 55 minutes.\"",
+    "wordCount": 28
+  },
+  {
+    "number": 16,
+    "title": "First dashboard 60-75 minutes Second dashboard",
+    "category": "Coverage Recaps",
+    "content": "\"First dashboard: 60-75 minutes. Second dashboard: 20-25 minutes. After that? Template reuse brings it down to almost nothing.\"\n— Simone's Progression\n\nMarketing Angle: The efficiency compounds. Build once, deploy many times.",
+    "preview": "\"First dashboard: 60-75 minutes. Second dashboard: 20-25 minutes. After that? Template reuse brings it down to almost n…",
+    "wordCount": 31
+  },
+  {
+    "number": 17,
+    "title": "4-5 hours vs 24-32 hours traditional",
+    "category": "Strategic Planning",
+    "content": "\"4-5 hours vs. 24-32 hours traditional. That's 85% time savings.\"\n— Allison Stout's PR Plan\n\nMarketing Angle: Strategic planning in a fraction of the time.",
+    "preview": "\"4-5 hours vs. 24-32 hours traditional. That's 85% time savings.\"",
+    "wordCount": 25
+  },
+  {
+    "number": 18,
+    "title": "6-7 hours including learning curve Traditional",
+    "category": "Strategic Planning",
+    "content": "\"6-7 hours including learning curve. Traditional alternative: 'Weeks and thousands of dollars' with a developer.\"\n— Lizzie's Interactive Recap\n\nMarketing Angle: Hours, not weeks. Dollars, not thousands.",
+    "preview": "\"6-7 hours including learning curve. Traditional alternative: 'Weeks and thousands of dollars' with a developer.\"",
+    "wordCount": 27
+  },
+  {
+    "number": 19,
+    "title": "First deliverable savings exceeded the cost",
+    "category": "Economics",
+    "content": "\"First deliverable savings exceeded the cost of course tuition.\"\n— Lizzie's ROI\n\nMarketing Angle: ROI on the first project. Everything after is profit.",
+    "preview": "\"First deliverable savings exceeded the cost of course tuition.\"",
+    "wordCount": 23
+  },
+  {
+    "number": 20,
+    "title": "So used to getting PDF reports",
+    "category": "Static vs. Interactive",
+    "content": "\"So used to getting PDF reports they have to scroll through.\"\n— Simone's clients, before\n\nMarketing Angle: Your clients are bored by PDFs too. Give them something better.",
+    "preview": "\"So used to getting PDF reports they have to scroll through.\"",
+    "wordCount": 28
+  },
+  {
+    "number": 21,
+    "title": "Now they can actually explore the",
+    "category": "Static vs. Interactive",
+    "content": "\"Now they can actually explore the data themselves.\"\n— Simone's clients, after\n\nMarketing Angle: Self-service exploration. Clients answer their own questions.",
+    "preview": "\"Now they can actually explore the data themselves.\"",
+    "wordCount": 21
+  },
+  {
+    "number": 22,
+    "title": "The 'wow factor' differentiates you as",
+    "category": "The \"Wow Factor\"",
+    "content": "\"The 'wow factor' differentiates you as innovative. Clients are 'blown away' compared to traditional formats.\"\n— Cohort 3 Pattern\n\nMarketing Angle: Stand out from competitors still sending static decks.",
+    "preview": "\"The 'wow factor' differentiates you as innovative. Clients are 'blown away' compared to traditional formats.\"",
+    "wordCount": 29
+  },
+  {
+    "number": 23,
+    "title": "Lizzie I love this so much",
+    "category": "The \"Wow Factor\"",
+    "content": "\"Lizzie, I love this so much. I'm definitely going to steal this idea for my own client work.\"\n— Allison Stout, peer feedback\n\nMarketing Angle: Peer validation. Students learn from each other's innovations.",
+    "preview": "\"Lizzie, I love this so much. I'm definitely going to steal this idea for my own client work.\"",
+    "wordCount": 33
+  },
+  {
+    "number": 24,
+    "title": "AI is a great starting point",
+    "category": "The Process",
+    "content": "\"AI is a great starting point, but you always need to add that human touch.\"\n— Allison Stout\n\nContext: Describing her workflow for the winery PR plan\nMarketing Angle: AI accelerates; humans elevate.",
+    "preview": "\"AI is a great starting point, but you always need to add that human touch.\"",
+    "wordCount": 33
+  },
+  {
+    "number": 25,
+    "title": "Nobody's just taking whatever ChatGPT gives",
+    "category": "The Process",
+    "content": "\"Nobody's just taking whatever ChatGPT gives them and calling it a day. You're all using AI to augment your work, to make you more efficient, to help you do things that would be difficult or impossible to do on your own. But you're still bringing your expertise, your judgment, your creativity to the process.\"\n— Pete Pachal\n\nContext: Synthesizing what he observed across all capstones\nMarketing Angle: Augmentation, not replacement. That's the model.",
+    "preview": "\"Nobody's just taking whatever ChatGPT gives them and calling it a day. You're all using AI to augment your work, to ma…",
+    "wordCount": 73
+  },
+  {
+    "number": 26,
+    "title": "And I think that's been one",
+    "category": "The Process",
+    "content": "\"And I think that's been one of my biggest learnings from this course - AI is a tool, and like any tool, you need to know how to use it effectively.\"\n— Sarah\n\nMarketing Angle: Tool mastery, not tool worship.",
+    "preview": "\"And I think that's been one of my biggest learnings from this course - AI is a tool, and like any tool, you need to kn…",
+    "wordCount": 40
+  },
+  {
+    "number": 27,
+    "title": "Draft Refine Reorganize Iterate Finalize That's",
+    "category": "The Workflow",
+    "content": "\"Draft → Refine → Reorganize → Iterate → Finalize. That's the collaborative model that produces the best results.\"\n— Course Teaching\n\nMarketing Angle: Not \"do this for me.\" It's \"think with me.\"",
+    "preview": "\"Draft → Refine → Reorganize → Iterate → Finalize. That's the collaborative model that produces the best results.\"",
+    "wordCount": 32
+  },
+  {
+    "number": 28,
+    "title": "Week 1 'Will clients think I'm",
+    "category": "Lizzie's Journey",
+    "content": "\"Week 1: 'Will clients think I'm cutting corners?' → Week 6: 'Best coverage recap they'd ever received.'\"\n— Lizzie's Arc\n\nMarketing Angle: From fear to client delight in 6 weeks.",
+    "preview": "\"Week 1: 'Will clients think I'm cutting corners?' → Week 6: 'Best coverage recap they'd ever received.'\"",
+    "wordCount": 30
+  },
+  {
+    "number": 29,
+    "title": "Week 1 Concerned about confidentiality Week",
+    "category": "Simone's Journey",
+    "content": "\"Week 1: Concerned about confidentiality → Week 6: Interactive dashboards deployed to multiple clients. 'They've loved it!'\"\n— Simone's Arc\n\nMarketing Angle: Found a way that respects ethics AND delivers results.",
+    "preview": "\"Week 1: Concerned about confidentiality → Week 6: Interactive dashboards deployed to multiple clients. 'They've loved…",
+    "wordCount": 31
+  },
+  {
+    "number": 30,
+    "title": "Week 1 'Total anxiety about how",
+    "category": "Sarah's Journey",
+    "content": "\"Week 1: 'Total anxiety about how fast it moves' → Week 6: SXSW research report saving 10-15 hours\"\n— Sarah's Arc\n\nMarketing Angle: From overwhelmed to confident practitioner.",
+    "preview": "\"Week 1: 'Total anxiety about how fast it moves' → Week 6: SXSW research report saving 10-15 hours\"",
+    "wordCount": 28
+  },
+  {
+    "number": 31,
+    "title": "Completely impossible for me to create",
+    "category": "Allison Grant's Journey",
+    "content": "\"Completely impossible for me to create on my own before AI.\"\n— Allison Grant on Story Trains\n\nContext: Creating kids' educational YouTube content end-to-end with AI\nMarketing Angle: Capabilities that were impossible are now accessible.",
+    "preview": "\"Completely impossible for me to create on my own before AI.\"",
+    "wordCount": 35
+  },
+  {
+    "number": 32,
+    "title": "If I could come to the",
+    "category": "Kyle's Synthetic Audience",
+    "content": "\"If I could come to the table with my four prime customer targets, build that into 4,000 synthetic audience members, and run simulations testing messages... It's freaking genius.\"\n— Kris Krug\n\nContext: Reacting to Kyle's crisis message testing concept\nMarketing Angle: Test messaging before deployment. Know how it lands.",
+    "preview": "\"If I could come to the table with my four prime customer targets, build that into 4,000 synthetic audience members, an…",
+    "wordCount": 49
+  },
+  {
+    "number": 33,
+    "title": "Every account using a lot of",
+    "category": "AI Content Detection",
+    "content": "\"Every account using a lot of AI in terms of content creation, it will shadow ban them and make them not prioritized in anyone's feeds.\"\n— Joe Ki, Class 4\n\nContext: Discussing platform penalties for AI-generated content\nMarketing Angle: We teach responsible use, not just fast use.",
+    "preview": "\"Every account using a lot of AI in terms of content creation, it will shadow ban them and make them not prioritized in…",
+    "wordCount": 47
+  },
+  {
+    "number": 34,
+    "title": "7-12 per episode vs 4000-9000 traditional",
+    "category": "Production Cost",
+    "content": "\"~$7-12 per episode vs. $4,000-9,000 traditional.\"\n— Allison Grant's Video Production\n\nMarketing Angle: Professional production at a fraction of the cost.",
+    "preview": "\"~$7-12 per episode vs. $4,000-9,000 traditional.\"",
+    "wordCount": 21
+  },
+  {
+    "number": 35,
+    "title": "Manual 6-hour process converting monitoring data",
+    "category": "Media Monitoring",
+    "content": "\"Manual 6-hour process converting monitoring data to PDF reports → Automated workflow in 20-25 minutes.\"\n— Simone's Transformation\n\nMarketing Angle: Media monitoring transformed. Same data, 10x faster.",
+    "preview": "\"Manual 6-hour process converting monitoring data to PDF reports → Automated workflow in 20-25 minutes.\"",
+    "wordCount": 27
+  },
+  {
+    "number": 36,
+    "title": "30 minutes per prospect research 3",
+    "category": "Journalist Research",
+    "content": "\"30+ minutes per prospect research → 3 minutes with better quality.\"\n— Research Pattern\n\nMarketing Angle: Find the right journalists faster.",
+    "preview": "\"30+ minutes per prospect research → 3 minutes with better quality.\"",
+    "wordCount": 21
+  },
+  {
+    "number": 37,
+    "title": "Test crisis messaging against synthetic audiences",
+    "category": "Crisis Communications",
+    "content": "\"Test crisis messaging against synthetic audiences before deployment.\"\n— Kyle's Capstone Concept\n\nMarketing Angle: Know how your message lands before it goes live.",
+    "preview": "\"Test crisis messaging against synthetic audiences before deployment.\"",
+    "wordCount": 23
+  },
+  {
+    "number": 38,
+    "title": "If you just give everyone the",
+    "category": "Employee Advocacy",
+    "content": "\"If you just give everyone the exact same thing to post, people can tell it's corporate messaging. It's inauthentic and it doesn't get engagement.\"\n— Amanda, Cohort 3\n\nContext: On mass personalization for employee advocacy\nMarketing Angle: Authentic variations at scale. Real engagement.",
+    "preview": "\"If you just give everyone the exact same thing to post, people can tell it's corporate messaging. It's inauthentic and…",
+    "wordCount": 43
+  },
+  {
+    "number": 39,
+    "title": "Definitely thinking about how to templatize",
+    "category": "Scaling",
+    "content": "\"Definitely thinking about how to templatize it so that we could use it for multiple clients.\"\n— Simone\n\nMarketing Angle: Build once, deploy across your entire portfolio.",
+    "preview": "\"Definitely thinking about how to templatize it so that we could use it for multiple clients.\"",
+    "wordCount": 27
+  },
+  {
+    "number": 40,
+    "title": "First Project 10 hours invested Tenth",
+    "category": "Scaling",
+    "content": "\"First Project: 10 hours invested. Tenth Project: 30 minutes. That's a 20x efficiency multiplier.\"\n— Template Scaling Math\n\nMarketing Angle: The efficiency compounds. Every project gets faster.",
+    "preview": "\"First Project: 10 hours invested. Tenth Project: 30 minutes. That's a 20x efficiency multiplier.\"",
+    "wordCount": 27
+  },
+  {
+    "number": 41,
+    "title": "Communications professionals can now offer premium",
+    "category": "Business Impact",
+    "content": "\"Communications professionals can now offer premium deliverables profitably, scale across client portfolios without proportional time increase.\"\n— Playbook Insight\n\nMarketing Angle: Scale without burning out. Grow without proportional effort.",
+    "preview": "\"Communications professionals can now offer premium deliverables profitably, scale across client portfolios without pro…",
+    "wordCount": 29
+  },
+  {
+    "number": 42,
+    "title": "Faster than pure human effort Better",
+    "category": "Human + AI",
+    "content": "\"Faster than pure human effort. Better quality than pure AI output. More authentic than templates. More scalable than manual work.\"\n— Collaborative Iteration Benefits\n\nMarketing Angle: The best of both worlds.",
+    "preview": "\"Faster than pure human effort. Better quality than pure AI output. More authentic than templates. More scalable than m…",
+    "wordCount": 31
+  },
+  {
+    "number": 43,
+    "title": "Hospitality and wine PR require brand",
+    "category": "Authenticity",
+    "content": "\"Hospitality and wine PR require brand voice and personal relationships. AI provided speed; Allison added authenticity.\"\n— Allison Stout Case Study\n\nMarketing Angle: AI handles mechanics; you handle relationships.",
+    "preview": "\"Hospitality and wine PR require brand voice and personal relationships. AI provided speed; Allison added authenticity.\"",
+    "wordCount": 29
+  },
+  {
+    "number": 44,
+    "title": "AI as collaborative partner not replacement",
+    "category": "Authenticity",
+    "content": "\"AI as collaborative partner, not replacement. Iterative refinement preserves expertise and sophistication.\"\n— Course Philosophy\n\nMarketing Angle: Your expertise matters more, not less, with AI.",
+    "preview": "\"AI as collaborative partner, not replacement. Iterative refinement preserves expertise and sophistication.\"",
+    "wordCount": 25
+  },
+  {
+    "number": 45,
+    "title": "Disclosed AI use ChatGPT for sentiment",
+    "category": "Transparency",
+    "content": "\"Disclosed AI use (ChatGPT for sentiment, Lovable for dashboard), client focused entirely on deliverable quality, zero concern about process.\"\n— Lizzie's Approach\n\nMarketing Angle: Transparency + Quality = Trust. It works.",
+    "preview": "\"Disclosed AI use (ChatGPT for sentiment, Lovable for dashboard), client focused entirely on deliverable quality, zero…",
+    "wordCount": 31
+  },
+  {
+    "number": 46,
+    "title": "How do we create senior-level communications",
+    "category": "The Pipeline",
+    "content": "\"How do we create senior-level communications people if we're not keeping that pipeline of juniors learning the full slate? I don't really love the idea of people missing the whole process of learning how to write press releases from scratch.\"\n— Simone\n\nContext: Expressing concern about entry-level learning\nMarketing Angle: We address this directly. AI changes what juniors learn, not whether they learn.",
+    "preview": "\"How do we create senior-level communications people if we're not keeping that pipeline of juniors learning the full sl…",
+    "wordCount": 63
+  },
+  {
+    "number": 47,
+    "title": "I'm concerned not just about our",
+    "category": "Identity",
+    "content": "\"I'm concerned not just about our careers, but our identities.\"\n— Joe Ki\n\nMarketing Angle: We take the identity question seriously. It's not just about skills.",
+    "preview": "\"I'm concerned not just about our careers, but our identities.\"",
+    "wordCount": 26
+  },
+  {
+    "number": 48,
+    "title": "Perplexity for research NotebookLM for synthesis",
+    "category": "Research Stacks",
+    "content": "\"Perplexity for research. NotebookLM for synthesis. Claude for drafts. Each tool has a job.\"\n— Kris Krüg\n\nMarketing Angle: Shows sophistication without jargon.",
+    "preview": "\"Perplexity for research. NotebookLM for synthesis. Claude for drafts. Each tool has a job.\"",
+    "wordCount": 23
+  },
+  {
+    "number": 49,
+    "title": "Every AI output goes through a",
+    "category": "Verification",
+    "content": "\"Every AI output goes through a verification chain. AI doesn't ship. You ship.\"\n— Course Standard\n\nMarketing Angle: Addresses hallucination concerns directly.",
+    "preview": "\"Every AI output goes through a verification chain. AI doesn't ship. You ship.\"",
+    "wordCount": 22
+  },
+  {
+    "number": 50,
+    "title": "You can use AI with client",
+    "category": "Confidentiality",
+    "content": "\"You can use AI with client confidentiality. You just need the right setup.\"\n— Kris Krüg\n\nMarketing Angle: Handles the compliance objection.",
+    "preview": "\"You can use AI with client confidentiality. You just need the right setup.\"",
+    "wordCount": 22
+  },
+  {
+    "number": 51,
+    "title": "3-hour research task 45 minutes And",
+    "category": "Speed + Quality",
+    "content": "\"3-hour research task → 45 minutes. And the output was sharper.\"\n— Cohort Graduate\n\nMarketing Angle: Concrete, believable proof.",
+    "preview": "\"3-hour research task → 45 minutes. And the output was sharper.\"",
+    "wordCount": 19
+  },
+  {
+    "number": 52,
+    "title": "The client said it was the",
+    "category": "Client Reaction",
+    "content": "\"The client said it was the best coverage recap they'd ever received.\"\n— Lizzie, Week 6\n\nMarketing Angle: Direct testimonial, specific outcome.",
+    "preview": "\"The client said it was the best coverage recap they'd ever received.\"",
+    "wordCount": 22
+  },
+  {
+    "number": 53,
+    "title": "Week 1 nervous about mistakes Week",
+    "category": "Confidence",
+    "content": "\"Week 1: nervous about mistakes. Week 6: I know exactly what to check before I ship.\"\n— Cohort Outcome\n\nMarketing Angle: Transformation arc in one line.",
+    "preview": "\"Week 1: nervous about mistakes. Week 6: I know exactly what to check before I ship.\"",
+    "wordCount": 26
+  },
+  {
+    "number": 54,
+    "title": "I'm now the AI person on",
+    "category": "Competitive Edge",
+    "content": "\"I'm now the AI person on my team. They come to me with questions.\"\n— Cohort Graduate\n\nMarketing Angle: Career positioning benefit.",
+    "preview": "\"I'm now the AI person on my team. They come to me with questions.\"",
+    "wordCount": 22
+  },
+  {
+    "number": 55,
+    "title": "If you can write a clear",
+    "category": "Technical Skills",
+    "content": "\"If you can write a clear email, you can prompt an AI. The skill is communication, not coding.\"\n— Kris Krüg\n\nMarketing Angle: Removes technical barrier.",
+    "preview": "\"If you can write a clear email, you can prompt an AI. The skill is communication, not coding.\"",
+    "wordCount": 26
+  },
+  {
+    "number": 56,
+    "title": "The tools you're waiting for Already",
+    "category": "Waiting",
+    "content": "\"The tools you're waiting for? Already here. The only thing improving is your skill with them.\"\n— Course Reality\n\nMarketing Angle: Urgency without hype.",
+    "preview": "\"The tools you're waiting for? Already here. The only thing improving is your skill with them.\"",
+    "wordCount": 24
+  },
+  {
+    "number": 57,
+    "title": "You can figure it out yourself",
+    "category": "DIY Learning",
+    "content": "\"You can figure it out yourself. But you'll spend 6 months discovering what we teach in 6 weeks.\"\n— Kris Krüg\n\nMarketing Angle: DIY vs. structured learning tradeoff.",
+    "preview": "\"You can figure it out yourself. But you'll spend 6 months discovering what we teach in 6 weeks.\"",
+    "wordCount": 28
+  }
+]

@@ -1,0 +1,610 @@
+[
+  {
+    "number": 1,
+    "title": "The Newsroom Reality",
+    "category": "THE JOURNALISM EVOLUTION (Posts 1-10)",
+    "content": "Every major newsroom is using AI.\n\nThe New York Times. The Washington Post. Reuters. AP.\n\nThey're using it for research. For transcription. For first drafts. For data analysis.\n\nIf you're not learning these tools, you're not competing with journalists who don't use AI.\n\nYou're competing with journalists who do.\n\nThe skill gap is real. And it's widening.\n\n#JournalismTwitter #AIinMedia\n\n---\n\n### Post X: Case Study Spotlight — 10-person newsroom, 10x capability\n---\nHere’s the quiet killer inside a lot of newsrooms:\n\nOnly 1–2 people can do real data analysis.\nEveryone else is locked out because “nobody can really code at all.”\n\nKatherine Vandervalk walked into a new newsroom and saw the bottleneck instantly:\npeople reviewing URLs one-by-one… and only looking at the “top 20.”\n\nHer fix wasn’t “hire a data team.”\n\nHer fix was **GPT for Sheets**.\n\nSame Google Sheets everyone already uses — plus a formula that classifies and enriches data at scale.\n\nImpact:\n- **Days → minutes** (99%+ time reduction) for analysis cycles\n- Team capability: **1–2 of 10 → 10 of 10** (10x democratization)\n- Avoided hiring value: **$80K–$240K** in equivalent analyst capacity\n\nThat’s what I mean by upgrading journalism *without* surrendering its standards:\nAI doesn’t replace judgment.\nAI removes the mechanical bottleneck so more humans can do the thinking.\n\nIf you’re a journalist/editor trying to scale investigative + audience insight work with the team you already have, DM me “JOURNO” (or start at `theupgrade.ai`).",
+    "preview": "Every major newsroom is using AI. The New York Times. The Washington Post. Reuters. AP. They're using it for research. For transcription. For first drafts. For…",
+    "wordCount": 238
+  },
+  {
+    "number": 2,
+    "title": "The Speed Equation",
+    "category": "THE JOURNALISM EVOLUTION (Posts 1-10)",
+    "content": "Traditional investigative research: 3 weeks.\n\nAI-augmented investigative research: 3 days.\n\nSame rigor. Same verification. Same human judgment.\n\nDifferent speed.\n\nThe journalists who will break the biggest stories in 2025 aren't the ones with the best instincts.\n\nThey're the ones who can act on their instincts fastest.\n\nSpeed is the new competitive advantage.\n\n---",
+    "preview": "Traditional investigative research: 3 weeks. AI-augmented investigative research: 3 days. Same rigor. Same verification. Same human judgment. Different speed.…",
+    "wordCount": 53
+  },
+  {
+    "number": 3,
+    "title": "The Replacement Myth",
+    "category": "THE JOURNALISM EVOLUTION (Posts 1-10)",
+    "content": "\"AI is going to replace journalists.\"\n\nNo. AI is going to replace journalists who don't use AI.\n\nBig difference.\n\nYour sourcing relationships? Can't be automated.\nYour editorial judgment? Can't be automated.\nYour institutional knowledge? Can't be automated.\n\nWhat can be automated: The mechanical parts you hate anyway.\n\nTranscription. First drafts. Data crunching. Citation checking.\n\nAI handles the tedious. You handle the journalism.\n\n---",
+    "preview": "\"AI is going to replace journalists.\" No. AI is going to replace journalists who don't use AI. Big difference. Your sourcing relationships? Can't be automated.…",
+    "wordCount": 63
+  },
+  {
+    "number": 4,
+    "title": "The Local News Lifeline",
+    "category": "THE JOURNALISM EVOLUTION (Posts 1-10)",
+    "content": "Local journalism is dying.\n\nNot because the stories aren't there.\nNot because the readers don't care.\n\nBecause one-person newsrooms can't do everything.\n\nAI changes that math.\n\nOne reporter + AI = coverage that used to require three people.\n\nNot because AI writes the stories.\nBecause AI handles everything else.\n\nLocal news has a chance if we embrace the tools.\n\n---",
+    "preview": "Local journalism is dying. Not because the stories aren't there. Not because the readers don't care. Because one-person newsrooms can't do everything. AI chang…",
+    "wordCount": 60
+  },
+  {
+    "number": 5,
+    "title": "The Interview Revolution",
+    "category": "THE JOURNALISM EVOLUTION (Posts 1-10)",
+    "content": "I used to take frantic notes during interviews.\n\nNow I listen fully. AI handles the transcript.\n\nI used to miss things in the moment.\n\nNow AI highlights patterns across my entire interview archive.\n\nI used to lose context between conversations.\n\nNow every interview builds on every previous one.\n\nSame journalist. Same instincts. Better tools.\n\nThat's the shift.\n\n---",
+    "preview": "I used to take frantic notes during interviews. Now I listen fully. AI handles the transcript. I used to miss things in the moment. Now AI highlights patterns…",
+    "wordCount": 58
+  },
+  {
+    "number": 6,
+    "title": "The Fact-Check Layer",
+    "category": "THE JOURNALISM EVOLUTION (Posts 1-10)",
+    "content": "Every claim. Every statistic. Every quote.\n\nAI flags what needs verification.\nAI suggests where to verify it.\nAI tracks what's been checked.\n\nThe human still does the checking. The judgment is still yours.\n\nBut the system is now foolproof.\n\nNothing slips through because you were rushed.\nNothing slips through because you were tired.\n\nThat's not replacement. That's backup.\n\n---",
+    "preview": "Every claim. Every statistic. Every quote. AI flags what needs verification. AI suggests where to verify it. AI tracks what's been checked. The human still doe…",
+    "wordCount": 59
+  },
+  {
+    "number": 7,
+    "title": "The Document Dump",
+    "category": "THE JOURNALISM EVOLUTION (Posts 1-10)",
+    "content": "5,000 pages of public records just landed in your inbox.\n\nOld way: Weeks of manual review. Patterns you'll definitely miss.\n\nNew way: AI processes overnight. Highlights anomalies. Maps relationships. Identifies the 50 pages that matter.\n\nSame documents. Different timeline.\n\nThe story breaks this week, not next month.\n\n---",
+    "preview": "5,000 pages of public records just landed in your inbox. Old way: Weeks of manual review. Patterns you'll definitely miss. New way: AI processes overnight. Hig…",
+    "wordCount": 48
+  },
+  {
+    "number": 8,
+    "title": "The Byline Economy",
+    "category": "THE JOURNALISM EVOLUTION (Posts 1-10)",
+    "content": "Your byline is your brand.\n\nIn the newsletter economy, your name is everything.\n\nAI helps you publish more.\nAI helps you maintain consistency.\nAI helps you own your audience.\n\nThe journalists building personal platforms are using AI.\n\nNot to write their thoughts.\nTo amplify them everywhere.\n\n---",
+    "preview": "Your byline is your brand. In the newsletter economy, your name is everything. AI helps you publish more. AI helps you maintain consistency. AI helps you own y…",
+    "wordCount": 47
+  },
+  {
+    "number": 9,
+    "title": "The Expertise Extraction",
+    "category": "THE JOURNALISM EVOLUTION (Posts 1-10)",
+    "content": "You've been covering your beat for 10 years.\n\nEvery interview. Every story. Every insight.\n\nWhat if you could access all of it instantly?\n\n\"What have my sources said about healthcare consolidation?\"\n\nAI answers in seconds. From your own archive.\n\nYour expertise is already there. AI just makes it searchable.\n\n---",
+    "preview": "You've been covering your beat for 10 years. Every interview. Every story. Every insight. What if you could access all of it instantly? \"What have my sources s…",
+    "wordCount": 50
+  },
+  {
+    "number": 10,
+    "title": "The Newsroom Divide",
+    "category": "THE JOURNALISM EVOLUTION (Posts 1-10)",
+    "content": "Some newsrooms are training everyone on AI.\n\nSome are pretending it doesn't exist.\n\nIn 5 years, we'll see which ones survived.\n\nThe tools aren't going away.\nThe layoffs aren't going away.\nThe only question is: Are you adapting?\n\nIndividual journalists can't wait for institutional adoption.\n\nLearn it now. Bring it with you.\n\n---",
+    "preview": "Some newsrooms are training everyone on AI. Some are pretending it doesn't exist. In 5 years, we'll see which ones survived. The tools aren't going away. The l…",
+    "wordCount": 53
+  },
+  {
+    "number": 11,
+    "title": "The Pattern Finder",
+    "category": "RESEARCH & INVESTIGATION (Posts 11-20)",
+    "content": "Cross-referencing 10,000 documents used to take a team.\n\nNow it takes a prompt.\n\n\"Identify all entities that appear in more than 5 documents.\"\n\"Flag any numerical inconsistencies.\"\n\"Map the relationship between Company A and Person B.\"\n\nAI finds patterns humans miss.\n\nNot because it's smarter. Because it doesn't get tired.\n\n---",
+    "preview": "Cross-referencing 10,000 documents used to take a team. Now it takes a prompt. \"Identify all entities that appear in more than 5 documents.\" \"Flag any numerica…",
+    "wordCount": 51
+  },
+  {
+    "number": 12,
+    "title": "The Source Prep",
+    "category": "RESEARCH & INVESTIGATION (Posts 11-20)",
+    "content": "Before every interview, my AI prepares:\n\n- Everything this person has said publicly\n- Contradictions between their statements\n- Questions they've never been asked\n- Connections to my other sources\n\nI walk in over-prepared.\n\nEvery time.\n\n---",
+    "preview": "Before every interview, my AI prepares: - Everything this person has said publicly - Contradictions between their statements - Questions they've never been ask…",
+    "wordCount": 37
+  },
+  {
+    "number": 13,
+    "title": "The FOIA Accelerator",
+    "category": "RESEARCH & INVESTIGATION (Posts 11-20)",
+    "content": "Freedom of Information requests return thousands of pages.\n\nUsed to mean months of review.\n\nNow means one afternoon.\n\nAI reads everything.\nHighlights what's interesting.\nFlags what's redacted.\nIdentifies what's missing.\n\nYou spend your time on the story, not the sorting.\n\n---",
+    "preview": "Freedom of Information requests return thousands of pages. Used to mean months of review. Now means one afternoon. AI reads everything. Highlights what's inter…",
+    "wordCount": 41
+  },
+  {
+    "number": 14,
+    "title": "The Archive Miner",
+    "category": "RESEARCH & INVESTIGATION (Posts 11-20)",
+    "content": "How many stories are buried in your old notes?\n\nConnections you made and forgot.\nQuotes you never used.\nPatterns you didn't see at the time.\n\nAI can read your entire archive.\n\nFind the stories you've already researched.\n\nThat's not cheating. That's using what you've earned.\n\n---",
+    "preview": "How many stories are buried in your old notes? Connections you made and forgot. Quotes you never used. Patterns you didn't see at the time. AI can read your en…",
+    "wordCount": 46
+  },
+  {
+    "number": 15,
+    "title": "The Context Machine",
+    "category": "RESEARCH & INVESTIGATION (Posts 11-20)",
+    "content": "\"What's the history of this issue in my coverage area?\"\n\nOne prompt. Instant synthesis.\n\nEvery article you've written.\nEvery article your competitors have written.\nEvery public statement on record.\n\nYou walk into the story with complete context.\n\nEvery time.\n\n---",
+    "preview": "\"What's the history of this issue in my coverage area?\" One prompt. Instant synthesis. Every article you've written. Every article your competitors have writte…",
+    "wordCount": 40
+  },
+  {
+    "number": 16,
+    "title": "The Data Translator",
+    "category": "RESEARCH & INVESTIGATION (Posts 11-20)",
+    "content": "Got a massive dataset?\n\nAI doesn't just analyze it. AI explains it.\n\n\"What are the 3 most significant trends in this data?\"\n\"Where does this dataset contradict the official narrative?\"\n\"What story angles does this data support?\"\n\nData journalism without the coding requirement.\n\n---",
+    "preview": "Got a massive dataset? AI doesn't just analyze it. AI explains it. \"What are the 3 most significant trends in this data?\" \"Where does this dataset contradict t…",
+    "wordCount": 44
+  },
+  {
+    "number": 17,
+    "title": "The Tip Validator",
+    "category": "RESEARCH & INVESTIGATION (Posts 11-20)",
+    "content": "Anonymous tip comes in.\n\nBefore you invest time:\n\nAI checks public records.\nAI cross-references claims.\nAI identifies verification paths.\n\nYou know in 10 minutes if it's worth pursuing.\n\nNot in 10 hours.\n\n---",
+    "preview": "Anonymous tip comes in. Before you invest time: AI checks public records. AI cross-references claims. AI identifies verification paths. You know in 10 minutes…",
+    "wordCount": 33
+  },
+  {
+    "number": 18,
+    "title": "The Background Builder",
+    "category": "RESEARCH & INVESTIGATION (Posts 11-20)",
+    "content": "New beat. New subject. Cold start.\n\nAI can synthesize:\n- Every article written about this topic\n- Key players and their histories\n- Common claims and counter-claims\n- What's been missed in previous coverage\n\nBeat expertise in days, not years.\n\n---",
+    "preview": "New beat. New subject. Cold start. AI can synthesize: - Every article written about this topic - Key players and their histories - Common claims and counter-cl…",
+    "wordCount": 41
+  },
+  {
+    "number": 19,
+    "title": "The Contradiction Finder",
+    "category": "RESEARCH & INVESTIGATION (Posts 11-20)",
+    "content": "Politicians say things.\n\nAI remembers everything they've said.\n\n\"When has this person contradicted their current position?\"\n\nInstant accountability.\n\nYour memory is limited. AI's isn't.\n\n---",
+    "preview": "Politicians say things. AI remembers everything they've said. \"When has this person contradicted their current position?\" Instant accountability. Your memory i…",
+    "wordCount": 25
+  },
+  {
+    "number": 20,
+    "title": "The Death of Desk Research",
+    "category": "RESEARCH & INVESTIGATION (Posts 11-20)",
+    "content": "The old research workflow:\n1. Google search\n2. Click through 50 links\n3. Read 20 articles\n4. Take notes\n5. Synthesize manually\n\nTime: 4 hours.\n\nThe AI research workflow:\n1. \"Synthesize all public information about X\"\n2. Review output\n3. Identify gaps\n4. Targeted deep dives\n\nTime: 45 minutes.\n\nSame outcome. Different century.\n\n---",
+    "preview": "The old research workflow: 1. Google search 2. Click through 50 links 3. Read 20 articles 4. Take notes 5. Synthesize manually Time: 4 hours. The AI research w…",
+    "wordCount": 54
+  },
+  {
+    "number": 21,
+    "title": "The First Draft Problem",
+    "category": "WRITING & PRODUCTION (Posts 21-30)",
+    "content": "Staring at a blank page is the worst part of writing.\n\nAI doesn't stare. AI drafts.\n\nGive it your notes, your angle, your voice profile.\n\nIt produces something to react to.\n\nNot the final story. The starting point.\n\nYour editing. Your voice. Just faster.\n\n---",
+    "preview": "Staring at a blank page is the worst part of writing. AI doesn't stare. AI drafts. Give it your notes, your angle, your voice profile. It produces something to…",
+    "wordCount": 45
+  },
+  {
+    "number": 22,
+    "title": "The Headline Factory",
+    "category": "WRITING & PRODUCTION (Posts 21-30)",
+    "content": "One headline idea.\n\nThat's what you have time for on deadline.\n\nAI gives you 20 options in 30 seconds.\n\nDifferent angles. Different hooks. Different lengths.\n\nYou pick the best one.\n\nBetter headlines. Same effort.\n\n---",
+    "preview": "One headline idea. That's what you have time for on deadline. AI gives you 20 options in 30 seconds. Different angles. Different hooks. Different lengths. You…",
+    "wordCount": 35
+  },
+  {
+    "number": 23,
+    "title": "The Voice Preservation",
+    "category": "WRITING & PRODUCTION (Posts 21-30)",
+    "content": "Journalists worry AI will make everything sound the same.\n\nWrong approach.\n\nTrain AI on YOUR writing.\nYour sentence rhythm.\nYour word choices.\nYour structural preferences.\n\nAI doesn't replace your voice.\nAI learns your voice.\n\nThen helps you produce more of it.\n\n---",
+    "preview": "Journalists worry AI will make everything sound the same. Wrong approach. Train AI on YOUR writing. Your sentence rhythm. Your word choices. Your structural pr…",
+    "wordCount": 42
+  },
+  {
+    "number": 24,
+    "title": "The Edit Assistant",
+    "category": "WRITING & PRODUCTION (Posts 21-30)",
+    "content": "Copy editing used to take an hour.\n\nAI catches:\n- Grammar issues\n- Style inconsistencies\n- Factual claims that need verification\n- Structural problems\n\nIn 5 minutes.\n\nNot replacing the editor. Freeing the editor.\n\n---",
+    "preview": "Copy editing used to take an hour. AI catches: - Grammar issues - Style inconsistencies - Factual claims that need verification - Structural problems In 5 minu…",
+    "wordCount": 35
+  },
+  {
+    "number": 25,
+    "title": "The Newsletter Machine",
+    "category": "WRITING & PRODUCTION (Posts 21-30)",
+    "content": "One feature article.\nOne newsletter.\nFive social posts.\nOne podcast outline.\n\nSame research. Same reporting. Multiple outputs.\n\nThat's content multiplication.\n\nAI handles the reformatting. You maintain the voice.\n\nYour work goes further.\n\n---",
+    "preview": "One feature article. One newsletter. Five social posts. One podcast outline. Same research. Same reporting. Multiple outputs. That's content multiplication. AI…",
+    "wordCount": 33
+  },
+  {
+    "number": 26,
+    "title": "The Deadline Saver",
+    "category": "WRITING & PRODUCTION (Posts 21-30)",
+    "content": "It's 4:47 PM. Story due at 5.\n\nOld world: Panic. Rush. Errors.\n\nAI world:\n- Transcription already done\n- Draft structure already generated\n- Fact-checks already flagged\n- You're just polishing\n\nSame deadline. Less terror.\n\n---",
+    "preview": "It's 4:47 PM. Story due at 5. Old world: Panic. Rush. Errors. AI world: - Transcription already done - Draft structure already generated - Fact-checks already…",
+    "wordCount": 36
+  },
+  {
+    "number": 27,
+    "title": "The Meeting Coverage",
+    "category": "WRITING & PRODUCTION (Posts 21-30)",
+    "content": "City council meeting. 3 hours. 47 agenda items.\n\nYour notes are chaos.\n\nAI takes the transcript and:\n- Identifies key decisions\n- Extracts newsworthy quotes\n- Structures the story\n- Flags follow-up questions\n\nYou review and publish.\n\nMeeting coverage without the agony.\n\n---",
+    "preview": "City council meeting. 3 hours. 47 agenda items. Your notes are chaos. AI takes the transcript and: - Identifies key decisions - Extracts newsworthy quotes - St…",
+    "wordCount": 43
+  },
+  {
+    "number": 28,
+    "title": "The Sports Recap",
+    "category": "WRITING & PRODUCTION (Posts 21-30)",
+    "content": "High school sports. 12 games a week.\n\nOld approach: Write each one from scratch.\n\nAI approach: Feed it the stats. Get the first draft.\n\nAdd the color you observed.\nAdd the quotes you gathered.\nShip and move on.\n\nCommunity coverage at scale.\n\n---",
+    "preview": "High school sports. 12 games a week. Old approach: Write each one from scratch. AI approach: Feed it the stats. Get the first draft. Add the color you observed…",
+    "wordCount": 43
+  },
+  {
+    "number": 29,
+    "title": "The Obituary Question",
+    "category": "WRITING & PRODUCTION (Posts 21-30)",
+    "content": "Writing obituaries is meaningful work.\n\nIt's also time-consuming.\n\nAI can draft from submitted information.\nFamily quotes. Career highlights. Survived by.\n\nYou add the humanity. The verification. The care.\n\nDignity preserved. Time saved.\n\n---",
+    "preview": "Writing obituaries is meaningful work. It's also time-consuming. AI can draft from submitted information. Family quotes. Career highlights. Survived by. You ad…",
+    "wordCount": 33
+  },
+  {
+    "number": 30,
+    "title": "The Breaking News Template",
+    "category": "WRITING & PRODUCTION (Posts 21-30)",
+    "content": "Breaking news template:\n\n1. What happened (lead)\n2. Where and when\n3. Who's involved\n4. Official statements\n5. Background context\n6. What we don't know\n\nAI structures this instantly from your raw notes.\n\nYou fill the gaps. Verify. Publish.\n\nFaster breaking news. Same accuracy.\n\n---",
+    "preview": "Breaking news template: 1. What happened (lead) 2. Where and when 3. Who's involved 4. Official statements 5. Background context 6. What we don't know AI struc…",
+    "wordCount": 45
+  },
+  {
+    "number": 31,
+    "title": "The Freelance Multiplier",
+    "category": "CAREER & INDEPENDENCE (Posts 31-40)",
+    "content": "Freelance journalism is brutal economics.\n\nOne story = one paycheck.\n\nUnless you multiply.\n\nOne reporting session →\nFeature + Newsletter + Social posts + Podcast + Consulting insight\n\nAI makes multiplication possible.\n\nSame expertise. More revenue streams.\n\n---",
+    "preview": "Freelance journalism is brutal economics. One story = one paycheck. Unless you multiply. One reporting session → Feature + Newsletter + Social posts + Podcast…",
+    "wordCount": 38
+  },
+  {
+    "number": 32,
+    "title": "The Newsletter Launch",
+    "category": "CAREER & INDEPENDENCE (Posts 31-40)",
+    "content": "Thinking about launching a newsletter?\n\nHere's what AI handles:\n\n- Reformatting articles for email\n- Consistent voice across issues\n- Subject line optimization\n- Social promotion drafts\n\nYou do the journalism.\nAI does the production.\n\nLower barrier to independence.\n\n---",
+    "preview": "Thinking about launching a newsletter? Here's what AI handles: - Reformatting articles for email - Consistent voice across issues - Subject line optimization -…",
+    "wordCount": 40
+  },
+  {
+    "number": 33,
+    "title": "The Expert Positioning",
+    "category": "CAREER & INDEPENDENCE (Posts 31-40)",
+    "content": "Your beat expertise has value beyond articles.\n\nSpeaking. Consulting. Teaching. Analysis.\n\nAI helps you:\n- Package your knowledge\n- Create presentations\n- Develop frameworks\n- Build thought leadership content\n\nSame expertise. New revenue.\n\n---",
+    "preview": "Your beat expertise has value beyond articles. Speaking. Consulting. Teaching. Analysis. AI helps you: - Package your knowledge - Create presentations - Develo…",
+    "wordCount": 34
+  },
+  {
+    "number": 34,
+    "title": "The Portfolio Builder",
+    "category": "CAREER & INDEPENDENCE (Posts 31-40)",
+    "content": "Need clips for a new job?\n\nAI can help you:\n- Identify your strongest work\n- Summarize your coverage areas\n- Draft the portfolio narrative\n- Prepare for interview questions\n\nCareer advancement is part of the job.\n\nAI makes it less painful.\n\n---",
+    "preview": "Need clips for a new job? AI can help you: - Identify your strongest work - Summarize your coverage areas - Draft the portfolio narrative - Prepare for intervi…",
+    "wordCount": 43
+  },
+  {
+    "number": 35,
+    "title": "The Pitch Machine",
+    "category": "CAREER & INDEPENDENCE (Posts 31-40)",
+    "content": "Freelance success = constant pitching.\n\nAI helps you:\n- Research publications\n- Tailor angles to mastheads\n- Draft pitch emails\n- Track responses\n\nMore pitches. Better targeting. Same hours.\n\n---",
+    "preview": "Freelance success = constant pitching. AI helps you: - Research publications - Tailor angles to mastheads - Draft pitch emails - Track responses More pitches.…",
+    "wordCount": 30
+  },
+  {
+    "number": 36,
+    "title": "The Book Proposal",
+    "category": "CAREER & INDEPENDENCE (Posts 31-40)",
+    "content": "Every journalist has a book in them.\n\nMost don't have time to write the proposal.\n\nAI can:\n- Synthesize your existing coverage\n- Identify the throughline\n- Draft chapter outlines\n- Structure the proposal document\n\nThe ideas are yours. The formatting is automated.\n\n---",
+    "preview": "Every journalist has a book in them. Most don't have time to write the proposal. AI can: - Synthesize your existing coverage - Identify the throughline - Draft…",
+    "wordCount": 44
+  },
+  {
+    "number": 37,
+    "title": "The Speaking Circuit",
+    "category": "CAREER & INDEPENDENCE (Posts 31-40)",
+    "content": "Conference organizers need speakers.\n\nYour expertise qualifies you.\n\nAI helps you:\n- Draft speaker bios\n- Create presentation outlines\n- Develop talk tracks\n- Prepare for Q&A\n\nNew revenue stream. Built on what you already know.\n\n---",
+    "preview": "Conference organizers need speakers. Your expertise qualifies you. AI helps you: - Draft speaker bios - Create presentation outlines - Develop talk tracks - Pr…",
+    "wordCount": 37
+  },
+  {
+    "number": 38,
+    "title": "The Training Business",
+    "category": "CAREER & INDEPENDENCE (Posts 31-40)",
+    "content": "You know how to do journalism.\n\nOthers want to learn.\n\nAI helps you:\n- Structure curriculum\n- Create training materials\n- Develop exercises\n- Build assessment tools\n\nTeaching journalism. AI-assisted.\n\n---",
+    "preview": "You know how to do journalism. Others want to learn. AI helps you: - Structure curriculum - Create training materials - Develop exercises - Build assessment to…",
+    "wordCount": 31
+  },
+  {
+    "number": 39,
+    "title": "The Consulting Angle",
+    "category": "CAREER & INDEPENDENCE (Posts 31-40)",
+    "content": "Organizations need journalists' skills.\n\nMedia training. Content strategy. Crisis communications.\n\nAI helps you:\n- Package your expertise\n- Create service offerings\n- Draft proposals\n- Deliver at scale\n\nJournalism skills. Corporate rates.\n\n---",
+    "preview": "Organizations need journalists' skills. Media training. Content strategy. Crisis communications. AI helps you: - Package your expertise - Create service offeri…",
+    "wordCount": 33
+  },
+  {
+    "number": 40,
+    "title": "The Exit Strategy",
+    "category": "CAREER & INDEPENDENCE (Posts 31-40)",
+    "content": "Not every journalist wants to be a journalist forever.\n\nAI skills transfer:\n\n- Content strategy\n- Research and analysis\n- Communication\n- Information architecture\n\nYour journalism background + AI fluency = valuable combination.\n\nOptions are power.\n\n---",
+    "preview": "Not every journalist wants to be a journalist forever. AI skills transfer: - Content strategy - Research and analysis - Communication - Information architectur…",
+    "wordCount": 37
+  },
+  {
+    "number": null,
+    "title": "Journalists Cohort 2 (Q1 2026)",
+    "category": "CALL TO ACTION (Posts 41-50)",
+    "content": "Journalism has a new dividing line:\n\nNot “good reporters vs. bad reporters.”\n\n**Reporters with AI-augmented workflows vs. reporters stuck doing mechanical work by hand.**\n\nAI Upgrade for Journalists — **Cohort 2** is coming up in January.\n\n**Start:** [START DATE]\n**End:** [END DATE]\n**Applications close:** [APPLICATION_DEADLINE]\n**Early Bird ends:** [EARLY_BIRD_DEADLINE]\n\nThis is not “AI hype” training. It’s a 6-week build sprint where verification culture is the baseline.\n\nWhat gets built:\n- beat research assistants\n- grounded synthesis workflows (no hallucination gambling)\n- verification layers\n- content multiplication for the newsletter economy\n\nAnd here’s the proof-of-approach:\nKatherine Vandervalk used GPT for Sheets to take a **10-person newsroom from 1–2 data-capable people to 10 of 10** — and turn **days → minutes** for analysis.\n\n**Pricing:** $2,495 CAD (Early Bird: $1,995 CAD; Team: $1,795 CAD)\n**Apply:** [APPLY_LINK] (or DM me “JOURNO”)",
+    "preview": "Journalism has a new dividing line: Not “good reporters vs. bad reporters.” **Reporters with AI-augmented workflows vs. reporters stuck doing mechanical work b…",
+    "wordCount": 137
+  },
+  {
+    "number": 41,
+    "title": "The Six-Week Shift",
+    "category": "CALL TO ACTION (Posts 41-50)",
+    "content": "Week 1: \"Can AI really help my journalism?\"\n\nWeek 6: \"Here's my complete AI-augmented workflow.\"\n\nThat's the transformation we see every cohort.\n\nNot because AI got smarter.\n\nBecause you learned how to use it.\n\n---",
+    "preview": "Week 1: \"Can AI really help my journalism?\" Week 6: \"Here's my complete AI-augmented workflow.\" That's the transformation we see every cohort. Not because AI g…",
+    "wordCount": 35
+  },
+  {
+    "number": 42,
+    "title": "The Competitive Reality",
+    "category": "CALL TO ACTION (Posts 41-50)",
+    "content": "Your competition is already using AI.\n\nNot maybe. Not someday. Now.\n\nThe newsrooms that win in 2025 aren't the biggest.\n\nThey're the fastest.\n\nAI makes you faster.\n\n---",
+    "preview": "Your competition is already using AI. Not maybe. Not someday. Now. The newsrooms that win in 2025 aren't the biggest. They're the fastest. AI makes you faster.…",
+    "wordCount": 28
+  },
+  {
+    "number": 43,
+    "title": "The Research Revolution",
+    "category": "CALL TO ACTION (Posts 41-50)",
+    "content": "What if your background research took 30 minutes instead of 4 hours?\n\nWhat would you do with the extra time?\n\nMore interviews.\nDeeper analysis.\nBetter stories.\n\nThat's AI-augmented journalism.\n\n---",
+    "preview": "What if your background research took 30 minutes instead of 4 hours? What would you do with the extra time? More interviews. Deeper analysis. Better stories. T…",
+    "wordCount": 30
+  },
+  {
+    "number": 44,
+    "title": "The Investigation Accelerator",
+    "category": "CALL TO ACTION (Posts 41-50)",
+    "content": "What if you could process 10,000 documents in a day?\n\nWhat stories would you tell?\n\nAI makes investigations possible that weren't before.\n\nNot by replacing journalists.\n\nBy removing the bottleneck.\n\n---",
+    "preview": "What if you could process 10,000 documents in a day? What stories would you tell? AI makes investigations possible that weren't before. Not by replacing journa…",
+    "wordCount": 31
+  },
+  {
+    "number": 45,
+    "title": "The Content Multiplier",
+    "category": "CALL TO ACTION (Posts 41-50)",
+    "content": "What if one story became ten pieces of content?\n\nNewsletter. Social posts. Podcast. Video outline.\n\nYour reporting is valuable.\n\nAI helps you extract full value.\n\n---",
+    "preview": "What if one story became ten pieces of content? Newsletter. Social posts. Podcast. Video outline. Your reporting is valuable. AI helps you extract full value.…",
+    "wordCount": 26
+  },
+  {
+    "number": 46,
+    "title": "The Verification Layer",
+    "category": "CALL TO ACTION (Posts 41-50)",
+    "content": "What if every claim in every story was systematically checked?\n\nAI doesn't replace your judgment.\n\nAI makes sure nothing slips through.\n\nZero corrections is possible.\n\n---",
+    "preview": "What if every claim in every story was systematically checked? AI doesn't replace your judgment. AI makes sure nothing slips through. Zero corrections is possi…",
+    "wordCount": 26
+  },
+  {
+    "number": 47,
+    "title": "The Career Accelerator",
+    "category": "CALL TO ACTION (Posts 41-50)",
+    "content": "What if you could build beat expertise in weeks instead of years?\n\nAI synthesizes. AI summarizes. AI surfaces patterns.\n\nYou bring the judgment.\n\nThe combination is powerful.\n\n---",
+    "preview": "What if you could build beat expertise in weeks instead of years? AI synthesizes. AI summarizes. AI surfaces patterns. You bring the judgment. The combination…",
+    "wordCount": 28
+  },
+  {
+    "number": 48,
+    "title": "The Independence Path",
+    "category": "CALL TO ACTION (Posts 41-50)",
+    "content": "What if you could own your audience?\n\nNewsletter. Podcast. Social following.\n\nAI makes production possible for one person.\n\nIndependence is available.\n\n---",
+    "preview": "What if you could own your audience? Newsletter. Podcast. Social following. AI makes production possible for one person. Independence is available. ---",
+    "wordCount": 22
+  },
+  {
+    "number": 49,
+    "title": "The Adaptation Imperative",
+    "category": "CALL TO ACTION (Posts 41-50)",
+    "content": "The journalists who thrive in 2025 aren't the most talented.\n\nThey're the most adaptable.\n\nAI is the adaptation.\n\nSkills are the foundation.\n\nTogether, they're the future.\n\n---",
+    "preview": "The journalists who thrive in 2025 aren't the most talented. They're the most adaptable. AI is the adaptation. Skills are the foundation. Together, they're the…",
+    "wordCount": 27
+  },
+  {
+    "number": 50,
+    "title": "The Decision Point",
+    "category": "CALL TO ACTION (Posts 41-50)",
+    "content": "Six weeks from now, you'll be somewhere.\n\nEither building AI-augmented journalism workflows.\n\nOr exactly where you are now.\n\nThe gap between those futures is one decision.\n\nNext cohort starts soon.\n\n---",
+    "preview": "Six weeks from now, you'll be somewhere. Either building AI-augmented journalism workflows. Or exactly where you are now. The gap between those futures is one…",
+    "wordCount": 31
+  },
+  {
+    "number": 51,
+    "title": "The verification chain",
+    "category": "Verification & Trust",
+    "content": "\"But AI hallucinates.\"\n\nYes. That's why we don't ship AI outputs.\nWe ship verified outputs.\n\nEvery claim gets:\n- Source check\n- Cross-reference\n- Human sign-off\n\nThe AI accelerates research. You verify before publishing.\n\nThat's the workflow. That's the standard.\n\n---",
+    "preview": "\"But AI hallucinates.\" Yes. That's why we don't ship AI outputs. We ship verified outputs. Every claim gets: - Source check - Cross-reference - Human sign-off…",
+    "wordCount": 41
+  },
+  {
+    "number": 52,
+    "title": "Accuracy first",
+    "category": "Verification & Trust",
+    "content": "Speed without accuracy is worthless.\nAccuracy without speed is a luxury you can't afford.\n\nAI gives you both:\n- Faster research\n- Multiple source synthesis\n- Verification prompts built in\n\nThe goal isn't \"fast journalism.\"\nThe goal is \"accurate journalism, faster.\"\n\n---",
+    "preview": "Speed without accuracy is worthless. Accuracy without speed is a luxury you can't afford. AI gives you both: - Faster research - Multiple source synthesis - Ve…",
+    "wordCount": 42
+  },
+  {
+    "number": 53,
+    "title": "Source triangulation",
+    "category": "Verification & Trust",
+    "content": "Old way: Call three sources. Hope they're available.\n\nNew way: AI synthesis of public statements + background research.\nThen: Call sources with informed questions.\n\nBetter questions → better quotes → better story.\n\nAI doesn't replace sources. AI makes you better prepared.\n\n---",
+    "preview": "Old way: Call three sources. Hope they're available. New way: AI synthesis of public statements + background research. Then: Call sources with informed questio…",
+    "wordCount": 42
+  },
+  {
+    "number": 54,
+    "title": "The editorial QA",
+    "category": "Verification & Trust",
+    "content": "\"Will my editor know I used AI?\"\n\nOnly if you tell them.\n\nAnd you should tell them, because:\n- Your first drafts are tighter\n- Your research is more comprehensive\n- Your verification is documented\n\nAI-augmented ≠ AI-generated.\n\n---",
+    "preview": "\"Will my editor know I used AI?\" Only if you tell them. And you should tell them, because: - Your first drafts are tighter - Your research is more comprehensiv…",
+    "wordCount": 39
+  },
+  {
+    "number": 55,
+    "title": "Trust and transparency",
+    "category": "Verification & Trust",
+    "content": "Journalism lives on trust.\nAI doesn't change that.\n\nWhat changes:\n- How fast you can verify\n- How much context you can synthesize\n- How many sources you can check\n\nThe trust is still earned the same way: accuracy, fairness, rigor.\n\n---",
+    "preview": "Journalism lives on trust. AI doesn't change that. What changes: - How fast you can verify - How much context you can synthesize - How many sources you can che…",
+    "wordCount": 42
+  },
+  {
+    "number": 56,
+    "title": "Interview prep, upgraded",
+    "category": "Interview & Source Work",
+    "content": "Old prep: 30 minutes of Googling.\n\nNew prep:\n1. AI synthesis of everything this person has said publicly\n2. AI-generated list of questions they've never been asked\n3. AI summary of the debate they're stepping into\n\nTotal time: 15 minutes.\nQuality: 3x better.\n\n---",
+    "preview": "Old prep: 30 minutes of Googling. New prep: 1. AI synthesis of everything this person has said publicly 2. AI-generated list of questions they've never been as…",
+    "wordCount": 44
+  },
+  {
+    "number": 57,
+    "title": "The follow-up question",
+    "category": "Interview & Source Work",
+    "content": "The best interviews come from follow-up questions.\n\nAI helps you anticipate them:\n\"Based on this transcript, what are the 5 follow-up questions I should have asked?\"\n\nYou can't go back. But you can prep better next time.\n\n---",
+    "preview": "The best interviews come from follow-up questions. AI helps you anticipate them: \"Based on this transcript, what are the 5 follow-up questions I should have as…",
+    "wordCount": 38
+  },
+  {
+    "number": 58,
+    "title": "Source research at scale",
+    "category": "Interview & Source Work",
+    "content": "Working a story with 20 potential sources?\n\nAI can profile all of them in an hour:\n- Public statements\n- Known positions\n- Potential conflicts\n- Question angles\n\nYou pick the 5 worth calling.\n\nScale + judgment = better journalism.\n\n---",
+    "preview": "Working a story with 20 potential sources? AI can profile all of them in an hour: - Public statements - Known positions - Potential conflicts - Question angles…",
+    "wordCount": 41
+  },
+  {
+    "number": 59,
+    "title": "The cold pitch",
+    "category": "Interview & Source Work",
+    "content": "\"I want to talk to [important person] for my story.\"\n\nAI helps you craft a pitch that:\n- Shows you've done your homework\n- Identifies their unique value to your story\n- Respects their time\n\nBetter pitches → better access → better stories.\n\n---",
+    "preview": "\"I want to talk to [important person] for my story.\" AI helps you craft a pitch that: - Shows you've done your homework - Identifies their unique value to your…",
+    "wordCount": 44
+  },
+  {
+    "number": 60,
+    "title": "Anonymous source management",
+    "category": "Interview & Source Work",
+    "content": "Sensitive source work requires care.\n\nAI can help without compromising:\n- Synthesize public context\n- Draft questions offline\n- Keep sensitive details out of cloud tools\n\nWe teach the protocols. Your sources stay protected.\n\n---",
+    "preview": "Sensitive source work requires care. AI can help without compromising: - Synthesize public context - Draft questions offline - Keep sensitive details out of cl…",
+    "wordCount": 35
+  },
+  {
+    "number": 61,
+    "title": "The layoff math",
+    "category": "Newsroom Reality",
+    "content": "Newsrooms are shrinking.\nWorkloads are not.\n\nThe math is simple:\nFewer people doing more work need better tools.\n\nAI isn't about replacing journalists.\nIt's about journalists surviving the math.\n\n---",
+    "preview": "Newsrooms are shrinking. Workloads are not. The math is simple: Fewer people doing more work need better tools. AI isn't about replacing journalists. It's abou…",
+    "wordCount": 30
+  },
+  {
+    "number": 62,
+    "title": "The burnout equation",
+    "category": "Newsroom Reality",
+    "content": "Burnout = (Workload × Urgency) / Resources.\n\nAI shifts the equation:\n- Faster research\n- Tighter first drafts\n- Less grunt work\n\nSame output. Less time. More sustainable.\n\n---",
+    "preview": "Burnout = (Workload × Urgency) / Resources. AI shifts the equation: - Faster research - Tighter first drafts - Less grunt work Same output. Less time. More sus…",
+    "wordCount": 29
+  },
+  {
+    "number": 63,
+    "title": "The competitive reality",
+    "category": "Newsroom Reality",
+    "content": "Your competitors are using AI.\nSome badly. Some well.\n\nThe question isn't whether AI will change journalism.\nIt's whether you'll be ahead of the change or behind it.\n\n---",
+    "preview": "Your competitors are using AI. Some badly. Some well. The question isn't whether AI will change journalism. It's whether you'll be ahead of the change or behin…",
+    "wordCount": 29
+  },
+  {
+    "number": 64,
+    "title": "The indie journalist",
+    "category": "Newsroom Reality",
+    "content": "No newsroom? No problem.\n\nAI makes independent journalism more viable:\n- Research depth you couldn't afford\n- Production speed you couldn't achieve\n- Distribution optimization you couldn't manage\n\nOne person with AI tools ≈ a small team without them.\n\n---",
+    "preview": "No newsroom? No problem. AI makes independent journalism more viable: - Research depth you couldn't afford - Production speed you couldn't achieve - Distributi…",
+    "wordCount": 40
+  },
+  {
+    "number": 65,
+    "title": "The beat reporter's edge",
+    "category": "Newsroom Reality",
+    "content": "Beat reporters need to know everything about their beat.\n\nAI helps you:\n- Track every public statement\n- Synthesize every document\n- Monitor every development\n\nYou're still the expert. AI just expands your coverage.\n\n---",
+    "preview": "Beat reporters need to know everything about their beat. AI helps you: - Track every public statement - Synthesize every document - Monitor every development Y…",
+    "wordCount": 35
+  },
+  {
+    "number": 66,
+    "title": "The 3-hour story",
+    "category": "Transformation & Proof",
+    "content": "A cohort graduate told me:\n\n\"A story that used to take me 3 days? I did it in 3 hours. Same quality. Better sourced.\"\n\nThat's not a productivity hack.\nThat's a career upgrade.\n\n---",
+    "preview": "A cohort graduate told me: \"A story that used to take me 3 days? I did it in 3 hours. Same quality. Better sourced.\" That's not a productivity hack. That's a c…",
+    "wordCount": 34
+  },
+  {
+    "number": 67,
+    "title": "The confidence shift",
+    "category": "Transformation & Proof",
+    "content": "Week 1: \"I'm scared AI will make me obsolete.\"\n\nWeek 6: \"I'm the AI person in my newsroom. People come to me for help.\"\n\nFrom threatened to essential. That's the arc.\n\n---",
+    "preview": "Week 1: \"I'm scared AI will make me obsolete.\" Week 6: \"I'm the AI person in my newsroom. People come to me for help.\" From threatened to essential. That's the…",
+    "wordCount": 32
+  },
+  {
+    "number": 68,
+    "title": "The editor's reaction",
+    "category": "Transformation & Proof",
+    "content": "\"My editor was skeptical about AI.\"\n\nSix weeks later:\n\"My editor asked me to train the rest of the team.\"\n\nGood work speaks for itself.\n\n---",
+    "preview": "\"My editor was skeptical about AI.\" Six weeks later: \"My editor asked me to train the rest of the team.\" Good work speaks for itself. ---",
+    "wordCount": 26
+  },
+  {
+    "number": 69,
+    "title": "The investigation upgrade",
+    "category": "Transformation & Proof",
+    "content": "Investigative journalism is document-heavy.\n\nOne cohort graduate:\n\"I processed 500 pages of court documents in 2 hours. Found the story lead on page 347.\"\n\nAI doesn't write the investigation. AI makes it possible.\n\n---",
+    "preview": "Investigative journalism is document-heavy. One cohort graduate: \"I processed 500 pages of court documents in 2 hours. Found the story lead on page 347.\" AI do…",
+    "wordCount": 34
+  },
+  {
+    "number": 70,
+    "title": "Better questions",
+    "category": "Transformation & Proof",
+    "content": "The upgrade isn't just speed.\n\nIt's asking better questions.\n\nWhen you've synthesized more context, faster—\nyou see angles you would have missed.\n\nBetter prep → better questions → better journalism.\n\n---",
+    "preview": "The upgrade isn't just speed. It's asking better questions. When you've synthesized more context, faster— you see angles you would have missed. Better prep → b…",
+    "wordCount": 31
+  },
+  {
+    "number": 71,
+    "title": "Next cohort",
+    "category": "CTAs (Direct)",
+    "content": "Next cohort of AI Upgrade for Journalists is launching soon.\n\n6 weeks. Applied workflows. Small group.\n\nIf you're ready to upgrade how you report, research, and verify:\n\nComment \"JOURNALIST\" for details.\n\n---",
+    "preview": "Next cohort of AI Upgrade for Journalists is launching soon. 6 weeks. Applied workflows. Small group. If you're ready to upgrade how you report, research, and…",
+    "wordCount": 32
+  },
+  {
+    "number": 72,
+    "title": "Limited seats",
+    "category": "CTAs (Direct)",
+    "content": "We keep cohorts small.\nEveryone gets feedback.\nEveryone gets attention.\n\nThat means limited seats.\n\nIf you've been waiting:\nDM me \"READY\" for application details.\n\n---",
+    "preview": "We keep cohorts small. Everyone gets feedback. Everyone gets attention. That means limited seats. If you've been waiting: DM me \"READY\" for application details…",
+    "wordCount": 25
+  },
+  {
+    "number": 73,
+    "title": "The ROI",
+    "category": "CTAs (Direct)",
+    "content": "6 weeks × a few hours per week = maybe 30 hours.\n\nROI: Hours saved on every story, for the rest of your career.\n\nIf the math works:\nComment \"NUMBERS\" for enrollment info.\n\n---",
+    "preview": "6 weeks × a few hours per week = maybe 30 hours. ROI: Hours saved on every story, for the rest of your career. If the math works: Comment \"NUMBERS\" for enrollm…",
+    "wordCount": 34
+  },
+  {
+    "number": 74,
+    "title": "For the skeptics",
+    "category": "CTAs (Direct)",
+    "content": "If you're skeptical about AI in journalism, good.\n\nSkeptics ask the hard questions.\nSkeptics demand verification.\nSkeptics make the best students.\n\nWhen you're ready, the cohort will be here.\n\n---",
+    "preview": "If you're skeptical about AI in journalism, good. Skeptics ask the hard questions. Skeptics demand verification. Skeptics make the best students. When you're r…",
+    "wordCount": 30
+  },
+  {
+    "number": 75,
+    "title": "The invitation",
+    "category": "CTAs (Direct)",
+    "content": "You've read enough.\n\nYou know what this is:\n6 weeks to build AI workflows that make your journalism faster, sharper, and better sourced.\n\nIf you're ready:\nComment \"UPGRADE\" for details.\n\nSee you inside.\n\n---\n\n## POST FORMATTING NOTES\n\n### Hook Patterns That Work\n- Direct statement (no preamble)\n- Surprising statistic\n- Industry reality check\n- Future scenario\n\n### Length Guidelines\n- Sweet spot: 150-200 words\n- Maximum: 250 words\n- Under 100 feels thin\n- Over 300 loses attention\n\n### Hashtag Strategy\n- 2-3 maximum or none\n- Industry-specific (#JournalismTwitter, #MediaIndustry)\n- Avoid generic (#AI, #News)\n\n### Image Pairing\n- Text posts work fine alone\n- Screenshots of tools add credibility\n- Before/after workflow diagrams perform well\n\n---\n\n**Total Posts:** 50\n**Last Updated:** December 2025\n**Source:** Journalist Cohort Transcripts, Industry Research",
+    "preview": "You've read enough. You know what this is: 6 weeks to build AI workflows that make your journalism faster, sharper, and better sourced. If you're ready: Commen…",
+    "wordCount": 132
+  }
+]

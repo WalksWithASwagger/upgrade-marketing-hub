@@ -1,0 +1,506 @@
+[
+  {
+    "number": 1,
+    "title": "AI suggests Humans decide That's not",
+    "category": "PATIENT SAFETY & CLINICAL JUDGMENT",
+    "content": "\"AI suggests. Humans decide. That's not a limitation—that's the design.\"\n— Kris Krug\n\nContext: Core safety principle, opening statement for any healthcare AI conversation",
+    "preview": "\"AI suggests. Humans decide. That's not a limitation—that's the design.\"",
+    "wordCount": 24
+  },
+  {
+    "number": 2,
+    "title": "Patient safety beats efficiency Every single",
+    "category": "PATIENT SAFETY & CLINICAL JUDGMENT",
+    "content": "\"Patient safety beats efficiency. Every single time. No exceptions.\"\n— Dean Shev, VHT.ai\n\nMarketing Angle: Establishes values-first approach, credibility with safety-conscious clinicians",
+    "preview": "\"Patient safety beats efficiency. Every single time. No exceptions.\"",
+    "wordCount": 22
+  },
+  {
+    "number": 3,
+    "title": "The human is never out of",
+    "category": "PATIENT SAFETY & CLINICAL JUDGMENT",
+    "content": "\"The human is never out of the loop. If your AI vendor suggests otherwise, run.\"\n— Kris Krug\n\nContext: Direct warning against autonomous systems, builds trust",
+    "preview": "\"The human is never out of the loop. If your AI vendor suggests otherwise, run.\"",
+    "wordCount": 26
+  },
+  {
+    "number": 4,
+    "title": "Your clinical judgment is primary AI",
+    "category": "PATIENT SAFETY & CLINICAL JUDGMENT",
+    "content": "\"Your clinical judgment is primary. AI is decision support, not decision making.\"\n— Dean Shev, VHT.ai\n\nMarketing Angle: Preserves physician authority and expertise",
+    "preview": "\"Your clinical judgment is primary. AI is decision support, not decision making.\"",
+    "wordCount": 23
+  },
+  {
+    "number": 5,
+    "title": "Algorithmic humility means we acknowledge what",
+    "category": "PATIENT SAFETY & CLINICAL JUDGMENT",
+    "content": "\"Algorithmic humility means we acknowledge what AI can't do. That's longer than the list of what it can.\"\n— Kris Krug\n\nContext: Honest limitations, anti-hype positioning",
+    "preview": "\"Algorithmic humility means we acknowledge what AI can't do. That's longer than the list of what it can.\"",
+    "wordCount": 26
+  },
+  {
+    "number": 6,
+    "title": "I review every AI suggestion before",
+    "category": "PATIENT SAFETY & CLINICAL JUDGMENT",
+    "content": "\"I review every AI suggestion before it touches a patient. That's not inefficiency—that's medicine.\"\n— AI Upgrade Aspirational Participant\n\nContext: Testimonial reinforcing human oversight",
+    "preview": "\"I review every AI suggestion before it touches a patient. That's not inefficiency—that's medicine.\"",
+    "wordCount": 24
+  },
+  {
+    "number": 7,
+    "title": "The original intelligence is yours AI",
+    "category": "PATIENT SAFETY & CLINICAL JUDGMENT",
+    "content": "\"The original intelligence is yours. AI amplifies it. That hierarchy never reverses.\"\n— Kris Krug\n\nMarketing Angle: Empowers clinicians, positions AI as tool not replacement",
+    "preview": "\"The original intelligence is yours. AI amplifies it. That hierarchy never reverses.\"",
+    "wordCount": 25
+  },
+  {
+    "number": 8,
+    "title": "We design for failure modes In",
+    "category": "PATIENT SAFETY & CLINICAL JUDGMENT",
+    "content": "\"We design for failure modes. In healthcare AI, defensive engineering isn't paranoia—it's malpractice prevention.\"\n— Dean Shev, VHT.ai\n\nContext: Technical credibility, understanding of clinical liability",
+    "preview": "\"We design for failure modes. In healthcare AI, defensive engineering isn't paranoia—it's malpractice prevention.\"",
+    "wordCount": 25
+  },
+  {
+    "number": 9,
+    "title": "HIPAA compliance isn't a feature It's",
+    "category": "HIPAA COMPLIANCE & DATA SECURITY",
+    "content": "\"HIPAA compliance isn't a feature. It's the foundation. Everything else builds from there.\"\n— Dean Shev, VHT.ai\n\nContext: Opening for any data security conversation",
+    "preview": "\"HIPAA compliance isn't a feature. It's the foundation. Everything else builds from there.\"",
+    "wordCount": 24
+  },
+  {
+    "number": 10,
+    "title": "If your AI vendor can't show",
+    "category": "HIPAA COMPLIANCE & DATA SECURITY",
+    "content": "\"If your AI vendor can't show you their BAA, don't show them your patient data.\"\n— Kris Krug\n\nMarketing Angle: Practical compliance advice, protective positioning",
+    "preview": "\"If your AI vendor can't show you their BAA, don't show them your patient data.\"",
+    "wordCount": 25
+  },
+  {
+    "number": 11,
+    "title": "Local models where possible Encrypted transmission",
+    "category": "HIPAA COMPLIANCE & DATA SECURITY",
+    "content": "\"Local models where possible. Encrypted transmission always. Your patient data stays protected.\"\n— Dean Shev, VHT.ai\n\nContext: Technical implementation approach",
+    "preview": "\"Local models where possible. Encrypted transmission always. Your patient data stays protected.\"",
+    "wordCount": 20
+  },
+  {
+    "number": 12,
+    "title": "We built healthcare AI systems that",
+    "category": "HIPAA COMPLIANCE & DATA SECURITY",
+    "content": "\"We built healthcare AI systems that process 100,000+ patient interactions. Dean Shev knows every way this can go wrong.\"\n— Kris Krug\n\nMarketing Angle: Credibility through Dean's VHT.ai experience",
+    "preview": "\"We built healthcare AI systems that process 100,000+ patient interactions. Dean Shev knows every way this can go wrong…",
+    "wordCount": 29
+  },
+  {
+    "number": 13,
+    "title": "PHI protection isn't negotiable Every workflow",
+    "category": "HIPAA COMPLIANCE & DATA SECURITY",
+    "content": "\"PHI protection isn't negotiable. Every workflow designed with data security first.\"\n— AI Upgrade Aspirational Participant\n\nContext: Testimonial on privacy-first implementation",
+    "preview": "\"PHI protection isn't negotiable. Every workflow designed with data security first.\"",
+    "wordCount": 21
+  },
+  {
+    "number": 14,
+    "title": "ChatGPT doesn't understand HIPAA Claude doesn't",
+    "category": "HIPAA COMPLIANCE & DATA SECURITY",
+    "content": "\"ChatGPT doesn't understand HIPAA. Claude doesn't know BAA requirements. You need healthcare-specific AI.\"\n— Kris Krug\n\nMarketing Angle: Differentiates generic tools from clinical-grade systems",
+    "preview": "\"ChatGPT doesn't understand HIPAA. Claude doesn't know BAA requirements. You need healthcare-specific AI.\"",
+    "wordCount": 24
+  },
+  {
+    "number": 15,
+    "title": "16 minutes per patient on documentation",
+    "category": "DOCUMENTATION BURDEN RELIEF",
+    "content": "\"16 minutes per patient on documentation. That's 2 hours of typing for every 1 hour of patient care. AI fixes this.\"\n— Kris Krug\n\nContext: Opening hook, concrete pain point",
+    "preview": "\"16 minutes per patient on documentation. That's 2 hours of typing for every 1 hour of patient care. AI fixes this.\"",
+    "wordCount": 30
+  },
+  {
+    "number": 16,
+    "title": "I became a doctor to heal",
+    "category": "DOCUMENTATION BURDEN RELIEF",
+    "content": "\"I became a doctor to heal people, not to be a medical transcriptionist.\"\n— AI Upgrade Aspirational Participant\n\nContext: Emotional pain point, aspirational relief",
+    "preview": "\"I became a doctor to heal people, not to be a medical transcriptionist.\"",
+    "wordCount": 24
+  },
+  {
+    "number": 17,
+    "title": "Documentation time down 75 Patient face",
+    "category": "DOCUMENTATION BURDEN RELIEF",
+    "content": "\"Documentation time down 75%. Patient face time up 60%. Same day. That's what proper AI implementation looks like.\"\n— AI Upgrade Aspirational Participant\n\nContext: Concrete metrics, aspirational outcomes",
+    "preview": "\"Documentation time down 75%. Patient face time up 60%. Same day. That's what proper AI implementation looks like.\"",
+    "wordCount": 28
+  },
+  {
+    "number": 18,
+    "title": "The AI scribes your encounter in",
+    "category": "DOCUMENTATION BURDEN RELIEF",
+    "content": "\"The AI scribes your encounter in your voice, your format. You review and finalize. What took 16 minutes takes 4.\"\n— Dean Shev, VHT.ai\n\nMarketing Angle: Specific workflow, maintains human oversight",
+    "preview": "\"The AI scribes your encounter in your voice, your format. You review and finalize. What took 16 minutes takes 4.\"",
+    "wordCount": 31
+  },
+  {
+    "number": 19,
+    "title": "Your EHR is killing you AI",
+    "category": "DOCUMENTATION BURDEN RELIEF",
+    "content": "\"Your EHR is killing you. AI can't fix bad software, but it can make documentation less painful.\"\n— Kris Krug\n\nContext: Acknowledges real problem, offers realistic solution",
+    "preview": "\"Your EHR is killing you. AI can't fix bad software, but it can make documentation less painful.\"",
+    "wordCount": 27
+  },
+  {
+    "number": 20,
+    "title": "I used to chart until 9pm",
+    "category": "DOCUMENTATION BURDEN RELIEF",
+    "content": "\"I used to chart until 9pm after my last patient at 5pm. Now I'm done when they leave.\"\n— AI Upgrade Aspirational Participant\n\nContext: Quality of life improvement, work-life balance",
+    "preview": "\"I used to chart until 9pm after my last patient at 5pm. Now I'm done when they leave.\"",
+    "wordCount": 30
+  },
+  {
+    "number": 21,
+    "title": "The documentation is still yours The",
+    "category": "DOCUMENTATION BURDEN RELIEF",
+    "content": "\"The documentation is still yours. The byline still says MD. AI just handles the typing.\"\n— Kris Krug\n\nMarketing Angle: Maintains professional ownership and responsibility",
+    "preview": "\"The documentation is still yours. The byline still says MD. AI just handles the typing.\"",
+    "wordCount": 25
+  },
+  {
+    "number": 22,
+    "title": "45 minutes per complex prior auth",
+    "category": "PRIOR AUTHORIZATION HELL",
+    "content": "\"45 minutes per complex prior auth. Insurance clerks overruling your clinical judgment. This is clinical abuse.\"\n— Kris Krug\n\nContext: Visceral pain point, emotional resonance",
+    "preview": "\"45 minutes per complex prior auth. Insurance clerks overruling your clinical judgment. This is clinical abuse.\"",
+    "wordCount": 25
+  },
+  {
+    "number": 23,
+    "title": "AI drafts the prior auth request",
+    "category": "PRIOR AUTHORIZATION HELL",
+    "content": "\"AI drafts the prior auth request, pulls supporting literature, generates peer-to-peer talking points. 45 minutes becomes 10.\"\n— Dean Shev, VHT.ai\n\nMarketing Angle: Concrete workflow, dramatic time savings",
+    "preview": "\"AI drafts the prior auth request, pulls supporting literature, generates peer-to-peer talking points. 45 minutes becom…",
+    "wordCount": 28
+  },
+  {
+    "number": 24,
+    "title": "Prior authorization isn't medicine It's paperwork",
+    "category": "PRIOR AUTHORIZATION HELL",
+    "content": "\"Prior authorization isn't medicine. It's paperwork. AI handles paperwork.\"\n— Kris Krug\n\nContext: Reframes task as administrative, not clinical",
+    "preview": "\"Prior authorization isn't medicine. It's paperwork. AI handles paperwork.\"",
+    "wordCount": 19
+  },
+  {
+    "number": 25,
+    "title": "My prior auth approval rate went",
+    "category": "PRIOR AUTHORIZATION HELL",
+    "content": "\"My prior auth approval rate went up 35% because AI generates better-documented appeals.\"\n— AI Upgrade Aspirational Participant\n\nContext: Unexpected benefit—not just speed, but effectiveness",
+    "preview": "\"My prior auth approval rate went up 35% because AI generates better-documented appeals.\"",
+    "wordCount": 25
+  },
+  {
+    "number": 26,
+    "title": "The insurance company gets the same",
+    "category": "PRIOR AUTHORIZATION HELL",
+    "content": "\"The insurance company gets the same rigor. You just don't do the typing anymore.\"\n— Dean Shev, VHT.ai\n\nMarketing Angle: Maintains quality standards, reduces clinician burden",
+    "preview": "\"The insurance company gets the same rigor. You just don't do the typing anymore.\"",
+    "wordCount": 26
+  },
+  {
+    "number": 27,
+    "title": "Prior auth denials for evidence-based treatments",
+    "category": "PRIOR AUTHORIZATION HELL",
+    "content": "\"Prior auth denials for evidence-based treatments? AI pulls the evidence automatically. Fight fire with systematic documentation.\"\n— Kris Krug\n\nContext: Empowerment through automation",
+    "preview": "\"Prior auth denials for evidence-based treatments? AI pulls the evidence automatically. Fight fire with systematic docu…",
+    "wordCount": 23
+  },
+  {
+    "number": 28,
+    "title": "AI doesn't diagnose AI provides differential",
+    "category": "DIAGNOSTIC ACCURACY & DECISION SUPPORT",
+    "content": "\"AI doesn't diagnose. AI provides differential frameworks, red flags, and evidence synthesis. You still make the call.\"\n— Dean Shev, VHT.ai\n\nContext: Clear boundaries on AI capabilities",
+    "preview": "\"AI doesn't diagnose. AI provides differential frameworks, red flags, and evidence synthesis. You still make the call.\"",
+    "wordCount": 27
+  },
+  {
+    "number": 29,
+    "title": "Your second brain knows current literature",
+    "category": "DIAGNOSTIC ACCURACY & DECISION SUPPORT",
+    "content": "\"Your second brain knows current literature, differential diagnosis frameworks, and red flags for your specialty.\"\n— Kris Krug\n\nMarketing Angle: Knowledge amplification, specialty-specific support",
+    "preview": "\"Your second brain knows current literature, differential diagnosis frameworks, and red flags for your specialty.\"",
+    "wordCount": 24
+  },
+  {
+    "number": 30,
+    "title": "Pattern recognition across thousands of similar",
+    "category": "DIAGNOSTIC ACCURACY & DECISION SUPPORT",
+    "content": "\"Pattern recognition across thousands of similar presentations. That's what AI does better than humans. The clinical judgment? Still yours.\"\n— Dean Shev, VHT.ai\n\nContext: Appropriate use case, maintains human primacy",
+    "preview": "\"Pattern recognition across thousands of similar presentations. That's what AI does better than humans. The clinical ju…",
+    "wordCount": 30
+  },
+  {
+    "number": 31,
+    "title": "I asked my AI 'What am",
+    "category": "DIAGNOSTIC ACCURACY & DECISION SUPPORT",
+    "content": "\"I asked my AI 'What am I missing here?' It flagged a rare presentation I wouldn't have considered. Still my diagnosis. Better support.\"\n— AI Upgrade Aspirational Participant\n\nContext: Safety improvement testimonial",
+    "preview": "\"I asked my AI 'What am I missing here?' It flagged a rare presentation I wouldn't have considered. Still my diagnosis.…",
+    "wordCount": 32
+  },
+  {
+    "number": 32,
+    "title": "The diagnostic decision tree synthesizes evidence",
+    "category": "DIAGNOSTIC ACCURACY & DECISION SUPPORT",
+    "content": "\"The diagnostic decision tree synthesizes evidence, flags guideline updates, suggests pathways. I'm still driving. AI is the map.\"\n— AI Upgrade Aspirational Participant\n\nContext: Good metaphor for support vs. replacement",
+    "preview": "\"The diagnostic decision tree synthesizes evidence, flags guideline updates, suggests pathways. I'm still driving. AI i…",
+    "wordCount": 30
+  },
+  {
+    "number": 33,
+    "title": "Misdiagnosis kills If AI helps you",
+    "category": "DIAGNOSTIC ACCURACY & DECISION SUPPORT",
+    "content": "\"Misdiagnosis kills. If AI helps you consider one more differential, that's life-saving support.\"\n— Kris Krug\n\nMarketing Angle: Stakes-based framing, clinical value",
+    "preview": "\"Misdiagnosis kills. If AI helps you consider one more differential, that's life-saving support.\"",
+    "wordCount": 22
+  },
+  {
+    "number": 34,
+    "title": "32 of physicians under 40 are",
+    "category": "CLINICAL BURNOUT REDUCTION",
+    "content": "\"32% of physicians under 40 are considering leaving clinical practice. Not because they stopped caring. Because the system makes caring impossible.\"\n— Kris Krug\n\nContext: Burnout crisis framing, system critique",
+    "preview": "\"32% of physicians under 40 are considering leaving clinical practice. Not because they stopped caring. Because the sys…",
+    "wordCount": 30
+  },
+  {
+    "number": 35,
+    "title": "AI won't fix healthcare But it",
+    "category": "CLINICAL BURNOUT REDUCTION",
+    "content": "\"AI won't fix healthcare. But it might make it survivable for the clinicians still trying.\"\n— Kris Krug\n\nMarketing Angle: Realistic, not utopian, speaks to exhaustion",
+    "preview": "\"AI won't fix healthcare. But it might make it survivable for the clinicians still trying.\"",
+    "wordCount": 26
+  },
+  {
+    "number": 36,
+    "title": "I was drowning in documentation prior",
+    "category": "CLINICAL BURNOUT REDUCTION",
+    "content": "\"I was drowning in documentation, prior auth, and inbox management. AI threw me a life preserver.\"\n— AI Upgrade Aspirational Participant\n\nContext: Survival metaphor, emotional resonance",
+    "preview": "\"I was drowning in documentation, prior auth, and inbox management. AI threw me a life preserver.\"",
+    "wordCount": 26
+  },
+  {
+    "number": 37,
+    "title": "The work that made me want",
+    "category": "CLINICAL BURNOUT REDUCTION",
+    "content": "\"The work that made me want to quit? AI handles it now. The work that made me want to be a doctor? That's what I do all day.\"\n— AI Upgrade Aspirational Participant\n\nContext: Reclaiming purpose, powerful emotional hook",
+    "preview": "\"The work that made me want to quit? AI handles it now. The work that made me want to be a doctor? That's what I do all…",
+    "wordCount": 39
+  },
+  {
+    "number": 38,
+    "title": "Burnout isn't about being weak It's",
+    "category": "CLINICAL BURNOUT REDUCTION",
+    "content": "\"Burnout isn't about being weak. It's about being crushed by administrative waste. AI removes the waste.\"\n— Dean Shev, VHT.ai\n\nMarketing Angle: Reframes burnout as system failure, not personal failure",
+    "preview": "\"Burnout isn't about being weak. It's about being crushed by administrative waste. AI removes the waste.\"",
+    "wordCount": 30
+  },
+  {
+    "number": 39,
+    "title": "I was considering leaving medicine Now",
+    "category": "CLINICAL BURNOUT REDUCTION",
+    "content": "\"I was considering leaving medicine. Now I'm considering staying. That's what better tools can do.\"\n— AI Upgrade Aspirational Participant\n\nContext: Retention message, career-saving impact",
+    "preview": "\"I was considering leaving medicine. Now I'm considering staying. That's what better tools can do.\"",
+    "wordCount": 25
+  },
+  {
+    "number": 40,
+    "title": "We don't teach AI tools We",
+    "category": "CLINICAL WORKFLOW METHODOLOGY",
+    "content": "\"We don't teach AI tools. We teach systematic clinical workflow design. The AI is just the implementation layer.\"\n— Dean Shev, VHT.ai\n\nContext: Methodology-first approach, not tool-focused",
+    "preview": "\"We don't teach AI tools. We teach systematic clinical workflow design. The AI is just the implementation layer.\"",
+    "wordCount": 27
+  },
+  {
+    "number": 41,
+    "title": "Time-motion analysis of your clinical day",
+    "category": "CLINICAL WORKFLOW METHODOLOGY",
+    "content": "\"Time-motion analysis of your clinical day reveals where the MD-required work actually is. Usually 30%. AI handles the rest.\"\n— Kris Krug\n\nMarketing Angle: Efficiency analysis, respect for expertise",
+    "preview": "\"Time-motion analysis of your clinical day reveals where the MD-required work actually is. Usually 30%. AI handles the…",
+    "wordCount": 29
+  },
+  {
+    "number": 42,
+    "title": "Human-in-the-loop isn't a buzzword It's the",
+    "category": "CLINICAL WORKFLOW METHODOLOGY",
+    "content": "\"Human-in-the-loop isn't a buzzword. It's the architectural principle. Every workflow designed with human verification.\"\n— Dean Shev, VHT.ai\n\nContext: Technical implementation philosophy",
+    "preview": "\"Human-in-the-loop isn't a buzzword. It's the architectural principle. Every workflow designed with human verification.\"",
+    "wordCount": 22
+  },
+  {
+    "number": 43,
+    "title": "We build second brains for clinicians",
+    "category": "CLINICAL WORKFLOW METHODOLOGY",
+    "content": "\"We build second brains for clinicians. Not replacements—augmentation. Your knowledge, amplified and accessible.\"\n— Kris Krug\n\nMarketing Angle: Second brain terminology, knowledge management",
+    "preview": "\"We build second brains for clinicians. Not replacements—augmentation. Your knowledge, amplified and accessible.\"",
+    "wordCount": 23
+  },
+  {
+    "number": 44,
+    "title": "Clinical AI implementation fails when vendors",
+    "category": "CLINICAL WORKFLOW METHODOLOGY",
+    "content": "\"Clinical AI implementation fails when vendors ignore workflow. We start with your actual day, then design tools that fit.\"\n— Dean Shev, VHT.ai\n\nContext: Differentiation from vendor-driven implementations",
+    "preview": "\"Clinical AI implementation fails when vendors ignore workflow. We start with your actual day, then design tools that f…",
+    "wordCount": 28
+  },
+  {
+    "number": 45,
+    "title": "The capstone project isn't a demo",
+    "category": "CLINICAL WORKFLOW METHODOLOGY",
+    "content": "\"The capstone project isn't a demo. It's a production tool you'll use Monday morning. That's the standard.\"\n— Kris Krug\n\nMarketing Angle: Practical outcomes, real-world application",
+    "preview": "\"The capstone project isn't a demo. It's a production tool you'll use Monday morning. That's the standard.\"",
+    "wordCount": 26
+  },
+  {
+    "number": 46,
+    "title": "Dean Shev built AI systems at",
+    "category": "DEAN SHEV'S HEALTHCARE AI EXPERTISE",
+    "content": "\"Dean Shev built AI systems at VHT.ai that process 100,000+ patient interactions. He's seen every failure mode in clinical AI.\"\n— Kris Krug\n\nContext: Credibility establishment, healthcare-specific experience",
+    "preview": "\"Dean Shev built AI systems at VHT.ai that process 100,000+ patient interactions. He's seen every failure mode in clini…",
+    "wordCount": 28
+  },
+  {
+    "number": 47,
+    "title": "Healthcare AI is different The stakes",
+    "category": "DEAN SHEV'S HEALTHCARE AI EXPERTISE",
+    "content": "\"Healthcare AI is different. The stakes are higher. The regulations are stricter. The failures kill people. Dean knows this.\"\n— Kris Krug\n\nMarketing Angle: Emphasizes healthcare-specific expertise",
+    "preview": "\"Healthcare AI is different. The stakes are higher. The regulations are stricter. The failures kill people. Dean knows…",
+    "wordCount": 27
+  },
+  {
+    "number": 48,
+    "title": "We're not learning AI from tech",
+    "category": "DEAN SHEV'S HEALTHCARE AI EXPERTISE",
+    "content": "\"We're not learning AI from tech people. We're learning healthcare AI from someone who builds it for hospitals.\"\n— AI Upgrade Aspirational Participant\n\nContext: Participant testimonial about instructor credibility",
+    "preview": "\"We're not learning AI from tech people. We're learning healthcare AI from someone who builds it for hospitals.\"",
+    "wordCount": 29
+  },
+  {
+    "number": 49,
+    "title": "Dean's VHTai work in Vancouver Health",
+    "category": "DEAN SHEV'S HEALTHCARE AI EXPERTISE",
+    "content": "\"Dean's VHT.ai work in Vancouver Health Tech gave him clinical workflow understanding most AI engineers never get.\"\n— Kris Krug\n\nMarketing Angle: Vancouver connection, clinical domain expertise",
+    "preview": "\"Dean's VHT.ai work in Vancouver Health Tech gave him clinical workflow understanding most AI engineers never get.\"",
+    "wordCount": 27
+  },
+  {
+    "number": 50,
+    "title": "The healthcare AI landscape is full",
+    "category": "DEAN SHEV'S HEALTHCARE AI EXPERTISE",
+    "content": "\"The healthcare AI landscape is full of dangerous implementations. Dean teaches defensive design—how to build systems that fail safely.\"\n— Kris Krug\n\nContext: Safety-first framing, risk mitigation expertise",
+    "preview": "\"The healthcare AI landscape is full of dangerous implementations. Dean teaches defensive design—how to build systems t…",
+    "wordCount": 28
+  },
+  {
+    "number": 51,
+    "title": "You're not learning from AI hype",
+    "category": "DEAN SHEV'S HEALTHCARE AI EXPERTISE",
+    "content": "\"You're not learning from AI hype merchants. You're learning from someone who deploys these systems in actual clinical settings.\"\n— Kris Krug\n\nMarketing Angle: Anti-hype, practical experience positioning",
+    "preview": "\"You're not learning from AI hype merchants. You're learning from someone who deploys these systems in actual clinical…",
+    "wordCount": 28
+  },
+  {
+    "number": 52,
+    "title": "Healthcare AI should lift clinicians up",
+    "category": "HEALTHCARE TRANSFORMATION VISION",
+    "content": "\"Healthcare AI should lift clinicians up, not replace them. That's not sentiment—that's strategy.\"\n— Kris Krug\n\nContext: Vision statement, values clarity",
+    "preview": "\"Healthcare AI should lift clinicians up, not replace them. That's not sentiment—that's strategy.\"",
+    "wordCount": 21
+  },
+  {
+    "number": 53,
+    "title": "The future of healthcare isn't fewer",
+    "category": "HEALTHCARE TRANSFORMATION VISION",
+    "content": "\"The future of healthcare isn't fewer clinicians with more AI. It's same clinicians with less bullshit.\"\n— Kris Krug\n\nMarketing Angle: Irreverent, memorable, accurate",
+    "preview": "\"The future of healthcare isn't fewer clinicians with more AI. It's same clinicians with less bullshit.\"",
+    "wordCount": 24
+  },
+  {
+    "number": 54,
+    "title": "Patient care should be 80 of",
+    "category": "HEALTHCARE TRANSFORMATION VISION",
+    "content": "\"Patient care should be 80% of your day, not 30%. AI makes that math possible.\"\n— Dean Shev, VHT.ai\n\nContext: Vision of proper clinical time allocation",
+    "preview": "\"Patient care should be 80% of your day, not 30%. AI makes that math possible.\"",
+    "wordCount": 26
+  },
+  {
+    "number": 55,
+    "title": "We're not building autonomous diagnostic systems",
+    "category": "HEALTHCARE TRANSFORMATION VISION",
+    "content": "\"We're not building autonomous diagnostic systems. We're building tools that let humans do human work.\"\n— Kris Krug\n\nMarketing Angle: Human-centric AI vision",
+    "preview": "\"We're not building autonomous diagnostic systems. We're building tools that let humans do human work.\"",
+    "wordCount": 23
+  },
+  {
+    "number": 56,
+    "title": "Rural healthcare is dying from doctor",
+    "category": "HEALTHCARE TRANSFORMATION VISION",
+    "content": "\"Rural healthcare is dying from doctor shortage. AI doesn't replace doctors—it makes one doctor more effective. That's survival.\"\n— AI Upgrade Aspirational Participant\n\nContext: Rural healthcare application, mission-critical framing",
+    "preview": "\"Rural healthcare is dying from doctor shortage. AI doesn't replace doctors—it makes one doctor more effective. That's…",
+    "wordCount": 29
+  },
+  {
+    "number": 57,
+    "title": "The clinicians who thrive in 2025",
+    "category": "HEALTHCARE TRANSFORMATION VISION",
+    "content": "\"The clinicians who thrive in 2025 aren't the ones who work harder. They're the ones who work with better tools.\"\n— Kris Krug\n\nMarketing Angle: Smart work vs. hard work reframe",
+    "preview": "\"The clinicians who thrive in 2025 aren't the ones who work harder. They're the ones who work with better tools.\"",
+    "wordCount": 31
+  },
+  {
+    "number": 58,
+    "title": "You don't have time to learn",
+    "category": "CALLS TO ACTION",
+    "content": "\"You don't have time to learn AI tools. You don't have time NOT to. That 15 hours per week in documentation? You could get it back.\"\n— Kris Krug\n\nContext: Objection handling, urgency creation",
+    "preview": "\"You don't have time to learn AI tools. You don't have time NOT to. That 15 hours per week in documentation? You could…",
+    "wordCount": 34
+  },
+  {
+    "number": 59,
+    "title": "Every week you wait is another",
+    "category": "CALLS TO ACTION",
+    "content": "\"Every week you wait is another week of 45-minute prior auth hell. Start now.\"\n— Kris Krug\n\nMarketing Angle: Opportunity cost framing",
+    "preview": "\"Every week you wait is another week of 45-minute prior auth hell. Start now.\"",
+    "wordCount": 22
+  },
+  {
+    "number": 60,
+    "title": "The best time to learn clinical",
+    "category": "CALLS TO ACTION",
+    "content": "\"The best time to learn clinical AI was 2 years ago. The second best time is right now.\"\n— Kris Krug\n\nContext: Urgency without panic, action orientation",
+    "preview": "\"The best time to learn clinical AI was 2 years ago. The second best time is right now.\"",
+    "wordCount": 27
+  },
+  {
+    "number": 61,
+    "title": "Your competitors are already using AI",
+    "category": "CALLS TO ACTION",
+    "content": "\"Your competitors are already using AI. Your patients deserve a clinician who is too.\"\n— Kris Krug\n\nMarketing Angle: Competitive pressure plus patient care framing",
+    "preview": "\"Your competitors are already using AI. Your patients deserve a clinician who is too.\"",
+    "wordCount": 25
+  },
+  {
+    "number": 62,
+    "title": "6 weeks of investment 15 hours",
+    "category": "CALLS TO ACTION",
+    "content": "\"6 weeks of investment. 15 hours per week returned. Every week. For your entire career. That's the math.\"\n— Kris Krug\n\nContext: ROI calculation, concrete value proposition",
+    "preview": "\"6 weeks of investment. 15 hours per week returned. Every week. For your entire career. That's the math.\"",
+    "wordCount": 27
+  },
+  {
+    "number": 63,
+    "title": "Applications close DATE Small cohorts mean",
+    "category": "CALLS TO ACTION",
+    "content": "\"Applications close [DATE]. Small cohorts mean limited spots. If you're considering it, apply.\"\n— Kris Krug\n\nMarketing Angle: Scarcity, clear call to action",
+    "preview": "\"Applications close [DATE]. Small cohorts mean limited spots. If you're considering it, apply.\"",
+    "wordCount": 23
+  }
+]

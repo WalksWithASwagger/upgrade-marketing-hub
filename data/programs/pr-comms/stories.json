@@ -1,0 +1,82 @@
+[
+  {
+    "number": 1,
+    "title": "Lizzie — From \"Cutting Corners\" Fear to \"Best Ever Received\"",
+    "category": "COHORT 3 STORIES (September-October 2025)",
+    "content": "**Background:**\n- PR professional handling post-campaign coverage recaps\n- Traditionally delivered PowerPoint or PDF reports\n- Initial concern about client perception of AI use\n\n**The Fear (Week 1):**\n> \"Will clients think I'm cutting corners if I use AI?\"\n\n**The Transformation:**\n- **Week 5:** Discovered Lovable.dev for interactive web experiences\n- **Week 6:** Built interactive coverage recap website with:\n  - Sentiment visualization\n  - Filterable sections\n  - Client self-service exploration\n- **Time invested:** 6-7 hours (including learning curve)\n- **Traditional alternative:** \"Weeks and thousands of dollars\" with a developer\n\n**The Outcome:**\n> \"The client was blown away. They said it was the **best coverage recap they'd ever received.**\"\n\n**Key Decision:**\nDisclosed AI use (ChatGPT for sentiment analysis, Lovable for dashboard). Client focused entirely on deliverable quality—zero concern about process.\n\n**Peer Validation:**\n> \"Lizzie, I love this so much. I'm definitely going to steal this idea for my own client work.\" — Allison Stout\n\n**ROI:**\nFirst deliverable savings exceeded course tuition cost.\n\n**Marketing Angle:**\nFrom \"will clients judge me?\" to \"best they've ever received.\" That's the Week 1 → Week 6 arc. Transparency + quality = trust.\n\n---",
+    "preview": "**Background:** - PR professional handling post-campaign coverage recaps - Traditionally delivered PowerPoint or PDF reports - Initial concern about client per…",
+    "wordCount": 186
+  },
+  {
+    "number": 2,
+    "title": "Simone — From Confidentiality Concerns to Client Delight",
+    "category": "COHORT 3 STORIES (September-October 2025)",
+    "content": "**Background:**\n- PR professional handling sensitive client information\n- Concerned about data privacy and AI platforms\n- Initial skepticism about time savings\n\n**The Journey:**\n- **Week 1:** Concerned about confidentiality with client information\n- **Week 2:** Skeptical about ROI (\"How much faster if you've already done briefing work?\")\n- **Week 5:** Struggled with Lovable initially, discovered meta-AI pattern (ChatGPT writing Lovable prompts)\n- **Week 6:** Deployed interactive media monitoring dashboards\n\n**The Solution Found:**\nFocused on public data (media monitoring) where confidentiality wasn't at risk. AI for acceleration, human for strategic context.\n\n**Time Transformation:**\n- **Before:** Manual 6-hour process converting monitoring data to PDF reports\n- **After:**\n  - First dashboard: 60-75 minutes\n  - Second dashboard: 20-25 minutes (template reuse)\n  - Subsequent: ~90% component reuse\n\n**Client Response:**\n> \"They've loved it! They're so used to getting these PDF reports that they have to scroll through, and now they can actually explore the data themselves.\"\n\n**Future Plans:**\n> \"Definitely thinking about how to templatize it so that we could use it for multiple clients.\"\n\n**Marketing Angle:**\nFound a path that respects ethics AND delivers results. Confidentiality concerns addressed through strategic tool selection, not avoidance.\n\n---",
+    "preview": "**Background:** - PR professional handling sensitive client information - Concerned about data privacy and AI platforms - Initial skepticism about time savings…",
+    "wordCount": 192
+  },
+  {
+    "number": 3,
+    "title": "Allison Stout — From Heavy ChatGPT User to Strategic Practitioner",
+    "category": "COHORT 3 STORIES (September-October 2025)",
+    "content": "**Background:**\n- PR professional in hospitality/wine industry\n- Already using ChatGPT \"hours every day\"\n- Missing custom assistants, system prompts, strategic approach\n\n**The Gap:**\nKnew ChatGPT but didn't know how to:\n- Build custom assistants\n- Write effective system prompts\n- Structure knowledge bases\n- Move beyond basic prompting\n\n**The Transformation:**\n- **Capstone:** Comprehensive winery PR plan for Vina Rosa\n- **Time:** 4-5 hours (vs. 24-32 hours traditional)\n- **Savings:** 85% time reduction\n- **Tools:** Perplexity (research) → ChatGPT (content) → Gamma (presentation)\n\n**Client Response:**\n> \"They loved it! They were really impressed with how comprehensive it was and how actionable it was. They've already started implementing some of the recommendations.\"\n\n**Key Learning:**\n> \"AI is a great starting point, but you always need to add that human touch.\"\n\n**Marketing Angle:**\nEven if you're already using AI daily, there's a strategic level above basic prompting. That's what we teach.\n\n---",
+    "preview": "**Background:** - PR professional in hospitality/wine industry - Already using ChatGPT \"hours every day\" - Missing custom assistants, system prompts, strategic…",
+    "wordCount": 150
+  },
+  {
+    "number": 4,
+    "title": "Sarah — From Overwhelmed to Executive Advisor",
+    "category": "COHORT 3 STORIES (September-October 2025)",
+    "content": "**Background:**\n- Corporate communications professional\n- Feeling overwhelmed by pace of AI change\n- Wanted to become expert resource for executives\n\n**Week 1 State:**\n> \"I want to get my arms around AI because I feel like it's like a little wild west now... Total anxiety about how fast that it moves.\"\n\n**Goal:**\nBecome the AI expert her executives could rely on for guidance.\n\n**The Transformation:**\n- **Capstone:** SXSW comprehensive research report\n- **Time savings:** 10-15 hours vs. manual research\n- **Methodology:** Collaborative iteration (Draft → Edit → Reorganize → Iterate)\n\n**Key Philosophy Developed:**\n> \"And I think that's been one of my biggest learnings from this course - AI is a tool, and like any tool, you need to know how to use it effectively.\"\n\n**Outcome:**\nAchieved Week 1 goal—became confident practitioner able to advise leadership.\n\n**Marketing Angle:**\nFrom \"anxious about the wild west\" to confident executive advisor. Structured learning transforms overwhelm into expertise.\n\n---",
+    "preview": "**Background:** - Corporate communications professional - Feeling overwhelmed by pace of AI change - Wanted to become expert resource for executives **Week 1 S…",
+    "wordCount": 156
+  },
+  {
+    "number": 5,
+    "title": "Susan — From Static Annual Reports to Live Impact Dashboards",
+    "category": "COHORT 3 STORIES (September-October 2025)",
+    "content": "**Background:**\n- Nonprofit communications professional\n- Responsible for donor communications and annual reports\n- Donors not engaging with traditional PDF reports\n\n**The Challenge:**\nStatic annual reports weren't connecting with donors. Needed a more engaging way to demonstrate impact.\n\n**The Transformation:**\n- **Capstone:** Interactive impact tracker dashboard\n- **Technical achievement:** Connected live Google Sheets data (non-technical communicator)\n- **Features:** Real-time updates, explorable data visualization\n\n**Stakeholder Response:**\n> \"Really excited... such a different way of presenting.\"\n\n**Future Plans:**\nPublic-facing version for fundraising campaigns.\n\n**Marketing Angle:**\nNon-technical communicator building live data dashboards. The technical barrier is gone.\n\n---",
+    "preview": "**Background:** - Nonprofit communications professional - Responsible for donor communications and annual reports - Donors not engaging with traditional PDF re…",
+    "wordCount": 95
+  },
+  {
+    "number": 6,
+    "title": "Eric — From Individual User to Enterprise Enabler",
+    "category": "COHORT 3 STORIES (September-October 2025)",
+    "content": "**Background:**\n- Communications lead at Roblox\n- Managing 25-person global team\n- Needed framework for team-wide AI adoption\n\n**The Challenge:**\nIndividual AI use is easy. Scaling AI adoption across a 25-person global team is hard.\n\n**The Transformation:**\n- **Capstone:** Comprehensive AI playbook for communications team\n- **Format:** Gamma presentation + rollout strategy\n- **Future vision:** Custom GPT interface for 24/7 team access\n\n**Innovation:**\nMulti-modal learning approach—static playbook for reference, conversational AI interface for implementation.\n\n**Organizational Impact:**\nEnterprise-wide AI transformation initiated from course learning.\n\n**Marketing Angle:**\nFrom personal productivity to organizational transformation. The skills scale beyond individual use.\n\n---",
+    "preview": "**Background:** - Communications lead at Roblox - Managing 25-person global team - Needed framework for team-wide AI adoption **The Challenge:** Individual AI…",
+    "wordCount": 98
+  },
+  {
+    "number": 7,
+    "title": "Allison Grant — From Impossible Dream to $7 Productions",
+    "category": "COHORT 3 STORIES (September-October 2025)",
+    "content": "**Background:**\n- Communications professional with creative ambitions\n- Wanted to create kids' educational content (Story Trains)\n- No animation skills, no voice acting budget, no production team\n\n**The Challenge:**\nTraditional kids' content production: $4,000-9,000 per episode. Impossible for solo creator.\n\n**The Transformation:**\n- **Capstone:** End-to-end AI production pipeline\n- **Tools:** ChatGPT (scripts) + ElevenLabs (voice) + AI animation\n- **Cost:** ~$7-12 per episode\n- **Result:** Professional multimedia production accessible to solo creator\n\n**Key Quote:**\n> \"Completely impossible for me to create on my own before AI.\"\n\n**Marketing Angle:**\nDemocratization of professional production. Capabilities that required teams and budgets now accessible to individuals.\n\n---",
+    "preview": "**Background:** - Communications professional with creative ambitions - Wanted to create kids' educational content (Story Trains) - No animation skills, no voi…",
+    "wordCount": 103
+  },
+  {
+    "number": 8,
+    "title": "Kyle Lindsay — The Synthetic Audience Innovator",
+    "category": "COHORT 4 STORIES (November 2025, In Progress)",
+    "content": "**Background:**\n- PR professional focused on crisis communications\n- Wanted to test messaging before deployment\n- Developed concept that instructor called \"freaking genius\"\n\n**The Innovation:**\nSynthetic audience simulation for crisis message testing:\n- Define 4 prime customer targets\n- Build into 4,000 synthetic audience members\n- Run simulations testing crisis messages\n- Know how messaging lands before deployment\n\n**Instructor Reaction:**\n> \"If I could come to the table with my four prime customer targets, build that into 4,000 synthetic audience members, and run simulations testing messages... It's freaking genius.\" — Kris Krug\n\n**Marketing Angle:**\nTest before you deploy. Know how your crisis messaging lands before it goes live. That's the innovation emerging from this course.\n\n---",
+    "preview": "**Background:** - PR professional focused on crisis communications - Wanted to test messaging before deployment - Developed concept that instructor called \"fre…",
+    "wordCount": 116
+  },
+  {
+    "number": 9,
+    "title": "Joe Ki — The Journalism-PR Bridge Builder",
+    "category": "COHORT 4 STORIES (November 2025, In Progress)",
+    "content": "**Background:**\n- Lebanese-American journalist\n- Host of The Diplomat (geopolitics focus)\n- Deep concerns about identity in AI era\n\n**The Concern:**\n> \"I'm concerned not just about our careers, but our identities.\"\n\n**Capstone Direction:**\nNotebookLM curriculum support resources for teaching AI communication—bridging journalism expertise with PR education.\n\n**Contribution to Cohort:**\nRaised critical questions about AI content detection and platform shadow banning that shaped class discussion.\n\n**Key Insight Shared:**\n> \"Every account using a lot of AI in terms of content creation, it will shadow ban them and make them not prioritized in anyone's feeds.\"\n\n**Marketing Angle:**\nWe don't just teach AI use—we teach responsible AI use. Understanding platform dynamics matters.\n\n---",
+    "preview": "**Background:** - Lebanese-American journalist - Host of The Diplomat (geopolitics focus) - Deep concerns about identity in AI era **The Concern:** > \"I'm conc…",
+    "wordCount": 111
+  },
+  {
+    "number": 10,
+    "title": "Sarah Shlafel — Union Communications Transformation",
+    "category": "COHORT 4 STORIES (November 2025, In Progress)",
+    "content": "**Background:**\n- Director of PR & Communications at Iron Workers union\n- Traditional industry, skeptical about AI\n- Key question about job displacement\n\n**The Question:**\n> \"How can AI help us do a better job instead of replacing staff?\"\n\n**Capstone Direction:**\nTwo potential projects:\n1. Media relations tool for finding broadcast journalists\n2. Social automation via Zapier + Buffer\n\n**Instructor Assessment:**\nBoth achievable in 15 minutes with proper guidance.\n\n**Marketing Angle:**\nEven in traditional industries with legitimate displacement concerns, AI can help teams do better work without replacing people. It's about augmentation.\n\n---\n\n\n### The 4-15 Hour Pattern\nMost capstones represented 4-15 hours of AI-augmented work replacing:\n- Weeks of traditional effort\n- Thousands in contractor/developer costs\n- Specialized skills (coding, design, data analysis)\n\n### The \"Best Ever Received\" Pattern\nMultiple students heard variations of:\n- \"Best coverage recap they'd ever received\"\n- \"Loved it... so used to getting PDF reports\"\n- \"Really excited... such a different way of presenting\"\n- \"Really impressed... already implementing recommendations\"\n\n### The Template Multiplier\nStudents discovered scaling patterns:\n- Build once → Deploy across portfolio\n- First project: 10 hours\n- Tenth project: 30 minutes\n- Efficiency multiplier: 6-7x after multiple deployments\n\n---\n\n## STORY USAGE GUIDE\n\n### For Email Subject Lines\n- \"From 'Cutting Corners' to 'Best Ever Received'\" (Lizzie)\n- \"How One PR Pro Saved 85% on Strategic Planning\" (Allison Stout)\n- \"$7 Per Episode vs. $4,000\" (Allison Grant)\n\n### For Social Proof\n- Client delight stories: Lizzie, Simone, Allison Stout\n- Cost savings: Allison Grant, Lizzie\n- Enterprise scale: Eric\n\n### For Relatable Journeys\n- Overwhelmed → Confident: Sarah\n- Skeptical → Believer: Simone\n- Heavy user → Strategic user: Allison Stout\n\n### For Addressing Concerns\n- Confidentiality: Simone\n- Client perception: Lizzie\n- Job displacement: Sarah Shlafel\n- Identity: Joe Ki\n\n---\n\n**Total Stories:** 10\n**Last Updated:** December 2025\n**Source:** Cohorts 3-4 Transcripts + PR-Comms Playbook",
+    "preview": "**Background:** - Director of PR & Communications at Iron Workers union - Traditional industry, skeptical about AI - Key question about job displacement **The…",
+    "wordCount": 316
+  }
+]

@@ -1,0 +1,498 @@
+[
+  {
+    "number": 1,
+    "title": "It's pretty amazing to spend a",
+    "category": "Creative Identity",
+    "content": "\"It's pretty amazing to spend a whole day in the garden with a cyborg. Spending the day with my robot is pretty amazing.\"\n— Julie, Cohort 7 Student\n\nContext: Describing her experience using AI for plant identification while gardening\nMarketing Angle: AI as creative companion, not replacement. Human-AI collaboration feels natural.",
+    "preview": "\"It's pretty amazing to spend a whole day in the garden with a cyborg. Spending the day with my robot is pretty amazing…",
+    "wordCount": 51
+  },
+  {
+    "number": 2,
+    "title": "Will AI replace me is the",
+    "category": "Creative Identity",
+    "content": "\"Will AI replace me?\" is the wrong question. The right question is: \"How do I become irreplaceable WITH AI?\"\n— Course Philosophy\n\nMarketing Angle: Reframe fear into empowerment. Lead with identity transformation.",
+    "preview": "\"Will AI replace me?\" is the wrong question. The right question is: \"How do I become irreplaceable WITH AI?\"",
+    "wordCount": 32
+  },
+  {
+    "number": 3,
+    "title": "We tend to overestimate the effect",
+    "category": "Technology Cycles",
+    "content": "\"We tend to overestimate the effect of technology in the short run and underestimate the effect in the long run.\"\n— Dr. Roy Amara (cited by instructors)\n\nContext: Opening framework for understanding AI's trajectory\nMarketing Angle: Long-term perspective, not hype-driven anxiety.",
+    "preview": "\"We tend to overestimate the effect of technology in the short run and underestimate the effect in the long run.\"",
+    "wordCount": 41
+  },
+  {
+    "number": 4,
+    "title": "This is my third trip around",
+    "category": "Technology Cycles",
+    "content": "\"This is my third trip around the sun—Web 1.0, Web 2.0, and now AI. The pattern is always the same: initial panic, then adaptation, then opportunity.\"\n— Kris Krug\n\nMarketing Angle: Experience-based wisdom. We've navigated disruption before.",
+    "preview": "\"This is my third trip around the sun—Web 1.0, Web 2.0, and now AI. The pattern is always the same: initial panic, then…",
+    "wordCount": 37
+  },
+  {
+    "number": 5,
+    "title": "If the models don't get any",
+    "category": "Current Reality",
+    "content": "\"If the models don't get any better than they are today in November 2025, our world has already changed. The world may not know it yet, but generative AI is already revolutionizing knowledge work.\"\n— Peter Bittner\n\nMarketing Angle: No waiting for GPT-5. Current tools are transformative NOW.",
+    "preview": "\"If the models don't get any better than they are today in November 2025, our world has already changed. The world may…",
+    "wordCount": 48
+  },
+  {
+    "number": 6,
+    "title": "Assume nothing online is real That's",
+    "category": "Current Reality",
+    "content": "\"Assume nothing online is real. That's not cynicism—it's the baseline for operating in 2025.\"\n— Course Teaching\n\nMarketing Angle: Ethics and media literacy as core skills, not afterthoughts.",
+    "preview": "\"Assume nothing online is real. That's not cynicism—it's the baseline for operating in 2025.\"",
+    "wordCount": 28
+  },
+  {
+    "number": 7,
+    "title": "I like to think of it",
+    "category": "System Prompts",
+    "content": "\"I like to think of it as writing a job description for a really smart intern. What do they need to know on day one to be effective?\"\n— Kris Krug\n\nContext: Explaining how to write system prompts for custom GPTs\nMarketing Angle: Demystifies technical concepts. Accessible to non-developers.",
+    "preview": "\"I like to think of it as writing a job description for a really smart intern. What do they need to know on day one to…",
+    "wordCount": 49
+  },
+  {
+    "number": 8,
+    "title": "The quality of your knowledge base",
+    "category": "Knowledge Bases",
+    "content": "\"The quality of your knowledge base determines the quality of your assistant.\"\n— Kris Krug\n\nContext: Teaching knowledge base architecture\nMarketing Angle: Your expertise is the foundation. AI amplifies what you bring.",
+    "preview": "\"The quality of your knowledge base determines the quality of your assistant.\"",
+    "wordCount": 32
+  },
+  {
+    "number": 9,
+    "title": "About 15-20 substantial documents You don't",
+    "category": "Knowledge Bases",
+    "content": "\"About 15-20 substantial documents. You don't need hundreds. Quality over quantity.\"\n— Kris Krug\n\nContext: Guidance on knowledge base size\nMarketing Angle: Approachable, not overwhelming. Start small.",
+    "preview": "\"About 15-20 substantial documents. You don't need hundreds. Quality over quantity.\"",
+    "wordCount": 27
+  },
+  {
+    "number": 10,
+    "title": "The key insight is you don't",
+    "category": "Tool Selection",
+    "content": "\"The key insight is: you don't always need an agent. Sometimes an assistant is exactly right. Sometimes an automation is what you need. The skill is knowing which tool fits the job.\"\n— Peter Bittner\n\nContext: Introducing the Agentic Spectrum (Assistants → Automations → Agents)\nMarketing Angle: Strategic thinking, not tool worship. Framework-first approach.",
+    "preview": "\"The key insight is: you don't always need an agent. Sometimes an assistant is exactly right. Sometimes an automation i…",
+    "wordCount": 54
+  },
+  {
+    "number": 11,
+    "title": "Don't reach for the most complex",
+    "category": "Tool Selection",
+    "content": "\"Don't reach for the most complex solution. Start simple, add complexity only when needed.\"\n— Peter Bittner\n\nMarketing Angle: Permission to start simple. Anti-overwhelm messaging.",
+    "preview": "\"Don't reach for the most complex solution. Start simple, add complexity only when needed.\"",
+    "wordCount": 25
+  },
+  {
+    "number": 12,
+    "title": "Start with an assistant If you",
+    "category": "Tool Selection",
+    "content": "\"Start with an assistant. If you find yourself needing multiple steps that happen automatically, connections to other tools, or more autonomy—then consider automations or agents. But 80% of the time, a well-built assistant is enough.\"\n— Peter Bittner\n\nMarketing Angle: Most problems have simple solutions. We teach discernment.",
+    "preview": "\"Start with an assistant. If you find yourself needing multiple steps that happen automatically, connections to other t…",
+    "wordCount": 48
+  },
+  {
+    "number": 13,
+    "title": "Persona Objective Parameters That's it Three",
+    "category": "the POP Framework",
+    "content": "\"Persona, Objective, Parameters. That's it. Three elements that work across every AI platform.\"\n— Course Framework\n\nMarketing Angle: Universal framework, not platform-specific training.",
+    "preview": "\"Persona, Objective, Parameters. That's it. Three elements that work across every AI platform.\"",
+    "wordCount": 23
+  },
+  {
+    "number": 14,
+    "title": "Multiple iterations The first version was",
+    "category": "Building",
+    "content": "\"Multiple iterations. The first version was way too generic. I kept testing it, seeing where it went wrong, and tightening the instructions.\"\n— Kris Krug\n\nContext: Discussing how he refined the Elder Tide assistant\nMarketing Angle: Honest about the process. No magic, just iteration.",
+    "preview": "\"Multiple iterations. The first version was way too generic. I kept testing it, seeing where it went wrong, and tighten…",
+    "wordCount": 44
+  },
+  {
+    "number": 15,
+    "title": "It's an iterative process Your assistant",
+    "category": "Building",
+    "content": "\"It's an iterative process. Your assistant gets smarter as you learn what it needs.\"\n— Kris Krug\n\nMarketing Angle: Growth mindset. Learning together with your tools.",
+    "preview": "\"It's an iterative process. Your assistant gets smarter as you learn what it needs.\"",
+    "wordCount": 26
+  },
+  {
+    "number": 16,
+    "title": "You're essentially having AI research for",
+    "category": "Building",
+    "content": "\"You're essentially having AI research for your AI.\"\n— Jeanette, Cohort 7 Student\n\nContext: Realizing you can use AI research tools to build knowledge bases\nMarketing Angle: Meta-level thinking. Tools building tools.",
+    "preview": "\"You're essentially having AI research for your AI.\"",
+    "wordCount": 32
+  },
+  {
+    "number": 17,
+    "title": "It can look really good You",
+    "category": "Quality & Validation",
+    "content": "\"It can *look* really good. You can say, 'Wow, that looks great.' But in reality, we don't yet know who the target viewer is, what they care about, why they need to be here.\"\n— Maya Bruck, Cohort 7 Student\n\nContext: Critical observation about AI-generated work\nMarketing Angle: We teach critical evaluation, not blind acceptance.",
+    "preview": "\"It can *look* really good. You can say, 'Wow, that looks great.' But in reality, we don't yet know who the target view…",
+    "wordCount": 55
+  },
+  {
+    "number": 18,
+    "title": "One of the things that has",
+    "category": "Quality & Validation",
+    "content": "\"One of the things that has been most powerful for me is getting it in front of users and usability—like humans—and testing it early.\"\n— Maya Bruck\n\nMarketing Angle: Human judgment remains essential. AI accelerates, humans validate.",
+    "preview": "\"One of the things that has been most powerful for me is getting it in front of users and usability—like humans—and tes…",
+    "wordCount": 37
+  },
+  {
+    "number": 19,
+    "title": "The big breakthrough is my ability",
+    "category": "Development Compression",
+    "content": "\"The big breakthrough is my ability to conceptualize my ideas or my clients' ideas rapidly so that we could iterate on them in the short term. I can do on a one-hour phone call what used to take two weeks.\"\n— Kris Krug\n\nContext: Explaining vibe coding value proposition\nMarketing Angle: Dramatic time compression. Weeks to hours.",
+    "preview": "\"The big breakthrough is my ability to conceptualize my ideas or my clients' ideas rapidly so that we could iterate on…",
+    "wordCount": 57
+  },
+  {
+    "number": 20,
+    "title": "Someone can call me up and",
+    "category": "Development Compression",
+    "content": "\"Someone can call me up and be like, 'I want a landing page for this thing.' I can pop up in three vibe coding tools. We can together come to an understanding of what they say they think they want. By the end of the call we can start clicking through different interfaces.\"\n— Kris Krug\n\nMarketing Angle: Real-time client collaboration. Faster feedback loops.",
+    "preview": "\"Someone can call me up and be like, 'I want a landing page for this thing.' I can pop up in three vibe coding tools. W…",
+    "wordCount": 64
+  },
+  {
+    "number": 21,
+    "title": "I can iterate on something three",
+    "category": "Development Compression",
+    "content": "\"I can iterate on something three or five or eight times in a two-week cycle instead of one or two times with a larger team.\"\n— Kris Krug\n\nMarketing Angle: More iterations = better outcomes. Speed enables quality.",
+    "preview": "\"I can iterate on something three or five or eight times in a two-week cycle instead of one or two times with a larger…",
+    "wordCount": 38
+  },
+  {
+    "number": 22,
+    "title": "Holy crap here's my whole site",
+    "category": "Development Compression",
+    "content": "\"Holy crap, here's my whole site. Like my business exists now from one Instagram post.\"\n— Student reaction to demo\n\nMarketing Angle: The \"holy shit\" moment. From nothing to something in minutes.",
+    "preview": "\"Holy crap, here's my whole site. Like my business exists now from one Instagram post.\"",
+    "wordCount": 32
+  },
+  {
+    "number": 23,
+    "title": "I bet you would save 90",
+    "category": "Development Compression",
+    "content": "\"I bet you would save 90% on web development cost by doing this process first.\"\n— Peter Murphy\n\nMarketing Angle: Economic impact. ROI that's hard to ignore.",
+    "preview": "\"I bet you would save 90% on web development cost by doing this process first.\"",
+    "wordCount": 27
+  },
+  {
+    "number": 24,
+    "title": "I mean we wouldn't have even",
+    "category": "Development Compression",
+    "content": "\"I mean, we wouldn't have even needed a web developer at all. We could have just paid 20 bucks and gotten that thing going.\"\n— Julie, Cohort 7 Student\n\nContext: Reaction to building her cooking school website during class\nMarketing Angle: Real student outcome. Immediate practical value.",
+    "preview": "\"I mean, we wouldn't have even needed a web developer at all. We could have just paid 20 bucks and gotten that thing go…",
+    "wordCount": 47
+  },
+  {
+    "number": 25,
+    "title": "I took Canada's 485-page budget and",
+    "category": "Data Visualization",
+    "content": "\"I took Canada's 485-page budget and dropped it into a vibe coding tool and was like, 'I want to click around and understand this thing better.' All of a sudden, you get this website with charts and diagrams and sorts and ranks.\"\n— Kris Krug\n\nMarketing Angle: Transform impenetrable documents into interactive tools.",
+    "preview": "\"I took Canada's 485-page budget and dropped it into a vibe coding tool and was like, 'I want to click around and under…",
+    "wordCount": 53
+  },
+  {
+    "number": 26,
+    "title": "We've got all these impenetrable documents",
+    "category": "Data Visualization",
+    "content": "\"We've got all these impenetrable documents floating through our lives that are meant for machine reading. Those things—we can unlock their power.\"\n— Kris Krug\n\nMarketing Angle: Democratizing data. Making complexity accessible.",
+    "preview": "\"We've got all these impenetrable documents floating through our lives that are meant for machine reading. Those things…",
+    "wordCount": 32
+  },
+  {
+    "number": 27,
+    "title": "The result for the client is",
+    "category": "Client Work",
+    "content": "\"The result for the client is they get a way better product and experience in the end because I can iterate on something three or five or eight times.\"\n— Kris Krug\n\nMarketing Angle: Client outcomes improve. Better service, not just faster.",
+    "preview": "\"The result for the client is they get a way better product and experience in the end because I can iterate on somethin…",
+    "wordCount": 42
+  },
+  {
+    "number": 28,
+    "title": "My Elder Tide assistant for Ethos",
+    "category": "Client Work",
+    "content": "\"My Elder Tide assistant for Ethos Labs is a perfect example. When I'm working on their projects, I open that assistant, and it already knows their brand voice, their knowledge base, their goals.\"\n— Kris Krug\n\nContext: Live demonstration of professional custom GPT\nMarketing Angle: Real client work, not toy examples.",
+    "preview": "\"My Elder Tide assistant for Ethos Labs is a perfect example. When I'm working on their projects, I open that assistant…",
+    "wordCount": 51
+  },
+  {
+    "number": 29,
+    "title": "Being an AI expert is not",
+    "category": "Career Transformation",
+    "content": "\"Being an AI expert is not optional for anyone who wants to stay employed.\"\n— Ode (Vox Media), PR & Comms student\n\nMarketing Angle: Career imperative. Future-proofing.",
+    "preview": "\"Being an AI expert is not optional for anyone who wants to stay employed.\"",
+    "wordCount": 27
+  },
+  {
+    "number": 30,
+    "title": "AI doesn't replace creative professionals AI",
+    "category": "Career Transformation",
+    "content": "\"AI doesn't replace creative professionals. AI replaces creative professionals who don't use AI.\"\n— Course Philosophy\n\nMarketing Angle: The displacement isn't human vs. machine—it's adapted vs. not.",
+    "preview": "\"AI doesn't replace creative professionals. AI replaces creative professionals who don't use AI.\"",
+    "wordCount": 27
+  },
+  {
+    "number": 31,
+    "title": "Built a Notion dashboard with databases",
+    "category": "Jeanette (Indigenomics)",
+    "content": "\"Built a Notion dashboard with databases, PowerPoint outlines, timeline tools, and scraped the Indigenomics website into a knowledge base—all in one session.\"\n— Jeanette's Session 3 Progress\n\nMarketing Angle: Tangible output. Students build real tools.",
+    "preview": "\"Built a Notion dashboard with databases, PowerPoint outlines, timeline tools, and scraped the Indigenomics website int…",
+    "wordCount": 35
+  },
+  {
+    "number": 32,
+    "title": "I spent a whole day in",
+    "category": "Julie (Journalist)",
+    "content": "\"I spent a whole day in the garden with my cyborg identifying plants.\"\n— Julie\n\nMarketing Angle: AI integration into daily life, not just work.",
+    "preview": "\"I spent a whole day in the garden with my cyborg identifying plants.\"",
+    "wordCount": 25
+  },
+  {
+    "number": 33,
+    "title": "If you knew how long it",
+    "category": "Julie (Journalist)",
+    "content": "\"If you knew how long it took us to get to this point in our actual website, you would just... I mean it just feels ridiculous.\"\n— Julie\n\nContext: After building cooking school website in 20 minutes during class\nMarketing Angle: The before/after contrast. Time investment comparison.",
+    "preview": "\"If you knew how long it took us to get to this point in our actual website, you would just... I mean it just feels rid…",
+    "wordCount": 47
+  },
+  {
+    "number": 34,
+    "title": "Incredible that he's able to slice",
+    "category": "Dimitri (Real Estate)",
+    "content": "\"Incredible that he's able to slice and dice that data with those sliders right there.\"\n— Kris Krug on Dimitri's dashboard\n\nContext: Student built interactive real estate intelligence dashboard\nMarketing Angle: Complex professional tools built during the course.",
+    "preview": "\"Incredible that he's able to slice and dice that data with those sliders right there.\"",
+    "wordCount": 38
+  },
+  {
+    "number": 35,
+    "title": "The most important thing at that",
+    "category": "Maya (Producer)",
+    "content": "\"The most important thing at that point is to run it by humans and make sure that what the AI spit out is actually the right thing.\"\n— Maya Bruck\n\nMarketing Angle: Students contribute insights, not just receive them.",
+    "preview": "\"The most important thing at that point is to run it by humans and make sure that what the AI spit out is actually the…",
+    "wordCount": 39
+  },
+  {
+    "number": 36,
+    "title": "3 production tools live globally at",
+    "category": "Rob Rosenberg (Paramount+)",
+    "content": "\"3 production tools live globally at Paramount+.\"\n— Alumni outcome\n\nMarketing Angle: Enterprise-level deployment from course learning.",
+    "preview": "\"3 production tools live globally at Paramount+.\"",
+    "wordCount": 17
+  },
+  {
+    "number": 37,
+    "title": "Went from job hunting to launching",
+    "category": "Armin Layegh (TalentNow)",
+    "content": "\"Went from job hunting to launching TalentNow with 3 paying clients.\"\n— Alumni outcome\n\nMarketing Angle: Career pivot. Business creation from course.",
+    "preview": "\"Went from job hunting to launching TalentNow with 3 paying clients.\"",
+    "wordCount": 22
+  },
+  {
+    "number": 38,
+    "title": "Landed dream job using the AI",
+    "category": "Timothy Kertanis (Freelancer)",
+    "content": "\"Landed dream job using the AI system he built during the course.\"\n— Alumni outcome\n\nMarketing Angle: Job acquisition through demonstrated AI capability.",
+    "preview": "\"Landed dream job using the AI system he built during the course.\"",
+    "wordCount": 23
+  },
+  {
+    "number": 39,
+    "title": "17-year-old who founded the Surrey AI",
+    "category": "Matthew Schwartzman (Community Builder)",
+    "content": "\"17-year-old who founded the Surrey AI community—8+ meetups, 30+ monthly attendees.\"\n— Alumni outcome\n\nMarketing Angle: Age is irrelevant. Impact is what matters.",
+    "preview": "\"17-year-old who founded the Surrey AI community—8+ meetups, 30+ monthly attendees.\"",
+    "wordCount": 23
+  },
+  {
+    "number": 40,
+    "title": "Analyzed 109 Indigenous court cases for",
+    "category": "Lawrence Alexander (Research)",
+    "content": "\"Analyzed 109 Indigenous court cases for Indigenomics Institute using course tools.\"\n— Alumni outcome\n\nMarketing Angle: Research at scale. Institutional impact.",
+    "preview": "\"Analyzed 109 Indigenous court cases for Indigenomics Institute using course tools.\"",
+    "wordCount": 21
+  },
+  {
+    "number": 41,
+    "title": "Content Coaching Community Not just oneall",
+    "category": "the Three Pillars",
+    "content": "\"Content, Coaching, Community. Not just one—all three. That's what makes this different.\"\n— Course Structure\n\nMarketing Angle: Holistic approach. Not another online course.",
+    "preview": "\"Content, Coaching, Community. Not just one—all three. That's what makes this different.\"",
+    "wordCount": 23
+  },
+  {
+    "number": 42,
+    "title": "We teach frameworks not tools POP",
+    "category": "Framework-First Learning",
+    "content": "\"We teach frameworks, not tools. POP works in ChatGPT, Claude, Gemini—any platform.\"\n— Course Philosophy\n\nMarketing Angle: Future-proof learning. Principles over platforms.",
+    "preview": "\"We teach frameworks, not tools. POP works in ChatGPT, Claude, Gemini—any platform.\"",
+    "wordCount": 22
+  },
+  {
+    "number": 43,
+    "title": "75 of AI experts are optimistic",
+    "category": "Expert Optimism",
+    "content": "\"75% of AI experts are optimistic about the technology. The more you know, the less you fear.\"\n— Course Teaching\n\nMarketing Angle: Knowledge reduces anxiety. Education as antidote.",
+    "preview": "\"75% of AI experts are optimistic about the technology. The more you know, the less you fear.\"",
+    "wordCount": 28
+  },
+  {
+    "number": 44,
+    "title": "We start with WHO you want",
+    "category": "Identity-First Learning",
+    "content": "\"We start with WHO you want to become, not WHAT tools exist.\"\n— Course Philosophy\n\nMarketing Angle: Identity transformation, not just skill acquisition.",
+    "preview": "\"We start with WHO you want to become, not WHAT tools exist.\"",
+    "wordCount": 23
+  },
+  {
+    "number": 45,
+    "title": "By Week 4 you have a",
+    "category": "Production Focus",
+    "content": "\"By Week 4, you have a working assistant. By Week 6, you have a production-ready tool.\"\n— Course Timeline\n\nMarketing Angle: Build real things, not just learn concepts.",
+    "preview": "\"By Week 4, you have a working assistant. By Week 6, you have a production-ready tool.\"",
+    "wordCount": 28
+  },
+  {
+    "number": 46,
+    "title": "Don't be scared It's fun",
+    "category": "Humor & Memorable Lines",
+    "content": "\"Don't be scared. It's fun.\"\n— Guy, Cohort 7 Student\n\nContext: Encouraging classmates during vibe coding exercise\nMarketing Angle: Permission to experiment. Playful approach.",
+    "preview": "\"Don't be scared. It's fun.\"",
+    "wordCount": 24
+  },
+  {
+    "number": 47,
+    "title": "Every time we tune in and",
+    "category": "Humor & Memorable Lines",
+    "content": "\"Every time we tune in and it's like one of us has played with a new thing that just came out and then the other one and all the students are like, 'Well, there goes work today again.'\"\n— Maya Bruck\n\nContext: On the pace of AI tool releases\nMarketing Angle: Relatable. We're all figuring this out together.",
+    "preview": "\"Every time we tune in and it's like one of us has played with a new thing that just came out and then the other one an…",
+    "wordCount": 58
+  },
+  {
+    "number": 48,
+    "title": "I've failed us as an organization",
+    "category": "Humor & Memorable Lines",
+    "content": "\"I've failed us as an organization. My main goal this year was to build downloadable digital content from our courses and here we are. It's December 1st.\" [Then builds course module in one morning]\n— Kris Krug\n\nMarketing Angle: Self-deprecating honesty + dramatic turnaround story.",
+    "preview": "\"I've failed us as an organization. My main goal this year was to build downloadable digital content from our courses a…",
+    "wordCount": 45
+  },
+  {
+    "number": 49,
+    "title": "Hey pass your own quiz",
+    "category": "Humor & Memorable Lines",
+    "content": "\"Hey, pass your own quiz.\"\n— Kris Krug to himself\n\nContext: After building a course quiz that asked about his own teachings\nMarketing Angle: Meta humor. Authentic personality.",
+    "preview": "\"Hey, pass your own quiz.\"",
+    "wordCount": 28
+  },
+  {
+    "number": 50,
+    "title": "Most effective capstone videos just screen-share",
+    "category": "Capstone & Outcomes",
+    "content": "\"Most effective capstone videos just screen-share the actual project, walk through the functionality, and explain the problem it solves.\"\n— Capstone Instructions\n\nMarketing Angle: No slides required. Show what you built.",
+    "preview": "\"Most effective capstone videos just screen-share the actual project, walk through the functionality, and explain the p…",
+    "wordCount": 31
+  },
+  {
+    "number": 51,
+    "title": "People that make these little videos",
+    "category": "Capstone & Outcomes",
+    "content": "\"People that make these little videos get a lot more utility out of them. I've seen them post them to their blog, share with colleagues, post on their YouTubes.\"\n— Peter Murphy\n\nMarketing Angle: Capstone becomes portfolio piece, not just class assignment.",
+    "preview": "\"People that make these little videos get a lot more utility out of them. I've seen them post them to their blog, share…",
+    "wordCount": 42
+  },
+  {
+    "number": 52,
+    "title": "80 of students gravitate toward assistantswhich",
+    "category": "Capstone & Outcomes",
+    "content": "\"80% of students gravitate toward assistants—which aligns with the guidance that 80% of the time, a well-built assistant is enough.\"\n— Cohort 7 Pattern\n\nMarketing Angle: We teach restraint, not complexity for its own sake.",
+    "preview": "\"80% of students gravitate toward assistants—which aligns with the guidance that 80% of the time, a well-built assistan…",
+    "wordCount": 35
+  },
+  {
+    "number": 53,
+    "title": "Moodboard 15 minutes with AI Then",
+    "category": "Creative Workflow",
+    "content": "\"Moodboard: 15 minutes with AI. Then you curate. That's where taste lives.\"\n— Kris Krüg\n\nMarketing Angle: Shows AI + taste working together.",
+    "preview": "\"Moodboard: 15 minutes with AI. Then you curate. That's where taste lives.\"",
+    "wordCount": 23
+  },
+  {
+    "number": 54,
+    "title": "AI generates options You practice curation",
+    "category": "Creative Workflow",
+    "content": "\"AI generates options. You practice curation. Your skills sharpen, not atrophy.\"\n— Course Philosophy\n\nMarketing Angle: Addresses skill-loss fear directly.",
+    "preview": "\"AI generates options. You practice curation. Your skills sharpen, not atrophy.\"",
+    "wordCount": 20
+  },
+  {
+    "number": 55,
+    "title": "I used to spend 10 hours",
+    "category": "Creative Workflow",
+    "content": "\"I used to spend 10 hours on production. Now I spend 10 hours on creative direction.\"\n— Cohort Graduate\n\nMarketing Angle: Time reallocation, not replacement.",
+    "preview": "\"I used to spend 10 hours on production. Now I spend 10 hours on creative direction.\"",
+    "wordCount": 25
+  },
+  {
+    "number": 56,
+    "title": "Is using Photoshop cheating Is using",
+    "category": "Objection Handling",
+    "content": "\"Is using Photoshop cheating? Is using a camera cheating? Tools extend craft.\"\n— Kris Krüg\n\nMarketing Angle: Reframes AI as just another tool.",
+    "preview": "\"Is using Photoshop cheating? Is using a camera cheating? Tools extend craft.\"",
+    "wordCount": 23
+  },
+  {
+    "number": 57,
+    "title": "AI handles grunt work You practice",
+    "category": "Objection Handling",
+    "content": "\"AI handles grunt work. You practice judgment. AI generates options. You practice curation.\"\n— Course Philosophy\n\nMarketing Angle: Clear division of labor.",
+    "preview": "\"AI handles grunt work. You practice judgment. AI generates options. You practice curation.\"",
+    "wordCount": 22
+  },
+  {
+    "number": 58,
+    "title": "You bring the soul AI brings",
+    "category": "Objection Handling",
+    "content": "\"You bring the soul. AI brings the speed.\"\n— Kris Krüg\n\nMarketing Angle: Concise, memorable, shareable.",
+    "preview": "\"You bring the soul. AI brings the speed.\"",
+    "wordCount": 16
+  },
+  {
+    "number": 59,
+    "title": "My portfolio got better after the",
+    "category": "Results & Proof",
+    "content": "\"My portfolio got better after the cohort. Not because AI made the work. Because AI freed up time for polish.\"\n— Cohort Graduate\n\nMarketing Angle: Quality upgrade through time savings.",
+    "preview": "\"My portfolio got better after the cohort. Not because AI made the work. Because AI freed up time for polish.\"",
+    "wordCount": 30
+  },
+  {
+    "number": 60,
+    "title": "The client said our concepting phase",
+    "category": "Results & Proof",
+    "content": "\"The client said our concepting phase was the fastest they'd ever seen.\"\n— Cohort Graduate\n\nMarketing Angle: Client-visible speed improvement.",
+    "preview": "\"The client said our concepting phase was the fastest they'd ever seen.\"",
+    "wordCount": 20
+  },
+  {
+    "number": 61,
+    "title": "AI freed up my time for",
+    "category": "Results & Proof",
+    "content": "\"AI freed up my time for the creative decisions that actually matter. My work is more distinctive, not less.\"\n— Sven, Cohort Graduate\n\nMarketing Angle: Addresses \"everything will look the same\" fear.",
+    "preview": "\"AI freed up my time for the creative decisions that actually matter. My work is more distinctive, not less.\"",
+    "wordCount": 32
+  },
+  {
+    "number": 62,
+    "title": "If you can describe your creative",
+    "category": "Results & Proof",
+    "content": "\"If you can describe your creative vision in words, you can use AI. The skill is articulation, not coding.\"\n— Kris Krüg\n\nMarketing Angle: Removes technical barrier for creatives.",
+    "preview": "\"If you can describe your creative vision in words, you can use AI. The skill is articulation, not coding.\"",
+    "wordCount": 29
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "all-programs": {
+    "name": "All Programs (Cohort Roundup)",
+    "description": "Cross-program cohort marketing in Kris voice (no hype): one-post roundups, pick-your-track, proof, CTAs",
+    "color": "cyan",
+    "icon": "fa fa-layer-group",
+    "status": "ready"
+  },
+  "creative-pros": {
+    "name": "Creative Professionals",
+    "description": "AI training for designers, photographers, videographers, and creative directors",
+    "color": "purple",
+    "icon": "fa fa-palette",
+    "status": "ready"
+  },
+  "pr-comms": {
+    "name": "PR & Communications",
+    "description": "AI training for PR professionals, communications managers, and media relations",
+    "color": "blue",
+    "icon": "fa fa-bullhorn",
+    "status": "ready"
+  },
+  "sales-leaders": {
+    "name": "Sales Leaders",
+    "description": "AI training for sales managers, SDRs, and revenue teams",
+    "color": "green",
+    "icon": "fa fa-chart-line",
+    "status": "ready"
+  },
+  "journalists": {
+    "name": "Journalists",
+    "description": "AI training for journalists, editors, and media professionals",
+    "color": "orange",
+    "icon": "fa fa-newspaper",
+    "status": "ready"
+  },
+  "healthcare-pros": {
+    "name": "Healthcare Professionals",
+    "description": "AI training for healthcare administrators, medical staff, and clinical professionals",
+    "color": "red",
+    "icon": "fa fa-heart-pulse",
+    "status": "in-development"
+  },
+  "hr-pros": {
+    "name": "HR Professionals",
+    "description": "AI training for HR managers, talent acquisition, and people operations teams",
+    "color": "teal",
+    "icon": "fa fa-users",
+    "status": "in-development"
+  },
+  "legal-pros": {
+    "name": "Legal Professionals",
+    "description": "AI training for lawyers, paralegals, legal assistants, and compliance officers",
+    "color": "indigo",
+    "icon": "fa fa-gavel",
+    "status": "in-development"
+  }
+}

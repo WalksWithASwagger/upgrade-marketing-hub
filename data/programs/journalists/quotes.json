@@ -1,0 +1,514 @@
+[
+  {
+    "number": 1,
+    "title": "AI isn't replacing journalists It's replacing",
+    "category": "THE JOURNALIST'S AI OPPORTUNITY",
+    "content": "\"AI isn't replacing journalists. It's replacing journalists who don't use AI.\"\n— Kris Krug\n\nContext: Opening hook for recruitment campaigns",
+    "preview": "\"AI isn't replacing journalists. It's replacing journalists who don't use AI.\"",
+    "wordCount": 20
+  },
+  {
+    "number": 2,
+    "title": "The best journalists have always been",
+    "category": "THE JOURNALIST'S AI OPPORTUNITY",
+    "content": "\"The best journalists have always been information processors. AI just made you faster at processing.\"\n— Shane Gibson\n\nMarketing Angle: Connects AI to existing journalistic strengths",
+    "preview": "\"The best journalists have always been information processors. AI just made you faster at processing.\"",
+    "wordCount": 26
+  },
+  {
+    "number": 3,
+    "title": "When everyone can access the same",
+    "category": "THE JOURNALIST'S AI OPPORTUNITY",
+    "content": "\"When everyone can access the same information instantly, context becomes the only competitive advantage.\"\n— Kris Krug\n\nContext: Emphasizes human editorial judgment over raw data access",
+    "preview": "\"When everyone can access the same information instantly, context becomes the only competitive advantage.\"",
+    "wordCount": 26
+  },
+  {
+    "number": 4,
+    "title": "Your sources aren't going away Your",
+    "category": "THE JOURNALIST'S AI OPPORTUNITY",
+    "content": "\"Your sources aren't going away. Your expertise isn't going away. Your speed just doubled.\"\n— Shane Gibson\n\nMarketing Angle: Addresses job security fears directly",
+    "preview": "\"Your sources aren't going away. Your expertise isn't going away. Your speed just doubled.\"",
+    "wordCount": 24
+  },
+  {
+    "number": 5,
+    "title": "The journalists who thrive in 2025",
+    "category": "THE JOURNALIST'S AI OPPORTUNITY",
+    "content": "\"The journalists who thrive in 2025 aren't the fastest typists. They're the fastest thinkers with AI assistants.\"\n— Kris Krug\n\nContext: Reframes value from mechanical speed to intellectual speed",
+    "preview": "\"The journalists who thrive in 2025 aren't the fastest typists. They're the fastest thinkers with AI assistants.\"",
+    "wordCount": 29
+  },
+  {
+    "number": 6,
+    "title": "Every major newsroom is using AI",
+    "category": "THE JOURNALIST'S AI OPPORTUNITY",
+    "content": "\"Every major newsroom is using AI. The question is whether you'll learn it there or bring it with you.\"\n— Shane Gibson\n\nMarketing Angle: Creates urgency around industry adoption",
+    "preview": "\"Every major newsroom is using AI. The question is whether you'll learn it there or bring it with you.\"",
+    "wordCount": 29
+  },
+  {
+    "number": 7,
+    "title": "I used to spend 4 hours",
+    "category": "THE JOURNALIST'S AI OPPORTUNITY",
+    "content": "\"I used to spend 4 hours on background research. Now I spend 30 minutes—and it's more comprehensive.\"\n— AI Upgrade Graduate\n\nContext: Concrete time savings testimonial",
+    "preview": "\"I used to spend 4 hours on background research. Now I spend 30 minutes—and it's more comprehensive.\"",
+    "wordCount": 26
+  },
+  {
+    "number": 8,
+    "title": "The story is still everything AI",
+    "category": "THE JOURNALIST'S AI OPPORTUNITY",
+    "content": "\"The story is still everything. AI just helps you find it faster, fact-check it better, and publish it sooner.\"\n— Kris Krug\n\nMarketing Angle: Reinforces core journalistic values",
+    "preview": "\"The story is still everything. AI just helps you find it faster, fact-check it better, and publish it sooner.\"",
+    "wordCount": 28
+  },
+  {
+    "number": 9,
+    "title": "AI doesn't replace investigative instincts It",
+    "category": "RESEARCH & INVESTIGATION",
+    "content": "\"AI doesn't replace investigative instincts. It supercharges them.\"\n— Kris Krug\n\nContext: For investigative journalism angle",
+    "preview": "\"AI doesn't replace investigative instincts. It supercharges them.\"",
+    "wordCount": 16
+  },
+  {
+    "number": 10,
+    "title": "Imagine cross-referencing 10000 documents in the",
+    "category": "RESEARCH & INVESTIGATION",
+    "content": "\"Imagine cross-referencing 10,000 documents in the time it takes to drink coffee. That's AI-augmented investigation.\"\n— Shane Gibson\n\nMarketing Angle: Scale of research transformation",
+    "preview": "\"Imagine cross-referencing 10,000 documents in the time it takes to drink coffee. That's AI-augmented investigation.\"",
+    "wordCount": 24
+  },
+  {
+    "number": 11,
+    "title": "The Watergate reporters had months You",
+    "category": "RESEARCH & INVESTIGATION",
+    "content": "\"The Watergate reporters had months. You have hours. AI made that possible.\"\n— Kris Krug\n\nContext: Historical comparison that resonates with journalists",
+    "preview": "\"The Watergate reporters had months. You have hours. AI made that possible.\"",
+    "wordCount": 22
+  },
+  {
+    "number": 12,
+    "title": "Your hunches are still crucial AI",
+    "category": "RESEARCH & INVESTIGATION",
+    "content": "\"Your hunches are still crucial. AI just validates them in minutes instead of weeks.\"\n— Shane Gibson\n\nMarketing Angle: Preserves journalist intuition as central",
+    "preview": "\"Your hunches are still crucial. AI just validates them in minutes instead of weeks.\"",
+    "wordCount": 24
+  },
+  {
+    "number": 13,
+    "title": "Pattern recognition across thousands of public",
+    "category": "RESEARCH & INVESTIGATION",
+    "content": "\"Pattern recognition across thousands of public records? Used to take a team. Now takes a prompt.\"\n— AI Upgrade Graduate\n\nContext: Document analysis capability",
+    "preview": "\"Pattern recognition across thousands of public records? Used to take a team. Now takes a prompt.\"",
+    "wordCount": 24
+  },
+  {
+    "number": 14,
+    "title": "I found three story angles in",
+    "category": "RESEARCH & INVESTIGATION",
+    "content": "\"I found three story angles in financial filings that I would have missed without AI analysis.\"\n— AI Upgrade Graduate\n\nContext: Specific investigative win",
+    "preview": "\"I found three story angles in financial filings that I would have missed without AI analysis.\"",
+    "wordCount": 24
+  },
+  {
+    "number": 15,
+    "title": "AI doesn't break stories Journalists break",
+    "category": "RESEARCH & INVESTIGATION",
+    "content": "\"AI doesn't break stories. Journalists break stories. AI helps you break them first.\"\n— Kris Krug\n\nMarketing Angle: Competitive advantage framing",
+    "preview": "\"AI doesn't break stories. Journalists break stories. AI helps you break them first.\"",
+    "wordCount": 21
+  },
+  {
+    "number": 16,
+    "title": "The same documents that took my",
+    "category": "RESEARCH & INVESTIGATION",
+    "content": "\"The same documents that took my competitor two weeks to analyze? I processed them overnight.\"\n— AI Upgrade Graduate\n\nContext: Speed advantage testimonial",
+    "preview": "\"The same documents that took my competitor two weeks to analyze? I processed them overnight.\"",
+    "wordCount": 23
+  },
+  {
+    "number": 17,
+    "title": "First drafts aren't precious Getting to",
+    "category": "WRITING & EDITING",
+    "content": "\"First drafts aren't precious. Getting to the final draft faster is.\"\n— Kris Krug\n\nContext: Overcomes resistance to AI writing assistance",
+    "preview": "\"First drafts aren't precious. Getting to the final draft faster is.\"",
+    "wordCount": 21
+  },
+  {
+    "number": 18,
+    "title": "AI doesn't write your stories It",
+    "category": "WRITING & EDITING",
+    "content": "\"AI doesn't write your stories. It writes your starting points.\"\n— Shane Gibson\n\nMarketing Angle: Positions AI as drafting tool, not replacement",
+    "preview": "\"AI doesn't write your stories. It writes your starting points.\"",
+    "wordCount": 22
+  },
+  {
+    "number": 19,
+    "title": "Every journalist has written a headline",
+    "category": "WRITING & EDITING",
+    "content": "\"Every journalist has written a headline that could have been better. AI gives you 20 options in seconds.\"\n— Kris Krug\n\nContext: Headline optimization use case",
+    "preview": "\"Every journalist has written a headline that could have been better. AI gives you 20 options in seconds.\"",
+    "wordCount": 26
+  },
+  {
+    "number": 20,
+    "title": "I still write every word AI",
+    "category": "WRITING & EDITING",
+    "content": "\"I still write every word. AI just helps me write them twice as fast.\"\n— AI Upgrade Graduate\n\nContext: Personal workflow testimonial",
+    "preview": "\"I still write every word. AI just helps me write them twice as fast.\"",
+    "wordCount": 22
+  },
+  {
+    "number": 21,
+    "title": "Your voice is yours AI just",
+    "category": "WRITING & EDITING",
+    "content": "\"Your voice is yours. AI just helps you express it more efficiently.\"\n— Shane Gibson\n\nMarketing Angle: Addresses authenticity concerns",
+    "preview": "\"Your voice is yours. AI just helps you express it more efficiently.\"",
+    "wordCount": 20
+  },
+  {
+    "number": 22,
+    "title": "Copy editing that used to take",
+    "category": "WRITING & EDITING",
+    "content": "\"Copy editing that used to take an hour now takes five minutes. The time goes back to reporting.\"\n— AI Upgrade Graduate\n\nContext: Efficiency gain in editing workflow",
+    "preview": "\"Copy editing that used to take an hour now takes five minutes. The time goes back to reporting.\"",
+    "wordCount": 28
+  },
+  {
+    "number": 23,
+    "title": "AI caught three factual inconsistencies in",
+    "category": "WRITING & EDITING",
+    "content": "\"AI caught three factual inconsistencies in my draft that I would have published. That's not replacement. That's partnership.\"\n— AI Upgrade Graduate\n\nContext: Quality improvement testimonial",
+    "preview": "\"AI caught three factual inconsistencies in my draft that I would have published. That's not replacement. That's partne…",
+    "wordCount": 26
+  },
+  {
+    "number": 24,
+    "title": "The blank page problem Solved AI",
+    "category": "WRITING & EDITING",
+    "content": "\"The blank page problem? Solved. AI gives you something to react to.\"\n— Kris Krug\n\nMarketing Angle: Writer's block solution",
+    "preview": "\"The blank page problem? Solved. AI gives you something to react to.\"",
+    "wordCount": 20
+  },
+  {
+    "number": 25,
+    "title": "AI can't cultivate sources But it",
+    "category": "SOURCE MANAGEMENT & INTERVIEWING",
+    "content": "\"AI can't cultivate sources. But it can help you prepare for source conversations better than ever.\"\n— Shane Gibson\n\nContext: Preserves human relationship element",
+    "preview": "\"AI can't cultivate sources. But it can help you prepare for source conversations better than ever.\"",
+    "wordCount": 24
+  },
+  {
+    "number": 26,
+    "title": "I walked into that interview knowing",
+    "category": "SOURCE MANAGEMENT & INTERVIEWING",
+    "content": "\"I walked into that interview knowing things about the company the CEO didn't expect me to know.\"\n— AI Upgrade Graduate\n\nContext: Preparation advantage testimonial",
+    "preview": "\"I walked into that interview knowing things about the company the CEO didn't expect me to know.\"",
+    "wordCount": 25
+  },
+  {
+    "number": 27,
+    "title": "AI analyzes 50 previous interviews with",
+    "category": "SOURCE MANAGEMENT & INTERVIEWING",
+    "content": "\"AI analyzes 50 previous interviews with your source. You walk in with context no one else has.\"\n— Kris Krug\n\nMarketing Angle: Interview preparation capability",
+    "preview": "\"AI analyzes 50 previous interviews with your source. You walk in with context no one else has.\"",
+    "wordCount": 25
+  },
+  {
+    "number": 28,
+    "title": "Transcription used to be the worst",
+    "category": "SOURCE MANAGEMENT & INTERVIEWING",
+    "content": "\"Transcription used to be the worst part of journalism. AI made it instantaneous.\"\n— AI Upgrade Graduate\n\nContext: Workflow improvement",
+    "preview": "\"Transcription used to be the worst part of journalism. AI made it instantaneous.\"",
+    "wordCount": 20
+  },
+  {
+    "number": 29,
+    "title": "Same interview AI summary highlights three",
+    "category": "SOURCE MANAGEMENT & INTERVIEWING",
+    "content": "\"Same interview. AI summary highlights three story angles I wouldn't have noticed in real-time.\"\n— AI Upgrade Graduate\n\nContext: Post-interview analysis capability",
+    "preview": "\"Same interview. AI summary highlights three story angles I wouldn't have noticed in real-time.\"",
+    "wordCount": 22
+  },
+  {
+    "number": 30,
+    "title": "Your sources trust you not your",
+    "category": "SOURCE MANAGEMENT & INTERVIEWING",
+    "content": "\"Your sources trust you, not your tools. But better tools make you more trustworthy with their time.\"\n— Shane Gibson\n\nMarketing Angle: Relationship-first messaging",
+    "preview": "\"Your sources trust you, not your tools. But better tools make you more trustworthy with their time.\"",
+    "wordCount": 24
+  },
+  {
+    "number": 31,
+    "title": "I used to take notes frantically",
+    "category": "SOURCE MANAGEMENT & INTERVIEWING",
+    "content": "\"I used to take notes frantically. Now I listen fully. AI handles the transcript.\"\n— AI Upgrade Graduate\n\nContext: Presence and attention benefit",
+    "preview": "\"I used to take notes frantically. Now I listen fully. AI handles the transcript.\"",
+    "wordCount": 23
+  },
+  {
+    "number": 32,
+    "title": "Trust but verify AI helps you",
+    "category": "FACT-CHECKING & VERIFICATION",
+    "content": "\"Trust but verify. AI helps you verify at the speed of publication.\"\n— Kris Krug\n\nContext: Verification workflow",
+    "preview": "\"Trust but verify. AI helps you verify at the speed of publication.\"",
+    "wordCount": 18
+  },
+  {
+    "number": 33,
+    "title": "AI found the primary source for",
+    "category": "FACT-CHECKING & VERIFICATION",
+    "content": "\"AI found the primary source for a claim I almost published without checking. That's career-saving.\"\n— AI Upgrade Graduate\n\nContext: Fact-checking testimonial",
+    "preview": "\"AI found the primary source for a claim I almost published without checking. That's career-saving.\"",
+    "wordCount": 22
+  },
+  {
+    "number": 34,
+    "title": "Cross-referencing claims across multiple databases used",
+    "category": "FACT-CHECKING & VERIFICATION",
+    "content": "\"Cross-referencing claims across multiple databases used to be a full-time job. Now it's a prompt.\"\n— Shane Gibson\n\nMarketing Angle: Scale of verification capability",
+    "preview": "\"Cross-referencing claims across multiple databases used to be a full-time job. Now it's a prompt.\"",
+    "wordCount": 24
+  },
+  {
+    "number": 35,
+    "title": "The misinformation landscape is overwhelming AI",
+    "category": "FACT-CHECKING & VERIFICATION",
+    "content": "\"The misinformation landscape is overwhelming. AI helps you navigate it systematically.\"\n— Kris Krug\n\nContext: Information environment framing",
+    "preview": "\"The misinformation landscape is overwhelming. AI helps you navigate it systematically.\"",
+    "wordCount": 18
+  },
+  {
+    "number": 36,
+    "title": "Every claim Every statistic Every quote",
+    "category": "FACT-CHECKING & VERIFICATION",
+    "content": "\"Every claim. Every statistic. Every quote. AI flags what needs checking and suggests where to check.\"\n— AI Upgrade Graduate\n\nContext: Systematic verification workflow",
+    "preview": "\"Every claim. Every statistic. Every quote. AI flags what needs checking and suggests where to check.\"",
+    "wordCount": 24
+  },
+  {
+    "number": 37,
+    "title": "AI won't catch lies Journalists catch",
+    "category": "FACT-CHECKING & VERIFICATION",
+    "content": "\"AI won't catch lies. Journalists catch lies. AI shows you where to look.\"\n— Shane Gibson\n\nMarketing Angle: Human judgment still central",
+    "preview": "\"AI won't catch lies. Journalists catch lies. AI shows you where to look.\"",
+    "wordCount": 22
+  },
+  {
+    "number": 38,
+    "title": "One interview One video Twelve pieces",
+    "category": "CONTENT MULTIPLICATION",
+    "content": "\"One interview. One video. Twelve pieces of content. That's journalism in 2025.\"\n— Kris Krug\n\nContext: Content atomization for journalists",
+    "preview": "\"One interview. One video. Twelve pieces of content. That's journalism in 2025.\"",
+    "wordCount": 20
+  },
+  {
+    "number": 39,
+    "title": "Your reporting is content Your newsletter",
+    "category": "CONTENT MULTIPLICATION",
+    "content": "\"Your reporting is content. Your newsletter is content. Your social posts are content. AI connects all three.\"\n— Shane Gibson\n\nMarketing Angle: Integrated content strategy",
+    "preview": "\"Your reporting is content. Your newsletter is content. Your social posts are content. AI connects all three.\"",
+    "wordCount": 25
+  },
+  {
+    "number": 40,
+    "title": "I turned one 3000-word feature into",
+    "category": "CONTENT MULTIPLICATION",
+    "content": "\"I turned one 3,000-word feature into a newsletter, five social posts, and a podcast outline. Same afternoon.\"\n— AI Upgrade Graduate\n\nContext: Personal productivity testimonial",
+    "preview": "\"I turned one 3,000-word feature into a newsletter, five social posts, and a podcast outline. Same afternoon.\"",
+    "wordCount": 25
+  },
+  {
+    "number": 41,
+    "title": "Journalists who only write articles are",
+    "category": "CONTENT MULTIPLICATION",
+    "content": "\"Journalists who only write articles are leaving 90% of their value on the table.\"\n— Kris Krug\n\nMarketing Angle: Opportunity cost framing",
+    "preview": "\"Journalists who only write articles are leaving 90% of their value on the table.\"",
+    "wordCount": 22
+  },
+  {
+    "number": 42,
+    "title": "Your beat knowledge is valuable AI",
+    "category": "CONTENT MULTIPLICATION",
+    "content": "\"Your beat knowledge is valuable. AI helps you monetize it across every platform.\"\n— Shane Gibson\n\nContext: Personal brand/monetization angle",
+    "preview": "\"Your beat knowledge is valuable. AI helps you monetize it across every platform.\"",
+    "wordCount": 20
+  },
+  {
+    "number": 43,
+    "title": "The newsletter game changed when I",
+    "category": "CONTENT MULTIPLICATION",
+    "content": "\"The newsletter game changed when I could turn one reporting session into two weeks of content.\"\n— AI Upgrade Graduate\n\nContext: Newsletter workflow testimonial",
+    "preview": "\"The newsletter game changed when I could turn one reporting session into two weeks of content.\"",
+    "wordCount": 24
+  },
+  {
+    "number": 44,
+    "title": "The journalists getting hired in 2025",
+    "category": "CAREER TRANSFORMATION",
+    "content": "\"The journalists getting hired in 2025 aren't just good writers. They're good with AI.\"\n— Kris Krug\n\nContext: Career development framing",
+    "preview": "\"The journalists getting hired in 2025 aren't just good writers. They're good with AI.\"",
+    "wordCount": 21
+  },
+  {
+    "number": 45,
+    "title": "Freelancers who master AI can compete",
+    "category": "CAREER TRANSFORMATION",
+    "content": "\"Freelancers who master AI can compete with full newsrooms.\"\n— Shane Gibson\n\nMarketing Angle: Freelancer empowerment",
+    "preview": "\"Freelancers who master AI can compete with full newsrooms.\"",
+    "wordCount": 16
+  },
+  {
+    "number": 46,
+    "title": "I went from one story a",
+    "category": "CAREER TRANSFORMATION",
+    "content": "\"I went from one story a week to three. Same hours. Better tools.\"\n— AI Upgrade Graduate\n\nContext: Output multiplication testimonial",
+    "preview": "\"I went from one story a week to three. Same hours. Better tools.\"",
+    "wordCount": 21
+  },
+  {
+    "number": 47,
+    "title": "Your byline is your brand AI",
+    "category": "CAREER TRANSFORMATION",
+    "content": "\"Your byline is your brand. AI helps you publish more of it, everywhere.\"\n— Kris Krug\n\nContext: Personal brand building",
+    "preview": "\"Your byline is your brand. AI helps you publish more of it, everywhere.\"",
+    "wordCount": 20
+  },
+  {
+    "number": 48,
+    "title": "The newsletter I launched after this",
+    "category": "CAREER TRANSFORMATION",
+    "content": "\"The newsletter I launched after this program has 2,000 subscribers and growing. AI handles 80% of the production.\"\n— AI Upgrade Graduate\n\nContext: Newsletter success story",
+    "preview": "\"The newsletter I launched after this program has 2,000 subscribers and growing. AI handles 80% of the production.\"",
+    "wordCount": 26
+  },
+  {
+    "number": 49,
+    "title": "Six weeks to learn tools that",
+    "category": "CAREER TRANSFORMATION",
+    "content": "\"Six weeks to learn tools that changed my entire workflow. Worth every hour.\"\n— AI Upgrade Graduate\n\nContext: Program value testimonial",
+    "preview": "\"Six weeks to learn tools that changed my entire workflow. Worth every hour.\"",
+    "wordCount": 21
+  },
+  {
+    "number": 50,
+    "title": "AI doesn't have ethics You do",
+    "category": "ETHICS & RESPONSIBILITY",
+    "content": "\"AI doesn't have ethics. You do. That's why journalists still matter.\"\n— Kris Krug\n\nContext: Ethics-first messaging",
+    "preview": "\"AI doesn't have ethics. You do. That's why journalists still matter.\"",
+    "wordCount": 17
+  },
+  {
+    "number": 51,
+    "title": "Every AI-assisted piece still carries your",
+    "category": "ETHICS & RESPONSIBILITY",
+    "content": "\"Every AI-assisted piece still carries your byline. That accountability is journalism.\"\n— Shane Gibson\n\nMarketing Angle: Professional responsibility framing",
+    "preview": "\"Every AI-assisted piece still carries your byline. That accountability is journalism.\"",
+    "wordCount": 19
+  },
+  {
+    "number": 52,
+    "title": "Use AI as a tool not",
+    "category": "ETHICS & RESPONSIBILITY",
+    "content": "\"Use AI as a tool, not a crutch. The judgment is still yours.\"\n— Kris Krug\n\nContext: Balanced use messaging",
+    "preview": "\"Use AI as a tool, not a crutch. The judgment is still yours.\"",
+    "wordCount": 20
+  },
+  {
+    "number": 53,
+    "title": "The public trusts journalists to verify",
+    "category": "ETHICS & RESPONSIBILITY",
+    "content": "\"The public trusts journalists to verify. AI helps you verify better. The trust relationship doesn't change.\"\n— Shane Gibson\n\nMarketing Angle: Trust preservation",
+    "preview": "\"The public trusts journalists to verify. AI helps you verify better. The trust relationship doesn't change.\"",
+    "wordCount": 23
+  },
+  {
+    "number": 54,
+    "title": "Disclosure matters If AI helped significantly",
+    "category": "ETHICS & RESPONSIBILITY",
+    "content": "\"Disclosure matters. If AI helped significantly, say so. Transparency is still the standard.\"\n— Kris Krug\n\nContext: Disclosure guidance",
+    "preview": "\"Disclosure matters. If AI helped significantly, say so. Transparency is still the standard.\"",
+    "wordCount": 19
+  },
+  {
+    "number": 55,
+    "title": "We don't ship AI outputs We",
+    "category": "ETHICS & RESPONSIBILITY",
+    "content": "\"We don't ship AI outputs. We ship verified outputs. Every claim gets checked.\"\n— Course Standard\n\nMarketing Angle: Addresses hallucination concern head-on.",
+    "preview": "\"We don't ship AI outputs. We ship verified outputs. Every claim gets checked.\"",
+    "wordCount": 22
+  },
+  {
+    "number": 56,
+    "title": "Speed without accuracy is worthless Accuracy",
+    "category": "ETHICS & RESPONSIBILITY",
+    "content": "\"Speed without accuracy is worthless. Accuracy without speed is a luxury. AI gives you both.\"\n— Kris Krüg\n\nMarketing Angle: Balances the speed/quality tension.",
+    "preview": "\"Speed without accuracy is worthless. Accuracy without speed is a luxury. AI gives you both.\"",
+    "wordCount": 24
+  },
+  {
+    "number": 57,
+    "title": "AI doesn't replace sources AI makes",
+    "category": "ETHICS & RESPONSIBILITY",
+    "content": "\"AI doesn't replace sources. AI makes you better prepared for sources.\"\n— Course Philosophy\n\nMarketing Angle: Clarifies the human element remains central.",
+    "preview": "\"AI doesn't replace sources. AI makes you better prepared for sources.\"",
+    "wordCount": 22
+  },
+  {
+    "number": 58,
+    "title": "The math is simple fewer people",
+    "category": "ETHICS & RESPONSIBILITY",
+    "content": "\"The math is simple: fewer people doing more work need better tools.\"\n— Kris Krüg\n\nMarketing Angle: Speaks to newsroom reality.",
+    "preview": "\"The math is simple: fewer people doing more work need better tools.\"",
+    "wordCount": 21
+  },
+  {
+    "number": 59,
+    "title": "One journalist with AI tools a",
+    "category": "ETHICS & RESPONSIBILITY",
+    "content": "\"One journalist with AI tools ≈ a small team without them.\"\n— Indie Journalism Observation\n\nMarketing Angle: Appeal to freelancers and independent journalists.",
+    "preview": "\"One journalist with AI tools ≈ a small team without them.\"",
+    "wordCount": 23
+  },
+  {
+    "number": 60,
+    "title": "From threatened to essential That's the",
+    "category": "ETHICS & RESPONSIBILITY",
+    "content": "\"From threatened to essential. That's the arc we see in every cohort.\"\n— Kris Krüg\n\nMarketing Angle: Transformation story in one line.",
+    "preview": "\"From threatened to essential. That's the arc we see in every cohort.\"",
+    "wordCount": 22
+  },
+  {
+    "number": 61,
+    "title": "A story that used to take",
+    "category": "ETHICS & RESPONSIBILITY",
+    "content": "\"A story that used to take 3 days? I did it in 3 hours. Same quality. Better sourced.\"\n— Cohort Graduate\n\nMarketing Angle: Concrete proof of time savings.",
+    "preview": "\"A story that used to take 3 days? I did it in 3 hours. Same quality. Better sourced.\"",
+    "wordCount": 28
+  },
+  {
+    "number": 62,
+    "title": "I processed 500 pages of court",
+    "category": "ETHICS & RESPONSIBILITY",
+    "content": "\"I processed 500 pages of court documents in 2 hours. Found the story lead on page 347.\"\n— Investigative Journalist, Cohort Graduate\n\nMarketing Angle: Dramatic, specific, believable.",
+    "preview": "\"I processed 500 pages of court documents in 2 hours. Found the story lead on page 347.\"",
+    "wordCount": 27
+  },
+  {
+    "number": 63,
+    "title": "My editor asked me to train",
+    "category": "ETHICS & RESPONSIBILITY",
+    "content": "\"My editor asked me to train the rest of the team.\"\n— Cohort Graduate\n\nMarketing Angle: Career advancement proof.",
+    "preview": "\"My editor asked me to train the rest of the team.\"",
+    "wordCount": 19
+  },
+  {
+    "number": 64,
+    "title": "Better prep better questions better journalism",
+    "category": "ETHICS & RESPONSIBILITY",
+    "content": "\"Better prep → better questions → better journalism. That's the upgrade.\"\n— Kris Krüg\n\nMarketing Angle: Simple, clear value prop.",
+    "preview": "\"Better prep → better questions → better journalism. That's the upgrade.\"",
+    "wordCount": 20
+  }
+]
